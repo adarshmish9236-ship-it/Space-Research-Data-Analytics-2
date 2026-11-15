@@ -50,7 +50,17 @@ def test_pig_scripts_exist():
         assert os.path.getsize(script_path) > 200, f"Script {script_name} is suspiciously small"
 
 
-def test_pig_silver_lakehouse_outputs():
+@pytest.fixture
+def require_docker_namenode():
+    try:
+        res = subprocess.run(["docker", "ps", "--filter", "name=hadoop-namenode", "--format", "{{.Names}}"],
+                             capture_output=True, text=True, timeout=5)
+        if "hadoop-namenode" not in res.stdout:
+            pytest.skip("Docker container 'hadoop-namenode' is not running on this host; skipping live Pig HDFS tests.")
+    except Exception as e:
+        pytest.skip(f"Docker is not available ({e}); skipping live Pig HDFS tests.")
+
+def test_pig_silver_lakehouse_outputs(require_docker_namenode):
     """Verify that all 9 Silver Lakehouse destinations exist in HDFS."""
     for domain in DOMAINS:
         silver_path = f"/orbitalytics/silver/pig_{domain}"
@@ -65,14 +75,14 @@ def test_pig_silver_lakehouse_outputs():
         assert count > 0, f"Silver dataset {domain} has 0 records!"
 
 
-def test_pig_quarantine_lakehouse_outputs():
+def test_pig_quarantine_lakehouse_outputs(require_docker_namenode):
     """Verify that all 9 Quarantine Lakehouse directories exist in HDFS."""
     for domain in DOMAINS:
         quarantine_path = f"/orbitalytics/quarantine/pig_{domain}_rejected"
         assert hdfs_path_exists(quarantine_path), f"Quarantine path does not exist: {quarantine_path}"
 
 
-def test_pig_gold_analytics_marts():
+def test_pig_gold_analytics_marts(require_docker_namenode):
     """Verify key Gold Lakehouse analytics aggregations exist and contain data."""
     gold_marts = [
         "/orbitalytics/gold/pig_mission_analytics",

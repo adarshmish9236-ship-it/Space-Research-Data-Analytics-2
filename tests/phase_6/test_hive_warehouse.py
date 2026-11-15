@@ -15,6 +15,16 @@ RESULTS_DIR = os.path.join(PROJECT_ROOT, "docs", "phase_6", "results")
 DOCKER_CONTAINER = "hive-server"
 HIVE_JDBC = "jdbc:hive2://localhost:10000/orbitalytics"
 
+@pytest.fixture(autouse=True)
+def require_docker_hiveserver():
+    try:
+        res = subprocess.run(["docker", "ps", "--filter", "name=hive-server", "--format", "{{.Names}}"],
+                             capture_output=True, text=True, timeout=5)
+        if "hive-server" not in res.stdout:
+            pytest.skip("Docker container 'hive-server' is not running on this host; skipping live Beeline Hive tests.")
+    except Exception as e:
+        pytest.skip(f"Docker is not available ({e}); skipping live Beeline Hive tests.")
+
 def run_beeline(query, output_format="csv2"):
     cmd = (
         f'docker exec {DOCKER_CONTAINER} beeline '

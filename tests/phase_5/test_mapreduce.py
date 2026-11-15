@@ -77,7 +77,17 @@ def test_mapreduce_execution_manifest():
         assert job["mapreduce_job_id"].startswith("job_"), f"Invalid MR job ID: {job['mapreduce_job_id']}"
         assert job["output_record_count"] > 0, f"Job {job['name']} output 0 records"
 
-def test_mapreduce_gold_hdfs_outputs():
+@pytest.fixture
+def require_docker_namenode():
+    try:
+        res = subprocess.run(["docker", "ps", "--filter", "name=hadoop-namenode", "--format", "{{.Names}}"],
+                             capture_output=True, text=True, timeout=5)
+        if "hadoop-namenode" not in res.stdout:
+            pytest.skip("Docker container 'hadoop-namenode' is not running on this host; skipping live MapReduce HDFS tests.")
+    except Exception as e:
+        pytest.skip(f"Docker is not available ({e}); skipping live MapReduce HDFS tests.")
+
+def test_mapreduce_gold_hdfs_outputs(require_docker_namenode):
     """Verify all 7 Gold HDFS aggregation paths exist, contain _SUCCESS, and non-empty part files."""
     gold_dirs = [
         "/orbitalytics/gold/mr_equipment_demand_by_component",
@@ -115,7 +125,7 @@ def test_mapreduce_combiner_optimization():
     assert c05["combine_input_records"] > 0, "Job 05 combiner input was 0"
     assert c05["combine_output_records"] < c05["combine_input_records"], "Job 05 combiner did not reduce records"
 
-def test_multi_reducer_partitioning():
+def test_multi_reducer_partitioning(require_docker_namenode):
     """Verify jobs ran with multi-reducer parallelism (2 partitions generated)."""
     with open(MANIFEST_PATH, "r", encoding="utf-8") as f:
         manifest = json.load(f)

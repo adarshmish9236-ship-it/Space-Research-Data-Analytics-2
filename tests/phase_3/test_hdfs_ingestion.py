@@ -16,10 +16,26 @@ from modules.phase_3.format_converter import FormatConverter
 
 @pytest.fixture(scope="module")
 def hdfs():
+    import subprocess
+    try:
+        res = subprocess.run(["docker", "ps", "--filter", "name=hadoop-namenode", "--format", "{{.Names}}"],
+                             capture_output=True, text=True, timeout=5)
+        if "hadoop-namenode" not in res.stdout:
+            pytest.skip("Docker container 'hadoop-namenode' is not running on this host; skipping live HDFS container tests.")
+    except Exception as e:
+        pytest.skip(f"Docker is not available ({e}); skipping live HDFS container tests.")
     return HDFSClient()
 
 @pytest.fixture(scope="module")
 def manifest():
+    import subprocess
+    try:
+        res = subprocess.run(["docker", "ps", "--filter", "name=hadoop-namenode", "--format", "{{.Names}}"],
+                             capture_output=True, text=True, timeout=5)
+        if "hadoop-namenode" not in res.stdout:
+            pytest.skip("Docker container 'hadoop-namenode' is not running on this host; skipping live HDFS container tests.")
+    except Exception as e:
+        pytest.skip(f"Docker is not available ({e}); skipping live HDFS container tests.")
     return IngestionManifest()
 
 def test_hdfs_directory_structure(hdfs):
