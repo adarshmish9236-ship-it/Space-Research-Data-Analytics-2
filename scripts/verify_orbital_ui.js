@@ -12,11 +12,14 @@ global.document = {
         value: '',
         textContent: '',
         style: {},
+        clientWidth: 800,
+        clientHeight: 520,
         parentElement: {
           getBoundingClientRect: () => ({ width: 800, height: 520 })
         },
         getContext: (type) => ({ id: id, type: type, clearRect: () => {}, beginPath: () => {}, arc: () => {}, stroke: () => {}, fill: () => {}, ellipse: () => {} }),
         innerHTML: '',
+        appendChild: () => {},
         classList: {
           _classes: new Set(),
           add: function(...cls) { cls.forEach(c => this._classes.add(c)); },
@@ -26,7 +29,8 @@ global.document = {
         querySelectorAll: () => [],
         closest: () => null,
         setAttribute: (k, v) => {},
-        getAttribute: (k) => null
+        getAttribute: (k) => null,
+        checked: true
       };
     }
     return mockElements[id];
@@ -34,8 +38,10 @@ global.document = {
 };
 global.window = {
   addEventListener: () => {},
+  devicePixelRatio: 1,
   CESIUM_BASE_URL: ''
 };
+global.performance = global.performance || { now: () => Date.now() };
 
 class MockChart {
   constructor(ctx, config) {
@@ -47,6 +53,75 @@ class MockChart {
 }
 global.Chart = MockChart;
 global.lucide = { createIcons: () => {} };
+
+// ---- Mock THREE.js for Node.js test environment ----
+const mockVec3 = (x,y,z) => ({
+  x:x||0, y:y||0, z:z||0,
+  set: function(){ return this; },
+  copy: function(v){ if(v){ this.x = v.x; this.y = v.y; this.z = v.z; } return this; },
+  add: function(){ return this; },
+  clone: function(){ return mockVec3(this.x,this.y,this.z); },
+  normalize: function(){ return this; },
+  multiplyScalar: function(){ return this; },
+  lerp: function(){ return this; },
+  lerpVectors: function(){ return this; }
+});
+const mockMat = (opts) => ({
+  uniforms: (opts&&opts.uniforms) ? opts.uniforms : {
+    time:{value:0},
+    sunDirection:{value:mockVec3(1,0,0)}
+  }
+});
+const mockMesh = (mat) => ({
+  position: mockVec3(), rotation:{y:0}, scale:{setScalar:()=>{}},
+  visible:true, lookAt:()=>{}, userData:{}, material: mat||mockMat()
+});
+global.THREE = {
+  WebGLRenderer: function(o) {
+    return {
+      setPixelRatio:()=>{}, setSize:()=>{}, setClearColor:()=>{},
+      shadowMap:{}, toneMapping:0, toneMappingExposure:1,
+      domElement:{ addEventListener:()=>{}, getBoundingClientRect:()=>({left:0,top:0,width:800,height:520}) },
+      capabilities:{ getMaxAnisotropy:()=>16 }, render:()=>{}
+    };
+  },
+  Scene: function(){ return { add:()=>{}, remove:()=>{} }; },
+  Group: function(){ const g = mockMesh(); g.add = ()=>{}; return g; },
+  PerspectiveCamera: function(a,b,c,d){
+    return { position:mockVec3(0,0,22), aspect:1, updateProjectionMatrix:()=>{} };
+  },
+  Vector3: function(x,y,z){ return mockVec3(x,y,z); },
+  Color: function(r,g,b){ return {r:r||0,g:g||0,b:b||0}; },
+  DirectionalLight: function(c,i){ return { position:mockVec3(50,30,20), intensity:i||1 }; },
+  AmbientLight: function(){ return {}; },
+  SphereGeometry: function(){ return {}; },
+  BoxGeometry: function(){ return {}; },
+  PlaneGeometry: function(){ return {}; },
+  BufferGeometry: function(){ return { setAttribute:()=>{}, setFromPoints:()=>({}) }; },
+  BufferAttribute: function(){ return {}; },
+  Points: function(){ return { visible:true }; },
+  PointsMaterial: function(){ return {}; },
+  LineBasicMaterial: function(){ return {}; },
+  LineLoop: function(){ return { visible:true }; },
+  Line: function(){ return { visible:true }; },
+  Mesh: function(geo,mat){ return mockMesh(mat); },
+  MeshStandardMaterial: function(){ return {}; },
+  MeshLambertMaterial: function(){ return {}; },
+  MeshBasicMaterial: function(){ return {}; },
+  ShaderMaterial: function(opts){ return mockMat(opts); },
+  TextureLoader: function(){ return { load:(url,cb)=>{ if(cb) setTimeout(()=>cb({anisotropy:1}),0); } }; },
+  Raycaster: function(){ return { setFromCamera:()=>{}, intersectObjects:()=>[] }; },
+  OrbitControls: function(cam,el){
+    return {
+      enableDamping:true, dampingFactor:0.07, rotateSpeed:0.4, zoomSpeed:0.7,
+      minDistance:7.5, maxDistance:60, enablePan:false,
+      target:mockVec3(), update:()=>{}, addEventListener:()=>{}
+    };
+  },
+  NormalBlending:1, AdditiveBlending:2, ACESFilmicToneMapping:1,
+  FrontSide:0, BackSide:1, DoubleSide:2,
+  Vector2: function(x,y){ return {x:x||0, y:y||0}; }
+};
 
 // Extract JS block from frontend/index.html
 const jsStart = html.indexOf('<script>');
@@ -139,6 +214,7 @@ async function verifyOrbitalSuite() {
   console.log('\n====================================================');
   console.log('ALL ORBITAL & 3D EARTH TESTS PASSED (8/8)!');
   console.log('====================================================\n');
+  process.exit(0);
 }
 
 verifyOrbitalSuite().catch(err => {

@@ -10,9 +10,10 @@
   <script src="https://unpkg.com/lucide@latest"></script>
   <!-- Chart.js -->
   <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-  <!-- CesiumJS Photorealistic 3D Earth Engine -->
-  <link href="https://cdn.jsdelivr.net/npm/cesium@1.114.0/Build/Cesium/Widgets/widgets.css" rel="stylesheet">
-  <script src="https://cdn.jsdelivr.net/npm/cesium@1.114.0/Build/Cesium/Cesium.js"></script>
+  <!-- Three.js r128 — Photorealistic 3D Earth Engine (served locally for offline capability) -->
+  <script src="/assets/three.min.js"></script>
+  <!-- Three.js OrbitControls -->
+  <script src="/assets/OrbitControls.js"></script>
   <!-- satellite.js SGP4 Astrodynamics Library -->
   <script src="https://cdnjs.cloudflare.com/ajax/libs/satellite.js/5.0.0/satellite.min.js"></script>
 <style>
@@ -23,19 +24,6 @@
       color: #E2E8F0;
     }
     .mono-font { font-family: 'JetBrains Mono', monospace; }
-    /* Cesium Aerospace Dark HUD overrides */
-    .cesium-viewer {
-      font-family: 'JetBrains Mono', monospace !important;
-      background: #060913 !important;
-    }
-    .cesium-viewer-bottom {
-      display: none !important;
-    }
-    .cesium-widget, .cesium-widget canvas {
-      width: 100% !important;
-      height: 100% !important;
-      outline: none !important;
-    }
     .glass-card {
       background: rgba(15, 23, 42, 0.78);
       backdrop-filter: blur(14px);
@@ -4844,135 +4832,541 @@
     }
 
     // ========================================================
-    // 17. ADVANCED 3D PHOTOREALISTIC EARTH & SGP4 ORBITAL ENGINE
+    // 17. PHOTOREALISTIC THREE.JS EARTH & SGP4 ORBITAL ENGINE
     // ========================================================
-    let cesiumViewer = null;
+
+    // --- Global State ---
     let orbitalSatellites = [];
     let orbitalTrajectories = [];
-    let satEntityMap = new Map();
-    let trajEntityMap = new Map();
-    let selectedNoradId = 25544; // Default target: ISS
+    let selectedNoradId = 25544;
     let activeOrbitFilter = 'ALL';
     let isOrbitSimPlaying = true;
     let orbitSimSpeedMultiplier = 1;
     let simCurrentDate = new Date();
     let isGlobeFullscreen = false;
     let isFollowingSatellite = false;
-    let globeAnimId = null;
     let lastAnimTimestamp = performance.now();
+
+    // Three.js scene references
+    let threeRenderer = null;
+    let threeScene = null;
+    let threeCamera = null;
+    let threeControls = null;
+    let earthMesh = null;
+    let cloudMesh = null;
+    let atmosphereMesh = null;
+    let sunLight = null;
+    let threeAnimId = null;
+    let threeIsInit = false;
+    let autoRotating = true;
+    let userInteracting = false;
+    let autoRotateTimeout = null;
+
+    // Satellite Three.js objects
+    let satMeshMap = new Map();      // noradId -> { mesh, labelEl, orbitLine }
+    let satOrbitLineMap = new Map(); // noradId -> THREE.Line
+    let satLabelMap = new Map();     // noradId -> DOM element (CSS2D-style)
 
     const reqAnim = (typeof requestAnimationFrame !== 'undefined') ? requestAnimationFrame : (cb => setTimeout(cb, 16));
     const cancelAnim = (typeof cancelAnimationFrame !== 'undefined') ? cancelAnimationFrame : (id => clearTimeout(id));
 
-    // Colors by Orbital Regime
     const ORBIT_COLORS = {
-      LEO: { hex: '#38BDF8', cesium: (typeof Cesium !== 'undefined') ? Cesium.Color.fromCssColorString('#38BDF8') : null },
-      SSO: { hex: '#34D399', cesium: (typeof Cesium !== 'undefined') ? Cesium.Color.fromCssColorString('#34D399') : null },
-      MEO: { hex: '#C084FC', cesium: (typeof Cesium !== 'undefined') ? Cesium.Color.fromCssColorString('#C084FC') : null },
-      GEO: { hex: '#FBBF24', cesium: (typeof Cesium !== 'undefined') ? Cesium.Color.fromCssColorString('#FBBF24') : null }
+      LEO: { hex: '#38BDF8' },
+      SSO: { hex: '#34D399' },
+      MEO: { hex: '#C084FC' },
+      GEO: { hex: '#FBBF24' }
     };
 
+    // Earth radius in scene units (km scale - 1 unit = 1000km)
+    const EARTH_RADIUS = 6.371; // scene units
+
+    // ----------------------------------------------------------------
+    // Shader source for Fresnel atmospheric glow
+    // ----------------------------------------------------------------
+    const ATMOS_VERT = `
+      varying vec3 vNormal;
+      varying vec3 vPosition;
+      void main() {
+        vNormal = normalize(normalMatrix * normal);
+        vPosition = (modelMatrix * vec4(position, 1.0)).xyz;
+        gl_Position = projectionMatrix * modelViewMatrix * vec4(position, 1.0);
+      }
+    `;
+    const ATMOS_FRAG = `
+      uniform vec3 glowColor;
+      uniform float coeff;
+      uniform float power;
+      uniform vec3 sunDirection;
+      varying vec3 vNormal;
+      varying vec3 vPosition;
+      void main() {
+        vec3 normal = normalize(vNormal);
+        vec3 viewDir = normalize(cameraPosition - vPosition);
+        float rim = 1.0 - clamp(dot(viewDir, normal), 0.0, 1.0);
+        float sunDot = max(dot(normal, normalize(sunDirection)), 0.0);
+        float glow = coeff * pow(rim, power) * (0.4 + 0.6 * sunDot);
+        gl_FragColor = vec4(glowColor, glow);
+      }
+    `;
+
+    // ----------------------------------------------------------------
+    // Earth surface shader — day/night blending with city lights
+    // ----------------------------------------------------------------
+    const EARTH_VERT = `
+      varying vec2 vUv;
+      varying vec3 vNormal;
+      varying vec3 vPosition;
+      void main() {
+        vUv = uv;
+        vNormal = normalize(normalMatrix * normal);
+        vPosition = (modelMatrix * vec4(position, 1.0)).xyz;
+        gl_Position = projectionMatrix * modelViewMatrix * vec4(position, 1.0);
+      }
+    `;
+    const EARTH_FRAG = `
+      uniform sampler2D dayTexture;
+      uniform sampler2D nightTexture;
+      uniform sampler2D cloudsTexture;
+      uniform sampler2D specularMap;
+      uniform sampler2D normalMap;
+      uniform vec3 sunDirection;
+      uniform float time;
+      varying vec2 vUv;
+      varying vec3 vNormal;
+      varying vec3 vPosition;
+
+      void main() {
+        vec3 norm = normalize(vNormal);
+        vec3 sunDir = normalize(sunDirection);
+
+        // Day/night blending
+        float dotSun = dot(norm, sunDir);
+        float dayFactor = smoothstep(-0.12, 0.25, dotSun);
+        float nightFactor = 1.0 - smoothstep(-0.15, 0.1, dotSun);
+
+        vec4 dayColor = texture2D(dayTexture, vUv);
+        vec4 nightColor = texture2D(nightTexture, vUv);
+        vec4 cloudColor = texture2D(cloudsTexture, vUv + vec2(time * 0.00008, 0.0));
+        float specSample = texture2D(specularMap, vUv).r;
+
+        // Specular highlight on ocean
+        vec3 viewDir = normalize(cameraPosition - vPosition);
+        vec3 halfDir = normalize(sunDir + viewDir);
+        float spec = pow(max(dot(norm, halfDir), 0.0), 32.0) * specSample * dayFactor;
+
+        // Cloud blending (white clouds over day side, dim on night)
+        float cloudAlpha = cloudColor.r * 0.88;
+        vec3 dayBlend = mix(dayColor.rgb, vec3(1.0), cloudAlpha * dayFactor);
+        vec3 nightBlend = mix(nightColor.rgb * 0.9, vec3(0.0), cloudAlpha);
+
+        vec3 finalColor = mix(nightBlend, dayBlend, dayFactor);
+        finalColor += vec3(spec * 0.7, spec * 0.75, spec * 0.6);
+
+        // Ambient on dark side
+        finalColor += nightColor.rgb * nightFactor * 0.6;
+
+        gl_FragColor = vec4(finalColor, 1.0);
+      }
+    `;
+
+    // ----------------------------------------------------------------
+    // Convert geo (lat°, lon°, alt km) to Three.js world coords
+    // ----------------------------------------------------------------
+    function latLonAltToXYZ(lat, lon, altKm) {
+      const phi   = (90 - lat) * Math.PI / 180;
+      const theta = (lon + 180) * Math.PI / 180;
+      const r = EARTH_RADIUS + altKm / 1000;
+      return new THREE.Vector3(
+        -r * Math.sin(phi) * Math.cos(theta),
+         r * Math.cos(phi),
+         r * Math.sin(phi) * Math.sin(theta)
+      );
+    }
+
+    // ----------------------------------------------------------------
+    // Build starfield
+    // ----------------------------------------------------------------
+    function buildStarfield() {
+      const geo = new THREE.BufferGeometry();
+      const count = 6000;
+      const positions = new Float32Array(count * 3);
+      for (let i = 0; i < count * 3; i++) {
+        positions[i] = (Math.random() - 0.5) * 2000;
+      }
+      geo.setAttribute('position', new THREE.BufferAttribute(positions, 3));
+      const mat = new THREE.PointsMaterial({ color: 0xffffff, size: 0.5, sizeAttenuation: true, transparent: true, opacity: 0.85 });
+      return new THREE.Points(geo, mat);
+    }
+
+    // ----------------------------------------------------------------
+    // Build Walker-delta orbital ring for visual (reference image match)
+    // ----------------------------------------------------------------
+    function buildWalkerRing(inclinationDeg, raan, color, radiusScene) {
+      const points = [];
+      const inc = inclinationDeg * Math.PI / 180;
+      const raanRad = raan * Math.PI / 180;
+      for (let i = 0; i <= 128; i++) {
+        const u = (i / 128) * 2 * Math.PI;
+        // Position in orbital plane
+        const x0 = radiusScene * Math.cos(u);
+        const y0 = radiusScene * Math.sin(u);
+        // Rotate by inclination around X axis then by RAAN around Z axis
+        const xr = x0 * Math.cos(raanRad) - y0 * Math.cos(inc) * Math.sin(raanRad);
+        const yr = x0 * Math.sin(raanRad) + y0 * Math.cos(inc) * Math.cos(raanRad);
+        const zr = y0 * Math.sin(inc);
+        points.push(new THREE.Vector3(xr, zr, yr));
+      }
+      const geo = new THREE.BufferGeometry().setFromPoints(points);
+      const mat = new THREE.LineBasicMaterial({ color: color, transparent: true, opacity: 0.55, linewidth: 1 });
+      return new THREE.LineLoop(geo, mat);
+    }
+
+    // ----------------------------------------------------------------
+    // Build 3D satellite mesh (body + solar panels)
+    // ----------------------------------------------------------------
+    function buildSatMesh(colorHex) {
+      const group = new THREE.Group();
+      // Satellite body
+      const bodyGeo = new THREE.BoxGeometry(0.015, 0.012, 0.012);
+      const bodyMat = new THREE.MeshStandardMaterial({ color: 0xd4d4d8, metalness: 0.8, roughness: 0.3 });
+      const body = new THREE.Mesh(bodyGeo, bodyMat);
+      group.add(body);
+      // Solar panels (left & right)
+      const panelGeo = new THREE.PlaneGeometry(0.045, 0.012);
+      const panelMat = new THREE.MeshStandardMaterial({ color: 0xf59e0b, metalness: 0.3, roughness: 0.5, side: THREE.DoubleSide });
+      const panelL = new THREE.Mesh(panelGeo, panelMat);
+      panelL.position.set(-0.03, 0, 0);
+      group.add(panelL);
+      const panelR = new THREE.Mesh(panelGeo, panelMat);
+      panelR.position.set(0.03, 0, 0);
+      group.add(panelR);
+      // Beacon glow point
+      const beaconGeo = new THREE.SphereGeometry(0.003, 6, 6);
+      const beaconMat = new THREE.MeshBasicMaterial({ color: colorHex });
+      const beacon = new THREE.Mesh(beaconGeo, beaconMat);
+      beacon.position.set(0, 0.009, 0);
+      group.add(beacon);
+      return group;
+    }
+
+    // ----------------------------------------------------------------
+    // Build orbit trajectory line from trajectory data
+    // ----------------------------------------------------------------
+    function buildOrbitLine(trajPoints, colorHex) {
+      if (!trajPoints || trajPoints.length < 2) return null;
+      const pts = trajPoints.map(pt => latLonAltToXYZ(pt.latitude, pt.longitude, pt.altitude_km));
+      const geo = new THREE.BufferGeometry().setFromPoints(pts);
+      const mat = new THREE.LineBasicMaterial({
+        color: colorHex,
+        transparent: true,
+        opacity: 0.45,
+        linewidth: 1
+      });
+      return new THREE.Line(geo, mat);
+    }
+
+    // ----------------------------------------------------------------
+    // MAIN INITIALISER — Photorealistic Three.js Earth
+    // ----------------------------------------------------------------
     function initOrbitGlobe() {
-      // 1. Maintain canvas context for audit and fallback
+      // Keep hidden canvas alive for audit tests
       const fallbackCanvas = document.getElementById('canvas-orbit-globe');
       if (fallbackCanvas) {
         const ctx = fallbackCanvas.getContext('2d');
-        if (ctx) {
-          // Initialize fallback rendering in case Cesium is not supported
-          initFallbackGlobe(fallbackCanvas, ctx);
+        if (ctx) initFallbackGlobe(fallbackCanvas, ctx);
+      }
+
+      // Check if THREE is available — guard with retry limit for Node.js test environments
+      if (typeof THREE === 'undefined') {
+        if (!initOrbitGlobe._retries) initOrbitGlobe._retries = 0;
+        initOrbitGlobe._retries++;
+        if (initOrbitGlobe._retries > 30) {
+          // Max retries reached (Node.js test env — THREE will never load)
+          console.warn('THREE.js unavailable after 30 retries — skipping 3D Earth init (test/offline env)');
+          return;
         }
-      }
-
-      // 2. In browser environments where Cesium is available, boot photorealistic 3D Earth
-      if (typeof Cesium !== 'undefined' && document.getElementById('cesium-container')) {
-        initCesium3DEarth();
-      }
-    }
-
-    async function initCesium3DEarth() {
-      if (cesiumViewer && !cesiumViewer.isDestroyed()) {
-        cesiumViewer.resize();
+        console.warn('THREE not loaded, deferring 300ms...');
+        setTimeout(initOrbitGlobe, 300);
         return;
       }
 
       const container = document.getElementById('cesium-container');
-      if (!container) return;
+      if (!container || threeIsInit) return;
+      threeIsInit = true;
 
-      const loadingEl = document.getElementById('cesium-loading');
+      // ---- Renderer ----
+      threeRenderer = new THREE.WebGLRenderer({ antialias: true, alpha: false, powerPreference: 'high-performance' });
+      threeRenderer.setPixelRatio(Math.min(window.devicePixelRatio, 2));
+      threeRenderer.setSize(container.clientWidth, container.clientHeight || 520);
+      threeRenderer.setClearColor(0x000000, 1);
+      threeRenderer.shadowMap.enabled = false;
+      threeRenderer.toneMapping = THREE.ACESFilmicToneMapping;
+      threeRenderer.toneMappingExposure = 1.1;
+      container.appendChild(threeRenderer.domElement);
 
-      try {
-        // High-resolution photorealistic satellite imagery provider (ESRI World Imagery)
-        const imagery = new Cesium.UrlTemplateImageryProvider({
-          url: 'https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}',
-          credit: 'Esri, Maxar, Earthstar Geographics, USDA FSA, USGS, Aerogrid, IGN, IGP, and GIS Community'
+      // ---- Scene ----
+      threeScene = new THREE.Scene();
+
+      // ---- Camera ----
+      const aspect = container.clientWidth / (container.clientHeight || 520);
+      threeCamera = new THREE.PerspectiveCamera(45, aspect, 0.1, 5000);
+      threeCamera.position.set(0, 0, 22);
+
+      // ---- OrbitControls ----
+      threeControls = new THREE.OrbitControls(threeCamera, threeRenderer.domElement);
+      threeControls.enableDamping = true;
+      threeControls.dampingFactor = 0.07;
+      threeControls.rotateSpeed = 0.4;
+      threeControls.zoomSpeed = 0.7;
+      threeControls.minDistance = 7.5;
+      threeControls.maxDistance = 60;
+      threeControls.enablePan = false;
+
+      // Auto-rotate resume after idle
+      threeControls.addEventListener('start', () => {
+        userInteracting = true;
+        clearTimeout(autoRotateTimeout);
+      });
+      threeControls.addEventListener('end', () => {
+        autoRotateTimeout = setTimeout(() => { userInteracting = false; }, 3000);
+      });
+
+      // ---- Sun Directional Light ----
+      sunLight = new THREE.DirectionalLight(0xfff8f0, 2.8);
+      sunLight.position.set(50, 30, 20);
+      threeScene.add(sunLight);
+
+      // ---- Ambient (very dim) ----
+      threeScene.add(new THREE.AmbientLight(0x111122, 0.4));
+
+      // ---- Starfield ----
+      threeScene.add(buildStarfield());
+
+      // ---- Texture Loader ----
+      const loader = new THREE.TextureLoader();
+
+      function loadTex(url, cb) {
+        loader.load(url, tex => { tex.anisotropy = threeRenderer.capabilities.getMaxAnisotropy(); cb(tex); },
+          undefined, () => { console.warn('Texture failed:', url); cb(null); });
+      }
+
+      // ---- Load all textures then build Earth ----
+      let texDay = null, texNight = null, texClouds = null, texSpec = null, texNormal = null;
+      let loadedCount = 0;
+      function onTexLoaded() {
+        loadedCount++;
+        if (loadedCount >= 5) buildEarth();
+      }
+
+      loadTex('/assets/textures/earth_day.jpg',      t => { texDay    = t; onTexLoaded(); });
+      loadTex('/assets/textures/earth_night.jpg',    t => { texNight  = t; onTexLoaded(); });
+      loadTex('/assets/textures/earth_clouds.png',   t => { texClouds = t; onTexLoaded(); });
+      loadTex('/assets/textures/earth_specular.jpg', t => { texSpec   = t; onTexLoaded(); });
+      loadTex('/assets/textures/earth_normal.jpg',   t => { texNormal = t; onTexLoaded(); });
+
+      function buildEarth() {
+        // ---- Earth Sphere ----
+        const earthGeo = new THREE.SphereGeometry(EARTH_RADIUS, 128, 64);
+
+        const earthMat = new THREE.ShaderMaterial({
+          uniforms: {
+            dayTexture:   { value: texDay },
+            nightTexture: { value: texNight },
+            cloudsTexture:{ value: texClouds },
+            specularMap:  { value: texSpec },
+            normalMap:    { value: texNormal },
+            sunDirection: { value: sunLight.position.clone().normalize() },
+            time:         { value: 0 }
+          },
+          vertexShader:   EARTH_VERT,
+          fragmentShader: EARTH_FRAG,
+          transparent: false
         });
 
-        cesiumViewer = new Cesium.Viewer('cesium-container', {
-          imageryProvider: imagery,
-          baseLayerPicker: false,
-          geocoder: false,
-          homeButton: false,
-          infoBox: false,
-          navigationHelpButton: false,
-          sceneModePicker: false,
-          timeline: false,
-          animation: false,
-          fullscreenButton: false,
-          selectionIndicator: false,
-          skyAtmosphere: new Cesium.SkyAtmosphere(),
-          skyBox: new Cesium.SkyBox({
-            sources: {
-              positiveX: 'https://cdn.jsdelivr.net/npm/cesium@1.114.0/Build/Cesium/Assets/Textures/SkyBox/tycho2t3_80_px.jpg',
-              negativeX: 'https://cdn.jsdelivr.net/npm/cesium@1.114.0/Build/Cesium/Assets/Textures/SkyBox/tycho2t3_80_mx.jpg',
-              positiveY: 'https://cdn.jsdelivr.net/npm/cesium@1.114.0/Build/Cesium/Assets/Textures/SkyBox/tycho2t3_80_py.jpg',
-              negativeY: 'https://cdn.jsdelivr.net/npm/cesium@1.114.0/Build/Cesium/Assets/Textures/SkyBox/tycho2t3_80_my.jpg',
-              positiveZ: 'https://cdn.jsdelivr.net/npm/cesium@1.114.0/Build/Cesium/Assets/Textures/SkyBox/tycho2t3_80_pz.jpg',
-              negativeZ: 'https://cdn.jsdelivr.net/npm/cesium@1.114.0/Build/Cesium/Assets/Textures/SkyBox/tycho2t3_80_mz.jpg'
-            }
-          })
+        earthMesh = new THREE.Mesh(earthGeo, earthMat);
+        threeScene.add(earthMesh);
+
+        // ---- Cloud Layer ----
+        const cloudGeo = new THREE.SphereGeometry(EARTH_RADIUS * 1.0045, 128, 64);
+        const cloudMat = new THREE.MeshLambertMaterial({
+          map: texClouds,
+          transparent: true,
+          opacity: 0.6,
+          alphaMap: texClouds,
+          depthWrite: false,
+          blending: THREE.NormalBlending
+        });
+        cloudMesh = new THREE.Mesh(cloudGeo, cloudMat);
+        threeScene.add(cloudMesh);
+
+        // ---- Atmosphere Glow Shell ----
+        const atmosGeo = new THREE.SphereGeometry(EARTH_RADIUS * 1.065, 64, 32);
+        const atmosMat = new THREE.ShaderMaterial({
+          uniforms: {
+            glowColor:    { value: new THREE.Color(0.35, 0.72, 1.0) },
+            coeff:        { value: 0.75 },
+            power:        { value: 3.5 },
+            sunDirection: { value: sunLight.position.clone().normalize() }
+          },
+          vertexShader:   ATMOS_VERT,
+          fragmentShader: ATMOS_FRAG,
+          side: THREE.FrontSide,
+          blending: THREE.AdditiveBlending,
+          transparent: true,
+          depthWrite: false
+        });
+        atmosphereMesh = new THREE.Mesh(atmosGeo, atmosMat);
+        threeScene.add(atmosphereMesh);
+
+        // ---- Inner atmos (back-face, thicker limb glow) ----
+        const atmosBackGeo = new THREE.SphereGeometry(EARTH_RADIUS * 1.1, 48, 24);
+        const atmosBackMat = new THREE.ShaderMaterial({
+          uniforms: {
+            glowColor:    { value: new THREE.Color(0.15, 0.5, 1.0) },
+            coeff:        { value: 0.5 },
+            power:        { value: 4.5 },
+            sunDirection: { value: sunLight.position.clone().normalize() }
+          },
+          vertexShader:   ATMOS_VERT,
+          fragmentShader: ATMOS_FRAG,
+          side: THREE.BackSide,
+          blending: THREE.AdditiveBlending,
+          transparent: true,
+          depthWrite: false
+        });
+        threeScene.add(new THREE.Mesh(atmosBackGeo, atmosBackMat));
+
+        // ---- Walker constellation rings (matching reference image) ----
+        const ringColor = 0x60a5fa;
+        const walkerRings = [
+          { inc: 53, raan: 0 }, { inc: 53, raan: 60 }, { inc: 53, raan: 120 },
+          { inc: 65, raan: 30 }, { inc: 65, raan: 90 },
+          { inc: 98, raan: 45 }, { inc: 98, raan: 135 }
+        ];
+        walkerRings.forEach(r => {
+          threeScene.add(buildWalkerRing(r.inc, r.raan, ringColor, EARTH_RADIUS * 1.12));
         });
 
-        const scene = cesiumViewer.scene;
-        const globe = scene.globe;
-
-        // Photorealistic atmosphere & day/night terminator lighting
-        globe.enableLighting = true;
-        globe.showAtmosphere = true;
-        globe.showGroundAtmosphere = true;
-        globe.atmosphereLightIntensity = 10.0;
-        globe.atmosphereRayleighCoefficient = new Cesium.Cartesian3(5.5e-6, 13.0e-6, 22.4e-6);
-
-        // Position camera to global overview
-        cesiumViewer.camera.setView({
-          destination: Cesium.Cartesian3.fromDegrees(18.0, 15.0, 18500000.0)
-        });
-
-        // Click handler to select satellite in 3D scene
-        const handler = new Cesium.ScreenSpaceEventHandler(scene.canvas);
-        handler.setInputAction(function (click) {
-          const picked = scene.pick(click.position);
-          if (Cesium.defined(picked) && picked.id && picked.id.noradId) {
-            selectSatelliteByNorad(picked.id.noradId);
-          }
-        }, Cesium.ScreenSpaceEventType.LEFT_CLICK);
-
-        // Fetch authentic satellite data from backend
-        await loadOrbitalTelemetry();
-
-        // Fade out loading indicator
+        // Hide loading overlay
+        const loadingEl = document.getElementById('cesium-loading');
         if (loadingEl) {
           loadingEl.style.opacity = '0';
-          setTimeout(() => { loadingEl.style.display = 'none'; }, 500);
+          setTimeout(() => loadingEl.style.display = 'none', 500);
         }
 
-        // Start real-time astrodynamics loop
-        startAstrodynamicsLoop();
-      } catch (err) {
-        console.error('Failed to boot Cesium 3D Earth:', err);
-        if (loadingEl) loadingEl.style.display = 'none';
+        // Start render loop & load satellite data
+        startThreeRenderLoop();
+        loadOrbitalTelemetry();
       }
+
+      // ---- Click to select satellite ----
+      const raycaster = new THREE.Raycaster();
+      const mouse = new THREE.Vector2();
+      threeRenderer.domElement.addEventListener('click', e => {
+        const rect = threeRenderer.domElement.getBoundingClientRect();
+        mouse.x =  ((e.clientX - rect.left) / rect.width)  * 2 - 1;
+        mouse.y = -((e.clientY - rect.top)  / rect.height) * 2 + 1;
+        raycaster.setFromCamera(mouse, threeCamera);
+        const meshes = [];
+        satMeshMap.forEach((obj, id) => { if (obj && obj.userData) meshes.push(obj); });
+        const hits = raycaster.intersectObjects(meshes, true);
+        if (hits.length > 0) {
+          let obj = hits[0].object;
+          while (obj.parent && !obj.userData.noradId) obj = obj.parent;
+          if (obj.userData.noradId) selectSatelliteByNorad(obj.userData.noradId);
+        }
+      });
+
+      // ---- Resize handler ----
+      window.addEventListener('resize', () => {
+        if (!threeRenderer || !threeCamera) return;
+        const w = container.clientWidth;
+        const h = container.clientHeight || 520;
+        threeCamera.aspect = w / h;
+        threeCamera.updateProjectionMatrix();
+        threeRenderer.setSize(w, h);
+      });
     }
 
+    // ----------------------------------------------------------------
+    // Three.js render loop
+    // ----------------------------------------------------------------
+    function startThreeRenderLoop() {
+      let clockTime = 0;
+      function frame(now) {
+        threeAnimId = reqAnim(frame);
+        const delta = (now - lastAnimTimestamp) / 1000;
+        lastAnimTimestamp = now;
+
+        if (isOrbitSimPlaying) {
+          simCurrentDate = new Date(simCurrentDate.getTime() + delta * 1000 * orbitSimSpeedMultiplier);
+        }
+
+        clockTime += delta;
+
+        // Rotate Earth & clouds (slow)
+        if (earthMesh) {
+          if (!isFollowingSatellite && !userInteracting && autoRotating) {
+            earthMesh.rotation.y += 0.00008;
+          }
+          earthMesh.material.uniforms.time.value = clockTime;
+          // Update sun direction uniform (normalize light pos)
+          earthMesh.material.uniforms.sunDirection.value.copy(sunLight.position).normalize();
+          if (atmosphereMesh) atmosphereMesh.material.uniforms.sunDirection.value.copy(earthMesh.material.uniforms.sunDirection.value);
+        }
+        if (cloudMesh) cloudMesh.rotation.y += 0.00012;
+
+        // UTC display
+        const utcEl = document.getElementById('globe-utc-display');
+        if (utcEl) utcEl.textContent = 'UTC ' + simCurrentDate.toUTCString().split(' ')[4];
+
+        // SGP4 satellite propagation
+        if (typeof satellite !== 'undefined' && satMeshMap.size > 0) {
+          propagateSatellites();
+        }
+
+        threeControls && threeControls.update();
+        threeRenderer && threeScene && threeCamera && threeRenderer.render(threeScene, threeCamera);
+      }
+      threeAnimId = reqAnim(frame);
+    }
+
+    // ----------------------------------------------------------------
+    // Propagate all satellites via SGP4
+    // ----------------------------------------------------------------
+    function propagateSatellites() {
+      const gstime = satellite.gstime(simCurrentDate);
+      satMeshMap.forEach((obj, id) => {
+        if (!obj || !obj.userData || !obj.userData.satrec) return;
+        const pv = satellite.propagate(obj.userData.satrec, simCurrentDate);
+        if (!pv || !pv.position || typeof pv.position.x !== 'number') return;
+        const geo = satellite.eciToGeodetic(pv.position, gstime);
+        const latDeg = geo.latitude  * 180 / Math.PI;
+        const lonDeg = geo.longitude * 180 / Math.PI;
+        const altKm  = geo.height;
+        const pos = latLonAltToXYZ(latDeg, lonDeg, altKm);
+        obj.position.copy(pos);
+        // Face satellite outward from Earth centre
+        obj.lookAt(0, 0, 0);
+
+        if (id === selectedNoradId) {
+          const vel = pv.velocity;
+          const spd = Math.sqrt(vel.x*vel.x + vel.y*vel.y + vel.z*vel.z);
+          setText('hud-altitude', `${altKm.toFixed(1)} km`);
+          setText('hud-velocity', `${spd.toFixed(2)} km/s`);
+          setText('hud-latlon', `${Math.abs(latDeg).toFixed(2)}°${latDeg >= 0 ? 'N' : 'S'}, ${Math.abs(lonDeg).toFixed(2)}°${lonDeg >= 0 ? 'E' : 'W'}`);
+          if (isFollowingSatellite) {
+            const camOffset = pos.clone().normalize().multiplyScalar(EARTH_RADIUS * 1.6);
+            threeCamera.position.lerp(pos.clone().add(camOffset), 0.03);
+            threeControls.target.lerp(pos, 0.05);
+          }
+        }
+      });
+    }
+
+    // ----------------------------------------------------------------
+    // Load orbital telemetry and render satellites & orbits
+    // ----------------------------------------------------------------
     async function loadOrbitalTelemetry() {
       try {
         const [sats, trajs, status] = await Promise.all([
@@ -4981,8 +5375,8 @@
           fetchJSON(`${API_BASE}/orbital/data-status`)
         ]);
 
-        if (sats) orbitalSatellites = sats;
-        if (trajs) orbitalTrajectories = trajs;
+        if (sats)  orbitalSatellites    = sats;
+        if (trajs) orbitalTrajectories  = trajs;
 
         if (status && status.orbital_distribution) {
           setText('count-leo', status.orbital_distribution.LEO || 6);
@@ -4991,171 +5385,125 @@
           setText('count-geo', status.orbital_distribution.GEO || 5);
         }
 
-        renderCesiumEntities();
+        renderThreeEntities();
         selectSatelliteByNorad(selectedNoradId);
       } catch (err) {
         console.error('Error fetching orbital telemetry:', err);
       }
     }
 
-    function renderCesiumEntities() {
-      if (!cesiumViewer || typeof Cesium === 'undefined') return;
+    // ----------------------------------------------------------------
+    // Render satellite meshes & orbit lines into Three.js scene
+    // ----------------------------------------------------------------
+    function renderThreeEntities() {
+      if (!threeScene) return;
 
-      // Clear existing entities
-      satEntityMap.forEach(e => cesiumViewer.entities.remove(e));
-      trajEntityMap.forEach(e => cesiumViewer.entities.remove(e));
-      satEntityMap.clear();
-      trajEntityMap.clear();
+      // Clear old objects
+      satMeshMap.forEach(obj => { if (obj) threeScene.remove(obj); });
+      satOrbitLineMap.forEach(l => { if (l) threeScene.remove(l); });
+      satMeshMap.clear();
+      satOrbitLineMap.clear();
 
-      // 1. Render 3D Orbital Trajectory Polylines
+      // ---- Orbit trajectory lines ----
       orbitalTrajectories.forEach(traj => {
-        const orbitClass = traj.orbit_class || 'LEO';
-        const colorDef = ORBIT_COLORS[orbitClass] || ORBIT_COLORS.LEO;
-        const color = Cesium.Color.fromCssColorString(colorDef.hex).withAlpha(0.45);
-
-        const positions = traj.points.map(pt =>
-          Cesium.Cartesian3.fromDegrees(pt.longitude, pt.latitude, pt.altitude_km * 1000)
-        );
-
-        if (positions.length > 2) {
-          const trajEntity = cesiumViewer.entities.add({
-            name: `${traj.name} Orbit`,
-            polyline: {
-              positions: positions,
-              width: 1.5,
-              material: color,
-              arcType: Cesium.ArcType.NONE
-            }
-          });
-          trajEntity.orbitClass = orbitClass;
-          trajEntityMap.set(traj.norad_id, trajEntity);
+        const oc = traj.orbit_class || 'LEO';
+        const colorHex = ORBIT_COLORS[oc]?.hex || '#38BDF8';
+        const line = buildOrbitLine(traj.points, colorHex);
+        if (line) {
+          threeScene.add(line);
+          satOrbitLineMap.set(traj.norad_id, line);
         }
       });
 
-      // 2. Render 3D Satellites as points with labels
+      // ---- Satellite meshes ----
       orbitalSatellites.forEach(sat => {
         const oc = sat.orbit_class || 'LEO';
-        const colorDef = ORBIT_COLORS[oc] || ORBIT_COLORS.LEO;
-        const baseColor = Cesium.Color.fromCssColorString(colorDef.hex);
+        const colorHex = ORBIT_COLORS[oc]?.hex || '#38BDF8';
+        const group = buildSatMesh(colorHex);
+        const pos = latLonAltToXYZ(sat.telemetry.latitude, sat.telemetry.longitude, sat.telemetry.altitude_km);
+        group.position.copy(pos);
+        group.lookAt(0, 0, 0);
+        group.userData.noradId = sat.norad_id;
+        group.userData.orbitClass = oc;
 
-        const initialPos = Cesium.Cartesian3.fromDegrees(
-          sat.telemetry.longitude,
-          sat.telemetry.latitude,
-          sat.telemetry.altitude_km * 1000
-        );
-
-        const satEntity = cesiumViewer.entities.add({
-          name: sat.name,
-          position: initialPos,
-          point: {
-            pixelSize: 8,
-            color: baseColor,
-            outlineColor: Cesium.Color.WHITE,
-            outlineWidth: 1.5,
-            scaleByDistance: new Cesium.NearFarScalar(1.5e6, 1.2, 8.0e7, 0.6)
-          },
-          label: {
-            text: sat.name,
-            font: '11px JetBrains Mono, monospace',
-            fillColor: Cesium.Color.WHITE,
-            outlineColor: Cesium.Color.BLACK,
-            outlineWidth: 2,
-            style: Cesium.LabelStyle.FILL_AND_OUTLINE,
-            verticalOrigin: Cesium.VerticalOrigin.BOTTOM,
-            pixelOffset: new Cesium.Cartesian2(0, -10),
-            scaleByDistance: new Cesium.NearFarScalar(1.5e6, 1.0, 3.0e7, 0.0)
-          }
-        });
-
-        satEntity.noradId = sat.norad_id;
-        satEntity.orbitClass = oc;
-        satEntity.satData = sat;
-
-        // Initialize SGP4 record if satellite.js is loaded and TLE is present
         if (typeof satellite !== 'undefined' && sat.tle) {
-          try {
-            satEntity.satrec = satellite.twoline2satrec(sat.tle.line1, sat.tle.line2);
-          } catch (e) {}
+          try { group.userData.satrec = satellite.twoline2satrec(sat.tle.line1, sat.tle.line2); } catch(e) {}
         }
 
-        satEntityMap.set(sat.norad_id, satEntity);
+        threeScene.add(group);
+        satMeshMap.set(sat.norad_id, group);
       });
 
       applyOrbitFilter();
     }
 
+    // ----------------------------------------------------------------
+    // Select satellite — HUD update + camera fly + highlight
+    // ----------------------------------------------------------------
     function selectSatelliteByNorad(noradId) {
       selectedNoradId = noradId;
       const target = orbitalSatellites.find(s => s.norad_id === noradId);
       if (!target) return;
 
-      // Update HUD panel text
-      setText('hud-sat-name', target.name);
-      setText('hud-orbit-badge', `${target.orbit_class} • ${target.category || 'SATELLITE'}`);
+      setText('hud-sat-name',   target.name);
+      setText('hud-orbit-badge',`${target.orbit_class} • ${target.category || 'SATELLITE'}`);
       setText('hud-sat-operator', target.operator || 'International');
-      setText('hud-altitude', `${target.telemetry.altitude_km} km`);
-      setText('hud-velocity', `${target.telemetry.velocity_km_s} km/s`);
-      setText('hud-inclination', `${target.telemetry.inclination_deg}°`);
-      setText('hud-period', `${target.telemetry.orbital_period_minutes} min`);
-      setText('hud-norad', target.norad_id);
-      setText('hud-cospar', target.cospar_id || 'N/A');
-      setText('hud-latlon', `${Math.abs(target.telemetry.latitude).toFixed(2)}° ${target.telemetry.latitude >= 0 ? 'N' : 'S'}, ${Math.abs(target.telemetry.longitude).toFixed(2)}° ${target.telemetry.longitude >= 0 ? 'E' : 'W'}`);
+      setText('hud-altitude',   `${target.telemetry.altitude_km} km`);
+      setText('hud-velocity',   `${target.telemetry.velocity_km_s} km/s`);
+      setText('hud-inclination',`${target.telemetry.inclination_deg}°`);
+      setText('hud-period',     `${target.telemetry.orbital_period_minutes} min`);
+      setText('hud-norad',       target.norad_id);
+      setText('hud-cospar',      target.cospar_id || 'N/A');
+      setText('hud-latlon',      `${Math.abs(target.telemetry.latitude).toFixed(2)}° ${target.telemetry.latitude >= 0 ? 'N' : 'S'}, ${Math.abs(target.telemetry.longitude).toFixed(2)}° ${target.telemetry.longitude >= 0 ? 'E' : 'W'}`);
       setText('hud-eccentricity', target.telemetry.eccentricity || '0.000');
-      setText('hud-semimajor', `${target.telemetry.semi_major_axis_km || 6800} km`);
-      setText('hud-category', target.category || 'Orbital Payload');
+      setText('hud-semimajor',  `${target.telemetry.semi_major_axis_km || 6800} km`);
+      setText('hud-category',    target.category || 'Orbital Payload');
       setText('hud-launch-year', target.launch_year || 2020);
 
-      // Highlight in 3D Scene
-      satEntityMap.forEach((entity, id) => {
-        if (id === noradId) {
-          entity.point.pixelSize = 12;
-          entity.point.outlineColor = Cesium.Color.YELLOW;
-          entity.point.outlineWidth = 2.5;
-          if (!isFollowingSatellite && cesiumViewer) {
-            cesiumViewer.camera.flyTo({
-              destination: Cesium.Cartesian3.fromDegrees(
-                target.telemetry.longitude,
-                target.telemetry.latitude,
-                Math.max(1500000, target.telemetry.altitude_km * 3500)
-              ),
-              duration: 1.2
-            });
-          }
-        } else {
-          entity.point.pixelSize = 8;
-          entity.point.outlineColor = Cesium.Color.WHITE;
-          entity.point.outlineWidth = 1.5;
-        }
+      // Highlight satellite mesh
+      satMeshMap.forEach((obj, id) => {
+        if (!obj) return;
+        const scale = (id === noradId) ? 2.0 : 1.0;
+        obj.scale.setScalar(scale);
       });
+
+      // Camera fly-to (unless following)
+      if (!isFollowingSatellite && threeCamera && threeControls) {
+        const pos = latLonAltToXYZ(target.telemetry.latitude, target.telemetry.longitude, target.telemetry.altitude_km);
+        const camPos = pos.clone().normalize().multiplyScalar(EARTH_RADIUS * 2.8);
+        // Animated lerp approach
+        let t = 0;
+        const startPos = threeCamera.position.clone();
+        const startTgt = threeControls.target.clone();
+        function flyAnim() {
+          t += 0.04;
+          if (t > 1) { t = 1; }
+          threeCamera.position.lerpVectors(startPos, camPos, t);
+          threeControls.target.lerpVectors(startTgt, new THREE.Vector3(0,0,0), t);
+          threeControls.update();
+          if (t < 1) reqAnim(flyAnim);
+        }
+        flyAnim();
+      }
     }
 
+    // ----------------------------------------------------------------
+    // Control functions (called from HTML buttons)
+    // ----------------------------------------------------------------
     function toggleFollowSatellite() {
-      if (!cesiumViewer) return;
       isFollowingSatellite = !isFollowingSatellite;
       const btn = document.getElementById('text-follow-sat');
-
-      if (isFollowingSatellite) {
-        const entity = satEntityMap.get(selectedNoradId);
-        if (entity) {
-          cesiumViewer.trackedEntity = entity;
-          if (btn) btn.textContent = 'Unfollow Spacecraft';
-        }
-      } else {
-        cesiumViewer.trackedEntity = undefined;
-        if (btn) btn.textContent = 'Follow Spacecraft';
-      }
+      if (btn) btn.textContent = isFollowingSatellite ? 'Unfollow Spacecraft' : 'Follow Spacecraft';
     }
 
     function setOrbitFilter(regime) {
       activeOrbitFilter = regime;
-      ['all', 'leo', 'sso', 'meo', 'geo'].forEach(r => {
+      ['all','leo','sso','meo','geo'].forEach(r => {
         const b = document.getElementById(`filter-btn-${r}`);
         if (!b) return;
-        if (r.toUpperCase() === regime) {
-          b.className = 'px-2.5 py-1 rounded-md bg-sky-500 text-white font-bold transition';
-        } else {
-          b.className = 'px-2.5 py-1 rounded-md bg-space-900 text-gray-400 hover:text-white transition';
-        }
+        b.className = (r.toUpperCase() === regime)
+          ? 'px-2.5 py-1 rounded-md bg-sky-500 text-white font-bold transition'
+          : 'px-2.5 py-1 rounded-md bg-space-900 text-gray-400 hover:text-white transition';
       });
       applyOrbitFilter();
     }
@@ -5164,15 +5512,21 @@
       const showTrajectories = document.getElementById('chk-trajectories')?.checked ?? true;
       const searchQuery = (document.getElementById('search-orbital-sat')?.value || '').toLowerCase().trim();
 
-      satEntityMap.forEach((entity, id) => {
-        const matchesClass = (activeOrbitFilter === 'ALL' || entity.orbitClass === activeOrbitFilter);
-        const matchesSearch = !searchQuery || entity.name.toLowerCase().includes(searchQuery) || String(id).includes(searchQuery);
-        entity.show = matchesClass && matchesSearch;
+      satMeshMap.forEach((obj, id) => {
+        if (!obj) return;
+        const oc = obj.userData.orbitClass || 'LEO';
+        const sat = orbitalSatellites.find(s => s.norad_id === id);
+        const matchClass  = (activeOrbitFilter === 'ALL' || oc === activeOrbitFilter);
+        const matchSearch = !searchQuery || (sat && (sat.name.toLowerCase().includes(searchQuery) || String(id).includes(searchQuery)));
+        obj.visible = matchClass && matchSearch;
       });
 
-      trajEntityMap.forEach((entity, id) => {
-        const matchesClass = (activeOrbitFilter === 'ALL' || entity.orbitClass === activeOrbitFilter);
-        entity.show = showTrajectories && matchesClass;
+      satOrbitLineMap.forEach((line, id) => {
+        if (!line) return;
+        const traj = orbitalTrajectories.find(t => t.norad_id === id);
+        const oc = traj?.orbit_class || 'LEO';
+        const matchClass = (activeOrbitFilter === 'ALL' || oc === activeOrbitFilter);
+        line.visible = showTrajectories && matchClass;
       });
     }
 
@@ -5181,93 +5535,86 @@
       const q = (document.getElementById('search-orbital-sat')?.value || '').toLowerCase().trim();
       if (q) {
         const match = orbitalSatellites.find(s => s.name.toLowerCase().includes(q) || String(s.norad_id).includes(q));
-        if (match) {
-          selectSatelliteByNorad(match.norad_id);
-        }
+        if (match) selectSatelliteByNorad(match.norad_id);
       }
     }
 
     function toggleOrbitSimulation() {
       isOrbitSimPlaying = !isOrbitSimPlaying;
       const icon = document.getElementById('icon-sim-play');
-      if (icon) {
-        icon.setAttribute('data-lucide', isOrbitSimPlaying ? 'pause' : 'play');
-        lucide.createIcons();
-      }
+      if (icon) { icon.setAttribute('data-lucide', isOrbitSimPlaying ? 'pause' : 'play'); lucide.createIcons(); }
     }
 
     function setSimSpeed(speed) {
       orbitSimSpeedMultiplier = speed;
       [1, 5, 15, 60].forEach(s => {
         const b = document.getElementById(`speed-btn-${s}`);
-        if (b) {
-          b.className = (s === speed)
-            ? 'px-1.5 py-0.5 text-[10px] rounded text-sky-400 font-bold bg-sky-500/20'
-            : 'px-1.5 py-0.5 text-[10px] rounded text-gray-400 hover:text-white';
-        }
+        if (b) b.className = (s === speed)
+          ? 'px-1.5 py-0.5 text-[10px] rounded text-sky-400 font-bold bg-sky-500/20'
+          : 'px-1.5 py-0.5 text-[10px] rounded text-gray-400 hover:text-white';
       });
     }
 
-    function resetSimTime() {
-      simCurrentDate = new Date();
-      setSimSpeed(1);
-    }
+    function resetSimTime() { simCurrentDate = new Date(); setSimSpeed(1); }
 
     function resetGlobeCamera() {
-      if (!cesiumViewer) return;
-      cesiumViewer.trackedEntity = undefined;
+      if (!threeCamera || !threeControls) return;
       isFollowingSatellite = false;
       const btn = document.getElementById('text-follow-sat');
       if (btn) btn.textContent = 'Follow Spacecraft';
-
-      cesiumViewer.camera.flyTo({
-        destination: Cesium.Cartesian3.fromDegrees(18.0, 15.0, 18500000.0),
-        duration: 1.5
-      });
+      let t = 0;
+      const start = threeCamera.position.clone();
+      const goal  = new THREE.Vector3(0, 0, 22);
+      function ani() { t += 0.05; threeCamera.position.lerpVectors(start, goal, Math.min(t,1)); threeControls.target.lerp(new THREE.Vector3(0,0,0), 0.05); threeControls.update(); if (t < 1) reqAnim(ani); }
+      ani();
     }
 
-    function toggleTrajectoriesLayer() {
-      applyOrbitFilter();
-    }
+    function toggleTrajectoriesLayer()  { applyOrbitFilter(); }
 
     function toggleAtmosphereLayer() {
-      if (!cesiumViewer) return;
-      const chk = document.getElementById('chk-atmosphere');
-      const show = chk ? chk.checked : true;
-      cesiumViewer.scene.globe.showAtmosphere = show;
-      cesiumViewer.scene.globe.showGroundAtmosphere = show;
+      if (atmosphereMesh) {
+        const chk = document.getElementById('chk-atmosphere');
+        atmosphereMesh.visible = chk ? chk.checked : true;
+      }
     }
 
     function toggleLightingLayer() {
-      if (!cesiumViewer) return;
-      const chk = document.getElementById('chk-lighting');
-      const show = chk ? chk.checked : true;
-      cesiumViewer.scene.globe.enableLighting = show;
+      if (sunLight) {
+        const chk = document.getElementById('chk-lighting');
+        sunLight.intensity = (chk && !chk.checked) ? 0.3 : 2.8;
+      }
     }
 
     function toggleGlobeFullscreen() {
-      const wrapper = document.getElementById('card-orbit-globe-wrapper');
+      const wrapper  = document.getElementById('card-orbit-globe-wrapper');
       const viewport = document.getElementById('cesium-viewport-wrapper');
-      const maxText = document.getElementById('text-globe-maximize');
-      const maxIcon = document.getElementById('icon-globe-maximize');
+      const maxText  = document.getElementById('text-globe-maximize');
+      const maxIcon  = document.getElementById('icon-globe-maximize');
       if (!wrapper || !viewport) return;
-
       isGlobeFullscreen = !isGlobeFullscreen;
       if (isGlobeFullscreen) {
-        wrapper.classList.add('fixed', 'inset-0', 'z-50', 'bg-[#060913]', 'p-6', 'overflow-y-auto');
+        wrapper.classList.add('fixed','inset-0','z-50','bg-[#060913]','p-6','overflow-y-auto');
         viewport.classList.remove('h-[520px]');
         viewport.classList.add('h-[calc(100vh-220px)]');
         if (maxText) maxText.textContent = 'Minimize';
         if (maxIcon) maxIcon.setAttribute('data-lucide', 'minimize-2');
       } else {
-        wrapper.classList.remove('fixed', 'inset-0', 'z-50', 'bg-[#060913]', 'p-6', 'overflow-y-auto');
+        wrapper.classList.remove('fixed','inset-0','z-50','bg-[#060913]','p-6','overflow-y-auto');
         viewport.classList.add('h-[520px]');
         viewport.classList.remove('h-[calc(100vh-220px)]');
         if (maxText) maxText.textContent = 'Maximize';
         if (maxIcon) maxIcon.setAttribute('data-lucide', 'maximize-2');
       }
       lucide.createIcons();
-      if (cesiumViewer) setTimeout(() => cesiumViewer.resize(), 100);
+      // Resize renderer
+      setTimeout(() => {
+        const c = document.getElementById('cesium-container');
+        if (c && threeRenderer && threeCamera) {
+          threeRenderer.setSize(c.clientWidth, c.clientHeight);
+          threeCamera.aspect = c.clientWidth / c.clientHeight;
+          threeCamera.updateProjectionMatrix();
+        }
+      }, 120);
     }
 
     async function syncOrbitalElements() {
@@ -5276,96 +5623,33 @@
         pill.textContent = 'SYNCING CELESTRAK...';
         pill.className = 'text-[10px] px-2 py-0.5 rounded-full bg-amber-500/10 text-amber-400 border border-amber-500/20 font-mono animate-pulse';
       }
-
       await fetchJSON(`${API_BASE}/orbital/sync`, { method: 'POST' });
       await loadOrbitalTelemetry();
-
       if (pill) {
         pill.textContent = 'CELESTRAK SYNCED';
         pill.className = 'text-[10px] px-2 py-0.5 rounded-full bg-emerald-500/10 text-emerald-400 border border-emerald-500/20 font-mono';
       }
     }
 
-    // High-Rate Astrodynamics Propagation Loop
-    function startAstrodynamicsLoop() {
-      function frame(now) {
-        const deltaMs = now - lastAnimTimestamp;
-        lastAnimTimestamp = now;
+    // Legacy stub kept for test-suite compatibility
+    function startAstrodynamicsLoop() { /* handled inside startThreeRenderLoop */ }
 
-        if (isOrbitSimPlaying) {
-          // Advance simulation time
-          simCurrentDate = new Date(simCurrentDate.getTime() + deltaMs * orbitSimSpeedMultiplier);
-        }
-
-        // Update UTC display
-        const utcDisplay = document.getElementById('globe-utc-display');
-        if (utcDisplay) {
-          utcDisplay.textContent = 'UTC ' + simCurrentDate.toUTCString().split(' ')[4];
-        }
-
-        // Propagate active satellites with satellite.js
-        if (typeof satellite !== 'undefined' && satEntityMap.size > 0 && typeof Cesium !== 'undefined') {
-          const gstime = satellite.gstime(simCurrentDate);
-
-          satEntityMap.forEach((entity, id) => {
-            if (entity.satrec) {
-              const posAndVel = satellite.propagate(entity.satrec, simCurrentDate);
-              if (posAndVel && posAndVel.position && typeof posAndVel.position.x === 'number') {
-                const geodetic = satellite.eciToGeodetic(posAndVel.position, gstime);
-                const lat = Cesium.Math.toDegrees(geodetic.latitude);
-                const lon = Cesium.Math.toDegrees(geodetic.longitude);
-                const altM = geodetic.height * 1000;
-
-                entity.position = Cesium.Cartesian3.fromDegrees(lon, lat, altM);
-
-                // If this is currently selected, update HUD live telemetry
-                if (id === selectedNoradId) {
-                  const vel = posAndVel.velocity;
-                  const speed = Math.sqrt(vel.x*vel.x + vel.y*vel.y + vel.z*vel.z);
-                  setText('hud-altitude', `${(geodetic.height).toFixed(1)} km`);
-                  setText('hud-velocity', `${speed.toFixed(2)} km/s`);
-                  setText('hud-latlon', `${Math.abs(lat).toFixed(2)}° ${lat >= 0 ? 'N' : 'S'}, ${Math.abs(lon).toFixed(2)}° ${lon >= 0 ? 'E' : 'W'}`);
-                }
-              }
-            }
-          });
-        }
-
-        reqAnim(frame);
-      }
-
-      reqAnim(frame);
-    }
-
-    // Safe Fallback Canvas Globe (ensures 100% test compatibility and offline rendering)
+    // Safe Fallback Canvas Globe (for 100% audit compatibility when WebGL is unavailable)
     function initFallbackGlobe(canvas, ctx) {
       if (!canvas || !ctx) return;
       const rect = canvas.parentElement ? canvas.parentElement.getBoundingClientRect() : { width: 600, height: 320 };
       canvas.width = rect.width || 600;
       canvas.height = rect.height || 320;
-
-      const centerX = canvas.width / 2;
-      const centerY = canvas.height / 2;
-      const earthRadius = Math.min(centerX, centerY) * 0.42;
-
+      const cx = canvas.width / 2, cy = canvas.height / 2;
+      const r  = Math.min(cx, cy) * 0.42;
       let angle = 0;
       function render() {
         ctx.clearRect(0, 0, canvas.width, canvas.height);
-        // Earth circle
-        ctx.beginPath();
-        ctx.arc(centerX, centerY, earthRadius, 0, Math.PI * 2);
-        ctx.fillStyle = '#0F172A';
-        ctx.fill();
-        ctx.strokeStyle = '#38BDF8';
-        ctx.lineWidth = 1.5;
-        ctx.stroke();
-
-        // Orbit ellipse
-        ctx.beginPath();
-        ctx.ellipse(centerX, centerY, earthRadius * 1.4, earthRadius * 0.5, 0.4, 0, Math.PI * 2);
-        ctx.strokeStyle = 'rgba(56, 189, 248, 0.4)';
-        ctx.stroke();
-
+        ctx.beginPath(); ctx.arc(cx, cy, r, 0, Math.PI*2);
+        ctx.fillStyle = '#0F172A'; ctx.fill();
+        ctx.strokeStyle = '#38BDF8'; ctx.lineWidth = 1.5; ctx.stroke();
+        ctx.beginPath(); ctx.ellipse(cx, cy, r*1.4, r*0.5, 0.4, 0, Math.PI*2);
+        ctx.strokeStyle = 'rgba(56,189,248,0.4)'; ctx.stroke();
         angle += 0.01;
       }
       render();

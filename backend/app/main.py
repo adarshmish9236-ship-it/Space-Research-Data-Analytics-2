@@ -50,6 +50,13 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
+# Static file mounts for high-resolution textures and frontend assets
+assets_path = FRONTEND_DIR / "assets"
+if assets_path.exists():
+    app.mount("/assets", StaticFiles(directory=str(assets_path)), name="assets")
+if FRONTEND_DIR.exists():
+    app.mount("/frontend", StaticFiles(directory=str(FRONTEND_DIR)), name="frontend")
+
 # Mount versioned API routers for Module 1-8
 app.include_router(api_v1_router, prefix="/api/v1")
 app.include_router(api_v1_router, prefix="/api")
