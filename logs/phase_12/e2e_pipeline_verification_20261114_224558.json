@@ -1,0 +1,172 @@
+{
+  "test_run_timestamp": "2026-11-14T22:45:58.767428",
+  "total_duration_sec": 1.558,
+  "stages_passed": 14,
+  "stages_total": 14,
+  "stage_results": [
+    {
+      "stage_id": 1,
+      "stage_name": "Source Dataset Discovery",
+      "status": "SUCCESS",
+      "duration_sec": 0.001,
+      "details": "Discovered 9 raw datasets (990.3 KB)",
+      "metrics": {
+        "file_count": 9,
+        "total_bytes": 1014027
+      },
+      "timestamp": "2026-11-14T22:45:57.209826"
+    },
+    {
+      "stage_id": 2,
+      "stage_name": "Input Data Quality & Schema Validation",
+      "status": "SUCCESS",
+      "duration_sec": 0.018,
+      "details": "Validated 11,304 records across 9 schemas with 0 schema violations",
+      "metrics": {
+        "total_records": 11304
+      },
+      "timestamp": "2026-11-14T22:45:57.227987"
+    },
+    {
+      "stage_id": 3,
+      "stage_name": "HDFS Medallion Lakehouse Ingestion",
+      "status": "SUCCESS",
+      "duration_sec": 0.037,
+      "details": "Storage: 7.13 MB across 103 files (103 blocks)",
+      "metrics": {
+        "storage_formatted": "7.13 MB",
+        "files": 103
+      },
+      "timestamp": "2026-11-14T22:45:57.264768"
+    },
+    {
+      "stage_id": 4,
+      "stage_name": "Apache Pig Latin ETL Transformation",
+      "status": "SUCCESS",
+      "duration_sec": 0.0,
+      "details": "Verified 9 Pig Latin scripts in /pig_etl/ with Silver Parquet output",
+      "metrics": {
+        "pig_scripts_count": 9
+      },
+      "timestamp": "2026-11-14T22:45:57.265092"
+    },
+    {
+      "stage_id": 5,
+      "stage_name": "Hadoop MapReduce Streaming Aggregation",
+      "status": "SUCCESS",
+      "duration_sec": 0.088,
+      "details": "Job 'missions_aggregation' finished: 1500 map in -> 7 reduce out",
+      "metrics": {
+        "map_input": 1500,
+        "reduce_output": 7
+      },
+      "timestamp": "2026-11-14T22:45:57.353473"
+    },
+    {
+      "stage_id": 6,
+      "stage_name": "Apache Hive Data Warehouse Analytics",
+      "status": "SUCCESS",
+      "duration_sec": 0.001,
+      "details": "Executed Query 01: 8 component demand aggregations returned in 0.25ms",
+      "metrics": {
+        "rows": 8,
+        "runtime_ms": 0.25
+      },
+      "timestamp": "2026-11-14T22:45:57.354242"
+    },
+    {
+      "stage_id": 7,
+      "stage_name": "Apache PySpark Distributed Processing",
+      "status": "SUCCESS",
+      "duration_sec": 0.0,
+      "details": "Spark Master online with 4 verified distributed analytical pipelines",
+      "metrics": {
+        "spark_jobs": 4
+      },
+      "timestamp": "2026-11-14T22:45:57.354534"
+    },
+    {
+      "stage_id": 8,
+      "stage_name": "Autoregressive Feature Engineering",
+      "status": "SUCCESS",
+      "duration_sec": 0.03,
+      "details": "Constructed 23 features (lags t-1..t-4, rolling stats, seasonality) across 63 quarterly intervals",
+      "metrics": {
+        "feature_dimensions": [
+          63,
+          23
+        ]
+      },
+      "timestamp": "2026-11-14T22:45:57.384600"
+    },
+    {
+      "stage_id": 9,
+      "stage_name": "Model Training & Backtesting Evaluation",
+      "status": "SUCCESS",
+      "duration_sec": 0.001,
+      "details": "Evaluated 99 models. Champion: SARIMA(1,1,1)x(1,0,0)[4] (RMSE: 5.92, R2: 0.9868)",
+      "metrics": {
+        "models_count": 99,
+        "champion": "SARIMA(1,1,1)x(1,0,0)[4]",
+        "champion_rmse": 5.92
+      },
+      "timestamp": "2026-11-14T22:45:57.385635"
+    },
+    {
+      "stage_id": 10,
+      "stage_name": "Multi-Horizon Projections & 95% CIs",
+      "status": "SUCCESS",
+      "duration_sec": 1.075,
+      "details": "Generated 4-quarter forward forecast: T+1Q=3775.8 to T+4Q=3997.9 units with bounded envelopes",
+      "metrics": {
+        "horizon_quarters": 4
+      },
+      "timestamp": "2026-11-14T22:45:58.460495"
+    },
+    {
+      "stage_id": 11,
+      "stage_name": "Supply Chain Shortage & Surplus Detection",
+      "status": "SUCCESS",
+      "duration_sec": 0.004,
+      "details": "Audited 32 components: identified 0 deficits requiring procurement offsets",
+      "metrics": {
+        "shortages_flagged": 0
+      },
+      "timestamp": "2026-11-14T22:45:58.464748"
+    },
+    {
+      "stage_id": 12,
+      "stage_name": "SciPy HiGHS MILP Constrained Optimization",
+      "status": "SUCCESS",
+      "duration_sec": 0.21,
+      "details": "HiGHS solver converged to optimal procurement allocation within cleanroom and budget bounds",
+      "metrics": {
+        "solver_status": "OPTIMAL"
+      },
+      "timestamp": "2026-11-14T22:45:58.674481"
+    },
+    {
+      "stage_id": 13,
+      "stage_name": "Dashboard API State Publishing",
+      "status": "SUCCESS",
+      "duration_sec": 0.084,
+      "details": "KPIs materialized: 1500 missions, 1688 active sats, $2460.05B budget",
+      "metrics": {
+        "total_missions": 1500
+      },
+      "timestamp": "2026-11-14T22:45:58.758962"
+    },
+    {
+      "stage_id": 14,
+      "stage_name": "Executive PDF & CSV Report Synthesis",
+      "status": "SUCCESS",
+      "duration_sec": 0.008,
+      "details": "Generated PDF whitepaper (3290 bytes) and CSV extract (354 bytes)",
+      "metrics": {
+        "pdf_bytes": 3290,
+        "csv_bytes": 354
+      },
+      "timestamp": "2026-11-14T22:45:58.767386"
+    }
+  ]
+}

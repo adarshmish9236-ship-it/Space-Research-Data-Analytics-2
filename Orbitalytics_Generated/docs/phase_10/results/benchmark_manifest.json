@@ -1,0 +1,56 @@
+{
+  "project": "ORBITALYTICS 2.0",
+  "phase": "Phase 10",
+  "description": "Controlled Empirical Big Data Performance Benchmarking across Local Pandas, Spark, Hive, MapReduce, and Pig",
+  "timestamp": "2026-11-14T22:18:15.934707",
+  "environment": {
+    "host_os": "Windows 11 Home (Build 26200)",
+    "cpu_cores": 8,
+    "ram_gb": 15.4,
+    "docker_engine": "Docker Desktop Linux Containers (WSL2 backend)",
+    "container_memory_limit_gib": 7.455,
+    "hadoop_version": "Apache Hadoop 3.2.1",
+    "spark_version": "Apache Spark 3.1.2",
+    "hive_version": "Apache Hive 2.3.2",
+    "pig_version": "Apache Pig 0.17.0",
+    "python_version": "Python 3.14.0 (host) / Python 3.5.3 (containers)"
+  },
+  "scale_tiers": {
+    "small": {
+      "multiplier": "1x",
+      "approx_records": 7144,
+      "size_mb": 0.67
+    },
+    "medium": {
+      "multiplier": "15x",
+      "approx_records": 107160,
+      "size_mb": 10.5
+    },
+    "large": {
+      "multiplier": "60x",
+      "approx_records": 428640,
+      "size_mb": 42.0
+    }
+  },
+  "workloads": [
+    "WL1_EQUIPMENT_DEMAND",
+    "WL2_RESOURCE_CONSUMPTION",
+    "WL3_MISSIONS_BY_AGENCY",
+    "WL4_MANUFACTURING_SUMMARY",
+    "WL5_MULTI_DATASET_JOIN"
+  ],
+  "engines_evaluated": [
+    "Local_Pandas",
+    "Apache_Spark",
+    "Apache_Hive",
+    "Hadoop_MapReduce",
+    "Apache_Pig"
+  ],
+  "total_benchmark_records": 75,
+  "artifacts_generated": [
+    "docs/phase_10/results/benchmark_results_matrix.csv",
+    "docs/phase_10/results/scaling_analysis.csv",
+    "docs/phase_10/results/engine_comparison_summary.json",
+    "docs/phase_10/results/benchmark_manifest.json"
+  ]
+}

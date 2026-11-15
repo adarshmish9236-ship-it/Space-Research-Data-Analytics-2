@@ -1,0 +1,163 @@
+{
+  "dataset_name": "launch_activities",
+  "row_count": 1200,
+  "column_count": 13,
+  "memory_usage_kb": 218.96,
+  "columns": {
+    "launch_id": {
+      "dtype": "str",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "unique_count": 1200,
+      "top_5_values": {
+        "LNCH-2025-100": 1,
+        "LNCH-2018-101": 1,
+        "LNCH-2026-102": 1,
+        "LNCH-2022-103": 1,
+        "LNCH-2019-104": 1
+      }
+    },
+    "mission_id": {
+      "dtype": "str",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "unique_count": 825,
+      "top_5_values": {
+        "MSN-2020-1537": 7,
+        "MSN-2011-1443": 5,
+        "MSN-2024-1014": 4,
+        "MSN-2024-2476": 4,
+        "MSN-2012-1495": 4
+      }
+    },
+    "launch_date": {
+      "dtype": "str",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "unique_count": 1098,
+      "min_date": "2010-01-13",
+      "max_date": "2026-09-30",
+      "span_days": 6104
+    },
+    "year": {
+      "dtype": "int64",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "unique_count": 17,
+      "min": 2010.0,
+      "max": 2026.0,
+      "mean": 2017.874,
+      "std": 4.703,
+      "median": 2018.0,
+      "skewness": 0.021
+    },
+    "month": {
+      "dtype": "int64",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "unique_count": 12,
+      "min": 1.0,
+      "max": 12.0,
+      "mean": 6.643,
+      "std": 3.47,
+      "median": 7.0,
+      "skewness": -0.047
+    },
+    "vehicle": {
+      "dtype": "str",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "unique_count": 10,
+      "top_5_values": {
+        "Falcon 9": 144,
+        "Long March 5": 131,
+        "Atlas V": 124,
+        "H3 Launch Vehicle": 121,
+        "GSLV Mk III": 119
+      }
+    },
+    "launch_site": {
+      "dtype": "str",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "unique_count": 7,
+      "top_5_values": {
+        "Kourou ELA-4": 185,
+        "Kennedy Space Center LC-39A": 180,
+        "Cape Canaveral SLC-40": 175,
+        "Baikonur Cosmodrome": 173,
+        "Tanegashima Space Center": 172
+      }
+    },
+    "country": {
+      "dtype": "str",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "unique_count": 6,
+      "top_5_values": {
+        "United States": 355,
+        "Europe": 185,
+        "Russia": 173,
+        "Japan": 172,
+        "India": 171
+      }
+    },
+    "launch_outcome": {
+      "dtype": "str",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "unique_count": 4,
+      "top_5_values": {
+        "Success": 1117,
+        "Partial Failure": 41,
+        "Launch Abort": 22,
+        "Catastrophic Failure": 20
+      }
+    },
+    "commercial_flag": {
+      "dtype": "bool",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "unique_count": 2,
+      "min": 0.0,
+      "max": 1.0,
+      "mean": 0.666,
+      "std": 0.472,
+      "median": 1.0,
+      "skewness": -0.704
+    },
+    "launch_cost_million_usd": {
+      "dtype": "float64",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "unique_count": 1141,
+      "min": 40.1,
+      "max": 179.67,
+      "mean": 110.844,
+      "std": 39.491,
+      "median": 111.975,
+      "skewness": -0.067
+    },
+    "payload_to_orbit_kg": {
+      "dtype": "float64",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "unique_count": 1196,
+      "min": 1217.7,
+      "max": 23992.7,
+      "mean": 12931.584,
+      "std": 6721.825,
+      "median": 13308.5,
+      "skewness": -0.099
+    },
+    "data_origin": {
+      "dtype": "str",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "unique_count": 1,
+      "top_5_values": {
+        "synthetic": 1200
+      }
+    }
+  }
+}

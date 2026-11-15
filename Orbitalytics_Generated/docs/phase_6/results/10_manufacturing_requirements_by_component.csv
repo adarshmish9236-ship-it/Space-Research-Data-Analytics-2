@@ -1,0 +1,5 @@
+satellite_class,total_orders,total_units_ordered,mean_cleanroom_hours,total_cleanroom_workload_hours,total_contract_value_m_usd,avg_order_contract_m_usd,qa_test_pass_rate_pct
+SmallSat (<500kg),155,1945,3782.8,586333.0,25514.15,164.61,66.45
+Heavy Geosynchronous Bus (>2000kg),159,2058,4046.5,643394.0,24532.53,154.29,72.96
+Medium Satellite (500-2000kg),147,1784,4133.7,607653.0,23349.5,158.84,74.15
+CubeSat (1U-12U),139,1698,3947.3,548681.0,22975.58,165.29,74.82

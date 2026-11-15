@@ -1,0 +1,245 @@
+{
+  "dataset_name": "equipment_component_demand",
+  "row_count": 11312,
+  "column_count": 20,
+  "memory_usage_kb": 3725.68,
+  "columns": {
+    "demand_id": {
+      "dtype": "str",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "unique_count": 11312,
+      "top_5_values": {
+        "DEM-2010-00001": 1,
+        "DEM-2010-00002": 1,
+        "DEM-2010-00003": 1,
+        "DEM-2010-00004": 1,
+        "DEM-2010-00005": 1
+      }
+    },
+    "date": {
+      "dtype": "str",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "unique_count": 202,
+      "min_date": "2010-01-01",
+      "max_date": "2026-10-01",
+      "span_days": 6117
+    },
+    "year": {
+      "dtype": "int64",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "unique_count": 17,
+      "min": 2010.0,
+      "max": 2026.0,
+      "mean": 2017.921,
+      "std": 4.858,
+      "median": 2018.0,
+      "skewness": 0.005
+    },
+    "month": {
+      "dtype": "int64",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "unique_count": 12,
+      "min": 1.0,
+      "max": 12.0,
+      "mean": 6.45,
+      "std": 3.433,
+      "median": 6.0,
+      "skewness": 0.012
+    },
+    "quarter": {
+      "dtype": "str",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "unique_count": 4,
+      "top_5_values": {
+        "Q1": 2856,
+        "Q2": 2856,
+        "Q3": 2856,
+        "Q4": 2744
+      }
+    },
+    "component_id": {
+      "dtype": "str",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "unique_count": 8,
+      "top_5_values": {
+        "CMP-001": 1414,
+        "CMP-002": 1414,
+        "CMP-003": 1414,
+        "CMP-004": 1414,
+        "CMP-005": 1414
+      }
+    },
+    "component_name": {
+      "dtype": "str",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "unique_count": 8,
+      "top_5_values": {
+        "High-Efficiency Multi-Junction Solar Panels": 1414,
+        "Radiation-Hardened Rad-750 Single Board Computers": 1414,
+        "Hall-Effect Ion Propulsion Thrusters": 1414,
+        "Optical Inter-Satellite Laser Link Transceivers": 1414,
+        "High-Precision Star Trackers & Optical Navigation": 1414
+      }
+    },
+    "component_category": {
+      "dtype": "str",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "unique_count": 7,
+      "top_5_values": {
+        "Propulsion": 2828,
+        "Power Systems": 1414,
+        "Avionics": 1414,
+        "Communications": 1414,
+        "Navigation": 1414
+      }
+    },
+    "agency_id": {
+      "dtype": "str",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "unique_count": 7,
+      "top_5_values": {
+        "AGY-001": 1616,
+        "AGY-002": 1616,
+        "AGY-003": 1616,
+        "AGY-004": 1616,
+        "AGY-005": 1616
+      }
+    },
+    "agency_name": {
+      "dtype": "str",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "unique_count": 7,
+      "top_5_values": {
+        "National Aeronautics and Space Administration": 1616,
+        "European Space Agency": 1616,
+        "Indian Space Research Organisation": 1616,
+        "Japan Aerospace Exploration Agency": 1616,
+        "China National Space Administration": 1616
+      }
+    },
+    "target_satellite_class": {
+      "dtype": "str",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "unique_count": 4,
+      "top_5_values": {
+        "Heavy Geosynchronous Bus (>2000kg)": 2897,
+        "Medium Satellite (500-2000kg)": 2852,
+        "CubeSat (1U-12U)": 2790,
+        "SmallSat (<500kg)": 2773
+      }
+    },
+    "units_demanded": {
+      "dtype": "int64",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "unique_count": 104,
+      "min": 2.0,
+      "max": 105.0,
+      "mean": 50.469,
+      "std": 25.171,
+      "median": 49.0,
+      "skewness": 0.095
+    },
+    "units_manufactured": {
+      "dtype": "int64",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "unique_count": 115,
+      "min": 2.0,
+      "max": 117.0,
+      "mean": 47.875,
+      "std": 24.746,
+      "median": 46.0,
+      "skewness": 0.248
+    },
+    "units_procured": {
+      "dtype": "int64",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "unique_count": 120,
+      "min": 2.0,
+      "max": 121.0,
+      "mean": 50.539,
+      "std": 26.098,
+      "median": 49.0,
+      "skewness": 0.237
+    },
+    "unit_of_measure": {
+      "dtype": "str",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "unique_count": 1,
+      "top_5_values": {
+        "Units": 11312
+      }
+    },
+    "avg_unit_cost_thousand_usd": {
+      "dtype": "float64",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "unique_count": 6188,
+      "min": 85.2,
+      "max": 920.0,
+      "mean": 501.858,
+      "std": 240.722,
+      "median": 502.1,
+      "skewness": -0.001
+    },
+    "total_demand_value_million_usd": {
+      "dtype": "float64",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "unique_count": 10134,
+      "min": 0.398,
+      "max": 93.014,
+      "mean": 25.286,
+      "std": 18.455,
+      "median": 20.459,
+      "skewness": 0.901
+    },
+    "lead_time_days": {
+      "dtype": "int64",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "unique_count": 360,
+      "min": 127.0,
+      "max": 486.0,
+      "mean": 275.16,
+      "std": 88.941,
+      "median": 263.0,
+      "skewness": 0.394
+    },
+    "shortage_risk": {
+      "dtype": "str",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "unique_count": 4,
+      "top_5_values": {
+        "Low": 5615,
+        "Medium": 4365,
+        "High": 1327,
+        "Critical": 5
+      }
+    },
+    "data_origin": {
+      "dtype": "str",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "unique_count": 1,
+      "top_5_values": {
+        "synthetic": 11312
+      }
+    }
+  }
+}

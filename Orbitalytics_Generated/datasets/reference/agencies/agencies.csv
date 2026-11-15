@@ -1,0 +1,8 @@
+agency_id,agency_name,agency_code,country,headquarters,founded_year,agency_type
+AGY-001,National Aeronautics and Space Administration,NASA,United States,Washington D.C.,1958,Government
+AGY-002,European Space Agency,ESA,Europe,Paris France,1975,Intergovernmental
+AGY-003,Indian Space Research Organisation,ISRO,India,Bengaluru India,1969,Government
+AGY-004,Japan Aerospace Exploration Agency,JAXA,Japan,Tokyo Japan,2003,Government
+AGY-005,China National Space Administration,CNSA,China,Beijing China,1993,Government
+AGY-006,State Space Corporation Roscosmos,Roscosmos,Russia,Moscow Russia,1992,Government
+AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),COMMERCIAL,United States,Hawthorne CA,2002,Commercial

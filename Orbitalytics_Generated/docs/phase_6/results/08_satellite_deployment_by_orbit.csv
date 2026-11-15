@@ -1,0 +1,7 @@
+orbit_type,total_satellites_deployed,mean_altitude_km,mean_inclination_deg,mean_dry_mass_kg,total_mass_deployed_metric_tons,active_satellites_count,active_fleet_ratio_pct
+SSO (Sun-Synchronous),408,58431.6,48.82,3463.6,1413.13,285,69.85
+LEO (Low Earth Orbit),408,550.0,49.12,3320.9,1354.94,280,68.63
+MEO (Medium Earth Orbit),405,20200.0,49.57,3464.8,1403.24,276,68.15
+GEO (Geostationary),399,35786.0,50.8,3377.3,1347.52,284,71.18
+Deep Space / Lunar,392,62607.3,49.09,3173.1,1243.86,278,70.92
+Lagrange Points (L1/L2),388,61138.3,49.23,3281.6,1273.24,285,73.45

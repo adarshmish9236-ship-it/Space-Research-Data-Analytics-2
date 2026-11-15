@@ -1,0 +1,161 @@
+project_id,project_title,agency_id,lead_agency,country,research_theme,target_commencement_year,estimated_investment_million_usd,priority_tier,technology_readiness_level,project_status,data_origin
+PRJ-2029-200,NextGen Artemis Lunar Base Phase 1,AGY-006,State Space Corporation Roscosmos,Russia,Deep Space Exploration,2029,5740.4,Exploratory,3,Approved,synthetic
+PRJ-2026-201,Mars Sample Return Logistics Phase 2,AGY-003,Indian Space Research Organisation,India,Planetary Science,2026,17989.0,Scientific Discovery,3,Proposed,synthetic
+PRJ-2035-202,Quantum Optical Satellite Communications Grid Phase 3,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,Advanced Communications,2035,15697.7,Scientific Discovery,7,Approved,synthetic
+PRJ-2027-203,Lunar Gateway Orbital Habitation Node Phase 4,AGY-004,Japan Aerospace Exploration Agency,Japan,Orbital Infrastructure,2027,2798.3,Critical Strategic,8,Phase B Development,synthetic
+PRJ-2032-204,NextGen Artemis Lunar Base Phase 1,AGY-006,State Space Corporation Roscosmos,Russia,Deep Space Exploration,2032,14392.6,High Priority,4,Funded - Phase A,synthetic
+PRJ-2031-205,Deep Space Exoplanet Infrared Spectroscopy Phase 2,AGY-003,Indian Space Research Organisation,India,Astrophysics,2031,3951.2,Scientific Discovery,8,Proposed,synthetic
+PRJ-2034-206,Deep Space Exoplanet Infrared Spectroscopy Phase 3,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,Astrophysics,2034,18208.7,High Priority,8,Proposed,synthetic
+PRJ-2033-207,NextGen Artemis Lunar Base Phase 4,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,Deep Space Exploration,2033,12552.5,Critical Strategic,8,Approved,synthetic
+PRJ-2032-208,NextGen Artemis Lunar Base Phase 1,AGY-005,China National Space Administration,China,Deep Space Exploration,2032,10095.7,Critical Strategic,8,Proposed,synthetic
+PRJ-2026-209,Lunar Gateway Orbital Habitation Node Phase 2,AGY-005,China National Space Administration,China,Orbital Infrastructure,2026,13449.6,Exploratory,6,Funded - Phase A,synthetic
+PRJ-2027-210,Quantum Optical Satellite Communications Grid Phase 3,AGY-003,Indian Space Research Organisation,India,Advanced Communications,2027,1031.6,Scientific Discovery,8,Approved,synthetic
+PRJ-2027-211,Quantum Optical Satellite Communications Grid Phase 4,AGY-006,State Space Corporation Roscosmos,Russia,Advanced Communications,2027,11559.7,Critical Strategic,7,Proposed,synthetic
+PRJ-2026-212,Mars Sample Return Logistics Phase 1,AGY-005,China National Space Administration,China,Planetary Science,2026,15258.1,Critical Strategic,5,Approved,synthetic
+PRJ-2034-213,Quantum Optical Satellite Communications Grid Phase 2,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,Advanced Communications,2034,10705.0,High Priority,4,Proposed,synthetic
+PRJ-2028-214,NextGen Artemis Lunar Base Phase 3,AGY-001,National Aeronautics and Space Administration,United States,Deep Space Exploration,2028,6916.4,Critical Strategic,8,Phase B Development,synthetic
+PRJ-2029-215,Mars Sample Return Logistics Phase 4,AGY-005,China National Space Administration,China,Planetary Science,2029,11543.6,High Priority,8,Proposed,synthetic
+PRJ-2032-216,Mars Sample Return Logistics Phase 1,AGY-005,China National Space Administration,China,Planetary Science,2032,13295.7,Exploratory,3,Funded - Phase A,synthetic
+PRJ-2035-217,Deep Space Exoplanet Infrared Spectroscopy Phase 2,AGY-001,National Aeronautics and Space Administration,United States,Astrophysics,2035,8861.2,High Priority,5,Proposed,synthetic
+PRJ-2033-218,NextGen Artemis Lunar Base Phase 3,AGY-005,China National Space Administration,China,Deep Space Exploration,2033,16013.3,Scientific Discovery,8,Phase B Development,synthetic
+PRJ-2031-219,NextGen Artemis Lunar Base Phase 4,AGY-002,European Space Agency,Europe,Deep Space Exploration,2031,13905.5,Critical Strategic,4,Funded - Phase A,synthetic
+PRJ-2028-220,NextGen Artemis Lunar Base Phase 1,AGY-001,National Aeronautics and Space Administration,United States,Deep Space Exploration,2028,10781.9,Scientific Discovery,7,Approved,synthetic
+PRJ-2033-221,Lunar Gateway Orbital Habitation Node Phase 2,AGY-004,Japan Aerospace Exploration Agency,Japan,Orbital Infrastructure,2033,10326.9,Critical Strategic,8,Proposed,synthetic
+PRJ-2033-222,Quantum Optical Satellite Communications Grid Phase 3,AGY-005,China National Space Administration,China,Advanced Communications,2033,16626.2,High Priority,7,Proposed,synthetic
+PRJ-2035-223,Quantum Optical Satellite Communications Grid Phase 4,AGY-006,State Space Corporation Roscosmos,Russia,Advanced Communications,2035,16438.6,Critical Strategic,6,Funded - Phase A,synthetic
+PRJ-2030-224,Deep Space Exoplanet Infrared Spectroscopy Phase 1,AGY-002,European Space Agency,Europe,Astrophysics,2030,16517.7,Exploratory,4,Phase B Development,synthetic
+PRJ-2034-225,Mars Sample Return Logistics Phase 2,AGY-005,China National Space Administration,China,Planetary Science,2034,16836.8,Exploratory,4,Phase B Development,synthetic
+PRJ-2028-226,Mars Sample Return Logistics Phase 3,AGY-003,Indian Space Research Organisation,India,Planetary Science,2028,2811.6,High Priority,8,Funded - Phase A,synthetic
+PRJ-2033-227,Quantum Optical Satellite Communications Grid Phase 4,AGY-003,Indian Space Research Organisation,India,Advanced Communications,2033,1292.3,High Priority,3,Funded - Phase A,synthetic
+PRJ-2033-228,Lunar Gateway Orbital Habitation Node Phase 1,AGY-001,National Aeronautics and Space Administration,United States,Orbital Infrastructure,2033,11602.1,Exploratory,5,Approved,synthetic
+PRJ-2026-229,Deep Space Exoplanet Infrared Spectroscopy Phase 2,AGY-005,China National Space Administration,China,Astrophysics,2026,2083.6,Critical Strategic,8,Proposed,synthetic
+PRJ-2032-230,Lunar Gateway Orbital Habitation Node Phase 3,AGY-006,State Space Corporation Roscosmos,Russia,Orbital Infrastructure,2032,8833.7,Scientific Discovery,7,Phase B Development,synthetic
+PRJ-2033-231,Lunar Gateway Orbital Habitation Node Phase 4,AGY-006,State Space Corporation Roscosmos,Russia,Orbital Infrastructure,2033,2491.8,Critical Strategic,7,Proposed,synthetic
+PRJ-2026-232,Deep Space Exoplanet Infrared Spectroscopy Phase 1,AGY-003,Indian Space Research Organisation,India,Astrophysics,2026,10794.9,High Priority,5,Funded - Phase A,synthetic
+PRJ-2025-233,Mars Sample Return Logistics Phase 2,AGY-006,State Space Corporation Roscosmos,Russia,Planetary Science,2025,15188.0,Exploratory,6,Proposed,synthetic
+PRJ-2027-234,Deep Space Exoplanet Infrared Spectroscopy Phase 3,AGY-003,Indian Space Research Organisation,India,Astrophysics,2027,17202.7,High Priority,7,Funded - Phase A,synthetic
+PRJ-2025-235,Lunar Gateway Orbital Habitation Node Phase 4,AGY-005,China National Space Administration,China,Orbital Infrastructure,2025,9503.3,Critical Strategic,4,Proposed,synthetic
+PRJ-2029-236,Mars Sample Return Logistics Phase 1,AGY-001,National Aeronautics and Space Administration,United States,Planetary Science,2029,3340.4,High Priority,7,Funded - Phase A,synthetic
+PRJ-2033-237,Mars Sample Return Logistics Phase 2,AGY-005,China National Space Administration,China,Planetary Science,2033,4230.3,Critical Strategic,3,Funded - Phase A,synthetic
+PRJ-2032-238,Lunar Gateway Orbital Habitation Node Phase 3,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,Orbital Infrastructure,2032,5220.3,Exploratory,5,Proposed,synthetic
+PRJ-2035-239,NextGen Artemis Lunar Base Phase 4,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,Deep Space Exploration,2035,7655.2,Critical Strategic,8,Proposed,synthetic
+PRJ-2030-240,Quantum Optical Satellite Communications Grid Phase 1,AGY-005,China National Space Administration,China,Advanced Communications,2030,882.8,Critical Strategic,6,Funded - Phase A,synthetic
+PRJ-2029-241,Mars Sample Return Logistics Phase 2,AGY-002,European Space Agency,Europe,Planetary Science,2029,17180.9,Scientific Discovery,3,Funded - Phase A,synthetic
+PRJ-2035-242,NextGen Artemis Lunar Base Phase 3,AGY-006,State Space Corporation Roscosmos,Russia,Deep Space Exploration,2035,10758.9,Exploratory,6,Funded - Phase A,synthetic
+PRJ-2027-243,Quantum Optical Satellite Communications Grid Phase 4,AGY-002,European Space Agency,Europe,Advanced Communications,2027,13873.4,Critical Strategic,3,Approved,synthetic
+PRJ-2032-244,Mars Sample Return Logistics Phase 1,AGY-003,Indian Space Research Organisation,India,Planetary Science,2032,14809.1,Critical Strategic,7,Funded - Phase A,synthetic
+PRJ-2025-245,Mars Sample Return Logistics Phase 2,AGY-004,Japan Aerospace Exploration Agency,Japan,Planetary Science,2025,13135.9,High Priority,6,Funded - Phase A,synthetic
+PRJ-2026-246,Lunar Gateway Orbital Habitation Node Phase 3,AGY-003,Indian Space Research Organisation,India,Orbital Infrastructure,2026,12836.7,Scientific Discovery,6,Approved,synthetic
+PRJ-2034-247,Deep Space Exoplanet Infrared Spectroscopy Phase 4,AGY-002,European Space Agency,Europe,Astrophysics,2034,12884.1,Critical Strategic,6,Proposed,synthetic
+PRJ-2034-248,Quantum Optical Satellite Communications Grid Phase 1,AGY-003,Indian Space Research Organisation,India,Advanced Communications,2034,15394.1,Critical Strategic,8,Proposed,synthetic
+PRJ-2034-249,NextGen Artemis Lunar Base Phase 2,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,Deep Space Exploration,2034,6962.4,Scientific Discovery,4,Funded - Phase A,synthetic
+PRJ-2034-250,Mars Sample Return Logistics Phase 3,AGY-002,European Space Agency,Europe,Planetary Science,2034,6099.1,Scientific Discovery,8,Phase B Development,synthetic
+PRJ-2031-251,Lunar Gateway Orbital Habitation Node Phase 4,AGY-005,China National Space Administration,China,Orbital Infrastructure,2031,15410.0,Scientific Discovery,3,Approved,synthetic
+PRJ-2032-252,NextGen Artemis Lunar Base Phase 1,AGY-001,National Aeronautics and Space Administration,United States,Deep Space Exploration,2032,18211.3,High Priority,5,Proposed,synthetic
+PRJ-2032-253,Quantum Optical Satellite Communications Grid Phase 2,AGY-002,European Space Agency,Europe,Advanced Communications,2032,6852.4,High Priority,4,Approved,synthetic
+PRJ-2035-254,Quantum Optical Satellite Communications Grid Phase 3,AGY-006,State Space Corporation Roscosmos,Russia,Advanced Communications,2035,14321.1,High Priority,8,Proposed,synthetic
+PRJ-2033-255,Quantum Optical Satellite Communications Grid Phase 4,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,Advanced Communications,2033,15536.2,Scientific Discovery,4,Phase B Development,synthetic
+PRJ-2032-256,Mars Sample Return Logistics Phase 1,AGY-002,European Space Agency,Europe,Planetary Science,2032,7783.8,High Priority,8,Approved,synthetic
+PRJ-2035-257,Mars Sample Return Logistics Phase 2,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,Planetary Science,2035,15828.1,Critical Strategic,8,Phase B Development,synthetic
+PRJ-2034-258,Lunar Gateway Orbital Habitation Node Phase 3,AGY-004,Japan Aerospace Exploration Agency,Japan,Orbital Infrastructure,2034,17224.3,Critical Strategic,7,Phase B Development,synthetic
+PRJ-2026-259,Deep Space Exoplanet Infrared Spectroscopy Phase 4,AGY-001,National Aeronautics and Space Administration,United States,Astrophysics,2026,13850.5,High Priority,8,Proposed,synthetic
+PRJ-2029-260,Quantum Optical Satellite Communications Grid Phase 1,AGY-004,Japan Aerospace Exploration Agency,Japan,Advanced Communications,2029,5133.9,Scientific Discovery,4,Funded - Phase A,synthetic
+PRJ-2033-261,Deep Space Exoplanet Infrared Spectroscopy Phase 2,AGY-005,China National Space Administration,China,Astrophysics,2033,13008.3,Exploratory,5,Phase B Development,synthetic
+PRJ-2025-262,Lunar Gateway Orbital Habitation Node Phase 3,AGY-002,European Space Agency,Europe,Orbital Infrastructure,2025,4247.3,Exploratory,4,Proposed,synthetic
+PRJ-2032-263,NextGen Artemis Lunar Base Phase 4,AGY-003,Indian Space Research Organisation,India,Deep Space Exploration,2032,13181.9,Exploratory,5,Funded - Phase A,synthetic
+PRJ-2028-264,Quantum Optical Satellite Communications Grid Phase 1,AGY-001,National Aeronautics and Space Administration,United States,Advanced Communications,2028,17445.9,Exploratory,3,Approved,synthetic
+PRJ-2031-265,NextGen Artemis Lunar Base Phase 2,AGY-003,Indian Space Research Organisation,India,Deep Space Exploration,2031,5479.1,Scientific Discovery,7,Funded - Phase A,synthetic
+PRJ-2032-266,Quantum Optical Satellite Communications Grid Phase 3,AGY-004,Japan Aerospace Exploration Agency,Japan,Advanced Communications,2032,3015.0,Critical Strategic,7,Proposed,synthetic
+PRJ-2026-267,Mars Sample Return Logistics Phase 4,AGY-001,National Aeronautics and Space Administration,United States,Planetary Science,2026,9477.2,High Priority,7,Phase B Development,synthetic
+PRJ-2030-268,Mars Sample Return Logistics Phase 1,AGY-003,Indian Space Research Organisation,India,Planetary Science,2030,1761.4,Exploratory,7,Funded - Phase A,synthetic
+PRJ-2028-269,Quantum Optical Satellite Communications Grid Phase 2,AGY-002,European Space Agency,Europe,Advanced Communications,2028,6154.7,Scientific Discovery,6,Approved,synthetic
+PRJ-2026-270,Mars Sample Return Logistics Phase 3,AGY-002,European Space Agency,Europe,Planetary Science,2026,14957.0,Exploratory,8,Proposed,synthetic
+PRJ-2031-271,NextGen Artemis Lunar Base Phase 4,AGY-004,Japan Aerospace Exploration Agency,Japan,Deep Space Exploration,2031,14490.8,Critical Strategic,7,Approved,synthetic
+PRJ-2031-272,Quantum Optical Satellite Communications Grid Phase 1,AGY-001,National Aeronautics and Space Administration,United States,Advanced Communications,2031,10574.0,High Priority,5,Proposed,synthetic
+PRJ-2035-273,Deep Space Exoplanet Infrared Spectroscopy Phase 2,AGY-004,Japan Aerospace Exploration Agency,Japan,Astrophysics,2035,5700.2,Exploratory,4,Funded - Phase A,synthetic
+PRJ-2030-274,Lunar Gateway Orbital Habitation Node Phase 3,AGY-001,National Aeronautics and Space Administration,United States,Orbital Infrastructure,2030,12135.0,High Priority,4,Funded - Phase A,synthetic
+PRJ-2027-275,NextGen Artemis Lunar Base Phase 4,AGY-003,Indian Space Research Organisation,India,Deep Space Exploration,2027,8612.6,Exploratory,4,Funded - Phase A,synthetic
+PRJ-2029-276,NextGen Artemis Lunar Base Phase 1,AGY-002,European Space Agency,Europe,Deep Space Exploration,2029,2611.5,Scientific Discovery,4,Phase B Development,synthetic
+PRJ-2034-277,Lunar Gateway Orbital Habitation Node Phase 2,AGY-002,European Space Agency,Europe,Orbital Infrastructure,2034,6421.9,Critical Strategic,8,Approved,synthetic
+PRJ-2033-278,Quantum Optical Satellite Communications Grid Phase 3,AGY-002,European Space Agency,Europe,Advanced Communications,2033,9832.9,Scientific Discovery,5,Phase B Development,synthetic
+PRJ-2034-279,Lunar Gateway Orbital Habitation Node Phase 4,AGY-001,National Aeronautics and Space Administration,United States,Orbital Infrastructure,2034,752.1,High Priority,4,Approved,synthetic
+PRJ-2033-280,Deep Space Exoplanet Infrared Spectroscopy Phase 1,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,Astrophysics,2033,3135.0,High Priority,8,Funded - Phase A,synthetic
+PRJ-2029-281,NextGen Artemis Lunar Base Phase 2,AGY-005,China National Space Administration,China,Deep Space Exploration,2029,14915.0,Scientific Discovery,4,Phase B Development,synthetic
+PRJ-2030-282,NextGen Artemis Lunar Base Phase 3,AGY-003,Indian Space Research Organisation,India,Deep Space Exploration,2030,8934.0,Critical Strategic,4,Proposed,synthetic
+PRJ-2026-283,Mars Sample Return Logistics Phase 4,AGY-006,State Space Corporation Roscosmos,Russia,Planetary Science,2026,7005.1,Scientific Discovery,3,Phase B Development,synthetic
+PRJ-2032-284,Quantum Optical Satellite Communications Grid Phase 1,AGY-004,Japan Aerospace Exploration Agency,Japan,Advanced Communications,2032,3517.5,Exploratory,8,Phase B Development,synthetic
+PRJ-2033-285,Deep Space Exoplanet Infrared Spectroscopy Phase 2,AGY-005,China National Space Administration,China,Astrophysics,2033,904.8,High Priority,6,Proposed,synthetic
+PRJ-2032-286,Lunar Gateway Orbital Habitation Node Phase 3,AGY-001,National Aeronautics and Space Administration,United States,Orbital Infrastructure,2032,10320.3,High Priority,4,Funded - Phase A,synthetic
+PRJ-2029-287,NextGen Artemis Lunar Base Phase 4,AGY-004,Japan Aerospace Exploration Agency,Japan,Deep Space Exploration,2029,3706.3,Scientific Discovery,3,Funded - Phase A,synthetic
+PRJ-2027-288,NextGen Artemis Lunar Base Phase 1,AGY-003,Indian Space Research Organisation,India,Deep Space Exploration,2027,16380.4,Scientific Discovery,3,Approved,synthetic
+PRJ-2030-289,Lunar Gateway Orbital Habitation Node Phase 2,AGY-004,Japan Aerospace Exploration Agency,Japan,Orbital Infrastructure,2030,11696.2,Scientific Discovery,6,Proposed,synthetic
+PRJ-2027-290,NextGen Artemis Lunar Base Phase 3,AGY-003,Indian Space Research Organisation,India,Deep Space Exploration,2027,11187.0,Scientific Discovery,7,Phase B Development,synthetic
+PRJ-2030-291,Mars Sample Return Logistics Phase 4,AGY-006,State Space Corporation Roscosmos,Russia,Planetary Science,2030,8742.6,Critical Strategic,7,Approved,synthetic
+PRJ-2025-292,Deep Space Exoplanet Infrared Spectroscopy Phase 1,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,Astrophysics,2025,2904.5,Exploratory,7,Approved,synthetic
+PRJ-2030-293,Deep Space Exoplanet Infrared Spectroscopy Phase 2,AGY-003,Indian Space Research Organisation,India,Astrophysics,2030,13669.1,Exploratory,3,Funded - Phase A,synthetic
+PRJ-2029-294,Lunar Gateway Orbital Habitation Node Phase 3,AGY-006,State Space Corporation Roscosmos,Russia,Orbital Infrastructure,2029,1816.8,High Priority,4,Proposed,synthetic
+PRJ-2032-295,Lunar Gateway Orbital Habitation Node Phase 4,AGY-001,National Aeronautics and Space Administration,United States,Orbital Infrastructure,2032,10987.7,Critical Strategic,6,Phase B Development,synthetic
+PRJ-2031-296,Deep Space Exoplanet Infrared Spectroscopy Phase 1,AGY-001,National Aeronautics and Space Administration,United States,Astrophysics,2031,17863.3,Exploratory,6,Phase B Development,synthetic
+PRJ-2026-297,Quantum Optical Satellite Communications Grid Phase 2,AGY-004,Japan Aerospace Exploration Agency,Japan,Advanced Communications,2026,5827.1,Critical Strategic,5,Funded - Phase A,synthetic
+PRJ-2030-298,Deep Space Exoplanet Infrared Spectroscopy Phase 3,AGY-004,Japan Aerospace Exploration Agency,Japan,Astrophysics,2030,16819.8,High Priority,5,Funded - Phase A,synthetic
+PRJ-2032-299,Lunar Gateway Orbital Habitation Node Phase 4,AGY-001,National Aeronautics and Space Administration,United States,Orbital Infrastructure,2032,7343.7,High Priority,6,Proposed,synthetic
+PRJ-2035-300,Quantum Optical Satellite Communications Grid Phase 1,AGY-004,Japan Aerospace Exploration Agency,Japan,Advanced Communications,2035,5149.4,Scientific Discovery,3,Funded - Phase A,synthetic
+PRJ-2025-301,Lunar Gateway Orbital Habitation Node Phase 2,AGY-001,National Aeronautics and Space Administration,United States,Orbital Infrastructure,2025,2452.7,Scientific Discovery,8,Approved,synthetic
+PRJ-2025-302,NextGen Artemis Lunar Base Phase 3,AGY-005,China National Space Administration,China,Deep Space Exploration,2025,12369.9,Exploratory,7,Approved,synthetic
+PRJ-2028-303,Quantum Optical Satellite Communications Grid Phase 4,AGY-004,Japan Aerospace Exploration Agency,Japan,Advanced Communications,2028,13002.4,Exploratory,3,Approved,synthetic
+PRJ-2033-304,NextGen Artemis Lunar Base Phase 1,AGY-006,State Space Corporation Roscosmos,Russia,Deep Space Exploration,2033,5758.0,Exploratory,6,Approved,synthetic
+PRJ-2026-305,Deep Space Exoplanet Infrared Spectroscopy Phase 2,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,Astrophysics,2026,10920.2,Critical Strategic,6,Approved,synthetic
+PRJ-2034-306,Mars Sample Return Logistics Phase 3,AGY-003,Indian Space Research Organisation,India,Planetary Science,2034,11022.9,High Priority,5,Phase B Development,synthetic
+PRJ-2035-307,Lunar Gateway Orbital Habitation Node Phase 4,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,Orbital Infrastructure,2035,14498.1,Critical Strategic,8,Funded - Phase A,synthetic
+PRJ-2031-308,Lunar Gateway Orbital Habitation Node Phase 1,AGY-004,Japan Aerospace Exploration Agency,Japan,Orbital Infrastructure,2031,9631.8,Critical Strategic,8,Approved,synthetic
+PRJ-2029-309,Lunar Gateway Orbital Habitation Node Phase 2,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,Orbital Infrastructure,2029,5421.7,Scientific Discovery,8,Proposed,synthetic
+PRJ-2035-310,Lunar Gateway Orbital Habitation Node Phase 3,AGY-003,Indian Space Research Organisation,India,Orbital Infrastructure,2035,1831.6,Critical Strategic,6,Proposed,synthetic
+PRJ-2035-311,Quantum Optical Satellite Communications Grid Phase 4,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,Advanced Communications,2035,11890.5,Exploratory,4,Funded - Phase A,synthetic
+PRJ-2025-312,Mars Sample Return Logistics Phase 1,AGY-001,National Aeronautics and Space Administration,United States,Planetary Science,2025,7285.5,High Priority,3,Funded - Phase A,synthetic
+PRJ-2027-313,Quantum Optical Satellite Communications Grid Phase 2,AGY-005,China National Space Administration,China,Advanced Communications,2027,16004.2,Critical Strategic,3,Phase B Development,synthetic
+PRJ-2031-314,Deep Space Exoplanet Infrared Spectroscopy Phase 3,AGY-005,China National Space Administration,China,Astrophysics,2031,8028.5,Exploratory,5,Approved,synthetic
+PRJ-2030-315,Lunar Gateway Orbital Habitation Node Phase 4,AGY-003,Indian Space Research Organisation,India,Orbital Infrastructure,2030,10178.5,Critical Strategic,4,Funded - Phase A,synthetic
+PRJ-2030-316,Mars Sample Return Logistics Phase 1,AGY-002,European Space Agency,Europe,Planetary Science,2030,16881.5,Scientific Discovery,7,Approved,synthetic
+PRJ-2034-317,Mars Sample Return Logistics Phase 2,AGY-006,State Space Corporation Roscosmos,Russia,Planetary Science,2034,16132.0,High Priority,4,Proposed,synthetic
+PRJ-2031-318,Lunar Gateway Orbital Habitation Node Phase 3,AGY-002,European Space Agency,Europe,Orbital Infrastructure,2031,17350.1,Critical Strategic,8,Phase B Development,synthetic
+PRJ-2035-319,NextGen Artemis Lunar Base Phase 4,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,Deep Space Exploration,2035,6894.9,High Priority,8,Proposed,synthetic
+PRJ-2028-320,Quantum Optical Satellite Communications Grid Phase 1,AGY-004,Japan Aerospace Exploration Agency,Japan,Advanced Communications,2028,10523.6,Critical Strategic,3,Approved,synthetic
+PRJ-2026-321,NextGen Artemis Lunar Base Phase 2,AGY-004,Japan Aerospace Exploration Agency,Japan,Deep Space Exploration,2026,6292.1,Exploratory,7,Funded - Phase A,synthetic
+PRJ-2033-322,Lunar Gateway Orbital Habitation Node Phase 3,AGY-003,Indian Space Research Organisation,India,Orbital Infrastructure,2033,1475.3,Exploratory,7,Phase B Development,synthetic
+PRJ-2035-323,Deep Space Exoplanet Infrared Spectroscopy Phase 4,AGY-005,China National Space Administration,China,Astrophysics,2035,3901.5,Scientific Discovery,8,Proposed,synthetic
+PRJ-2029-324,Quantum Optical Satellite Communications Grid Phase 1,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,Advanced Communications,2029,1854.2,Exploratory,5,Funded - Phase A,synthetic
+PRJ-2031-325,NextGen Artemis Lunar Base Phase 2,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,Deep Space Exploration,2031,14777.4,Critical Strategic,8,Funded - Phase A,synthetic
+PRJ-2033-326,Lunar Gateway Orbital Habitation Node Phase 3,AGY-003,Indian Space Research Organisation,India,Orbital Infrastructure,2033,6356.6,Critical Strategic,4,Funded - Phase A,synthetic
+PRJ-2031-327,Lunar Gateway Orbital Habitation Node Phase 4,AGY-005,China National Space Administration,China,Orbital Infrastructure,2031,3824.0,Exploratory,8,Proposed,synthetic
+PRJ-2035-328,Quantum Optical Satellite Communications Grid Phase 1,AGY-005,China National Space Administration,China,Advanced Communications,2035,1102.5,Critical Strategic,5,Phase B Development,synthetic
+PRJ-2027-329,Lunar Gateway Orbital Habitation Node Phase 2,AGY-006,State Space Corporation Roscosmos,Russia,Orbital Infrastructure,2027,6916.2,Exploratory,8,Phase B Development,synthetic
+PRJ-2032-330,Deep Space Exoplanet Infrared Spectroscopy Phase 3,AGY-006,State Space Corporation Roscosmos,Russia,Astrophysics,2032,12327.0,Scientific Discovery,4,Proposed,synthetic
+PRJ-2031-331,Lunar Gateway Orbital Habitation Node Phase 4,AGY-006,State Space Corporation Roscosmos,Russia,Orbital Infrastructure,2031,16290.5,Scientific Discovery,6,Proposed,synthetic
+PRJ-2028-332,NextGen Artemis Lunar Base Phase 1,AGY-005,China National Space Administration,China,Deep Space Exploration,2028,13171.5,Critical Strategic,8,Funded - Phase A,synthetic
+PRJ-2026-333,Quantum Optical Satellite Communications Grid Phase 2,AGY-005,China National Space Administration,China,Advanced Communications,2026,949.9,High Priority,4,Funded - Phase A,synthetic
+PRJ-2035-334,Lunar Gateway Orbital Habitation Node Phase 3,AGY-005,China National Space Administration,China,Orbital Infrastructure,2035,13288.8,High Priority,7,Approved,synthetic
+PRJ-2034-335,Deep Space Exoplanet Infrared Spectroscopy Phase 4,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,Astrophysics,2034,12883.4,Exploratory,3,Phase B Development,synthetic
+PRJ-2029-336,NextGen Artemis Lunar Base Phase 1,AGY-005,China National Space Administration,China,Deep Space Exploration,2029,15612.9,Scientific Discovery,5,Funded - Phase A,synthetic
+PRJ-2029-337,Deep Space Exoplanet Infrared Spectroscopy Phase 2,AGY-002,European Space Agency,Europe,Astrophysics,2029,6781.2,High Priority,8,Approved,synthetic
+PRJ-2033-338,Deep Space Exoplanet Infrared Spectroscopy Phase 3,AGY-002,European Space Agency,Europe,Astrophysics,2033,15934.5,High Priority,8,Proposed,synthetic
+PRJ-2025-339,Lunar Gateway Orbital Habitation Node Phase 4,AGY-005,China National Space Administration,China,Orbital Infrastructure,2025,9214.6,Critical Strategic,5,Proposed,synthetic
+PRJ-2029-340,Mars Sample Return Logistics Phase 1,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,Planetary Science,2029,4476.3,High Priority,6,Funded - Phase A,synthetic
+PRJ-2031-341,Mars Sample Return Logistics Phase 2,AGY-003,Indian Space Research Organisation,India,Planetary Science,2031,2247.4,Exploratory,5,Phase B Development,synthetic
+PRJ-2029-342,Quantum Optical Satellite Communications Grid Phase 3,AGY-002,European Space Agency,Europe,Advanced Communications,2029,11922.0,Scientific Discovery,6,Approved,synthetic
+PRJ-2026-343,Lunar Gateway Orbital Habitation Node Phase 4,AGY-005,China National Space Administration,China,Orbital Infrastructure,2026,9556.6,Critical Strategic,8,Phase B Development,synthetic
+PRJ-2030-344,Lunar Gateway Orbital Habitation Node Phase 1,AGY-004,Japan Aerospace Exploration Agency,Japan,Orbital Infrastructure,2030,9824.5,Exploratory,6,Approved,synthetic
+PRJ-2032-345,Mars Sample Return Logistics Phase 2,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,Planetary Science,2032,14492.2,Exploratory,5,Approved,synthetic
+PRJ-2028-346,Mars Sample Return Logistics Phase 3,AGY-003,Indian Space Research Organisation,India,Planetary Science,2028,13592.3,Scientific Discovery,8,Proposed,synthetic
+PRJ-2034-347,Deep Space Exoplanet Infrared Spectroscopy Phase 4,AGY-001,National Aeronautics and Space Administration,United States,Astrophysics,2034,12253.2,High Priority,4,Phase B Development,synthetic
+PRJ-2033-348,Mars Sample Return Logistics Phase 1,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,Planetary Science,2033,15948.7,Scientific Discovery,6,Phase B Development,synthetic
+PRJ-2031-349,NextGen Artemis Lunar Base Phase 2,AGY-002,European Space Agency,Europe,Deep Space Exploration,2031,8852.4,High Priority,4,Funded - Phase A,synthetic
+PRJ-2034-350,Mars Sample Return Logistics Phase 3,AGY-003,Indian Space Research Organisation,India,Planetary Science,2034,5749.6,High Priority,5,Phase B Development,synthetic
+PRJ-2026-351,Mars Sample Return Logistics Phase 4,AGY-002,European Space Agency,Europe,Planetary Science,2026,13849.2,Scientific Discovery,3,Phase B Development,synthetic
+PRJ-2027-352,NextGen Artemis Lunar Base Phase 1,AGY-001,National Aeronautics and Space Administration,United States,Deep Space Exploration,2027,13737.3,Exploratory,6,Phase B Development,synthetic
+PRJ-2026-353,Lunar Gateway Orbital Habitation Node Phase 2,AGY-005,China National Space Administration,China,Orbital Infrastructure,2026,11334.3,Scientific Discovery,8,Approved,synthetic
+PRJ-2028-354,Mars Sample Return Logistics Phase 3,AGY-003,Indian Space Research Organisation,India,Planetary Science,2028,12041.6,Scientific Discovery,7,Funded - Phase A,synthetic
+PRJ-2026-355,Mars Sample Return Logistics Phase 4,AGY-006,State Space Corporation Roscosmos,Russia,Planetary Science,2026,12070.1,Critical Strategic,3,Phase B Development,synthetic
+PRJ-2035-356,Mars Sample Return Logistics Phase 1,AGY-001,National Aeronautics and Space Administration,United States,Planetary Science,2035,16305.6,High Priority,7,Approved,synthetic
+PRJ-2031-357,Quantum Optical Satellite Communications Grid Phase 2,AGY-006,State Space Corporation Roscosmos,Russia,Advanced Communications,2031,891.7,Critical Strategic,5,Proposed,synthetic
+PRJ-2031-358,Quantum Optical Satellite Communications Grid Phase 3,AGY-001,National Aeronautics and Space Administration,United States,Advanced Communications,2031,8901.3,Scientific Discovery,4,Approved,synthetic
+PRJ-2035-359,Lunar Gateway Orbital Habitation Node Phase 4,AGY-005,China National Space Administration,China,Orbital Infrastructure,2035,3844.8,Exploratory,5,Approved,synthetic

@@ -1,0 +1,61 @@
+domain,item_name,mission_priority_tier,demand_units,allocated_units,unmet_units,fulfillment_pct
+equipment_demand,Cryogenic Tanks,Tier 1: Critical Strategic,210.2,210.2,0.0,100.0
+equipment_demand,Cryogenic Tanks,Tier 2: High Priority,183.9,15.8,168.0,8.59
+equipment_demand,Cryogenic Tanks,Tier 3: Scientific Discovery,78.8,0.0,78.8,0.0
+equipment_demand,Cryogenic Tanks,Tier 4: Exploratory & Technology Demo,52.5,0.0,52.5,0.0
+equipment_demand,High-Efficiency Solar Arrays,Tier 1: Critical Strategic,214.3,180.0,34.3,83.99
+equipment_demand,High-Efficiency Solar Arrays,Tier 2: High Priority,187.5,0.0,187.5,0.0
+equipment_demand,High-Efficiency Solar Arrays,Tier 3: Scientific Discovery,80.4,0.0,80.4,0.0
+equipment_demand,High-Efficiency Solar Arrays,Tier 4: Exploratory & Technology Demo,53.6,0.0,53.6,0.0
+equipment_demand,Ion Propulsion Engines,Tier 1: Critical Strategic,213.4,180.0,33.4,84.35
+equipment_demand,Ion Propulsion Engines,Tier 2: High Priority,186.7,0.0,186.7,0.0
+equipment_demand,Ion Propulsion Engines,Tier 3: Scientific Discovery,80.0,0.0,80.0,0.0
+equipment_demand,Ion Propulsion Engines,Tier 4: Exploratory & Technology Demo,53.3,0.0,53.3,0.0
+equipment_demand,Optical Inter-Satellite Links,Tier 1: Critical Strategic,232.0,232.0,0.0,100.0
+equipment_demand,Optical Inter-Satellite Links,Tier 2: High Priority,203.0,203.0,0.0,100.0
+equipment_demand,Optical Inter-Satellite Links,Tier 3: Scientific Discovery,87.0,87.0,0.0,100.0
+equipment_demand,Optical Inter-Satellite Links,Tier 4: Exploratory & Technology Demo,58.0,58.0,0.0,100.0
+equipment_demand,Radiation-Hardened Rad-750 CPUs,Tier 1: Critical Strategic,237.0,237.0,0.0,100.0
+equipment_demand,Radiation-Hardened Rad-750 CPUs,Tier 2: High Priority,207.4,207.4,0.0,100.0
+equipment_demand,Radiation-Hardened Rad-750 CPUs,Tier 3: Scientific Discovery,88.9,88.9,0.0,100.0
+equipment_demand,Radiation-Hardened Rad-750 CPUs,Tier 4: Exploratory & Technology Demo,59.3,58.7,0.6,98.99
+equipment_demand,Reaction Wheels,Tier 1: Critical Strategic,212.0,198.0,14.0,93.4
+equipment_demand,Reaction Wheels,Tier 2: High Priority,185.5,0.0,185.5,0.0
+equipment_demand,Reaction Wheels,Tier 3: Scientific Discovery,79.5,0.0,79.5,0.0
+equipment_demand,Reaction Wheels,Tier 4: Exploratory & Technology Demo,53.0,0.0,53.0,0.0
+equipment_demand,SAR Radar Antennas,Tier 1: Critical Strategic,235.3,219.0,16.3,93.07
+equipment_demand,SAR Radar Antennas,Tier 2: High Priority,205.9,0.0,205.9,0.0
+equipment_demand,SAR Radar Antennas,Tier 3: Scientific Discovery,88.2,0.0,88.2,0.0
+equipment_demand,SAR Radar Antennas,Tier 4: Exploratory & Technology Demo,58.8,0.0,58.8,0.0
+equipment_demand,Star Trackers,Tier 1: Critical Strategic,208.2,180.0,28.2,86.46
+equipment_demand,Star Trackers,Tier 2: High Priority,182.2,0.0,182.2,0.0
+equipment_demand,Star Trackers,Tier 3: Scientific Discovery,78.1,0.0,78.1,0.0
+equipment_demand,Star Trackers,Tier 4: Exploratory & Technology Demo,52.1,0.0,52.1,0.0
+resource_consumption,Cryogenic Liquid Oxygen (LOX),Tier 1: Critical Strategic,487.0,487.0,0.0,100.0
+resource_consumption,Cryogenic Liquid Oxygen (LOX),Tier 2: High Priority,426.1,426.1,0.0,100.0
+resource_consumption,Cryogenic Liquid Oxygen (LOX),Tier 3: Scientific Discovery,182.6,182.6,0.0,100.0
+resource_consumption,Cryogenic Liquid Oxygen (LOX),Tier 4: Exploratory & Technology Demo,121.8,121.8,0.0,100.0
+resource_consumption,Deep Space Telemetry (Tbps),Tier 1: Critical Strategic,366.4,366.4,0.0,100.0
+resource_consumption,Deep Space Telemetry (Tbps),Tier 2: High Priority,320.6,320.6,0.0,100.0
+resource_consumption,Deep Space Telemetry (Tbps),Tier 3: Scientific Discovery,137.4,137.4,0.0,100.0
+resource_consumption,Deep Space Telemetry (Tbps),Tier 4: Exploratory & Technology Demo,91.6,91.6,0.0,100.0
+resource_consumption,Hypergolic Hydrazine,Tier 1: Critical Strategic,370.1,370.1,0.0,100.0
+resource_consumption,Hypergolic Hydrazine,Tier 2: High Priority,323.9,323.9,0.0,100.0
+resource_consumption,Hypergolic Hydrazine,Tier 3: Scientific Discovery,138.8,138.8,0.0,100.0
+resource_consumption,Hypergolic Hydrazine,Tier 4: Exploratory & Technology Demo,92.5,92.5,0.0,100.0
+resource_consumption,Liquid Hydrogen (LH2),Tier 1: Critical Strategic,368.0,368.0,0.0,100.0
+resource_consumption,Liquid Hydrogen (LH2),Tier 2: High Priority,322.0,322.0,0.0,100.0
+resource_consumption,Liquid Hydrogen (LH2),Tier 3: Scientific Discovery,138.0,138.0,0.0,100.0
+resource_consumption,Liquid Hydrogen (LH2),Tier 4: Exploratory & Technology Demo,92.0,92.0,0.0,100.0
+resource_consumption,RP-1 Rocket Fuel,Tier 1: Critical Strategic,484.4,484.4,0.0,100.0
+resource_consumption,RP-1 Rocket Fuel,Tier 2: High Priority,423.8,423.8,0.0,100.0
+resource_consumption,RP-1 Rocket Fuel,Tier 3: Scientific Discovery,181.7,181.7,0.0,100.0
+resource_consumption,RP-1 Rocket Fuel,Tier 4: Exploratory & Technology Demo,121.1,121.1,0.0,100.0
+resource_consumption,Radiation Shielding Alloys,Tier 1: Critical Strategic,371.5,371.5,0.0,100.0
+resource_consumption,Radiation Shielding Alloys,Tier 2: High Priority,325.1,325.1,0.0,100.0
+resource_consumption,Radiation Shielding Alloys,Tier 3: Scientific Discovery,139.3,139.3,0.0,100.0
+resource_consumption,Radiation Shielding Alloys,Tier 4: Exploratory & Technology Demo,92.9,92.9,0.0,100.0
+resource_consumption,Solar Power Generation (kW),Tier 1: Critical Strategic,374.0,374.0,0.0,100.0
+resource_consumption,Solar Power Generation (kW),Tier 2: High Priority,327.2,327.2,0.0,100.0
+resource_consumption,Solar Power Generation (kW),Tier 3: Scientific Discovery,140.2,140.2,0.0,100.0
+resource_consumption,Solar Power Generation (kW),Tier 4: Exploratory & Technology Demo,93.5,93.5,0.0,100.0

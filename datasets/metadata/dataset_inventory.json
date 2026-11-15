@@ -1,0 +1,657 @@
+{
+  "total_files": 32,
+  "total_records_cataloged": 51548,
+  "categories": {
+    "reference": 4,
+    "raw_public": 2,
+    "raw_synthetic": 9,
+    "raw_existing": 9,
+    "validated": 0,
+    "rejected": 0,
+    "processed": 8
+  },
+  "inventory": {
+    "reference": [
+      {
+        "filename": "agencies.csv",
+        "relative_path": "datasets\\reference\\agencies\\agencies.csv",
+        "category": "reference",
+        "rows": 7,
+        "columns": 7,
+        "size_bytes": 729,
+        "data_origin": "synthetic",
+        "domain": "Reference / Master Data",
+        "sample_columns": [
+          "agency_id",
+          "agency_name",
+          "agency_code",
+          "country",
+          "headquarters",
+          "founded_year",
+          "agency_type"
+        ]
+      },
+      {
+        "filename": "components.csv",
+        "relative_path": "datasets\\reference\\components\\components.csv",
+        "category": "reference",
+        "rows": 8,
+        "columns": 8,
+        "size_bytes": 1342,
+        "data_origin": "synthetic",
+        "domain": "Reference / Master Data",
+        "sample_columns": [
+          "component_id",
+          "component_name",
+          "component_category",
+          "typical_unit",
+          "subsystem",
+          "criticality_tier",
+          "typical_lead_time_days",
+          "target_satellite_class"
+        ]
+      },
+      {
+        "filename": "resources.csv",
+        "relative_path": "datasets\\reference\\resources\\resources.csv",
+        "category": "reference",
+        "rows": 7,
+        "columns": 7,
+        "size_bytes": 1076,
+        "data_origin": "synthetic",
+        "domain": "Reference / Master Data",
+        "sample_columns": [
+          "resource_id",
+          "resource_name",
+          "resource_category",
+          "unit_of_measure",
+          "base_cost_usd_per_unit",
+          "hazard_class",
+          "storage_specification"
+        ]
+      },
+      {
+        "filename": "units.csv",
+        "relative_path": "datasets\\reference\\units\\units.csv",
+        "category": "reference",
+        "rows": 12,
+        "columns": 6,
+        "size_bytes": 737,
+        "data_origin": "synthetic",
+        "domain": "Reference / Master Data",
+        "sample_columns": [
+          "unit_code",
+          "unit_name",
+          "dimension",
+          "si_base_equivalent",
+          "symbol",
+          "conversion_factor_to_si"
+        ]
+      }
+    ],
+    "raw_public": [
+      {
+        "filename": "nasa_public_space_missions.csv",
+        "relative_path": "datasets\\raw\\public\\nasa_public_space_missions.csv",
+        "category": "raw_public",
+        "rows": 8,
+        "columns": 19,
+        "size_bytes": 2661,
+        "data_origin": "real",
+        "domain": "Reference / Master Data",
+        "sample_columns": [
+          "mission_id",
+          "official_designation",
+          "mission_name",
+          "agency",
+          "cooperating_agencies",
+          "mission_type",
+          "launch_date",
+          "year"
+        ]
+      },
+      {
+        "filename": "public_satellite_registry.csv",
+        "relative_path": "datasets\\raw\\public\\public_satellite_registry.csv",
+        "category": "raw_public",
+        "rows": 4,
+        "columns": 13,
+        "size_bytes": 831,
+        "data_origin": "real",
+        "domain": "Reference / Master Data",
+        "sample_columns": [
+          "satellite_id",
+          "norad_id",
+          "cospar_id",
+          "satellite_name",
+          "operator_agency",
+          "country",
+          "orbit_type",
+          "altitude_km"
+        ]
+      }
+    ],
+    "raw_synthetic": [
+      {
+        "filename": "agency_research_expenditures.csv",
+        "relative_path": "datasets\\raw\\synthetic\\agency_research_expenditures.csv",
+        "category": "raw_synthetic",
+        "rows": 1414,
+        "columns": 14,
+        "size_bytes": 186621,
+        "data_origin": "synthetic",
+        "domain": "Infrastructure and Research Investment",
+        "sample_columns": [
+          "expenditure_id",
+          "date",
+          "year",
+          "month",
+          "quarter",
+          "agency_id",
+          "agency_name",
+          "country"
+        ]
+      },
+      {
+        "filename": "equipment_component_demand.csv",
+        "relative_path": "datasets\\raw\\synthetic\\equipment_component_demand.csv",
+        "category": "raw_synthetic",
+        "rows": 11312,
+        "columns": 20,
+        "size_bytes": 2523735,
+        "data_origin": "synthetic",
+        "domain": "Satellite Component Demand",
+        "sample_columns": [
+          "demand_id",
+          "date",
+          "year",
+          "month",
+          "quarter",
+          "component_id",
+          "component_name",
+          "component_category"
+        ]
+      },
+      {
+        "filename": "launch_activities.csv",
+        "relative_path": "datasets\\raw\\synthetic\\launch_activities.csv",
+        "category": "raw_synthetic",
+        "rows": 1200,
+        "columns": 13,
+        "size_bytes": 150703,
+        "data_origin": "synthetic",
+        "domain": "Launch and Mission Requirements",
+        "sample_columns": [
+          "launch_id",
+          "mission_id",
+          "launch_date",
+          "year",
+          "month",
+          "vehicle",
+          "launch_site",
+          "country"
+        ]
+      },
+      {
+        "filename": "research_investment_future_projects.csv",
+        "relative_path": "datasets\\raw\\synthetic\\research_investment_future_projects.csv",
+        "category": "raw_synthetic",
+        "rows": 160,
+        "columns": 12,
+        "size_bytes": 30416,
+        "data_origin": "synthetic",
+        "domain": "Infrastructure and Research Investment",
+        "sample_columns": [
+          "project_id",
+          "project_title",
+          "agency_id",
+          "lead_agency",
+          "country",
+          "research_theme",
+          "target_commencement_year",
+          "estimated_investment_million_usd"
+        ]
+      },
+      {
+        "filename": "resource_consumption.csv",
+        "relative_path": "datasets\\raw\\synthetic\\resource_consumption.csv",
+        "category": "raw_synthetic",
+        "rows": 9898,
+        "columns": 15,
+        "size_bytes": 1960811,
+        "data_origin": "synthetic",
+        "domain": "Space Research Resource Consumption",
+        "sample_columns": [
+          "consumption_id",
+          "date",
+          "year",
+          "month",
+          "quarter",
+          "resource_id",
+          "resource_name",
+          "resource_category"
+        ]
+      },
+      {
+        "filename": "satellites_orbital.csv",
+        "relative_path": "datasets\\raw\\synthetic\\satellites_orbital.csv",
+        "category": "raw_synthetic",
+        "rows": 2400,
+        "columns": 15,
+        "size_bytes": 418216,
+        "data_origin": "synthetic",
+        "domain": "Launch and Mission Requirements",
+        "sample_columns": [
+          "satellite_id",
+          "satellite_name",
+          "operator_agency_id",
+          "operator_agency_name",
+          "associated_mission_id",
+          "orbit_type",
+          "altitude_km",
+          "inclination_deg"
+        ]
+      },
+      {
+        "filename": "satellite_manufacturing_requirements.csv",
+        "relative_path": "datasets\\raw\\synthetic\\satellite_manufacturing_requirements.csv",
+        "category": "raw_synthetic",
+        "rows": 600,
+        "columns": 10,
+        "size_bytes": 74952,
+        "data_origin": "synthetic",
+        "domain": "Satellite Manufacturing Requirements",
+        "sample_columns": [
+          "order_id",
+          "agency_id",
+          "agency_client",
+          "satellite_class",
+          "units_ordered",
+          "delivery_year",
+          "cleanroom_hours_required",
+          "vibration_testing_pass"
+        ]
+      },
+      {
+        "filename": "space_infrastructure_requirements.csv",
+        "relative_path": "datasets\\raw\\synthetic\\space_infrastructure_requirements.csv",
+        "category": "raw_synthetic",
+        "rows": 1010,
+        "columns": 13,
+        "size_bytes": 194875,
+        "data_origin": "synthetic",
+        "domain": "Infrastructure and Research Investment",
+        "sample_columns": [
+          "infrastructure_record_id",
+          "date",
+          "year",
+          "month",
+          "facility_name",
+          "facility_type",
+          "agency_id",
+          "agency_name"
+        ]
+      },
+      {
+        "filename": "space_missions.csv",
+        "relative_path": "datasets\\raw\\synthetic\\space_missions.csv",
+        "category": "raw_synthetic",
+        "rows": 1500,
+        "columns": 14,
+        "size_bytes": 252757,
+        "data_origin": "synthetic",
+        "domain": "Launch and Mission Requirements",
+        "sample_columns": [
+          "mission_id",
+          "mission_name",
+          "agency_id",
+          "agency_name",
+          "mission_type",
+          "launch_date",
+          "year",
+          "quarter"
+        ]
+      }
+    ],
+    "raw_existing": [
+      {
+        "filename": "agency_research_expenditures.csv",
+        "relative_path": "datasets\\raw\\existing\\agency_research_expenditures.csv",
+        "category": "raw_existing",
+        "rows": 1414,
+        "columns": 8,
+        "size_bytes": 87303,
+        "data_origin": "synthetic",
+        "domain": "Infrastructure and Research Investment",
+        "sample_columns": [
+          "date",
+          "year",
+          "month",
+          "agency",
+          "rd_expenditure_million_usd",
+          "infrastructure_expenditure_million_usd",
+          "mission_operations_million_usd",
+          "total_monthly_expenditure_million_usd"
+        ]
+      },
+      {
+        "filename": "equipment_component_demand.csv",
+        "relative_path": "datasets\\raw\\existing\\equipment_component_demand.csv",
+        "category": "raw_existing",
+        "rows": 1616,
+        "columns": 9,
+        "size_bytes": 109116,
+        "data_origin": "synthetic",
+        "domain": "Satellite Component Demand",
+        "sample_columns": [
+          "date",
+          "year",
+          "month",
+          "equipment_type",
+          "units_demanded",
+          "avg_unit_cost_thousand_usd",
+          "total_demand_value_million_usd",
+          "lead_time_days"
+        ]
+      },
+      {
+        "filename": "launch_activities.csv",
+        "relative_path": "datasets\\raw\\existing\\launch_activities.csv",
+        "category": "raw_existing",
+        "rows": 1200,
+        "columns": 10,
+        "size_bytes": 110997,
+        "data_origin": "synthetic",
+        "domain": "Launch and Mission Requirements",
+        "sample_columns": [
+          "launch_id",
+          "launch_date",
+          "year",
+          "month",
+          "vehicle",
+          "launch_site",
+          "launch_outcome",
+          "commercial_flag"
+        ]
+      },
+      {
+        "filename": "research_investment_future_projects.csv",
+        "relative_path": "datasets\\raw\\existing\\research_investment_future_projects.csv",
+        "category": "raw_existing",
+        "rows": 150,
+        "columns": 7,
+        "size_bytes": 14230,
+        "data_origin": "synthetic",
+        "domain": "Infrastructure and Research Investment",
+        "sample_columns": [
+          "project_code",
+          "project_title",
+          "lead_agency",
+          "target_commencement_year",
+          "estimated_investment_billion_usd",
+          "priority_tier",
+          "readiness_level_TRL"
+        ]
+      },
+      {
+        "filename": "resource_consumption.csv",
+        "relative_path": "datasets\\raw\\existing\\resource_consumption.csv",
+        "category": "raw_existing",
+        "rows": 1414,
+        "columns": 7,
+        "size_bytes": 94997,
+        "data_origin": "synthetic",
+        "domain": "Space Research Resource Consumption",
+        "sample_columns": [
+          "date",
+          "year",
+          "month",
+          "resource_name",
+          "quantity_consumed",
+          "unit_of_measure",
+          "procurement_cost_k_usd"
+        ]
+      },
+      {
+        "filename": "satellites_orbital.csv",
+        "relative_path": "datasets\\raw\\existing\\satellites_orbital.csv",
+        "category": "raw_existing",
+        "rows": 2400,
+        "columns": 12,
+        "size_bytes": 285698,
+        "data_origin": "synthetic",
+        "domain": "Launch and Mission Requirements",
+        "sample_columns": [
+          "satellite_id",
+          "satellite_name",
+          "operator_agency",
+          "orbit_type",
+          "altitude_km",
+          "inclination_deg",
+          "launch_year",
+          "expected_lifetime_years"
+        ]
+      },
+      {
+        "filename": "satellite_manufacturing_requirements.csv",
+        "relative_path": "datasets\\raw\\existing\\satellite_manufacturing_requirements.csv",
+        "category": "raw_existing",
+        "rows": 600,
+        "columns": 8,
+        "size_bytes": 51479,
+        "data_origin": "synthetic",
+        "domain": "Satellite Manufacturing Requirements",
+        "sample_columns": [
+          "order_id",
+          "agency_client",
+          "satellite_class",
+          "units_ordered",
+          "delivery_year",
+          "cleanroom_hours_required",
+          "vibration_testing_pass",
+          "contract_value_million_usd"
+        ]
+      },
+      {
+        "filename": "space_infrastructure_requirements.csv",
+        "relative_path": "datasets\\raw\\existing\\space_infrastructure_requirements.csv",
+        "category": "raw_existing",
+        "rows": 1010,
+        "columns": 7,
+        "size_bytes": 66904,
+        "data_origin": "synthetic",
+        "domain": "Infrastructure and Research Investment",
+        "sample_columns": [
+          "date",
+          "year",
+          "month",
+          "facility_name",
+          "utilization_rate_pct",
+          "queued_backlog_hours",
+          "maintenance_downtime_days"
+        ]
+      },
+      {
+        "filename": "space_missions.csv",
+        "relative_path": "datasets\\raw\\existing\\space_missions.csv",
+        "category": "raw_existing",
+        "rows": 1500,
+        "columns": 12,
+        "size_bytes": 193303,
+        "data_origin": "synthetic",
+        "domain": "Launch and Mission Requirements",
+        "sample_columns": [
+          "mission_id",
+          "mission_name",
+          "agency",
+          "mission_type",
+          "launch_date",
+          "year",
+          "quarter",
+          "budget_million_usd"
+        ]
+      }
+    ],
+    "validated": [],
+    "rejected": [],
+    "processed": [
+      {
+        "filename": "agency_research_expenditures_cleaned.csv",
+        "relative_path": "datasets\\processed\\agency_research_expenditures_cleaned.csv",
+        "category": "processed",
+        "rows": 1414,
+        "columns": 8,
+        "size_bytes": 87303,
+        "data_origin": "synthetic",
+        "domain": "Infrastructure and Research Investment",
+        "sample_columns": [
+          "date",
+          "year",
+          "month",
+          "agency",
+          "rd_expenditure_million_usd",
+          "infrastructure_expenditure_million_usd",
+          "mission_operations_million_usd",
+          "total_monthly_expenditure_million_usd"
+        ]
+      },
+      {
+        "filename": "equipment_component_demand_cleaned.csv",
+        "relative_path": "datasets\\processed\\equipment_component_demand_cleaned.csv",
+        "category": "processed",
+        "rows": 1616,
+        "columns": 9,
+        "size_bytes": 109116,
+        "data_origin": "synthetic",
+        "domain": "Satellite Component Demand",
+        "sample_columns": [
+          "date",
+          "year",
+          "month",
+          "equipment_type",
+          "units_demanded",
+          "avg_unit_cost_thousand_usd",
+          "total_demand_value_million_usd",
+          "lead_time_days"
+        ]
+      },
+      {
+        "filename": "launch_activities_cleaned.csv",
+        "relative_path": "datasets\\processed\\launch_activities_cleaned.csv",
+        "category": "processed",
+        "rows": 1200,
+        "columns": 10,
+        "size_bytes": 110997,
+        "data_origin": "synthetic",
+        "domain": "Launch and Mission Requirements",
+        "sample_columns": [
+          "launch_id",
+          "launch_date",
+          "year",
+          "month",
+          "vehicle",
+          "launch_site",
+          "launch_outcome",
+          "commercial_flag"
+        ]
+      },
+      {
+        "filename": "research_investment_future_projects_cleaned.csv",
+        "relative_path": "datasets\\processed\\research_investment_future_projects_cleaned.csv",
+        "category": "processed",
+        "rows": 150,
+        "columns": 7,
+        "size_bytes": 14230,
+        "data_origin": "synthetic",
+        "domain": "Infrastructure and Research Investment",
+        "sample_columns": [
+          "project_code",
+          "project_title",
+          "lead_agency",
+          "target_commencement_year",
+          "estimated_investment_billion_usd",
+          "priority_tier",
+          "readiness_level_TRL"
+        ]
+      },
+      {
+        "filename": "resource_consumption_cleaned.csv",
+        "relative_path": "datasets\\processed\\resource_consumption_cleaned.csv",
+        "category": "processed",
+        "rows": 1414,
+        "columns": 7,
+        "size_bytes": 94997,
+        "data_origin": "synthetic",
+        "domain": "Space Research Resource Consumption",
+        "sample_columns": [
+          "date",
+          "year",
+          "month",
+          "resource_name",
+          "quantity_consumed",
+          "unit_of_measure",
+          "procurement_cost_k_usd"
+        ]
+      },
+      {
+        "filename": "satellites_orbital_cleaned.csv",
+        "relative_path": "datasets\\processed\\satellites_orbital_cleaned.csv",
+        "category": "processed",
+        "rows": 2400,
+        "columns": 12,
+        "size_bytes": 285698,
+        "data_origin": "synthetic",
+        "domain": "Launch and Mission Requirements",
+        "sample_columns": [
+          "satellite_id",
+          "satellite_name",
+          "operator_agency",
+          "orbit_type",
+          "altitude_km",
+          "inclination_deg",
+          "launch_year",
+          "expected_lifetime_years"
+        ]
+      },
+      {
+        "filename": "space_infrastructure_requirements_cleaned.csv",
+        "relative_path": "datasets\\processed\\space_infrastructure_requirements_cleaned.csv",
+        "category": "processed",
+        "rows": 1010,
+        "columns": 7,
+        "size_bytes": 66904,
+        "data_origin": "synthetic",
+        "domain": "Infrastructure and Research Investment",
+        "sample_columns": [
+          "date",
+          "year",
+          "month",
+          "facility_name",
+          "utilization_rate_pct",
+          "queued_backlog_hours",
+          "maintenance_downtime_days"
+        ]
+      },
+      {
+        "filename": "space_missions_cleaned.csv",
+        "relative_path": "datasets\\processed\\space_missions_cleaned.csv",
+        "category": "processed",
+        "rows": 1500,
+        "columns": 12,
+        "size_bytes": 193303,
+        "data_origin": "synthetic",
+        "domain": "Launch and Mission Requirements",
+        "sample_columns": [
+          "mission_id",
+          "mission_name",
+          "agency",
+          "mission_type",
+          "launch_date",
+          "year",
+          "quarter",
+          "budget_million_usd"
+        ]
+      }
+    ]
+  }
+}

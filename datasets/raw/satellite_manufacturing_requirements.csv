@@ -1,0 +1,601 @@
+order_id,agency_client,satellite_class,units_ordered,delivery_year,cleanroom_hours_required,vibration_testing_pass,contract_value_million_usd
+ORD-MFG-2018-1000,ISRO (India),SmallSat (<500kg),10,2022,2224,False,38.03
+ORD-MFG-2019-1001,ESA (Europe),CubeSat (1U-12U),14,2024,5039,True,266.18
+ORD-MFG-2020-1002,CNSA (China),Medium Satellite (500-2000kg),17,2024,673,False,181.39
+ORD-MFG-2021-1003,Roscosmos (Russia),SmallSat (<500kg),14,2022,3868,False,56.41
+ORD-MFG-2022-1004,CNSA (China),Heavy Geosynchronous Bus (>2000kg),14,2026,5861,False,19.94
+ORD-MFG-2023-1005,JAXA (Japan),Heavy Geosynchronous Bus (>2000kg),16,2026,3266,True,146.68
+ORD-MFG-2024-1006,ESA (Europe),Medium Satellite (500-2000kg),10,2022,7042,True,105.65
+ORD-MFG-2025-1007,Roscosmos (Russia),Heavy Geosynchronous Bus (>2000kg),16,2023,3298,True,97.86
+ORD-MFG-2026-1008,ESA (Europe),Medium Satellite (500-2000kg),23,2022,611,True,258.96
+ORD-MFG-2018-1009,CNSA (China),Heavy Geosynchronous Bus (>2000kg),5,2024,3206,False,163.96
+ORD-MFG-2019-1010,"Private / Commercial (SpaceX, etc.)",Medium Satellite (500-2000kg),16,2023,780,True,53.59
+ORD-MFG-2020-1011,NASA (USA),CubeSat (1U-12U),10,2022,3429,True,253.71
+ORD-MFG-2021-1012,Roscosmos (Russia),Medium Satellite (500-2000kg),19,2024,1357,False,124.69
+ORD-MFG-2022-1013,CNSA (China),CubeSat (1U-12U),14,2022,1104,True,205.27
+ORD-MFG-2023-1014,Roscosmos (Russia),Heavy Geosynchronous Bus (>2000kg),14,2022,2292,True,10.74
+ORD-MFG-2024-1015,ISRO (India),Heavy Geosynchronous Bus (>2000kg),22,2026,768,True,18.53
+ORD-MFG-2025-1016,"Private / Commercial (SpaceX, etc.)",Medium Satellite (500-2000kg),11,2025,677,True,46.42
+ORD-MFG-2026-1017,JAXA (Japan),CubeSat (1U-12U),13,2021,5731,False,103.05
+ORD-MFG-2018-1018,"Private / Commercial (SpaceX, etc.)",Medium Satellite (500-2000kg),20,2024,3120,False,209.65
+ORD-MFG-2019-1019,Roscosmos (Russia),CubeSat (1U-12U),22,2024,6859,False,71.91
+ORD-MFG-2020-1020,ESA (Europe),Heavy Geosynchronous Bus (>2000kg),10,2028,1547,True,101.23
+ORD-MFG-2021-1021,ISRO (India),CubeSat (1U-12U),16,2021,4692,True,79.63
+ORD-MFG-2022-1022,NASA (USA),Medium Satellite (500-2000kg),21,2023,2535,True,208.95
+ORD-MFG-2023-1023,"Private / Commercial (SpaceX, etc.)",Heavy Geosynchronous Bus (>2000kg),13,2024,5898,True,247.8
+ORD-MFG-2024-1024,Roscosmos (Russia),CubeSat (1U-12U),9,2026,2134,True,91.43
+ORD-MFG-2025-1025,"Private / Commercial (SpaceX, etc.)",Heavy Geosynchronous Bus (>2000kg),16,2023,7299,True,38.36
+ORD-MFG-2026-1026,NASA (USA),Heavy Geosynchronous Bus (>2000kg),4,2028,817,False,71.78
+ORD-MFG-2018-1027,JAXA (Japan),CubeSat (1U-12U),19,2022,3660,False,307.18
+ORD-MFG-2019-1028,CNSA (China),CubeSat (1U-12U),8,2021,2282,True,124.92
+ORD-MFG-2020-1029,NASA (USA),SmallSat (<500kg),18,2022,3388,True,37.31
+ORD-MFG-2021-1030,ISRO (India),Medium Satellite (500-2000kg),9,2027,3554,True,121.77
+ORD-MFG-2022-1031,ESA (Europe),CubeSat (1U-12U),5,2026,2194,False,39.47
+ORD-MFG-2023-1032,JAXA (Japan),Heavy Geosynchronous Bus (>2000kg),19,2028,3633,True,247.75
+ORD-MFG-2024-1033,ESA (Europe),Medium Satellite (500-2000kg),16,2025,4400,True,119.93
+ORD-MFG-2025-1034,CNSA (China),CubeSat (1U-12U),21,2028,1380,False,289.73
+ORD-MFG-2026-1035,Roscosmos (Russia),SmallSat (<500kg),3,2026,6740,False,35.08
+ORD-MFG-2018-1036,JAXA (Japan),CubeSat (1U-12U),9,2023,3534,True,88.86
+ORD-MFG-2019-1037,"Private / Commercial (SpaceX, etc.)",Medium Satellite (500-2000kg),15,2022,3819,True,17.1
+ORD-MFG-2020-1038,ISRO (India),Medium Satellite (500-2000kg),4,2026,1918,False,87.66
+ORD-MFG-2021-1039,ISRO (India),SmallSat (<500kg),20,2027,6450,True,234.58
+ORD-MFG-2022-1040,ISRO (India),Medium Satellite (500-2000kg),3,2022,7242,True,298.62
+ORD-MFG-2023-1041,"Private / Commercial (SpaceX, etc.)",Heavy Geosynchronous Bus (>2000kg),18,2021,2483,False,266.06
+ORD-MFG-2024-1042,ESA (Europe),CubeSat (1U-12U),20,2024,7040,True,145.21
+ORD-MFG-2025-1043,CNSA (China),Heavy Geosynchronous Bus (>2000kg),11,2023,2959,True,262.37
+ORD-MFG-2026-1044,Roscosmos (Russia),Heavy Geosynchronous Bus (>2000kg),1,2028,2704,True,103.31
+ORD-MFG-2018-1045,ISRO (India),Medium Satellite (500-2000kg),1,2023,3966,True,65.36
+ORD-MFG-2019-1046,ESA (Europe),Medium Satellite (500-2000kg),5,2026,3293,True,126.7
+ORD-MFG-2020-1047,CNSA (China),SmallSat (<500kg),5,2027,6297,True,266.89
+ORD-MFG-2021-1048,ESA (Europe),Medium Satellite (500-2000kg),4,2026,3223,True,270.46
+ORD-MFG-2022-1049,CNSA (China),Medium Satellite (500-2000kg),9,2023,5548,True,248.52
+ORD-MFG-2023-1050,"Private / Commercial (SpaceX, etc.)",Heavy Geosynchronous Bus (>2000kg),11,2021,3412,False,289.37
+ORD-MFG-2024-1051,CNSA (China),CubeSat (1U-12U),17,2025,5702,True,224.75
+ORD-MFG-2025-1052,JAXA (Japan),SmallSat (<500kg),16,2022,1639,False,64.67
+ORD-MFG-2026-1053,ISRO (India),CubeSat (1U-12U),23,2023,5778,True,159.2
+ORD-MFG-2018-1054,NASA (USA),SmallSat (<500kg),5,2027,4249,True,147.43
+ORD-MFG-2019-1055,ESA (Europe),SmallSat (<500kg),14,2023,4076,False,293.55
+ORD-MFG-2020-1056,JAXA (Japan),Heavy Geosynchronous Bus (>2000kg),10,2027,5433,True,292.17
+ORD-MFG-2021-1057,"Private / Commercial (SpaceX, etc.)",CubeSat (1U-12U),19,2025,6644,False,174.52
+ORD-MFG-2022-1058,JAXA (Japan),Heavy Geosynchronous Bus (>2000kg),10,2023,5111,True,89.94
+ORD-MFG-2023-1059,CNSA (China),SmallSat (<500kg),3,2024,3816,False,114.5
+ORD-MFG-2024-1060,JAXA (Japan),SmallSat (<500kg),24,2027,3749,True,228.58
+ORD-MFG-2025-1061,CNSA (China),CubeSat (1U-12U),22,2026,2283,False,209.65
+ORD-MFG-2026-1062,JAXA (Japan),SmallSat (<500kg),6,2021,1967,True,130.3
+ORD-MFG-2018-1063,Roscosmos (Russia),SmallSat (<500kg),4,2028,4087,True,112.92
+ORD-MFG-2019-1064,ISRO (India),CubeSat (1U-12U),7,2024,1951,True,37.52
+ORD-MFG-2020-1065,ISRO (India),CubeSat (1U-12U),17,2021,1263,False,132.19
+ORD-MFG-2021-1066,CNSA (China),CubeSat (1U-12U),6,2024,3868,True,174.62
+ORD-MFG-2022-1067,"Private / Commercial (SpaceX, etc.)",CubeSat (1U-12U),20,2024,4502,True,305.86
+ORD-MFG-2023-1068,NASA (USA),CubeSat (1U-12U),12,2025,6747,True,182.68
+ORD-MFG-2024-1069,CNSA (China),CubeSat (1U-12U),12,2028,2415,True,259.97
+ORD-MFG-2025-1070,"Private / Commercial (SpaceX, etc.)",Medium Satellite (500-2000kg),19,2022,576,False,249.21
+ORD-MFG-2026-1071,NASA (USA),Heavy Geosynchronous Bus (>2000kg),6,2024,6263,False,116.59
+ORD-MFG-2018-1072,ISRO (India),Heavy Geosynchronous Bus (>2000kg),2,2023,3761,True,260.16
+ORD-MFG-2019-1073,ISRO (India),Heavy Geosynchronous Bus (>2000kg),18,2023,1584,True,38.45
+ORD-MFG-2020-1074,"Private / Commercial (SpaceX, etc.)",SmallSat (<500kg),14,2022,6888,True,111.6
+ORD-MFG-2021-1075,JAXA (Japan),SmallSat (<500kg),3,2021,4736,True,15.93
+ORD-MFG-2022-1076,ISRO (India),Heavy Geosynchronous Bus (>2000kg),20,2028,5737,True,129.63
+ORD-MFG-2023-1077,Roscosmos (Russia),CubeSat (1U-12U),2,2028,5663,True,63.35
+ORD-MFG-2024-1078,JAXA (Japan),Heavy Geosynchronous Bus (>2000kg),14,2026,806,True,137.2
+ORD-MFG-2025-1079,NASA (USA),Heavy Geosynchronous Bus (>2000kg),18,2023,1331,True,18.7
+ORD-MFG-2026-1080,ESA (Europe),Heavy Geosynchronous Bus (>2000kg),7,2021,4704,False,31.53
+ORD-MFG-2018-1081,ISRO (India),SmallSat (<500kg),19,2021,1997,True,195.07
+ORD-MFG-2019-1082,ESA (Europe),CubeSat (1U-12U),2,2026,7326,False,61.19
+ORD-MFG-2020-1083,"Private / Commercial (SpaceX, etc.)",CubeSat (1U-12U),16,2021,5581,True,315.27
+ORD-MFG-2021-1084,ISRO (India),Heavy Geosynchronous Bus (>2000kg),10,2026,5751,False,201.65
+ORD-MFG-2022-1085,Roscosmos (Russia),SmallSat (<500kg),3,2024,1778,False,77.34
+ORD-MFG-2023-1086,NASA (USA),Medium Satellite (500-2000kg),6,2023,5282,True,59.88
+ORD-MFG-2024-1087,CNSA (China),Heavy Geosynchronous Bus (>2000kg),22,2023,6714,True,85.99
+ORD-MFG-2025-1088,NASA (USA),Medium Satellite (500-2000kg),19,2024,4911,True,159.39
+ORD-MFG-2026-1089,ISRO (India),Medium Satellite (500-2000kg),8,2022,4544,False,253.14
+ORD-MFG-2018-1090,ISRO (India),Medium Satellite (500-2000kg),15,2021,870,False,261.5
+ORD-MFG-2019-1091,"Private / Commercial (SpaceX, etc.)",SmallSat (<500kg),24,2025,6572,False,73.65
+ORD-MFG-2020-1092,JAXA (Japan),SmallSat (<500kg),16,2026,3344,True,209.4
+ORD-MFG-2021-1093,ISRO (India),Medium Satellite (500-2000kg),18,2024,4820,False,118.99
+ORD-MFG-2022-1094,NASA (USA),Heavy Geosynchronous Bus (>2000kg),24,2028,656,True,235.63
+ORD-MFG-2023-1095,NASA (USA),Heavy Geosynchronous Bus (>2000kg),5,2022,5562,True,255.09
+ORD-MFG-2024-1096,"Private / Commercial (SpaceX, etc.)",Medium Satellite (500-2000kg),19,2021,2716,True,71.38
+ORD-MFG-2025-1097,NASA (USA),Medium Satellite (500-2000kg),22,2027,5156,False,88.73
+ORD-MFG-2026-1098,NASA (USA),CubeSat (1U-12U),3,2025,3723,True,34.0
+ORD-MFG-2018-1099,CNSA (China),SmallSat (<500kg),7,2026,1920,True,272.58
+ORD-MFG-2019-1100,JAXA (Japan),SmallSat (<500kg),6,2027,846,True,29.8
+ORD-MFG-2020-1101,JAXA (Japan),Medium Satellite (500-2000kg),5,2027,3665,True,78.18
+ORD-MFG-2021-1102,JAXA (Japan),CubeSat (1U-12U),10,2021,4903,True,65.35
+ORD-MFG-2022-1103,NASA (USA),CubeSat (1U-12U),16,2022,6061,False,43.58
+ORD-MFG-2023-1104,"Private / Commercial (SpaceX, etc.)",Medium Satellite (500-2000kg),11,2028,6449,True,20.03
+ORD-MFG-2024-1105,"Private / Commercial (SpaceX, etc.)",CubeSat (1U-12U),20,2026,636,True,193.58
+ORD-MFG-2025-1106,Roscosmos (Russia),CubeSat (1U-12U),1,2026,3783,False,256.45
+ORD-MFG-2026-1107,ESA (Europe),Medium Satellite (500-2000kg),6,2027,2250,True,193.6
+ORD-MFG-2018-1108,NASA (USA),Heavy Geosynchronous Bus (>2000kg),14,2024,3361,True,88.44
+ORD-MFG-2019-1109,ESA (Europe),CubeSat (1U-12U),5,2023,7005,False,156.13
+ORD-MFG-2020-1110,NASA (USA),CubeSat (1U-12U),13,2027,3074,False,12.33
+ORD-MFG-2021-1111,ISRO (India),SmallSat (<500kg),7,2026,4051,False,145.07
+ORD-MFG-2022-1112,NASA (USA),Medium Satellite (500-2000kg),19,2021,3408,False,32.37
+ORD-MFG-2023-1113,ISRO (India),SmallSat (<500kg),5,2023,6243,False,277.15
+ORD-MFG-2024-1114,CNSA (China),Heavy Geosynchronous Bus (>2000kg),23,2026,1737,False,315.29
+ORD-MFG-2025-1115,ISRO (India),Heavy Geosynchronous Bus (>2000kg),17,2022,3685,True,36.52
+ORD-MFG-2026-1116,NASA (USA),Medium Satellite (500-2000kg),4,2022,946,True,56.6
+ORD-MFG-2018-1117,ISRO (India),CubeSat (1U-12U),6,2025,6148,True,318.11
+ORD-MFG-2019-1118,ISRO (India),Heavy Geosynchronous Bus (>2000kg),15,2024,1009,True,145.03
+ORD-MFG-2020-1119,Roscosmos (Russia),Heavy Geosynchronous Bus (>2000kg),23,2025,1157,True,220.11
+ORD-MFG-2021-1120,JAXA (Japan),Medium Satellite (500-2000kg),10,2026,5762,True,176.19
+ORD-MFG-2022-1121,JAXA (Japan),CubeSat (1U-12U),7,2025,460,True,209.78
+ORD-MFG-2023-1122,"Private / Commercial (SpaceX, etc.)",CubeSat (1U-12U),16,2027,1131,False,14.6
+ORD-MFG-2024-1123,NASA (USA),SmallSat (<500kg),21,2021,1328,True,216.88
+ORD-MFG-2025-1124,JAXA (Japan),SmallSat (<500kg),18,2024,7421,True,214.54
+ORD-MFG-2026-1125,CNSA (China),CubeSat (1U-12U),15,2023,642,True,308.93
+ORD-MFG-2018-1126,JAXA (Japan),Heavy Geosynchronous Bus (>2000kg),12,2027,2526,True,15.14
+ORD-MFG-2019-1127,CNSA (China),CubeSat (1U-12U),22,2026,2781,True,251.17
+ORD-MFG-2020-1128,Roscosmos (Russia),CubeSat (1U-12U),23,2028,4929,True,273.39
+ORD-MFG-2021-1129,NASA (USA),CubeSat (1U-12U),14,2025,2085,True,245.24
+ORD-MFG-2022-1130,ESA (Europe),Medium Satellite (500-2000kg),22,2022,7250,True,85.22
+ORD-MFG-2023-1131,JAXA (Japan),Medium Satellite (500-2000kg),10,2027,3975,True,91.91
+ORD-MFG-2024-1132,"Private / Commercial (SpaceX, etc.)",SmallSat (<500kg),5,2024,7305,True,208.11
+ORD-MFG-2025-1133,ISRO (India),SmallSat (<500kg),24,2022,6925,True,138.45
+ORD-MFG-2026-1134,CNSA (China),Medium Satellite (500-2000kg),13,2021,2237,True,36.26
+ORD-MFG-2018-1135,Roscosmos (Russia),Medium Satellite (500-2000kg),20,2023,2350,True,294.64
+ORD-MFG-2019-1136,JAXA (Japan),Heavy Geosynchronous Bus (>2000kg),11,2023,929,False,95.64
+ORD-MFG-2020-1137,ISRO (India),Medium Satellite (500-2000kg),7,2024,1207,False,242.02
+ORD-MFG-2021-1138,ISRO (India),Medium Satellite (500-2000kg),1,2027,676,True,208.53
+ORD-MFG-2022-1139,ISRO (India),CubeSat (1U-12U),4,2024,4297,True,298.41
+ORD-MFG-2023-1140,Roscosmos (Russia),Medium Satellite (500-2000kg),21,2027,6485,True,204.5
+ORD-MFG-2024-1141,"Private / Commercial (SpaceX, etc.)",CubeSat (1U-12U),16,2021,5634,False,173.92
+ORD-MFG-2025-1142,CNSA (China),Medium Satellite (500-2000kg),15,2027,838,True,180.81
+ORD-MFG-2026-1143,"Private / Commercial (SpaceX, etc.)",SmallSat (<500kg),1,2025,1272,True,204.89
+ORD-MFG-2018-1144,ISRO (India),Medium Satellite (500-2000kg),16,2025,7263,False,81.12
+ORD-MFG-2019-1145,ISRO (India),SmallSat (<500kg),12,2028,2436,False,244.22
+ORD-MFG-2020-1146,JAXA (Japan),CubeSat (1U-12U),4,2027,4512,True,54.64
+ORD-MFG-2021-1147,ISRO (India),SmallSat (<500kg),3,2028,6929,True,20.84
+ORD-MFG-2022-1148,NASA (USA),SmallSat (<500kg),16,2021,1076,True,168.52
+ORD-MFG-2023-1149,CNSA (China),Heavy Geosynchronous Bus (>2000kg),18,2028,2600,True,237.52
+ORD-MFG-2024-1150,ISRO (India),SmallSat (<500kg),19,2021,3083,True,15.72
+ORD-MFG-2025-1151,ISRO (India),Heavy Geosynchronous Bus (>2000kg),19,2023,4513,True,172.39
+ORD-MFG-2026-1152,JAXA (Japan),SmallSat (<500kg),13,2027,4539,True,130.27
+ORD-MFG-2018-1153,ESA (Europe),SmallSat (<500kg),10,2022,3889,True,33.93
+ORD-MFG-2019-1154,ISRO (India),Medium Satellite (500-2000kg),2,2027,1854,False,166.78
+ORD-MFG-2020-1155,CNSA (China),CubeSat (1U-12U),17,2021,3625,True,33.5
+ORD-MFG-2021-1156,NASA (USA),SmallSat (<500kg),22,2022,4171,True,195.04
+ORD-MFG-2022-1157,CNSA (China),SmallSat (<500kg),6,2024,2377,True,63.8
+ORD-MFG-2023-1158,JAXA (Japan),Heavy Geosynchronous Bus (>2000kg),16,2023,3236,True,264.83
+ORD-MFG-2024-1159,Roscosmos (Russia),SmallSat (<500kg),17,2026,6598,False,44.27
+ORD-MFG-2025-1160,ESA (Europe),Heavy Geosynchronous Bus (>2000kg),23,2022,2539,True,65.09
+ORD-MFG-2026-1161,"Private / Commercial (SpaceX, etc.)",SmallSat (<500kg),16,2028,1945,True,68.89
+ORD-MFG-2018-1162,Roscosmos (Russia),Heavy Geosynchronous Bus (>2000kg),8,2028,7469,True,62.08
+ORD-MFG-2019-1163,"Private / Commercial (SpaceX, etc.)",CubeSat (1U-12U),22,2025,6318,True,9.23
+ORD-MFG-2020-1164,ISRO (India),SmallSat (<500kg),2,2028,5265,True,287.41
+ORD-MFG-2021-1165,ISRO (India),CubeSat (1U-12U),12,2028,936,True,50.62
+ORD-MFG-2022-1166,NASA (USA),Medium Satellite (500-2000kg),19,2023,5832,True,76.65
+ORD-MFG-2023-1167,"Private / Commercial (SpaceX, etc.)",CubeSat (1U-12U),19,2026,3340,False,160.98
+ORD-MFG-2024-1168,"Private / Commercial (SpaceX, etc.)",SmallSat (<500kg),13,2025,5900,True,159.15
+ORD-MFG-2025-1169,JAXA (Japan),Medium Satellite (500-2000kg),15,2023,2222,True,138.31
+ORD-MFG-2026-1170,Roscosmos (Russia),CubeSat (1U-12U),5,2023,1096,True,106.33
+ORD-MFG-2018-1171,NASA (USA),CubeSat (1U-12U),8,2024,815,True,14.74
+ORD-MFG-2019-1172,ISRO (India),SmallSat (<500kg),12,2021,1859,True,132.87
+ORD-MFG-2020-1173,CNSA (China),Medium Satellite (500-2000kg),17,2025,6228,True,59.13
+ORD-MFG-2021-1174,ESA (Europe),SmallSat (<500kg),6,2024,7413,True,290.55
+ORD-MFG-2022-1175,CNSA (China),Heavy Geosynchronous Bus (>2000kg),8,2026,6166,False,24.13
+ORD-MFG-2023-1176,"Private / Commercial (SpaceX, etc.)",Medium Satellite (500-2000kg),7,2022,2436,False,9.25
+ORD-MFG-2024-1177,CNSA (China),Medium Satellite (500-2000kg),18,2028,4653,True,156.37
+ORD-MFG-2025-1178,ESA (Europe),CubeSat (1U-12U),8,2022,3875,True,49.71
+ORD-MFG-2026-1179,Roscosmos (Russia),CubeSat (1U-12U),17,2021,5456,True,145.88
+ORD-MFG-2018-1180,ISRO (India),CubeSat (1U-12U),20,2024,1010,False,270.45
+ORD-MFG-2019-1181,ISRO (India),Medium Satellite (500-2000kg),23,2024,4826,True,67.56
+ORD-MFG-2020-1182,Roscosmos (Russia),Medium Satellite (500-2000kg),21,2028,6465,True,176.5
+ORD-MFG-2021-1183,NASA (USA),SmallSat (<500kg),7,2028,901,True,186.29
+ORD-MFG-2022-1184,JAXA (Japan),SmallSat (<500kg),10,2026,2965,True,15.3
+ORD-MFG-2023-1185,"Private / Commercial (SpaceX, etc.)",Heavy Geosynchronous Bus (>2000kg),1,2021,3028,True,294.28
+ORD-MFG-2024-1186,ISRO (India),SmallSat (<500kg),7,2025,4920,True,215.31
+ORD-MFG-2025-1187,"Private / Commercial (SpaceX, etc.)",CubeSat (1U-12U),22,2023,5025,True,168.25
+ORD-MFG-2026-1188,ISRO (India),CubeSat (1U-12U),5,2025,4431,False,191.55
+ORD-MFG-2018-1189,CNSA (China),SmallSat (<500kg),11,2028,6431,True,74.43
+ORD-MFG-2019-1190,NASA (USA),Medium Satellite (500-2000kg),14,2025,1221,True,283.6
+ORD-MFG-2020-1191,"Private / Commercial (SpaceX, etc.)",SmallSat (<500kg),7,2021,4055,True,125.43
+ORD-MFG-2021-1192,JAXA (Japan),Heavy Geosynchronous Bus (>2000kg),2,2027,2146,True,34.0
+ORD-MFG-2022-1193,CNSA (China),CubeSat (1U-12U),23,2027,6109,True,319.65
+ORD-MFG-2023-1194,CNSA (China),Medium Satellite (500-2000kg),11,2024,609,True,159.63
+ORD-MFG-2024-1195,Roscosmos (Russia),CubeSat (1U-12U),7,2025,6012,True,77.95
+ORD-MFG-2025-1196,JAXA (Japan),CubeSat (1U-12U),15,2021,6740,True,158.24
+ORD-MFG-2026-1197,Roscosmos (Russia),SmallSat (<500kg),1,2027,1198,True,281.98
+ORD-MFG-2018-1198,NASA (USA),Medium Satellite (500-2000kg),12,2023,769,False,50.75
+ORD-MFG-2019-1199,NASA (USA),Heavy Geosynchronous Bus (>2000kg),6,2025,4076,True,45.43
+ORD-MFG-2020-1200,JAXA (Japan),Medium Satellite (500-2000kg),16,2024,1607,True,281.97
+ORD-MFG-2021-1201,ISRO (India),CubeSat (1U-12U),14,2026,7236,True,186.51
+ORD-MFG-2022-1202,CNSA (China),CubeSat (1U-12U),11,2024,3550,False,201.83
+ORD-MFG-2023-1203,NASA (USA),SmallSat (<500kg),1,2028,1701,True,200.93
+ORD-MFG-2024-1204,JAXA (Japan),CubeSat (1U-12U),8,2026,6096,True,9.01
+ORD-MFG-2025-1205,CNSA (China),CubeSat (1U-12U),19,2027,4820,True,92.83
+ORD-MFG-2026-1206,JAXA (Japan),Medium Satellite (500-2000kg),23,2028,6495,True,264.76
+ORD-MFG-2018-1207,JAXA (Japan),Medium Satellite (500-2000kg),10,2023,675,True,87.36
+ORD-MFG-2019-1208,Roscosmos (Russia),Medium Satellite (500-2000kg),3,2026,6056,True,137.54
+ORD-MFG-2020-1209,"Private / Commercial (SpaceX, etc.)",Medium Satellite (500-2000kg),1,2023,797,True,234.88
+ORD-MFG-2021-1210,Roscosmos (Russia),Heavy Geosynchronous Bus (>2000kg),11,2024,690,True,28.0
+ORD-MFG-2022-1211,ISRO (India),CubeSat (1U-12U),10,2021,3259,True,127.4
+ORD-MFG-2023-1212,JAXA (Japan),CubeSat (1U-12U),19,2022,7305,True,251.89
+ORD-MFG-2024-1213,ISRO (India),Heavy Geosynchronous Bus (>2000kg),12,2025,4652,True,7.25
+ORD-MFG-2025-1214,NASA (USA),CubeSat (1U-12U),2,2025,706,True,97.61
+ORD-MFG-2026-1215,JAXA (Japan),Medium Satellite (500-2000kg),12,2025,5505,False,126.6
+ORD-MFG-2018-1216,"Private / Commercial (SpaceX, etc.)",SmallSat (<500kg),10,2028,3275,True,119.12
+ORD-MFG-2019-1217,NASA (USA),Medium Satellite (500-2000kg),18,2023,7442,True,130.14
+ORD-MFG-2020-1218,ESA (Europe),Medium Satellite (500-2000kg),15,2027,895,True,309.37
+ORD-MFG-2021-1219,CNSA (China),CubeSat (1U-12U),23,2028,5335,True,237.75
+ORD-MFG-2022-1220,NASA (USA),CubeSat (1U-12U),6,2022,6893,False,116.49
+ORD-MFG-2023-1221,Roscosmos (Russia),Medium Satellite (500-2000kg),2,2022,3415,True,194.72
+ORD-MFG-2024-1222,ISRO (India),SmallSat (<500kg),4,2026,576,False,278.49
+ORD-MFG-2025-1223,"Private / Commercial (SpaceX, etc.)",CubeSat (1U-12U),16,2025,982,False,220.54
+ORD-MFG-2026-1224,JAXA (Japan),Heavy Geosynchronous Bus (>2000kg),24,2027,1945,True,202.33
+ORD-MFG-2018-1225,Roscosmos (Russia),SmallSat (<500kg),6,2024,1396,False,131.93
+ORD-MFG-2019-1226,NASA (USA),SmallSat (<500kg),12,2025,3478,True,135.48
+ORD-MFG-2020-1227,ISRO (India),Medium Satellite (500-2000kg),9,2027,5263,False,94.46
+ORD-MFG-2021-1228,"Private / Commercial (SpaceX, etc.)",SmallSat (<500kg),9,2025,1088,True,63.75
+ORD-MFG-2022-1229,"Private / Commercial (SpaceX, etc.)",CubeSat (1U-12U),3,2024,7477,False,204.49
+ORD-MFG-2023-1230,ISRO (India),Medium Satellite (500-2000kg),16,2023,6799,False,240.8
+ORD-MFG-2024-1231,ISRO (India),CubeSat (1U-12U),23,2025,7235,True,311.01
+ORD-MFG-2025-1232,CNSA (China),Medium Satellite (500-2000kg),1,2021,5105,True,126.42
+ORD-MFG-2026-1233,"Private / Commercial (SpaceX, etc.)",Medium Satellite (500-2000kg),13,2024,6917,True,208.15
+ORD-MFG-2018-1234,ISRO (India),Heavy Geosynchronous Bus (>2000kg),18,2021,5675,False,241.99
+ORD-MFG-2019-1235,JAXA (Japan),Heavy Geosynchronous Bus (>2000kg),22,2028,3824,True,273.99
+ORD-MFG-2020-1236,JAXA (Japan),SmallSat (<500kg),15,2021,3034,True,91.73
+ORD-MFG-2021-1237,ESA (Europe),Medium Satellite (500-2000kg),4,2022,7404,False,44.06
+ORD-MFG-2022-1238,ESA (Europe),Heavy Geosynchronous Bus (>2000kg),10,2028,3965,False,141.53
+ORD-MFG-2023-1239,Roscosmos (Russia),Heavy Geosynchronous Bus (>2000kg),2,2022,5219,True,194.64
+ORD-MFG-2024-1240,ISRO (India),SmallSat (<500kg),13,2025,1433,True,186.92
+ORD-MFG-2025-1241,Roscosmos (Russia),SmallSat (<500kg),4,2028,3965,False,271.4
+ORD-MFG-2026-1242,"Private / Commercial (SpaceX, etc.)",CubeSat (1U-12U),17,2026,3844,False,105.69
+ORD-MFG-2018-1243,NASA (USA),CubeSat (1U-12U),21,2026,7328,False,236.24
+ORD-MFG-2019-1244,ESA (Europe),Heavy Geosynchronous Bus (>2000kg),16,2021,5819,True,274.62
+ORD-MFG-2020-1245,"Private / Commercial (SpaceX, etc.)",Heavy Geosynchronous Bus (>2000kg),16,2028,7157,True,90.95
+ORD-MFG-2021-1246,ISRO (India),Heavy Geosynchronous Bus (>2000kg),15,2021,1504,True,318.75
+ORD-MFG-2022-1247,Roscosmos (Russia),CubeSat (1U-12U),23,2022,3348,True,308.27
+ORD-MFG-2023-1248,ISRO (India),Medium Satellite (500-2000kg),2,2026,4154,True,47.07
+ORD-MFG-2024-1249,JAXA (Japan),SmallSat (<500kg),16,2025,2588,True,117.76
+ORD-MFG-2025-1250,Roscosmos (Russia),Medium Satellite (500-2000kg),23,2028,3597,False,71.71
+ORD-MFG-2026-1251,"Private / Commercial (SpaceX, etc.)",Medium Satellite (500-2000kg),23,2025,1905,True,228.35
+ORD-MFG-2018-1252,ISRO (India),CubeSat (1U-12U),19,2026,2167,True,221.19
+ORD-MFG-2019-1253,ESA (Europe),Heavy Geosynchronous Bus (>2000kg),24,2028,1471,True,154.83
+ORD-MFG-2020-1254,CNSA (China),Medium Satellite (500-2000kg),22,2028,893,True,270.15
+ORD-MFG-2021-1255,"Private / Commercial (SpaceX, etc.)",SmallSat (<500kg),24,2027,7092,False,12.69
+ORD-MFG-2022-1256,JAXA (Japan),Heavy Geosynchronous Bus (>2000kg),20,2021,6854,True,250.14
+ORD-MFG-2023-1257,JAXA (Japan),Medium Satellite (500-2000kg),9,2023,5654,True,67.31
+ORD-MFG-2024-1258,ISRO (India),CubeSat (1U-12U),2,2028,5341,False,257.72
+ORD-MFG-2025-1259,JAXA (Japan),Medium Satellite (500-2000kg),8,2028,4461,False,219.6
+ORD-MFG-2026-1260,ISRO (India),SmallSat (<500kg),9,2028,1269,False,318.03
+ORD-MFG-2018-1261,CNSA (China),CubeSat (1U-12U),19,2022,3591,True,302.65
+ORD-MFG-2019-1262,JAXA (Japan),Medium Satellite (500-2000kg),1,2028,6976,True,113.41
+ORD-MFG-2020-1263,ESA (Europe),Medium Satellite (500-2000kg),2,2022,3580,True,115.16
+ORD-MFG-2021-1264,CNSA (China),Heavy Geosynchronous Bus (>2000kg),17,2021,4335,True,70.97
+ORD-MFG-2022-1265,JAXA (Japan),CubeSat (1U-12U),1,2022,2011,True,242.7
+ORD-MFG-2023-1266,Roscosmos (Russia),Medium Satellite (500-2000kg),24,2021,1558,True,303.31
+ORD-MFG-2024-1267,JAXA (Japan),Medium Satellite (500-2000kg),8,2023,7209,False,186.09
+ORD-MFG-2025-1268,Roscosmos (Russia),SmallSat (<500kg),9,2025,1200,True,33.9
+ORD-MFG-2026-1269,JAXA (Japan),Medium Satellite (500-2000kg),20,2022,1366,True,185.51
+ORD-MFG-2018-1270,ISRO (India),Heavy Geosynchronous Bus (>2000kg),9,2021,2425,True,317.14
+ORD-MFG-2019-1271,CNSA (China),SmallSat (<500kg),18,2028,5311,True,88.27
+ORD-MFG-2020-1272,ISRO (India),Medium Satellite (500-2000kg),4,2022,5753,True,14.15
+ORD-MFG-2021-1273,ESA (Europe),SmallSat (<500kg),19,2021,3410,False,314.93
+ORD-MFG-2022-1274,Roscosmos (Russia),Heavy Geosynchronous Bus (>2000kg),21,2025,1663,True,186.01
+ORD-MFG-2023-1275,ISRO (India),SmallSat (<500kg),18,2024,6306,False,117.85
+ORD-MFG-2024-1276,"Private / Commercial (SpaceX, etc.)",Medium Satellite (500-2000kg),6,2025,3553,True,154.59
+ORD-MFG-2025-1277,JAXA (Japan),SmallSat (<500kg),10,2026,839,True,8.56
+ORD-MFG-2026-1278,Roscosmos (Russia),SmallSat (<500kg),15,2028,6874,True,220.55
+ORD-MFG-2018-1279,NASA (USA),Heavy Geosynchronous Bus (>2000kg),19,2024,7068,True,131.62
+ORD-MFG-2019-1280,ISRO (India),CubeSat (1U-12U),11,2026,2020,True,139.01
+ORD-MFG-2020-1281,CNSA (China),SmallSat (<500kg),9,2025,5934,True,222.81
+ORD-MFG-2021-1282,ESA (Europe),Heavy Geosynchronous Bus (>2000kg),18,2028,6644,False,190.8
+ORD-MFG-2022-1283,ESA (Europe),Medium Satellite (500-2000kg),20,2022,6964,True,274.41
+ORD-MFG-2023-1284,JAXA (Japan),Heavy Geosynchronous Bus (>2000kg),6,2028,4333,True,162.08
+ORD-MFG-2024-1285,CNSA (China),Heavy Geosynchronous Bus (>2000kg),20,2022,826,True,11.16
+ORD-MFG-2025-1286,JAXA (Japan),SmallSat (<500kg),20,2027,7495,False,104.09
+ORD-MFG-2026-1287,"Private / Commercial (SpaceX, etc.)",Medium Satellite (500-2000kg),4,2026,4381,True,28.87
+ORD-MFG-2018-1288,CNSA (China),CubeSat (1U-12U),5,2021,2740,True,88.49
+ORD-MFG-2019-1289,Roscosmos (Russia),CubeSat (1U-12U),15,2022,5043,True,47.85
+ORD-MFG-2020-1290,"Private / Commercial (SpaceX, etc.)",Medium Satellite (500-2000kg),8,2024,4138,True,316.35
+ORD-MFG-2021-1291,ESA (Europe),Heavy Geosynchronous Bus (>2000kg),12,2028,4734,True,97.05
+ORD-MFG-2022-1292,JAXA (Japan),SmallSat (<500kg),12,2026,645,True,188.68
+ORD-MFG-2023-1293,ISRO (India),SmallSat (<500kg),3,2022,648,True,231.71
+ORD-MFG-2024-1294,CNSA (China),Medium Satellite (500-2000kg),12,2027,4028,True,305.66
+ORD-MFG-2025-1295,NASA (USA),SmallSat (<500kg),16,2021,6088,True,233.17
+ORD-MFG-2026-1296,Roscosmos (Russia),CubeSat (1U-12U),22,2028,2654,True,34.52
+ORD-MFG-2018-1297,JAXA (Japan),Medium Satellite (500-2000kg),14,2021,6969,False,319.66
+ORD-MFG-2019-1298,NASA (USA),SmallSat (<500kg),4,2028,2145,False,72.51
+ORD-MFG-2020-1299,"Private / Commercial (SpaceX, etc.)",Heavy Geosynchronous Bus (>2000kg),21,2021,1083,True,36.23
+ORD-MFG-2021-1300,ISRO (India),SmallSat (<500kg),14,2023,1028,True,294.63
+ORD-MFG-2022-1301,ESA (Europe),Medium Satellite (500-2000kg),1,2021,3807,True,71.14
+ORD-MFG-2023-1302,JAXA (Japan),Medium Satellite (500-2000kg),9,2027,3700,True,59.3
+ORD-MFG-2024-1303,Roscosmos (Russia),Medium Satellite (500-2000kg),3,2025,2444,True,176.11
+ORD-MFG-2025-1304,NASA (USA),Medium Satellite (500-2000kg),16,2022,925,True,318.08
+ORD-MFG-2026-1305,NASA (USA),Medium Satellite (500-2000kg),11,2021,1079,True,240.23
+ORD-MFG-2018-1306,NASA (USA),CubeSat (1U-12U),19,2026,5407,False,23.78
+ORD-MFG-2019-1307,ESA (Europe),Heavy Geosynchronous Bus (>2000kg),13,2024,6944,True,256.06
+ORD-MFG-2020-1308,"Private / Commercial (SpaceX, etc.)",Heavy Geosynchronous Bus (>2000kg),16,2027,3817,True,271.99
+ORD-MFG-2021-1309,ISRO (India),Medium Satellite (500-2000kg),13,2023,2995,False,115.56
+ORD-MFG-2022-1310,"Private / Commercial (SpaceX, etc.)",Medium Satellite (500-2000kg),6,2023,2936,False,277.52
+ORD-MFG-2023-1311,"Private / Commercial (SpaceX, etc.)",CubeSat (1U-12U),13,2025,5830,False,243.54
+ORD-MFG-2024-1312,"Private / Commercial (SpaceX, etc.)",Heavy Geosynchronous Bus (>2000kg),11,2025,1267,True,162.32
+ORD-MFG-2025-1313,JAXA (Japan),CubeSat (1U-12U),4,2025,5001,True,125.85
+ORD-MFG-2026-1314,ISRO (India),CubeSat (1U-12U),3,2028,5898,True,116.87
+ORD-MFG-2018-1315,JAXA (Japan),CubeSat (1U-12U),18,2023,3689,False,237.61
+ORD-MFG-2019-1316,JAXA (Japan),Medium Satellite (500-2000kg),2,2025,2618,True,34.25
+ORD-MFG-2020-1317,ISRO (India),Medium Satellite (500-2000kg),24,2023,5512,True,246.33
+ORD-MFG-2021-1318,Roscosmos (Russia),Heavy Geosynchronous Bus (>2000kg),16,2021,4742,True,225.64
+ORD-MFG-2022-1319,"Private / Commercial (SpaceX, etc.)",CubeSat (1U-12U),3,2026,7110,True,77.0
+ORD-MFG-2023-1320,Roscosmos (Russia),Heavy Geosynchronous Bus (>2000kg),6,2027,4576,True,281.56
+ORD-MFG-2024-1321,JAXA (Japan),CubeSat (1U-12U),10,2023,2487,True,134.75
+ORD-MFG-2025-1322,CNSA (China),CubeSat (1U-12U),10,2023,445,False,312.41
+ORD-MFG-2026-1323,Roscosmos (Russia),CubeSat (1U-12U),15,2021,761,False,173.72
+ORD-MFG-2018-1324,ISRO (India),SmallSat (<500kg),14,2026,5124,False,53.98
+ORD-MFG-2019-1325,ESA (Europe),Heavy Geosynchronous Bus (>2000kg),13,2027,6439,True,220.36
+ORD-MFG-2020-1326,ISRO (India),Medium Satellite (500-2000kg),4,2028,6817,True,106.91
+ORD-MFG-2021-1327,NASA (USA),Heavy Geosynchronous Bus (>2000kg),14,2021,1058,False,114.9
+ORD-MFG-2022-1328,NASA (USA),CubeSat (1U-12U),1,2028,4276,True,61.8
+ORD-MFG-2023-1329,ISRO (India),Medium Satellite (500-2000kg),12,2028,3978,True,172.02
+ORD-MFG-2024-1330,JAXA (Japan),Heavy Geosynchronous Bus (>2000kg),16,2021,3950,False,159.01
+ORD-MFG-2025-1331,Roscosmos (Russia),CubeSat (1U-12U),20,2023,6940,True,179.49
+ORD-MFG-2026-1332,ESA (Europe),Medium Satellite (500-2000kg),19,2022,2521,True,8.86
+ORD-MFG-2018-1333,Roscosmos (Russia),SmallSat (<500kg),4,2026,1697,False,304.92
+ORD-MFG-2019-1334,Roscosmos (Russia),Medium Satellite (500-2000kg),20,2028,4780,True,67.23
+ORD-MFG-2020-1335,"Private / Commercial (SpaceX, etc.)",Heavy Geosynchronous Bus (>2000kg),9,2021,4691,True,59.15
+ORD-MFG-2021-1336,"Private / Commercial (SpaceX, etc.)",CubeSat (1U-12U),12,2025,7020,True,221.9
+ORD-MFG-2022-1337,Roscosmos (Russia),Heavy Geosynchronous Bus (>2000kg),19,2021,1142,True,216.58
+ORD-MFG-2023-1338,ESA (Europe),Medium Satellite (500-2000kg),13,2023,898,True,136.0
+ORD-MFG-2024-1339,Roscosmos (Russia),CubeSat (1U-12U),18,2021,1618,True,159.88
+ORD-MFG-2025-1340,Roscosmos (Russia),CubeSat (1U-12U),3,2027,5716,True,231.21
+ORD-MFG-2026-1341,Roscosmos (Russia),Heavy Geosynchronous Bus (>2000kg),23,2024,4149,True,76.73
+ORD-MFG-2018-1342,ISRO (India),Medium Satellite (500-2000kg),20,2026,5501,True,105.52
+ORD-MFG-2019-1343,JAXA (Japan),Heavy Geosynchronous Bus (>2000kg),13,2022,3968,False,53.2
+ORD-MFG-2020-1344,CNSA (China),Heavy Geosynchronous Bus (>2000kg),12,2027,6512,True,126.82
+ORD-MFG-2021-1345,NASA (USA),SmallSat (<500kg),12,2024,7459,False,166.97
+ORD-MFG-2022-1346,ESA (Europe),SmallSat (<500kg),2,2023,1856,True,280.09
+ORD-MFG-2023-1347,ISRO (India),CubeSat (1U-12U),18,2021,3572,True,11.27
+ORD-MFG-2024-1348,JAXA (Japan),Heavy Geosynchronous Bus (>2000kg),7,2028,1193,True,205.52
+ORD-MFG-2025-1349,ISRO (India),CubeSat (1U-12U),2,2021,5640,True,142.94
+ORD-MFG-2026-1350,ISRO (India),Medium Satellite (500-2000kg),17,2025,2373,True,305.74
+ORD-MFG-2018-1351,"Private / Commercial (SpaceX, etc.)",CubeSat (1U-12U),9,2027,907,True,226.14
+ORD-MFG-2019-1352,ISRO (India),Heavy Geosynchronous Bus (>2000kg),1,2028,712,False,92.28
+ORD-MFG-2020-1353,"Private / Commercial (SpaceX, etc.)",SmallSat (<500kg),16,2026,5510,True,95.02
+ORD-MFG-2021-1354,JAXA (Japan),CubeSat (1U-12U),21,2026,6524,True,23.64
+ORD-MFG-2022-1355,JAXA (Japan),CubeSat (1U-12U),5,2028,5764,True,55.76
+ORD-MFG-2023-1356,JAXA (Japan),Heavy Geosynchronous Bus (>2000kg),9,2026,1330,True,6.88
+ORD-MFG-2024-1357,"Private / Commercial (SpaceX, etc.)",CubeSat (1U-12U),11,2021,7398,True,286.98
+ORD-MFG-2025-1358,CNSA (China),Medium Satellite (500-2000kg),16,2026,2847,False,71.47
+ORD-MFG-2026-1359,CNSA (China),CubeSat (1U-12U),18,2025,1874,False,102.2
+ORD-MFG-2018-1360,JAXA (Japan),SmallSat (<500kg),17,2023,4507,True,252.09
+ORD-MFG-2019-1361,JAXA (Japan),SmallSat (<500kg),12,2026,2232,True,9.63
+ORD-MFG-2020-1362,Roscosmos (Russia),SmallSat (<500kg),18,2026,997,True,270.38
+ORD-MFG-2021-1363,NASA (USA),CubeSat (1U-12U),7,2026,1686,True,152.72
+ORD-MFG-2022-1364,NASA (USA),Heavy Geosynchronous Bus (>2000kg),18,2028,5909,True,9.73
+ORD-MFG-2023-1365,ISRO (India),CubeSat (1U-12U),7,2022,4746,True,33.11
+ORD-MFG-2024-1366,NASA (USA),Medium Satellite (500-2000kg),24,2022,7131,True,37.53
+ORD-MFG-2025-1367,NASA (USA),CubeSat (1U-12U),16,2025,5576,True,312.93
+ORD-MFG-2026-1368,Roscosmos (Russia),Medium Satellite (500-2000kg),3,2026,3904,True,73.52
+ORD-MFG-2018-1369,"Private / Commercial (SpaceX, etc.)",SmallSat (<500kg),16,2027,6135,True,252.25
+ORD-MFG-2019-1370,JAXA (Japan),Medium Satellite (500-2000kg),15,2024,4585,False,268.85
+ORD-MFG-2020-1371,ESA (Europe),CubeSat (1U-12U),19,2023,5924,True,61.53
+ORD-MFG-2021-1372,ESA (Europe),CubeSat (1U-12U),13,2021,3406,False,67.99
+ORD-MFG-2022-1373,"Private / Commercial (SpaceX, etc.)",CubeSat (1U-12U),15,2022,1618,True,266.36
+ORD-MFG-2023-1374,"Private / Commercial (SpaceX, etc.)",CubeSat (1U-12U),7,2028,2080,True,199.12
+ORD-MFG-2024-1375,ESA (Europe),Medium Satellite (500-2000kg),18,2022,5048,True,286.53
+ORD-MFG-2025-1376,JAXA (Japan),Medium Satellite (500-2000kg),7,2027,2836,True,309.91
+ORD-MFG-2026-1377,ISRO (India),SmallSat (<500kg),3,2025,6455,True,223.44
+ORD-MFG-2018-1378,CNSA (China),Medium Satellite (500-2000kg),12,2027,4921,True,121.29
+ORD-MFG-2019-1379,"Private / Commercial (SpaceX, etc.)",Medium Satellite (500-2000kg),4,2025,3525,True,253.88
+ORD-MFG-2020-1380,NASA (USA),Heavy Geosynchronous Bus (>2000kg),20,2028,3765,True,80.93
+ORD-MFG-2021-1381,Roscosmos (Russia),CubeSat (1U-12U),5,2024,464,True,54.45
+ORD-MFG-2022-1382,"Private / Commercial (SpaceX, etc.)",SmallSat (<500kg),8,2024,6064,True,38.1
+ORD-MFG-2023-1383,CNSA (China),Heavy Geosynchronous Bus (>2000kg),1,2023,3057,True,197.53
+ORD-MFG-2024-1384,Roscosmos (Russia),SmallSat (<500kg),16,2021,2517,True,13.13
+ORD-MFG-2025-1385,ISRO (India),SmallSat (<500kg),18,2027,3509,False,167.5
+ORD-MFG-2026-1386,JAXA (Japan),CubeSat (1U-12U),16,2023,3584,True,237.67
+ORD-MFG-2018-1387,JAXA (Japan),Medium Satellite (500-2000kg),16,2027,3894,True,135.49
+ORD-MFG-2019-1388,NASA (USA),Medium Satellite (500-2000kg),7,2028,1985,True,270.67
+ORD-MFG-2020-1389,"Private / Commercial (SpaceX, etc.)",SmallSat (<500kg),7,2024,7399,True,182.95
+ORD-MFG-2021-1390,NASA (USA),CubeSat (1U-12U),20,2023,2813,False,162.75
+ORD-MFG-2022-1391,Roscosmos (Russia),Heavy Geosynchronous Bus (>2000kg),12,2022,4689,False,49.09
+ORD-MFG-2023-1392,NASA (USA),Heavy Geosynchronous Bus (>2000kg),7,2027,4171,True,164.48
+ORD-MFG-2024-1393,Roscosmos (Russia),CubeSat (1U-12U),14,2027,492,True,124.51
+ORD-MFG-2025-1394,JAXA (Japan),CubeSat (1U-12U),6,2028,5216,True,103.49
+ORD-MFG-2026-1395,"Private / Commercial (SpaceX, etc.)",SmallSat (<500kg),12,2023,4858,True,124.2
+ORD-MFG-2018-1396,CNSA (China),CubeSat (1U-12U),14,2022,5951,False,193.19
+ORD-MFG-2019-1397,ESA (Europe),Medium Satellite (500-2000kg),4,2028,5352,False,8.14
+ORD-MFG-2020-1398,NASA (USA),CubeSat (1U-12U),18,2021,4751,True,88.65
+ORD-MFG-2021-1399,Roscosmos (Russia),CubeSat (1U-12U),20,2026,6342,True,86.46
+ORD-MFG-2022-1400,CNSA (China),Heavy Geosynchronous Bus (>2000kg),18,2021,7116,True,287.73
+ORD-MFG-2023-1401,CNSA (China),SmallSat (<500kg),7,2025,3811,True,175.07
+ORD-MFG-2024-1402,Roscosmos (Russia),Heavy Geosynchronous Bus (>2000kg),24,2023,3569,True,62.99
+ORD-MFG-2025-1403,ESA (Europe),CubeSat (1U-12U),22,2021,3859,False,240.65
+ORD-MFG-2026-1404,JAXA (Japan),Medium Satellite (500-2000kg),2,2026,5642,False,205.34
+ORD-MFG-2018-1405,ISRO (India),SmallSat (<500kg),21,2021,4751,False,233.45
+ORD-MFG-2019-1406,NASA (USA),SmallSat (<500kg),15,2023,5662,True,227.55
+ORD-MFG-2020-1407,"Private / Commercial (SpaceX, etc.)",SmallSat (<500kg),15,2022,1438,False,236.64
+ORD-MFG-2021-1408,"Private / Commercial (SpaceX, etc.)",Heavy Geosynchronous Bus (>2000kg),1,2025,1057,True,252.86
+ORD-MFG-2022-1409,ISRO (India),Heavy Geosynchronous Bus (>2000kg),18,2022,2324,False,68.49
+ORD-MFG-2023-1410,NASA (USA),Medium Satellite (500-2000kg),6,2022,7287,False,215.79
+ORD-MFG-2024-1411,JAXA (Japan),SmallSat (<500kg),9,2028,5267,True,309.14
+ORD-MFG-2025-1412,ISRO (India),SmallSat (<500kg),7,2022,4469,True,146.89
+ORD-MFG-2026-1413,Roscosmos (Russia),CubeSat (1U-12U),12,2028,3746,False,47.91
+ORD-MFG-2018-1414,CNSA (China),Medium Satellite (500-2000kg),1,2028,4666,True,230.36
+ORD-MFG-2019-1415,JAXA (Japan),Medium Satellite (500-2000kg),1,2022,3120,False,146.72
+ORD-MFG-2020-1416,JAXA (Japan),Heavy Geosynchronous Bus (>2000kg),5,2022,5314,False,166.21
+ORD-MFG-2021-1417,ISRO (India),Heavy Geosynchronous Bus (>2000kg),11,2023,2989,True,214.32
+ORD-MFG-2022-1418,ISRO (India),SmallSat (<500kg),9,2026,5005,False,131.9
+ORD-MFG-2023-1419,ESA (Europe),SmallSat (<500kg),19,2021,4194,True,48.04
+ORD-MFG-2024-1420,Roscosmos (Russia),Heavy Geosynchronous Bus (>2000kg),16,2025,757,False,215.02
+ORD-MFG-2025-1421,NASA (USA),Medium Satellite (500-2000kg),9,2022,2265,True,143.34
+ORD-MFG-2026-1422,ESA (Europe),Heavy Geosynchronous Bus (>2000kg),22,2024,2338,True,258.2
+ORD-MFG-2018-1423,"Private / Commercial (SpaceX, etc.)",Heavy Geosynchronous Bus (>2000kg),5,2023,3333,True,138.6
+ORD-MFG-2019-1424,CNSA (China),Heavy Geosynchronous Bus (>2000kg),6,2027,3928,True,24.49
+ORD-MFG-2020-1425,ISRO (India),Heavy Geosynchronous Bus (>2000kg),12,2028,2601,True,181.48
+ORD-MFG-2021-1426,ISRO (India),SmallSat (<500kg),16,2022,6183,True,267.3
+ORD-MFG-2022-1427,CNSA (China),SmallSat (<500kg),14,2023,4340,True,202.66
+ORD-MFG-2023-1428,NASA (USA),Heavy Geosynchronous Bus (>2000kg),2,2021,6378,True,52.25
+ORD-MFG-2024-1429,JAXA (Japan),Heavy Geosynchronous Bus (>2000kg),10,2027,5615,True,189.63
+ORD-MFG-2025-1430,JAXA (Japan),CubeSat (1U-12U),10,2021,5041,True,7.5
+ORD-MFG-2026-1431,CNSA (China),CubeSat (1U-12U),14,2027,3313,True,102.65
+ORD-MFG-2018-1432,ISRO (India),SmallSat (<500kg),2,2021,1187,False,283.86
+ORD-MFG-2019-1433,"Private / Commercial (SpaceX, etc.)",Medium Satellite (500-2000kg),13,2023,5761,False,234.2
+ORD-MFG-2020-1434,"Private / Commercial (SpaceX, etc.)",SmallSat (<500kg),1,2026,1881,True,112.39
+ORD-MFG-2021-1435,Roscosmos (Russia),Heavy Geosynchronous Bus (>2000kg),22,2024,862,False,248.84
+ORD-MFG-2022-1436,ESA (Europe),SmallSat (<500kg),4,2027,3650,True,263.69
+ORD-MFG-2023-1437,JAXA (Japan),CubeSat (1U-12U),2,2028,884,False,241.69
+ORD-MFG-2024-1438,NASA (USA),CubeSat (1U-12U),16,2022,2148,True,5.79
+ORD-MFG-2025-1439,ESA (Europe),Medium Satellite (500-2000kg),2,2021,3735,True,60.9
+ORD-MFG-2026-1440,JAXA (Japan),Heavy Geosynchronous Bus (>2000kg),9,2024,2940,True,245.4
+ORD-MFG-2018-1441,JAXA (Japan),Medium Satellite (500-2000kg),5,2027,5918,True,24.64
+ORD-MFG-2019-1442,ISRO (India),SmallSat (<500kg),10,2028,4416,True,30.51
+ORD-MFG-2020-1443,JAXA (Japan),CubeSat (1U-12U),6,2026,6143,True,65.96
+ORD-MFG-2021-1444,"Private / Commercial (SpaceX, etc.)",Heavy Geosynchronous Bus (>2000kg),11,2026,5311,False,295.8
+ORD-MFG-2022-1445,CNSA (China),SmallSat (<500kg),2,2025,6328,True,217.19
+ORD-MFG-2023-1446,ISRO (India),SmallSat (<500kg),17,2023,6648,True,21.14
+ORD-MFG-2024-1447,"Private / Commercial (SpaceX, etc.)",CubeSat (1U-12U),13,2025,6368,True,11.94
+ORD-MFG-2025-1448,Roscosmos (Russia),SmallSat (<500kg),21,2023,5340,False,149.54
+ORD-MFG-2026-1449,ISRO (India),Medium Satellite (500-2000kg),21,2025,2261,True,249.46
+ORD-MFG-2018-1450,ESA (Europe),Medium Satellite (500-2000kg),12,2028,4703,False,303.87
+ORD-MFG-2019-1451,JAXA (Japan),Medium Satellite (500-2000kg),23,2021,2816,False,302.1
+ORD-MFG-2020-1452,ESA (Europe),Medium Satellite (500-2000kg),21,2027,6293,True,292.8
+ORD-MFG-2021-1453,JAXA (Japan),SmallSat (<500kg),24,2024,5818,True,37.82
+ORD-MFG-2022-1454,"Private / Commercial (SpaceX, etc.)",CubeSat (1U-12U),14,2028,5543,True,12.35
+ORD-MFG-2023-1455,CNSA (China),Heavy Geosynchronous Bus (>2000kg),18,2025,2788,True,198.48
+ORD-MFG-2024-1456,ESA (Europe),SmallSat (<500kg),3,2027,5610,True,46.74
+ORD-MFG-2025-1457,ESA (Europe),SmallSat (<500kg),14,2026,4544,True,307.55
+ORD-MFG-2026-1458,JAXA (Japan),CubeSat (1U-12U),6,2025,4624,True,6.06
+ORD-MFG-2018-1459,Roscosmos (Russia),Medium Satellite (500-2000kg),16,2022,3362,True,77.39
+ORD-MFG-2019-1460,Roscosmos (Russia),Medium Satellite (500-2000kg),13,2026,1358,True,318.08
+ORD-MFG-2020-1461,ESA (Europe),Medium Satellite (500-2000kg),7,2025,2654,True,230.91
+ORD-MFG-2021-1462,JAXA (Japan),CubeSat (1U-12U),17,2021,3794,True,27.87
+ORD-MFG-2022-1463,Roscosmos (Russia),SmallSat (<500kg),19,2026,5399,True,80.56
+ORD-MFG-2023-1464,JAXA (Japan),Medium Satellite (500-2000kg),11,2021,6481,False,71.32
+ORD-MFG-2024-1465,Roscosmos (Russia),CubeSat (1U-12U),5,2023,1000,True,255.26
+ORD-MFG-2025-1466,ESA (Europe),Heavy Geosynchronous Bus (>2000kg),10,2023,1175,True,105.93
+ORD-MFG-2026-1467,ISRO (India),Heavy Geosynchronous Bus (>2000kg),18,2024,6685,False,205.41
+ORD-MFG-2018-1468,JAXA (Japan),CubeSat (1U-12U),16,2021,3430,True,145.12
+ORD-MFG-2019-1469,CNSA (China),Medium Satellite (500-2000kg),21,2021,5630,False,298.82
+ORD-MFG-2020-1470,JAXA (Japan),SmallSat (<500kg),6,2028,3715,True,298.51
+ORD-MFG-2021-1471,Roscosmos (Russia),SmallSat (<500kg),5,2027,3141,False,53.59
+ORD-MFG-2022-1472,"Private / Commercial (SpaceX, etc.)",Heavy Geosynchronous Bus (>2000kg),20,2021,2491,False,18.11
+ORD-MFG-2023-1473,CNSA (China),SmallSat (<500kg),15,2028,4452,True,56.79
+ORD-MFG-2024-1474,Roscosmos (Russia),SmallSat (<500kg),20,2027,7246,True,127.78
+ORD-MFG-2025-1475,"Private / Commercial (SpaceX, etc.)",CubeSat (1U-12U),17,2025,3365,True,89.69
+ORD-MFG-2026-1476,"Private / Commercial (SpaceX, etc.)",SmallSat (<500kg),17,2026,4105,True,171.34
+ORD-MFG-2018-1477,JAXA (Japan),SmallSat (<500kg),24,2021,1224,False,258.13
+ORD-MFG-2019-1478,ISRO (India),CubeSat (1U-12U),11,2026,1759,False,297.52
+ORD-MFG-2020-1479,JAXA (Japan),Heavy Geosynchronous Bus (>2000kg),4,2026,5665,True,236.52
+ORD-MFG-2021-1480,ESA (Europe),SmallSat (<500kg),3,2028,5103,True,27.9
+ORD-MFG-2022-1481,Roscosmos (Russia),SmallSat (<500kg),21,2025,7095,False,109.12
+ORD-MFG-2023-1482,JAXA (Japan),CubeSat (1U-12U),20,2027,6539,True,275.77
+ORD-MFG-2024-1483,JAXA (Japan),Medium Satellite (500-2000kg),21,2021,1567,True,257.93
+ORD-MFG-2025-1484,"Private / Commercial (SpaceX, etc.)",CubeSat (1U-12U),2,2023,4485,False,102.27
+ORD-MFG-2026-1485,CNSA (China),Medium Satellite (500-2000kg),17,2028,862,True,115.9
+ORD-MFG-2018-1486,Roscosmos (Russia),SmallSat (<500kg),11,2024,4600,True,280.56
+ORD-MFG-2019-1487,"Private / Commercial (SpaceX, etc.)",Heavy Geosynchronous Bus (>2000kg),7,2022,5430,True,109.57
+ORD-MFG-2020-1488,ESA (Europe),Heavy Geosynchronous Bus (>2000kg),13,2024,1797,False,204.8
+ORD-MFG-2021-1489,"Private / Commercial (SpaceX, etc.)",SmallSat (<500kg),23,2028,2750,False,249.15
+ORD-MFG-2022-1490,ESA (Europe),Heavy Geosynchronous Bus (>2000kg),17,2028,2998,True,33.44
+ORD-MFG-2023-1491,Roscosmos (Russia),Medium Satellite (500-2000kg),6,2025,6623,True,175.03
+ORD-MFG-2024-1492,ESA (Europe),CubeSat (1U-12U),15,2026,4054,True,236.0
+ORD-MFG-2025-1493,ISRO (India),Medium Satellite (500-2000kg),9,2025,7029,True,192.22
+ORD-MFG-2026-1494,CNSA (China),Heavy Geosynchronous Bus (>2000kg),22,2025,2985,False,60.79
+ORD-MFG-2018-1495,ISRO (India),SmallSat (<500kg),18,2025,451,True,246.7
+ORD-MFG-2019-1496,JAXA (Japan),CubeSat (1U-12U),12,2028,7393,True,214.88
+ORD-MFG-2020-1497,JAXA (Japan),Medium Satellite (500-2000kg),1,2028,881,True,217.44
+ORD-MFG-2021-1498,CNSA (China),SmallSat (<500kg),12,2022,5694,True,254.05
+ORD-MFG-2022-1499,ESA (Europe),CubeSat (1U-12U),21,2027,4110,True,319.12
+ORD-MFG-2023-1500,JAXA (Japan),Medium Satellite (500-2000kg),19,2022,2643,True,266.12
+ORD-MFG-2024-1501,ISRO (India),Heavy Geosynchronous Bus (>2000kg),14,2022,5472,False,258.99
+ORD-MFG-2025-1502,Roscosmos (Russia),Heavy Geosynchronous Bus (>2000kg),22,2027,6922,True,310.13
+ORD-MFG-2026-1503,Roscosmos (Russia),Medium Satellite (500-2000kg),2,2025,2321,True,318.37
+ORD-MFG-2018-1504,"Private / Commercial (SpaceX, etc.)",CubeSat (1U-12U),1,2023,3612,True,113.11
+ORD-MFG-2019-1505,JAXA (Japan),Medium Satellite (500-2000kg),15,2026,3834,False,119.59
+ORD-MFG-2020-1506,JAXA (Japan),SmallSat (<500kg),24,2023,5216,False,156.36
+ORD-MFG-2021-1507,ISRO (India),CubeSat (1U-12U),2,2026,422,False,168.93
+ORD-MFG-2022-1508,CNSA (China),CubeSat (1U-12U),24,2023,2376,True,22.65
+ORD-MFG-2023-1509,"Private / Commercial (SpaceX, etc.)",Medium Satellite (500-2000kg),14,2023,1360,True,226.59
+ORD-MFG-2024-1510,Roscosmos (Russia),CubeSat (1U-12U),14,2022,7262,False,304.52
+ORD-MFG-2025-1511,ISRO (India),SmallSat (<500kg),15,2024,7251,True,106.76
+ORD-MFG-2026-1512,"Private / Commercial (SpaceX, etc.)",Medium Satellite (500-2000kg),6,2021,4420,True,205.19
+ORD-MFG-2018-1513,"Private / Commercial (SpaceX, etc.)",Heavy Geosynchronous Bus (>2000kg),5,2024,911,False,40.55
+ORD-MFG-2019-1514,"Private / Commercial (SpaceX, etc.)",CubeSat (1U-12U),16,2022,7433,True,141.31
+ORD-MFG-2020-1515,NASA (USA),Heavy Geosynchronous Bus (>2000kg),20,2021,2204,False,272.0
+ORD-MFG-2021-1516,JAXA (Japan),CubeSat (1U-12U),11,2021,2605,True,43.12
+ORD-MFG-2022-1517,Roscosmos (Russia),Heavy Geosynchronous Bus (>2000kg),15,2027,5927,True,38.18
+ORD-MFG-2023-1518,CNSA (China),Medium Satellite (500-2000kg),14,2028,664,False,217.19
+ORD-MFG-2024-1519,CNSA (China),Heavy Geosynchronous Bus (>2000kg),9,2027,7178,True,276.91
+ORD-MFG-2025-1520,ESA (Europe),SmallSat (<500kg),1,2028,4832,True,229.47
+ORD-MFG-2026-1521,JAXA (Japan),SmallSat (<500kg),9,2024,4129,True,201.03
+ORD-MFG-2018-1522,CNSA (China),Heavy Geosynchronous Bus (>2000kg),18,2027,1849,False,315.76
+ORD-MFG-2019-1523,CNSA (China),SmallSat (<500kg),23,2024,500,True,184.73
+ORD-MFG-2020-1524,JAXA (Japan),CubeSat (1U-12U),11,2025,4398,True,191.18
+ORD-MFG-2021-1525,ISRO (India),CubeSat (1U-12U),4,2024,7379,True,126.47
+ORD-MFG-2022-1526,"Private / Commercial (SpaceX, etc.)",SmallSat (<500kg),24,2022,937,True,125.59
+ORD-MFG-2023-1527,"Private / Commercial (SpaceX, etc.)",CubeSat (1U-12U),9,2021,4788,True,290.53
+ORD-MFG-2024-1528,ESA (Europe),Medium Satellite (500-2000kg),13,2025,5389,True,207.0
+ORD-MFG-2025-1529,JAXA (Japan),CubeSat (1U-12U),14,2026,858,True,216.25
+ORD-MFG-2026-1530,ESA (Europe),SmallSat (<500kg),22,2022,3461,False,206.37
+ORD-MFG-2018-1531,JAXA (Japan),CubeSat (1U-12U),8,2022,5754,True,120.16
+ORD-MFG-2019-1532,CNSA (China),CubeSat (1U-12U),23,2024,3522,True,13.78
+ORD-MFG-2020-1533,JAXA (Japan),CubeSat (1U-12U),10,2027,6410,True,94.01
+ORD-MFG-2021-1534,ISRO (India),CubeSat (1U-12U),12,2022,3091,True,195.72
+ORD-MFG-2022-1535,ESA (Europe),Medium Satellite (500-2000kg),5,2028,4985,True,319.89
+ORD-MFG-2023-1536,Roscosmos (Russia),CubeSat (1U-12U),20,2023,3955,True,12.14
+ORD-MFG-2024-1537,CNSA (China),Heavy Geosynchronous Bus (>2000kg),22,2021,5646,False,265.55
+ORD-MFG-2025-1538,CNSA (China),CubeSat (1U-12U),10,2025,7446,True,140.39
+ORD-MFG-2026-1539,Roscosmos (Russia),Heavy Geosynchronous Bus (>2000kg),24,2027,1186,True,155.49
+ORD-MFG-2018-1540,JAXA (Japan),SmallSat (<500kg),20,2025,1736,True,134.2
+ORD-MFG-2019-1541,"Private / Commercial (SpaceX, etc.)",Heavy Geosynchronous Bus (>2000kg),2,2021,3204,True,179.85
+ORD-MFG-2020-1542,ISRO (India),CubeSat (1U-12U),9,2028,4369,True,226.17
+ORD-MFG-2021-1543,ESA (Europe),Medium Satellite (500-2000kg),1,2021,2288,True,67.55
+ORD-MFG-2022-1544,ISRO (India),CubeSat (1U-12U),24,2027,1156,False,114.8
+ORD-MFG-2023-1545,CNSA (China),Heavy Geosynchronous Bus (>2000kg),6,2023,6021,True,197.59
+ORD-MFG-2024-1546,Roscosmos (Russia),Heavy Geosynchronous Bus (>2000kg),14,2025,5686,True,197.35
+ORD-MFG-2025-1547,CNSA (China),Medium Satellite (500-2000kg),17,2024,1883,True,29.18
+ORD-MFG-2026-1548,CNSA (China),CubeSat (1U-12U),3,2021,1516,False,78.59
+ORD-MFG-2018-1549,ISRO (India),SmallSat (<500kg),5,2028,6559,False,224.82
+ORD-MFG-2019-1550,JAXA (Japan),CubeSat (1U-12U),18,2026,5128,True,272.93
+ORD-MFG-2020-1551,ESA (Europe),Heavy Geosynchronous Bus (>2000kg),17,2023,2323,True,238.67
+ORD-MFG-2021-1552,ISRO (India),SmallSat (<500kg),23,2025,2497,True,34.25
+ORD-MFG-2022-1553,CNSA (China),CubeSat (1U-12U),4,2022,2966,True,155.61
+ORD-MFG-2023-1554,CNSA (China),Medium Satellite (500-2000kg),4,2026,1240,True,201.3
+ORD-MFG-2024-1555,"Private / Commercial (SpaceX, etc.)",Medium Satellite (500-2000kg),12,2024,1686,True,153.49
+ORD-MFG-2025-1556,NASA (USA),SmallSat (<500kg),20,2028,2384,True,151.06
+ORD-MFG-2026-1557,ESA (Europe),Medium Satellite (500-2000kg),5,2024,1605,True,79.32
+ORD-MFG-2018-1558,Roscosmos (Russia),SmallSat (<500kg),4,2024,5060,True,256.37
+ORD-MFG-2019-1559,JAXA (Japan),Heavy Geosynchronous Bus (>2000kg),11,2027,1758,True,159.87
+ORD-MFG-2020-1560,ESA (Europe),Medium Satellite (500-2000kg),1,2021,3843,True,274.93
+ORD-MFG-2021-1561,ISRO (India),Medium Satellite (500-2000kg),24,2021,2897,True,198.32
+ORD-MFG-2022-1562,ISRO (India),CubeSat (1U-12U),16,2023,4654,False,64.37
+ORD-MFG-2023-1563,Roscosmos (Russia),Medium Satellite (500-2000kg),17,2028,6531,True,186.82
+ORD-MFG-2024-1564,"Private / Commercial (SpaceX, etc.)",Heavy Geosynchronous Bus (>2000kg),1,2027,6565,True,203.65
+ORD-MFG-2025-1565,ISRO (India),Heavy Geosynchronous Bus (>2000kg),24,2024,3517,True,170.16
+ORD-MFG-2026-1566,ISRO (India),Medium Satellite (500-2000kg),18,2023,7170,True,136.98
+ORD-MFG-2018-1567,"Private / Commercial (SpaceX, etc.)",SmallSat (<500kg),23,2022,3748,False,122.9
+ORD-MFG-2019-1568,NASA (USA),CubeSat (1U-12U),3,2026,2021,True,205.49
+ORD-MFG-2020-1569,JAXA (Japan),CubeSat (1U-12U),7,2025,6683,True,266.36
+ORD-MFG-2021-1570,"Private / Commercial (SpaceX, etc.)",Medium Satellite (500-2000kg),15,2028,3164,False,273.2
+ORD-MFG-2022-1571,CNSA (China),Heavy Geosynchronous Bus (>2000kg),7,2028,1135,True,315.99
+ORD-MFG-2023-1572,CNSA (China),Heavy Geosynchronous Bus (>2000kg),1,2021,7459,True,83.55
+ORD-MFG-2024-1573,ESA (Europe),CubeSat (1U-12U),6,2023,5763,True,315.11
+ORD-MFG-2025-1574,"Private / Commercial (SpaceX, etc.)",Heavy Geosynchronous Bus (>2000kg),11,2028,6035,True,271.26
+ORD-MFG-2026-1575,"Private / Commercial (SpaceX, etc.)",Heavy Geosynchronous Bus (>2000kg),13,2025,7006,True,109.97
+ORD-MFG-2018-1576,ESA (Europe),Medium Satellite (500-2000kg),13,2023,1784,True,9.28
+ORD-MFG-2019-1577,Roscosmos (Russia),SmallSat (<500kg),9,2027,7208,True,218.29
+ORD-MFG-2020-1578,"Private / Commercial (SpaceX, etc.)",SmallSat (<500kg),19,2027,1399,True,168.35
+ORD-MFG-2021-1579,JAXA (Japan),CubeSat (1U-12U),18,2027,763,False,184.86
+ORD-MFG-2022-1580,"Private / Commercial (SpaceX, etc.)",SmallSat (<500kg),20,2025,3184,True,17.12
+ORD-MFG-2023-1581,JAXA (Japan),SmallSat (<500kg),17,2023,5449,True,27.7
+ORD-MFG-2024-1582,ESA (Europe),Heavy Geosynchronous Bus (>2000kg),1,2025,6085,True,157.95
+ORD-MFG-2025-1583,ISRO (India),Heavy Geosynchronous Bus (>2000kg),4,2021,2410,False,210.22
+ORD-MFG-2026-1584,Roscosmos (Russia),CubeSat (1U-12U),12,2027,5302,True,210.35
+ORD-MFG-2018-1585,Roscosmos (Russia),Heavy Geosynchronous Bus (>2000kg),6,2026,5532,True,221.43
+ORD-MFG-2019-1586,JAXA (Japan),Medium Satellite (500-2000kg),3,2023,2155,True,58.37
+ORD-MFG-2020-1587,CNSA (China),CubeSat (1U-12U),22,2027,6646,True,170.7
+ORD-MFG-2021-1588,NASA (USA),CubeSat (1U-12U),15,2022,2712,True,292.98
+ORD-MFG-2022-1589,ESA (Europe),Heavy Geosynchronous Bus (>2000kg),1,2024,6789,False,166.32
+ORD-MFG-2023-1590,CNSA (China),Medium Satellite (500-2000kg),18,2025,2538,True,71.36
+ORD-MFG-2024-1591,"Private / Commercial (SpaceX, etc.)",Heavy Geosynchronous Bus (>2000kg),5,2022,7284,True,60.16
+ORD-MFG-2025-1592,"Private / Commercial (SpaceX, etc.)",Heavy Geosynchronous Bus (>2000kg),16,2027,2140,True,249.48
+ORD-MFG-2026-1593,NASA (USA),CubeSat (1U-12U),22,2021,6962,True,78.76
+ORD-MFG-2018-1594,ISRO (India),SmallSat (<500kg),2,2028,5069,False,109.11
+ORD-MFG-2019-1595,"Private / Commercial (SpaceX, etc.)",Heavy Geosynchronous Bus (>2000kg),17,2025,1846,True,180.15
+ORD-MFG-2020-1596,CNSA (China),CubeSat (1U-12U),3,2028,2687,False,57.75
+ORD-MFG-2021-1597,NASA (USA),SmallSat (<500kg),4,2022,1706,False,117.72
+ORD-MFG-2022-1598,Roscosmos (Russia),Heavy Geosynchronous Bus (>2000kg),10,2027,460,True,23.51
+ORD-MFG-2023-1599,Roscosmos (Russia),SmallSat (<500kg),4,2023,991,False,171.5

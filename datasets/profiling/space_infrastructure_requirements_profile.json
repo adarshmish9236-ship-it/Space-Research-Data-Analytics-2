@@ -1,0 +1,164 @@
+{
+  "dataset_name": "space_infrastructure_requirements",
+  "row_count": 1010,
+  "column_count": 13,
+  "memory_usage_kb": 265.96,
+  "columns": {
+    "infrastructure_record_id": {
+      "dtype": "str",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "unique_count": 1010,
+      "top_5_values": {
+        "INF-2010-00001": 1,
+        "INF-2010-00002": 1,
+        "INF-2010-00003": 1,
+        "INF-2010-00004": 1,
+        "INF-2010-00005": 1
+      }
+    },
+    "date": {
+      "dtype": "str",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "unique_count": 202,
+      "min_date": "2010-01-01",
+      "max_date": "2026-10-01",
+      "span_days": 6117
+    },
+    "year": {
+      "dtype": "int64",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "unique_count": 17,
+      "min": 2010.0,
+      "max": 2026.0,
+      "mean": 2017.921,
+      "std": 4.86,
+      "median": 2018.0,
+      "skewness": 0.005
+    },
+    "month": {
+      "dtype": "int64",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "unique_count": 12,
+      "min": 1.0,
+      "max": 12.0,
+      "mean": 6.45,
+      "std": 3.434,
+      "median": 6.0,
+      "skewness": 0.012
+    },
+    "facility_name": {
+      "dtype": "str",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "unique_count": 5,
+      "top_5_values": {
+        "Deep Space Network (DSN) Antenna Time": 202,
+        "Cryogenic Spacecraft Testing Chambers": 202,
+        "High-Performance Orbital Compute Cluster": 202,
+        "Autonomous Global Radar Tracking Facility": 202,
+        "Thermal Vacuum & Acoustic Vibration Lab": 202
+      }
+    },
+    "facility_type": {
+      "dtype": "str",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "unique_count": 5,
+      "top_5_values": {
+        "Ground Station Network": 202,
+        "Cryogenic Testing": 202,
+        "High-Performance Compute": 202,
+        "Radar Tracking": 202,
+        "Environmental Testing": 202
+      }
+    },
+    "agency_id": {
+      "dtype": "str",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "unique_count": 7,
+      "top_5_values": {
+        "AGY-002": 157,
+        "AGY-006": 151,
+        "AGY-005": 148,
+        "AGY-007": 146,
+        "AGY-004": 139
+      }
+    },
+    "agency_name": {
+      "dtype": "str",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "unique_count": 7,
+      "top_5_values": {
+        "European Space Agency": 157,
+        "State Space Corporation Roscosmos": 151,
+        "China National Space Administration": 148,
+        "Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab)": 146,
+        "Japan Aerospace Exploration Agency": 139
+      }
+    },
+    "location": {
+      "dtype": "str",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "unique_count": 5,
+      "top_5_values": {
+        "Goldstone / Madrid / Canberra": 202,
+        "ESTEC Noordwijk / Glenn Research": 202,
+        "Ames Research Supercomputing": 202,
+        "Kwajalein Atoll / Svalbard": 202,
+        "ISRO Satellite Integration Centre": 202
+      }
+    },
+    "utilization_rate_pct": {
+      "dtype": "float64",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "unique_count": 319,
+      "min": 56.0,
+      "max": 93.3,
+      "mean": 74.592,
+      "std": 8.368,
+      "median": 74.65,
+      "skewness": -0.002
+    },
+    "queued_backlog_hours": {
+      "dtype": "int64",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "unique_count": 552,
+      "min": 176.0,
+      "max": 1048.0,
+      "mean": 601.086,
+      "std": 189.12,
+      "median": 598.0,
+      "skewness": 0.026
+    },
+    "maintenance_downtime_days": {
+      "dtype": "int64",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "unique_count": 6,
+      "min": 0.0,
+      "max": 5.0,
+      "mean": 2.557,
+      "std": 1.757,
+      "median": 3.0,
+      "skewness": -0.012
+    },
+    "data_origin": {
+      "dtype": "str",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "unique_count": 1,
+      "top_5_values": {
+        "synthetic": 1010
+      }
+    }
+  }
+}

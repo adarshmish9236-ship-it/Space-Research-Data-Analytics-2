@@ -1,0 +1,64 @@
+{
+  "platform": "Orbitalytics",
+  "generation_timestamp": "2026-11-13T16:16:39.966681",
+  "profile": "medium",
+  "fixed_seed": 42,
+  "is_synthetic_environment": true,
+  "disclaimer": "All observations are realistic synthetic space research data generated for Big Data & predictive analytics demonstration. Not official space agency observations.",
+  "datasets": [
+    {
+      "name": "space_missions",
+      "file": "space_missions.csv",
+      "rows": 1500,
+      "category": "Missions & Science"
+    },
+    {
+      "name": "satellites_orbital",
+      "file": "satellites_orbital.csv",
+      "rows": 2400,
+      "category": "Orbital Mechanics & Satellites"
+    },
+    {
+      "name": "launch_activities",
+      "file": "launch_activities.csv",
+      "rows": 1200,
+      "category": "Launch Vehicles & Spaceports"
+    },
+    {
+      "name": "equipment_component_demand",
+      "file": "equipment_component_demand.csv",
+      "rows": 1616,
+      "category": "Supply Chain & Components"
+    },
+    {
+      "name": "agency_research_expenditures",
+      "file": "agency_research_expenditures.csv",
+      "rows": 1414,
+      "category": "Economics & Expenditures"
+    },
+    {
+      "name": "resource_consumption",
+      "file": "resource_consumption.csv",
+      "rows": 1616,
+      "category": "Consumables & Power"
+    },
+    {
+      "name": "satellite_manufacturing_requirements",
+      "file": "satellite_manufacturing_requirements.csv",
+      "rows": 600,
+      "category": "Manufacturing"
+    },
+    {
+      "name": "space_infrastructure_requirements",
+      "file": "space_infrastructure_requirements.csv",
+      "rows": 180,
+      "category": "Infrastructure"
+    },
+    {
+      "name": "research_investment_future_projects",
+      "file": "research_investment_future_projects.csv",
+      "rows": 160,
+      "category": "Future Strategic Roadmaps"
+    }
+  ]
+}

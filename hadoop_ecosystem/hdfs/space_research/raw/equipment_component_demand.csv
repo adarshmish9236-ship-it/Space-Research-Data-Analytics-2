@@ -1,0 +1,1617 @@
+date,year,month,equipment_type,units_demanded,avg_unit_cost_thousand_usd,total_demand_value_million_usd,lead_time_days,shortage_risk
+2010-01-01,2010,1,Ion Propulsion Engines,30,192.2,5.766,301,Medium
+2010-01-01,2010,1,High-Efficiency Solar Arrays,19,472.7,8.981,269,Low
+2010-01-01,2010,1,Cryogenic Tanks,18,450.5,8.109,112,Low
+2010-01-01,2010,1,Radiation-Hardened Rad-750 CPUs,46,265.7,12.222,193,Medium
+2010-01-01,2010,1,Optical Inter-Satellite Links,42,453.4,19.043,301,Medium
+2010-01-01,2010,1,Star Trackers,23,923.5,21.241,263,Medium
+2010-01-01,2010,1,Reaction Wheels,21,543.5,11.414,304,Medium
+2010-01-01,2010,1,SAR Radar Antennas,43,753.2,32.388,218,Medium
+2010-02-01,2010,2,Ion Propulsion Engines,31,496.6,15.395,259,High
+2010-02-01,2010,2,High-Efficiency Solar Arrays,29,400.8,11.623,305,Medium
+2010-02-01,2010,2,Cryogenic Tanks,29,499.2,14.477,161,Medium
+2010-02-01,2010,2,Radiation-Hardened Rad-750 CPUs,42,862.2,36.212,213,Medium
+2010-02-01,2010,2,Optical Inter-Satellite Links,43,456.3,19.621,332,Medium
+2010-02-01,2010,2,Star Trackers,18,740.3,13.325,163,Low
+2010-02-01,2010,2,Reaction Wheels,24,497.4,11.938,250,Medium
+2010-02-01,2010,2,SAR Radar Antennas,49,213.6,10.466,93,Medium
+2010-03-01,2010,3,Ion Propulsion Engines,29,858.1,24.885,272,Medium
+2010-03-01,2010,3,High-Efficiency Solar Arrays,27,869.8,23.485,313,Medium
+2010-03-01,2010,3,Cryogenic Tanks,28,576.4,16.139,111,Medium
+2010-03-01,2010,3,Radiation-Hardened Rad-750 CPUs,46,473.8,21.795,91,Medium
+2010-03-01,2010,3,Optical Inter-Satellite Links,48,384.9,18.475,128,Medium
+2010-03-01,2010,3,Star Trackers,30,761.3,22.839,181,Medium
+2010-03-01,2010,3,Reaction Wheels,23,189.1,4.349,357,Medium
+2010-03-01,2010,3,SAR Radar Antennas,49,195.8,9.594,286,Medium
+2010-04-01,2010,4,Ion Propulsion Engines,30,496.5,14.895,396,Medium
+2010-04-01,2010,4,High-Efficiency Solar Arrays,26,288.2,7.493,182,Medium
+2010-04-01,2010,4,Cryogenic Tanks,29,926.6,26.871,276,Medium
+2010-04-01,2010,4,Radiation-Hardened Rad-750 CPUs,56,783.5,43.876,186,High
+2010-04-01,2010,4,Optical Inter-Satellite Links,47,596.7,28.045,207,Medium
+2010-04-01,2010,4,Star Trackers,29,751.0,21.779,208,Medium
+2010-04-01,2010,4,Reaction Wheels,25,133.9,3.348,279,Medium
+2010-04-01,2010,4,SAR Radar Antennas,48,346.3,16.622,234,Medium
+2010-05-01,2010,5,Ion Propulsion Engines,27,729.3,19.691,253,Medium
+2010-05-01,2010,5,High-Efficiency Solar Arrays,26,923.7,24.016,304,Medium
+2010-05-01,2010,5,Cryogenic Tanks,22,394.6,8.681,118,Low
+2010-05-01,2010,5,Radiation-Hardened Rad-750 CPUs,46,864.0,39.744,387,Medium
+2010-05-01,2010,5,Optical Inter-Satellite Links,50,366.3,18.315,164,Medium
+2010-05-01,2010,5,Star Trackers,27,834.4,22.529,360,Medium
+2010-05-01,2010,5,Reaction Wheels,28,308.6,8.641,165,Medium
+2010-05-01,2010,5,SAR Radar Antennas,45,345.3,15.539,292,Medium
+2010-06-01,2010,6,Ion Propulsion Engines,25,687.2,17.18,301,Medium
+2010-06-01,2010,6,High-Efficiency Solar Arrays,24,742.4,17.818,261,Medium
+2010-06-01,2010,6,Cryogenic Tanks,20,641.3,12.826,259,Low
+2010-06-01,2010,6,Radiation-Hardened Rad-750 CPUs,44,733.5,32.274,383,Medium
+2010-06-01,2010,6,Optical Inter-Satellite Links,40,140.4,5.616,107,Low
+2010-06-01,2010,6,Star Trackers,21,372.8,7.829,123,Low
+2010-06-01,2010,6,Reaction Wheels,23,388.1,8.926,246,Medium
+2010-06-01,2010,6,SAR Radar Antennas,44,571.8,25.159,106,Medium
+2010-07-01,2010,7,Ion Propulsion Engines,16,766.6,12.266,140,Low
+2010-07-01,2010,7,High-Efficiency Solar Arrays,23,161.4,3.712,203,Low
+2010-07-01,2010,7,Cryogenic Tanks,22,278.0,6.116,290,Low
+2010-07-01,2010,7,Radiation-Hardened Rad-750 CPUs,38,763.0,28.994,216,Low
+2010-07-01,2010,7,Optical Inter-Satellite Links,35,306.1,10.713,303,Low
+2010-07-01,2010,7,Star Trackers,20,288.6,5.772,211,Low
+2010-07-01,2010,7,Reaction Wheels,19,125.4,2.383,336,Low
+2010-07-01,2010,7,SAR Radar Antennas,40,708.2,28.328,278,Low
+2010-08-01,2010,8,Ion Propulsion Engines,17,700.9,11.915,189,Low
+2010-08-01,2010,8,High-Efficiency Solar Arrays,12,506.3,6.076,117,Low
+2010-08-01,2010,8,Cryogenic Tanks,17,122.4,2.081,366,Low
+2010-08-01,2010,8,Radiation-Hardened Rad-750 CPUs,37,866.8,32.072,151,Low
+2010-08-01,2010,8,Optical Inter-Satellite Links,40,456.7,18.268,224,Low
+2010-08-01,2010,8,Star Trackers,16,313.6,5.018,319,Low
+2010-08-01,2010,8,Reaction Wheels,23,147.4,3.39,165,Low
+2010-08-01,2010,8,SAR Radar Antennas,32,199.6,6.387,326,Low
+2010-09-01,2010,9,Ion Propulsion Engines,22,128.9,2.836,228,Low
+2010-09-01,2010,9,High-Efficiency Solar Arrays,17,485.9,8.26,146,Low
+2010-09-01,2010,9,Cryogenic Tanks,20,799.7,15.994,264,Low
+2010-09-01,2010,9,Radiation-Hardened Rad-750 CPUs,38,704.1,26.756,408,Low
+2010-09-01,2010,9,Optical Inter-Satellite Links,41,260.8,10.693,204,Low
+2010-09-01,2010,9,Star Trackers,17,836.0,14.212,411,Low
+2010-09-01,2010,9,Reaction Wheels,15,800.4,12.006,330,Low
+2010-09-01,2010,9,SAR Radar Antennas,42,196.8,8.266,418,Low
+2010-10-01,2010,10,Ion Propulsion Engines,19,817.7,15.536,366,Low
+2010-10-01,2010,10,High-Efficiency Solar Arrays,20,430.5,8.61,360,Low
+2010-10-01,2010,10,Cryogenic Tanks,23,210.0,4.83,283,Low
+2010-10-01,2010,10,Radiation-Hardened Rad-750 CPUs,36,622.3,22.403,281,Low
+2010-10-01,2010,10,Optical Inter-Satellite Links,41,150.6,6.175,399,Low
+2010-10-01,2010,10,Star Trackers,18,198.3,3.569,211,Low
+2010-10-01,2010,10,Reaction Wheels,19,923.3,17.543,378,Low
+2010-10-01,2010,10,SAR Radar Antennas,40,318.4,12.736,125,Low
+2010-11-01,2010,11,Ion Propulsion Engines,18,934.3,16.817,267,Low
+2010-11-01,2010,11,High-Efficiency Solar Arrays,20,718.5,14.37,391,Low
+2010-11-01,2010,11,Cryogenic Tanks,26,189.7,4.932,283,Medium
+2010-11-01,2010,11,Radiation-Hardened Rad-750 CPUs,45,623.5,28.058,370,Low
+2010-11-01,2010,11,Optical Inter-Satellite Links,42,277.0,11.634,127,Low
+2010-11-01,2010,11,Star Trackers,23,525.1,12.077,198,Low
+2010-11-01,2010,11,Reaction Wheels,21,945.9,19.864,282,Low
+2010-11-01,2010,11,SAR Radar Antennas,46,358.6,16.496,345,Medium
+2010-12-01,2010,12,Ion Propulsion Engines,25,143.2,3.58,398,Low
+2010-12-01,2010,12,High-Efficiency Solar Arrays,27,712.1,19.227,221,Medium
+2010-12-01,2010,12,Cryogenic Tanks,30,719.8,21.594,112,Medium
+2010-12-01,2010,12,Radiation-Hardened Rad-750 CPUs,44,440.1,19.364,412,Low
+2010-12-01,2010,12,Optical Inter-Satellite Links,51,365.7,18.651,271,Medium
+2010-12-01,2010,12,Star Trackers,22,807.3,17.761,261,Low
+2010-12-01,2010,12,Reaction Wheels,31,593.9,18.411,278,Medium
+2010-12-01,2010,12,SAR Radar Antennas,45,507.7,22.846,344,Low
+2011-01-01,2011,1,Ion Propulsion Engines,29,827.6,24.0,285,Medium
+2011-01-01,2011,1,High-Efficiency Solar Arrays,24,838.0,20.112,93,Low
+2011-01-01,2011,1,Cryogenic Tanks,29,598.5,17.357,290,Medium
+2011-01-01,2011,1,Radiation-Hardened Rad-750 CPUs,47,269.3,12.657,96,Medium
+2011-01-01,2011,1,Optical Inter-Satellite Links,48,509.2,24.442,254,Medium
+2011-01-01,2011,1,Star Trackers,30,473.1,14.193,183,Medium
+2011-01-01,2011,1,Reaction Wheels,33,493.6,16.289,387,Medium
+2011-01-01,2011,1,SAR Radar Antennas,51,669.2,34.129,171,Medium
+2011-02-01,2011,2,Ion Propulsion Engines,34,460.9,15.671,155,Medium
+2011-02-01,2011,2,High-Efficiency Solar Arrays,30,931.9,27.957,413,Medium
+2011-02-01,2011,2,Cryogenic Tanks,30,665.8,19.974,123,Medium
+2011-02-01,2011,2,Radiation-Hardened Rad-750 CPUs,58,220.7,12.801,313,High
+2011-02-01,2011,2,Optical Inter-Satellite Links,51,545.4,27.815,100,Medium
+2011-02-01,2011,2,Star Trackers,38,733.8,27.884,103,High
+2011-02-01,2011,2,Reaction Wheels,32,941.6,30.131,202,Medium
+2011-02-01,2011,2,SAR Radar Antennas,53,481.9,25.541,91,Medium
+2011-03-01,2011,3,Ion Propulsion Engines,38,607.7,23.093,124,High
+2011-03-01,2011,3,High-Efficiency Solar Arrays,38,609.3,23.153,382,High
+2011-03-01,2011,3,Cryogenic Tanks,34,122.9,4.179,374,Medium
+2011-03-01,2011,3,Radiation-Hardened Rad-750 CPUs,53,175.8,9.317,329,Medium
+2011-03-01,2011,3,Optical Inter-Satellite Links,54,160.6,8.672,190,Medium
+2011-03-01,2011,3,Star Trackers,35,945.6,33.096,345,Medium
+2011-03-01,2011,3,Reaction Wheels,37,692.9,25.637,176,Medium
+2011-03-01,2011,3,SAR Radar Antennas,54,557.7,30.116,266,Medium
+2011-04-01,2011,4,Ion Propulsion Engines,36,891.1,32.08,358,Medium
+2011-04-01,2011,4,High-Efficiency Solar Arrays,39,503.3,19.629,341,High
+2011-04-01,2011,4,Cryogenic Tanks,35,826.4,28.924,115,Medium
+2011-04-01,2011,4,Radiation-Hardened Rad-750 CPUs,55,190.2,10.461,391,Medium
+2011-04-01,2011,4,Optical Inter-Satellite Links,50,505.2,25.26,287,Medium
+2011-04-01,2011,4,Star Trackers,26,540.4,14.05,141,Low
+2011-04-01,2011,4,Reaction Wheels,35,207.3,7.255,261,Medium
+2011-04-01,2011,4,SAR Radar Antennas,54,474.2,25.607,397,Medium
+2011-05-01,2011,5,Ion Propulsion Engines,31,874.3,27.103,246,Medium
+2011-05-01,2011,5,High-Efficiency Solar Arrays,33,480.2,15.847,341,Medium
+2011-05-01,2011,5,Cryogenic Tanks,32,493.2,15.782,415,Medium
+2011-05-01,2011,5,Radiation-Hardened Rad-750 CPUs,56,383.9,21.498,394,Medium
+2011-05-01,2011,5,Optical Inter-Satellite Links,53,420.5,22.287,378,Medium
+2011-05-01,2011,5,Star Trackers,30,689.3,20.679,393,Medium
+2011-05-01,2011,5,Reaction Wheels,35,798.5,27.948,166,Medium
+2011-05-01,2011,5,SAR Radar Antennas,52,150.6,7.831,151,Medium
+2011-06-01,2011,6,Ion Propulsion Engines,31,925.9,28.703,278,Medium
+2011-06-01,2011,6,High-Efficiency Solar Arrays,28,453.1,12.687,381,Low
+2011-06-01,2011,6,Cryogenic Tanks,28,895.0,25.06,325,Low
+2011-06-01,2011,6,Radiation-Hardened Rad-750 CPUs,50,781.6,39.08,361,Medium
+2011-06-01,2011,6,Optical Inter-Satellite Links,50,769.4,38.47,402,Medium
+2011-06-01,2011,6,Star Trackers,31,265.0,8.215,112,Medium
+2011-06-01,2011,6,Reaction Wheels,29,160.4,4.652,272,Low
+2011-06-01,2011,6,SAR Radar Antennas,44,207.8,9.143,329,Low
+2011-07-01,2011,7,Ion Propulsion Engines,26,740.0,19.24,358,Low
+2011-07-01,2011,7,High-Efficiency Solar Arrays,29,465.3,13.494,332,Low
+2011-07-01,2011,7,Cryogenic Tanks,26,277.0,7.202,367,Low
+2011-07-01,2011,7,Radiation-Hardened Rad-750 CPUs,46,220.1,10.125,156,Low
+2011-07-01,2011,7,Optical Inter-Satellite Links,50,726.6,36.33,340,Low
+2011-07-01,2011,7,Star Trackers,25,723.4,18.085,224,Low
+2011-07-01,2011,7,Reaction Wheels,22,543.0,11.946,234,Low
+2011-07-01,2011,7,SAR Radar Antennas,47,534.3,25.112,400,Low
+2011-08-01,2011,8,Ion Propulsion Engines,24,318.2,7.637,404,Low
+2011-08-01,2011,8,High-Efficiency Solar Arrays,22,890.7,19.595,260,Low
+2011-08-01,2011,8,Cryogenic Tanks,25,663.3,16.582,247,Low
+2011-08-01,2011,8,Radiation-Hardened Rad-750 CPUs,47,299.4,14.072,210,Low
+2011-08-01,2011,8,Optical Inter-Satellite Links,45,429.5,19.328,399,Low
+2011-08-01,2011,8,Star Trackers,26,600.3,15.608,330,Low
+2011-08-01,2011,8,Reaction Wheels,31,743.9,23.061,180,Medium
+2011-08-01,2011,8,SAR Radar Antennas,44,411.1,18.088,108,Low
+2011-09-01,2011,9,Ion Propulsion Engines,26,819.2,21.299,403,Low
+2011-09-01,2011,9,High-Efficiency Solar Arrays,24,286.1,6.866,284,Low
+2011-09-01,2011,9,Cryogenic Tanks,23,860.4,19.789,308,Low
+2011-09-01,2011,9,Radiation-Hardened Rad-750 CPUs,43,651.5,28.015,153,Low
+2011-09-01,2011,9,Optical Inter-Satellite Links,44,243.4,10.71,341,Low
+2011-09-01,2011,9,Star Trackers,26,212.9,5.535,135,Low
+2011-09-01,2011,9,Reaction Wheels,32,591.9,18.941,389,Medium
+2011-09-01,2011,9,SAR Radar Antennas,43,597.4,25.688,197,Low
+2011-10-01,2011,10,Ion Propulsion Engines,25,426.7,10.668,109,Low
+2011-10-01,2011,10,High-Efficiency Solar Arrays,26,296.7,7.714,129,Low
+2011-10-01,2011,10,Cryogenic Tanks,28,323.6,9.061,374,Low
+2011-10-01,2011,10,Radiation-Hardened Rad-750 CPUs,47,517.1,24.304,200,Low
+2011-10-01,2011,10,Optical Inter-Satellite Links,50,152.9,7.645,418,Low
+2011-10-01,2011,10,Star Trackers,19,446.5,8.483,157,Low
+2011-10-01,2011,10,Reaction Wheels,19,547.9,10.41,334,Low
+2011-10-01,2011,10,SAR Radar Antennas,45,430.3,19.363,210,Low
+2011-11-01,2011,11,Ion Propulsion Engines,33,393.4,12.982,259,Medium
+2011-11-01,2011,11,High-Efficiency Solar Arrays,25,267.7,6.692,177,Low
+2011-11-01,2011,11,Cryogenic Tanks,21,164.2,3.448,396,Low
+2011-11-01,2011,11,Radiation-Hardened Rad-750 CPUs,51,680.7,34.716,371,Low
+2011-11-01,2011,11,Optical Inter-Satellite Links,50,913.6,45.68,219,Low
+2011-11-01,2011,11,Star Trackers,26,518.4,13.478,153,Low
+2011-11-01,2011,11,Reaction Wheels,27,214.4,5.789,375,Low
+2011-11-01,2011,11,SAR Radar Antennas,47,250.8,11.788,392,Low
+2011-12-01,2011,12,Ion Propulsion Engines,34,829.2,28.193,391,Medium
+2011-12-01,2011,12,High-Efficiency Solar Arrays,32,283.5,9.072,278,Low
+2011-12-01,2011,12,Cryogenic Tanks,35,221.4,7.749,208,Medium
+2011-12-01,2011,12,Radiation-Hardened Rad-750 CPUs,45,593.6,26.712,174,Low
+2011-12-01,2011,12,Optical Inter-Satellite Links,51,784.5,40.01,160,Low
+2011-12-01,2011,12,Star Trackers,30,600.6,18.018,132,Low
+2011-12-01,2011,12,Reaction Wheels,33,485.6,16.025,325,Low
+2011-12-01,2011,12,SAR Radar Antennas,52,543.9,28.283,261,Low
+2012-01-01,2012,1,Ion Propulsion Engines,40,871.7,34.868,94,Medium
+2012-01-01,2012,1,High-Efficiency Solar Arrays,32,778.4,24.909,380,Low
+2012-01-01,2012,1,Cryogenic Tanks,38,660.3,25.091,314,Medium
+2012-01-01,2012,1,Radiation-Hardened Rad-750 CPUs,59,430.0,25.37,419,Medium
+2012-01-01,2012,1,Optical Inter-Satellite Links,63,658.1,41.46,251,Medium
+2012-01-01,2012,1,Star Trackers,36,390.3,14.051,336,Medium
+2012-01-01,2012,1,Reaction Wheels,38,695.0,26.41,343,Medium
+2012-01-01,2012,1,SAR Radar Antennas,52,721.6,37.523,378,Low
+2012-02-01,2012,2,Ion Propulsion Engines,33,185.5,6.122,243,Low
+2012-02-01,2012,2,High-Efficiency Solar Arrays,43,289.2,12.436,154,Medium
+2012-02-01,2012,2,Cryogenic Tanks,40,675.5,27.02,198,Medium
+2012-02-01,2012,2,Radiation-Hardened Rad-750 CPUs,64,370.5,23.712,253,Medium
+2012-02-01,2012,2,Optical Inter-Satellite Links,56,291.3,16.313,216,Medium
+2012-02-01,2012,2,Star Trackers,42,537.4,22.571,129,Medium
+2012-02-01,2012,2,Reaction Wheels,46,177.0,8.142,259,High
+2012-02-01,2012,2,SAR Radar Antennas,62,530.8,32.91,106,Medium
+2012-03-01,2012,3,Ion Propulsion Engines,43,831.4,35.75,162,Medium
+2012-03-01,2012,3,High-Efficiency Solar Arrays,42,866.9,36.41,325,Medium
+2012-03-01,2012,3,Cryogenic Tanks,37,251.1,9.291,406,Medium
+2012-03-01,2012,3,Radiation-Hardened Rad-750 CPUs,66,345.5,22.803,107,High
+2012-03-01,2012,3,Optical Inter-Satellite Links,60,728.5,43.71,186,Medium
+2012-03-01,2012,3,Star Trackers,44,435.8,19.175,281,Medium
+2012-03-01,2012,3,Reaction Wheels,37,494.1,18.282,270,Medium
+2012-03-01,2012,3,SAR Radar Antennas,58,943.2,54.706,185,Medium
+2012-04-01,2012,4,Ion Propulsion Engines,46,852.1,39.197,221,Medium
+2012-04-01,2012,4,High-Efficiency Solar Arrays,41,283.6,11.628,385,Medium
+2012-04-01,2012,4,Cryogenic Tanks,46,203.3,9.352,364,Medium
+2012-04-01,2012,4,Radiation-Hardened Rad-750 CPUs,62,433.4,26.871,325,Medium
+2012-04-01,2012,4,Optical Inter-Satellite Links,56,930.5,52.108,356,Low
+2012-04-01,2012,4,Star Trackers,44,565.8,24.895,256,Medium
+2012-04-01,2012,4,Reaction Wheels,40,133.8,5.352,383,Medium
+2012-04-01,2012,4,SAR Radar Antennas,64,750.0,48.0,206,Medium
+2012-05-01,2012,5,Ion Propulsion Engines,40,762.4,30.496,386,Medium
+2012-05-01,2012,5,High-Efficiency Solar Arrays,35,653.9,22.887,229,Low
+2012-05-01,2012,5,Cryogenic Tanks,41,340.8,13.973,144,Medium
+2012-05-01,2012,5,Radiation-Hardened Rad-750 CPUs,67,170.2,11.403,124,High
+2012-05-01,2012,5,Optical Inter-Satellite Links,62,133.0,8.246,164,Medium
+2012-05-01,2012,5,Star Trackers,40,832.2,33.288,393,Medium
+2012-05-01,2012,5,Reaction Wheels,43,513.4,22.076,408,Medium
+2012-05-01,2012,5,SAR Radar Antennas,61,280.1,17.086,232,Medium
+2012-06-01,2012,6,Ion Propulsion Engines,38,818.4,31.099,166,Medium
+2012-06-01,2012,6,High-Efficiency Solar Arrays,34,215.2,7.317,90,Low
+2012-06-01,2012,6,Cryogenic Tanks,38,208.6,7.927,358,Medium
+2012-06-01,2012,6,Radiation-Hardened Rad-750 CPUs,61,783.7,47.806,348,Medium
+2012-06-01,2012,6,Optical Inter-Satellite Links,55,572.9,31.509,417,Low
+2012-06-01,2012,6,Star Trackers,42,630.4,26.477,402,Medium
+2012-06-01,2012,6,Reaction Wheels,37,861.7,31.883,408,Low
+2012-06-01,2012,6,SAR Radar Antennas,55,652.4,35.882,199,Low
+2012-07-01,2012,7,Ion Propulsion Engines,38,916.3,34.819,411,Low
+2012-07-01,2012,7,High-Efficiency Solar Arrays,34,606.6,20.624,279,Low
+2012-07-01,2012,7,Cryogenic Tanks,37,492.1,18.208,254,Low
+2012-07-01,2012,7,Radiation-Hardened Rad-750 CPUs,54,294.4,15.898,247,Low
+2012-07-01,2012,7,Optical Inter-Satellite Links,55,781.2,42.966,414,Low
+2012-07-01,2012,7,Star Trackers,36,184.4,6.638,135,Low
+2012-07-01,2012,7,Reaction Wheels,36,389.7,14.029,345,Low
+2012-07-01,2012,7,SAR Radar Antennas,49,151.2,7.409,186,Low
+2012-08-01,2012,8,Ion Propulsion Engines,30,368.6,11.058,279,Low
+2012-08-01,2012,8,High-Efficiency Solar Arrays,36,448.4,16.142,419,Low
+2012-08-01,2012,8,Cryogenic Tanks,33,196.8,6.494,300,Low
+2012-08-01,2012,8,Radiation-Hardened Rad-750 CPUs,52,357.6,18.595,172,Low
+2012-08-01,2012,8,Optical Inter-Satellite Links,49,439.0,21.511,244,Low
+2012-08-01,2012,8,Star Trackers,30,810.7,24.321,261,Low
+2012-08-01,2012,8,Reaction Wheels,27,874.1,23.601,235,Low
+2012-08-01,2012,8,SAR Radar Antennas,53,465.5,24.672,173,Low
+2012-09-01,2012,9,Ion Propulsion Engines,31,122.7,3.804,181,Low
+2012-09-01,2012,9,High-Efficiency Solar Arrays,30,918.1,27.543,208,Low
+2012-09-01,2012,9,Cryogenic Tanks,33,403.6,13.319,218,Low
+2012-09-01,2012,9,Radiation-Hardened Rad-750 CPUs,54,778.2,42.023,408,Low
+2012-09-01,2012,9,Optical Inter-Satellite Links,59,708.6,41.807,176,Low
+2012-09-01,2012,9,Star Trackers,28,239.6,6.709,217,Low
+2012-09-01,2012,9,Reaction Wheels,36,592.8,21.341,92,Low
+2012-09-01,2012,9,SAR Radar Antennas,56,526.9,29.506,132,Low
+2012-10-01,2012,10,Ion Propulsion Engines,32,743.1,23.779,216,Low
+2012-10-01,2012,10,High-Efficiency Solar Arrays,35,673.1,23.558,207,Low
+2012-10-01,2012,10,Cryogenic Tanks,33,349.2,11.524,286,Low
+2012-10-01,2012,10,Radiation-Hardened Rad-750 CPUs,55,877.8,48.279,409,Low
+2012-10-01,2012,10,Optical Inter-Satellite Links,59,888.5,52.422,222,Low
+2012-10-01,2012,10,Star Trackers,36,512.0,18.432,115,Low
+2012-10-01,2012,10,Reaction Wheels,36,718.2,25.855,115,Low
+2012-10-01,2012,10,SAR Radar Antennas,53,466.2,24.709,217,Low
+2012-11-01,2012,11,Ion Propulsion Engines,33,888.9,29.334,359,Low
+2012-11-01,2012,11,High-Efficiency Solar Arrays,37,828.2,30.643,129,Low
+2012-11-01,2012,11,Cryogenic Tanks,41,162.7,6.671,385,Medium
+2012-11-01,2012,11,Radiation-Hardened Rad-750 CPUs,53,946.0,50.138,273,Low
+2012-11-01,2012,11,Optical Inter-Satellite Links,54,209.9,11.335,187,Low
+2012-11-01,2012,11,Star Trackers,38,400.0,15.2,128,Low
+2012-11-01,2012,11,Reaction Wheels,35,335.6,11.746,133,Low
+2012-11-01,2012,11,SAR Radar Antennas,55,734.4,40.392,90,Low
+2012-12-01,2012,12,Ion Propulsion Engines,40,877.5,35.1,174,Low
+2012-12-01,2012,12,High-Efficiency Solar Arrays,37,361.6,13.379,144,Low
+2012-12-01,2012,12,Cryogenic Tanks,39,524.7,20.463,294,Low
+2012-12-01,2012,12,Radiation-Hardened Rad-750 CPUs,64,175.9,11.258,353,Medium
+2012-12-01,2012,12,Optical Inter-Satellite Links,58,154.5,8.961,400,Low
+2012-12-01,2012,12,Star Trackers,37,400.1,14.804,219,Low
+2012-12-01,2012,12,Reaction Wheels,40,671.5,26.86,133,Low
+2012-12-01,2012,12,SAR Radar Antennas,64,558.9,35.77,261,Medium
+2013-01-01,2013,1,Ion Propulsion Engines,45,343.9,15.475,188,Medium
+2013-01-01,2013,1,High-Efficiency Solar Arrays,44,301.2,13.253,190,Medium
+2013-01-01,2013,1,Cryogenic Tanks,46,480.8,22.117,274,Medium
+2013-01-01,2013,1,Radiation-Hardened Rad-750 CPUs,60,726.6,43.596,96,Low
+2013-01-01,2013,1,Optical Inter-Satellite Links,67,236.6,15.852,264,Medium
+2013-01-01,2013,1,Star Trackers,47,933.8,43.889,395,Medium
+2013-01-01,2013,1,Reaction Wheels,44,784.1,34.5,124,Medium
+2013-01-01,2013,1,SAR Radar Antennas,69,392.9,27.11,310,Medium
+2013-02-01,2013,2,Ion Propulsion Engines,45,698.2,31.419,253,Medium
+2013-02-01,2013,2,High-Efficiency Solar Arrays,52,578.1,30.061,314,Medium
+2013-02-01,2013,2,Cryogenic Tanks,49,656.8,32.183,140,Medium
+2013-02-01,2013,2,Radiation-Hardened Rad-750 CPUs,68,673.6,45.805,332,Medium
+2013-02-01,2013,2,Optical Inter-Satellite Links,69,575.5,39.709,379,Medium
+2013-02-01,2013,2,Star Trackers,48,169.4,8.131,258,Medium
+2013-02-01,2013,2,Reaction Wheels,52,267.5,13.91,245,Medium
+2013-02-01,2013,2,SAR Radar Antennas,65,611.9,39.773,177,Medium
+2013-03-01,2013,3,Ion Propulsion Engines,48,191.1,9.173,389,Medium
+2013-03-01,2013,3,High-Efficiency Solar Arrays,53,836.1,44.313,419,Medium
+2013-03-01,2013,3,Cryogenic Tanks,48,689.0,33.072,234,Medium
+2013-03-01,2013,3,Radiation-Hardened Rad-750 CPUs,73,252.8,18.454,388,Medium
+2013-03-01,2013,3,Optical Inter-Satellite Links,75,875.7,65.677,228,High
+2013-03-01,2013,3,Star Trackers,49,538.1,26.367,238,Medium
+2013-03-01,2013,3,Reaction Wheels,52,211.4,10.993,93,Medium
+2013-03-01,2013,3,SAR Radar Antennas,67,743.4,49.808,200,Medium
+2013-04-01,2013,4,Ion Propulsion Engines,52,796.9,41.439,275,Medium
+2013-04-01,2013,4,High-Efficiency Solar Arrays,51,695.5,35.471,293,Medium
+2013-04-01,2013,4,Cryogenic Tanks,51,868.1,44.273,387,Medium
+2013-04-01,2013,4,Radiation-Hardened Rad-750 CPUs,68,277.3,18.856,151,Medium
+2013-04-01,2013,4,Optical Inter-Satellite Links,65,356.1,23.146,176,Medium
+2013-04-01,2013,4,Star Trackers,51,462.1,23.567,168,Medium
+2013-04-01,2013,4,Reaction Wheels,44,124.7,5.487,151,Low
+2013-04-01,2013,4,SAR Radar Antennas,69,807.9,55.745,105,Medium
+2013-05-01,2013,5,Ion Propulsion Engines,51,209.7,10.695,244,Medium
+2013-05-01,2013,5,High-Efficiency Solar Arrays,49,858.7,42.076,167,Medium
+2013-05-01,2013,5,Cryogenic Tanks,54,162.9,8.797,349,Medium
+2013-05-01,2013,5,Radiation-Hardened Rad-750 CPUs,71,656.7,46.626,247,Medium
+2013-05-01,2013,5,Optical Inter-Satellite Links,66,481.7,31.792,347,Medium
+2013-05-01,2013,5,Star Trackers,48,546.2,26.218,356,Medium
+2013-05-01,2013,5,Reaction Wheels,48,444.5,21.336,276,Medium
+2013-05-01,2013,5,SAR Radar Antennas,64,638.1,40.838,368,Low
+2013-06-01,2013,6,Ion Propulsion Engines,43,181.5,7.804,367,Low
+2013-06-01,2013,6,High-Efficiency Solar Arrays,44,241.9,10.644,185,Low
+2013-06-01,2013,6,Cryogenic Tanks,40,899.8,35.992,397,Low
+2013-06-01,2013,6,Radiation-Hardened Rad-750 CPUs,66,223.4,14.744,287,Medium
+2013-06-01,2013,6,Optical Inter-Satellite Links,65,499.4,32.461,257,Low
+2013-06-01,2013,6,Star Trackers,41,908.0,37.228,142,Low
+2013-06-01,2013,6,Reaction Wheels,47,877.9,41.261,249,Medium
+2013-06-01,2013,6,SAR Radar Antennas,68,914.0,62.152,417,Medium
+2013-07-01,2013,7,Ion Propulsion Engines,44,598.7,26.343,250,Low
+2013-07-01,2013,7,High-Efficiency Solar Arrays,42,278.9,11.714,166,Low
+2013-07-01,2013,7,Cryogenic Tanks,45,717.0,32.265,376,Low
+2013-07-01,2013,7,Radiation-Hardened Rad-750 CPUs,65,663.3,43.114,138,Low
+2013-07-01,2013,7,Optical Inter-Satellite Links,64,201.7,12.909,121,Low
+2013-07-01,2013,7,Star Trackers,41,549.4,22.525,160,Low
+2013-07-01,2013,7,Reaction Wheels,44,300.7,13.231,273,Low
+2013-07-01,2013,7,SAR Radar Antennas,67,454.2,30.431,363,Medium
+2013-08-01,2013,8,Ion Propulsion Engines,40,757.0,30.28,210,Low
+2013-08-01,2013,8,High-Efficiency Solar Arrays,48,360.6,17.309,368,Medium
+2013-08-01,2013,8,Cryogenic Tanks,40,328.1,13.124,96,Low
+2013-08-01,2013,8,Radiation-Hardened Rad-750 CPUs,62,723.6,44.863,165,Low
+2013-08-01,2013,8,Optical Inter-Satellite Links,60,851.6,51.096,218,Low
+2013-08-01,2013,8,Star Trackers,42,447.5,18.795,291,Low
+2013-08-01,2013,8,Reaction Wheels,36,515.6,18.562,131,Low
+2013-08-01,2013,8,SAR Radar Antennas,60,642.7,38.562,170,Low
+2013-09-01,2013,9,Ion Propulsion Engines,38,128.3,4.875,161,Low
+2013-09-01,2013,9,High-Efficiency Solar Arrays,42,379.9,15.956,219,Low
+2013-09-01,2013,9,Cryogenic Tanks,44,251.9,11.084,364,Low
+2013-09-01,2013,9,Radiation-Hardened Rad-750 CPUs,63,471.8,29.723,110,Low
+2013-09-01,2013,9,Optical Inter-Satellite Links,54,795.2,42.941,332,Low
+2013-09-01,2013,9,Star Trackers,48,439.4,21.091,249,Medium
+2013-09-01,2013,9,Reaction Wheels,42,761.4,31.979,406,Low
+2013-09-01,2013,9,SAR Radar Antennas,59,882.5,52.068,191,Low
+2013-10-01,2013,10,Ion Propulsion Engines,43,661.0,28.423,414,Low
+2013-10-01,2013,10,High-Efficiency Solar Arrays,43,894.9,38.481,392,Low
+2013-10-01,2013,10,Cryogenic Tanks,41,743.6,30.488,342,Low
+2013-10-01,2013,10,Radiation-Hardened Rad-750 CPUs,64,651.0,41.664,308,Low
+2013-10-01,2013,10,Optical Inter-Satellite Links,61,707.9,43.182,330,Low
+2013-10-01,2013,10,Star Trackers,42,371.0,15.582,366,Low
+2013-10-01,2013,10,Reaction Wheels,41,701.7,28.77,345,Low
+2013-10-01,2013,10,SAR Radar Antennas,59,524.0,30.916,158,Low
+2013-11-01,2013,11,Ion Propulsion Engines,46,182.3,8.386,319,Low
+2013-11-01,2013,11,High-Efficiency Solar Arrays,48,659.7,31.666,181,Low
+2013-11-01,2013,11,Cryogenic Tanks,48,778.6,37.373,116,Low
+2013-11-01,2013,11,Radiation-Hardened Rad-750 CPUs,69,137.0,9.453,201,Low
+2013-11-01,2013,11,Optical Inter-Satellite Links,67,700.1,46.907,279,Low
+2013-11-01,2013,11,Star Trackers,44,829.2,36.485,99,Low
+2013-11-01,2013,11,Reaction Wheels,49,691.0,33.859,396,Low
+2013-11-01,2013,11,SAR Radar Antennas,62,713.2,44.218,342,Low
+2013-12-01,2013,12,Ion Propulsion Engines,47,922.2,43.343,164,Low
+2013-12-01,2013,12,High-Efficiency Solar Arrays,47,355.4,16.704,326,Low
+2013-12-01,2013,12,Cryogenic Tanks,53,787.6,41.743,160,Medium
+2013-12-01,2013,12,Radiation-Hardened Rad-750 CPUs,73,406.1,29.645,183,Medium
+2013-12-01,2013,12,Optical Inter-Satellite Links,71,478.8,33.995,238,Medium
+2013-12-01,2013,12,Star Trackers,53,854.9,45.31,313,Medium
+2013-12-01,2013,12,Reaction Wheels,47,738.3,34.7,362,Low
+2013-12-01,2013,12,SAR Radar Antennas,71,611.9,43.445,196,Medium
+2014-01-01,2014,1,Ion Propulsion Engines,54,612.6,33.08,338,Medium
+2014-01-01,2014,1,High-Efficiency Solar Arrays,57,948.4,54.059,312,Medium
+2014-01-01,2014,1,Cryogenic Tanks,54,744.5,40.203,209,Medium
+2014-01-01,2014,1,Radiation-Hardened Rad-750 CPUs,73,602.2,43.961,253,Medium
+2014-01-01,2014,1,Optical Inter-Satellite Links,76,700.4,53.23,202,Medium
+2014-01-01,2014,1,Star Trackers,57,581.1,33.123,142,Medium
+2014-01-01,2014,1,Reaction Wheels,52,788.1,40.981,176,Medium
+2014-01-01,2014,1,SAR Radar Antennas,74,779.9,57.713,351,Medium
+2014-02-01,2014,2,Ion Propulsion Engines,54,598.5,32.319,285,Medium
+2014-02-01,2014,2,High-Efficiency Solar Arrays,50,657.9,32.895,410,Low
+2014-02-01,2014,2,Cryogenic Tanks,58,258.1,14.97,325,Medium
+2014-02-01,2014,2,Radiation-Hardened Rad-750 CPUs,79,575.9,45.496,308,Medium
+2014-02-01,2014,2,Optical Inter-Satellite Links,78,548.3,42.767,334,Medium
+2014-02-01,2014,2,Star Trackers,51,854.3,43.569,110,Low
+2014-02-01,2014,2,Reaction Wheels,56,347.6,19.466,208,Medium
+2014-02-01,2014,2,SAR Radar Antennas,70,412.4,28.868,323,Low
+2014-03-01,2014,3,Ion Propulsion Engines,63,761.8,47.993,208,High
+2014-03-01,2014,3,High-Efficiency Solar Arrays,55,185.6,10.208,404,Medium
+2014-03-01,2014,3,Cryogenic Tanks,62,619.7,38.421,386,Medium
+2014-03-01,2014,3,Radiation-Hardened Rad-750 CPUs,82,315.3,25.855,131,Medium
+2014-03-01,2014,3,Optical Inter-Satellite Links,76,722.1,54.88,386,Medium
+2014-03-01,2014,3,Star Trackers,55,612.3,33.676,131,Medium
+2014-03-01,2014,3,Reaction Wheels,60,660.2,39.612,253,Medium
+2014-03-01,2014,3,SAR Radar Antennas,76,327.0,24.852,329,Medium
+2014-04-01,2014,4,Ion Propulsion Engines,59,717.5,42.333,267,Medium
+2014-04-01,2014,4,High-Efficiency Solar Arrays,57,125.7,7.165,330,Medium
+2014-04-01,2014,4,Cryogenic Tanks,53,936.2,49.619,91,Medium
+2014-04-01,2014,4,Radiation-Hardened Rad-750 CPUs,72,531.4,38.261,281,Low
+2014-04-01,2014,4,Optical Inter-Satellite Links,79,125.1,9.883,375,Medium
+2014-04-01,2014,4,Star Trackers,57,577.8,32.935,242,Medium
+2014-04-01,2014,4,Reaction Wheels,57,590.1,33.636,385,Medium
+2014-04-01,2014,4,SAR Radar Antennas,81,625.8,50.69,294,Medium
+2014-05-01,2014,5,Ion Propulsion Engines,60,284.2,17.052,267,Medium
+2014-05-01,2014,5,High-Efficiency Solar Arrays,56,498.5,27.916,348,Medium
+2014-05-01,2014,5,Cryogenic Tanks,56,465.4,26.062,302,Medium
+2014-05-01,2014,5,Radiation-Hardened Rad-750 CPUs,78,224.0,17.472,126,Medium
+2014-05-01,2014,5,Optical Inter-Satellite Links,73,317.3,23.163,95,Low
+2014-05-01,2014,5,Star Trackers,58,793.8,46.04,386,Medium
+2014-05-01,2014,5,Reaction Wheels,59,417.5,24.633,402,Medium
+2014-05-01,2014,5,SAR Radar Antennas,79,768.3,60.696,221,Medium
+2014-06-01,2014,6,Ion Propulsion Engines,49,578.5,28.346,273,Low
+2014-06-01,2014,6,High-Efficiency Solar Arrays,52,350.7,18.236,177,Low
+2014-06-01,2014,6,Cryogenic Tanks,52,255.2,13.27,279,Low
+2014-06-01,2014,6,Radiation-Hardened Rad-750 CPUs,75,603.6,45.27,262,Medium
+2014-06-01,2014,6,Optical Inter-Satellite Links,76,203.7,15.481,186,Medium
+2014-06-01,2014,6,Star Trackers,59,707.6,41.748,257,Medium
+2014-06-01,2014,6,Reaction Wheels,53,628.2,33.295,269,Low
+2014-06-01,2014,6,SAR Radar Antennas,73,364.1,26.579,387,Low
+2014-07-01,2014,7,Ion Propulsion Engines,55,463.2,25.476,271,Low
+2014-07-01,2014,7,High-Efficiency Solar Arrays,53,211.1,11.188,140,Low
+2014-07-01,2014,7,Cryogenic Tanks,56,141.5,7.924,300,Medium
+2014-07-01,2014,7,Radiation-Hardened Rad-750 CPUs,73,533.2,38.924,265,Low
+2014-07-01,2014,7,Optical Inter-Satellite Links,68,209.0,14.212,207,Low
+2014-07-01,2014,7,Star Trackers,48,931.2,44.698,309,Low
+2014-07-01,2014,7,Reaction Wheels,47,310.4,14.589,272,Low
+2014-07-01,2014,7,SAR Radar Antennas,74,729.3,53.968,95,Low
+2014-08-01,2014,8,Ion Propulsion Engines,54,902.5,48.735,261,Low
+2014-08-01,2014,8,High-Efficiency Solar Arrays,56,729.2,40.835,218,Medium
+2014-08-01,2014,8,Cryogenic Tanks,53,173.9,9.217,211,Low
+2014-08-01,2014,8,Radiation-Hardened Rad-750 CPUs,74,532.2,39.383,162,Low
+2014-08-01,2014,8,Optical Inter-Satellite Links,68,236.8,16.102,223,Low
+2014-08-01,2014,8,Star Trackers,47,231.5,10.88,339,Low
+2014-08-01,2014,8,Reaction Wheels,53,819.9,43.455,328,Low
+2014-08-01,2014,8,SAR Radar Antennas,71,840.8,59.697,110,Low
+2014-09-01,2014,9,Ion Propulsion Engines,50,944.2,47.21,191,Low
+2014-09-01,2014,9,High-Efficiency Solar Arrays,51,853.3,43.518,178,Low
+2014-09-01,2014,9,Cryogenic Tanks,51,299.7,15.285,369,Low
+2014-09-01,2014,9,Radiation-Hardened Rad-750 CPUs,74,213.0,15.762,354,Low
+2014-09-01,2014,9,Optical Inter-Satellite Links,74,186.5,13.801,122,Low
+2014-09-01,2014,9,Star Trackers,52,856.1,44.517,359,Low
+2014-09-01,2014,9,Reaction Wheels,53,797.3,42.257,381,Low
+2014-09-01,2014,9,SAR Radar Antennas,72,742.6,53.467,270,Low
+2014-10-01,2014,10,Ion Propulsion Engines,50,904.0,45.2,247,Low
+2014-10-01,2014,10,High-Efficiency Solar Arrays,54,680.0,36.72,253,Low
+2014-10-01,2014,10,Cryogenic Tanks,48,848.2,40.714,151,Low
+2014-10-01,2014,10,Radiation-Hardened Rad-750 CPUs,75,178.6,13.395,172,Low
+2014-10-01,2014,10,Optical Inter-Satellite Links,68,486.2,33.062,252,Low
+2014-10-01,2014,10,Star Trackers,53,906.8,48.06,306,Low
+2014-10-01,2014,10,Reaction Wheels,49,322.7,15.812,344,Low
+2014-10-01,2014,10,SAR Radar Antennas,73,859.7,62.758,201,Low
+2014-11-01,2014,11,Ion Propulsion Engines,55,178.4,9.812,246,Low
+2014-11-01,2014,11,High-Efficiency Solar Arrays,50,623.3,31.165,195,Low
+2014-11-01,2014,11,Cryogenic Tanks,56,318.0,17.808,143,Low
+2014-11-01,2014,11,Radiation-Hardened Rad-750 CPUs,73,865.1,63.152,363,Low
+2014-11-01,2014,11,Optical Inter-Satellite Links,77,538.2,41.441,172,Low
+2014-11-01,2014,11,Star Trackers,55,928.4,51.062,117,Low
+2014-11-01,2014,11,Reaction Wheels,56,797.6,44.666,261,Low
+2014-11-01,2014,11,SAR Radar Antennas,72,768.6,55.339,387,Low
+2014-12-01,2014,12,Ion Propulsion Engines,57,857.6,48.883,103,Low
+2014-12-01,2014,12,High-Efficiency Solar Arrays,57,142.2,8.105,362,Low
+2014-12-01,2014,12,Cryogenic Tanks,61,199.3,12.157,99,Medium
+2014-12-01,2014,12,Radiation-Hardened Rad-750 CPUs,84,322.1,27.056,303,Medium
+2014-12-01,2014,12,Optical Inter-Satellite Links,76,367.2,27.907,280,Low
+2014-12-01,2014,12,Star Trackers,62,713.7,44.249,109,Medium
+2014-12-01,2014,12,Reaction Wheels,52,881.7,45.848,156,Low
+2014-12-01,2014,12,SAR Radar Antennas,75,176.2,13.215,168,Low
+2015-01-01,2015,1,Ion Propulsion Engines,60,372.8,22.368,219,Medium
+2015-01-01,2015,1,High-Efficiency Solar Arrays,59,139.7,8.242,134,Low
+2015-01-01,2015,1,Cryogenic Tanks,58,491.6,28.513,158,Low
+2015-01-01,2015,1,Radiation-Hardened Rad-750 CPUs,84,549.8,46.183,306,Medium
+2015-01-01,2015,1,Optical Inter-Satellite Links,82,172.0,14.104,414,Medium
+2015-01-01,2015,1,Star Trackers,64,576.6,36.902,362,Medium
+2015-01-01,2015,1,Reaction Wheels,65,489.9,31.843,413,Medium
+2015-01-01,2015,1,SAR Radar Antennas,84,279.0,23.436,122,Medium
+2015-02-01,2015,2,Ion Propulsion Engines,68,353.7,24.052,400,Medium
+2015-02-01,2015,2,High-Efficiency Solar Arrays,66,596.4,39.362,95,Medium
+2015-02-01,2015,2,Cryogenic Tanks,62,294.0,18.228,155,Medium
+2015-02-01,2015,2,Radiation-Hardened Rad-750 CPUs,89,919.0,81.791,233,Medium
+2015-02-01,2015,2,Optical Inter-Satellite Links,84,275.8,23.167,249,Medium
+2015-02-01,2015,2,Star Trackers,63,671.4,42.298,220,Medium
+2015-02-01,2015,2,Reaction Wheels,65,296.8,19.292,194,Medium
+2015-02-01,2015,2,SAR Radar Antennas,83,374.6,31.092,156,Medium
+2015-03-01,2015,3,Ion Propulsion Engines,66,206.7,13.642,300,Medium
+2015-03-01,2015,3,High-Efficiency Solar Arrays,69,419.8,28.966,113,Medium
+2015-03-01,2015,3,Cryogenic Tanks,69,788.0,54.372,240,Medium
+2015-03-01,2015,3,Radiation-Hardened Rad-750 CPUs,85,820.1,69.709,90,Medium
+2015-03-01,2015,3,Optical Inter-Satellite Links,86,174.5,15.007,412,Medium
+2015-03-01,2015,3,Star Trackers,71,362.6,25.745,192,Medium
+2015-03-01,2015,3,Reaction Wheels,69,221.2,15.263,262,Medium
+2015-03-01,2015,3,SAR Radar Antennas,94,424.1,39.865,323,High
+2015-04-01,2015,4,Ion Propulsion Engines,71,594.1,42.181,158,Medium
+2015-04-01,2015,4,High-Efficiency Solar Arrays,71,159.3,11.31,331,Medium
+2015-04-01,2015,4,Cryogenic Tanks,63,750.7,47.294,165,Medium
+2015-04-01,2015,4,Radiation-Hardened Rad-750 CPUs,90,688.2,61.938,155,Medium
+2015-04-01,2015,4,Optical Inter-Satellite Links,87,683.6,59.473,395,Medium
+2015-04-01,2015,4,Star Trackers,66,916.9,60.515,306,Medium
+2015-04-01,2015,4,Reaction Wheels,68,746.7,50.776,327,Medium
+2015-04-01,2015,4,SAR Radar Antennas,90,228.3,20.547,133,Medium
+2015-05-01,2015,5,Ion Propulsion Engines,67,526.0,35.242,129,Medium
+2015-05-01,2015,5,High-Efficiency Solar Arrays,63,709.9,44.724,397,Medium
+2015-05-01,2015,5,Cryogenic Tanks,68,859.7,58.46,376,Medium
+2015-05-01,2015,5,Radiation-Hardened Rad-750 CPUs,84,901.0,75.684,373,Medium
+2015-05-01,2015,5,Optical Inter-Satellite Links,86,532.4,45.786,373,Medium
+2015-05-01,2015,5,Star Trackers,65,872.2,56.693,322,Medium
+2015-05-01,2015,5,Reaction Wheels,65,527.6,34.294,333,Medium
+2015-05-01,2015,5,SAR Radar Antennas,88,730.5,64.284,279,Medium
+2015-06-01,2015,6,Ion Propulsion Engines,60,837.8,50.268,201,Low
+2015-06-01,2015,6,High-Efficiency Solar Arrays,69,535.1,36.922,327,Medium
+2015-06-01,2015,6,Cryogenic Tanks,58,664.7,38.553,155,Low
+2015-06-01,2015,6,Radiation-Hardened Rad-750 CPUs,82,775.6,63.599,400,Low
+2015-06-01,2015,6,Optical Inter-Satellite Links,84,565.7,47.519,362,Medium
+2015-06-01,2015,6,Star Trackers,65,925.9,60.184,204,Medium
+2015-06-01,2015,6,Reaction Wheels,63,630.2,39.703,419,Low
+2015-06-01,2015,6,SAR Radar Antennas,83,647.8,53.767,172,Low
+2015-07-01,2015,7,Ion Propulsion Engines,62,154.6,9.585,349,Low
+2015-07-01,2015,7,High-Efficiency Solar Arrays,60,515.5,30.93,109,Low
+2015-07-01,2015,7,Cryogenic Tanks,65,348.2,22.633,149,Medium
+2015-07-01,2015,7,Radiation-Hardened Rad-750 CPUs,83,607.2,50.398,253,Low
+2015-07-01,2015,7,Optical Inter-Satellite Links,83,403.5,33.49,346,Low
+2015-07-01,2015,7,Star Trackers,58,460.2,26.692,351,Low
+2015-07-01,2015,7,Reaction Wheels,61,791.0,48.251,133,Low
+2015-07-01,2015,7,SAR Radar Antennas,80,655.5,52.44,323,Low
+2015-08-01,2015,8,Ion Propulsion Engines,56,807.5,45.22,204,Low
+2015-08-01,2015,8,High-Efficiency Solar Arrays,60,352.9,21.174,365,Low
+2015-08-01,2015,8,Cryogenic Tanks,58,581.1,33.704,105,Low
+2015-08-01,2015,8,Radiation-Hardened Rad-750 CPUs,81,533.9,43.246,386,Low
+2015-08-01,2015,8,Optical Inter-Satellite Links,76,665.6,50.586,249,Low
+2015-08-01,2015,8,Star Trackers,64,724.2,46.349,110,Low
+2015-08-01,2015,8,Reaction Wheels,56,325.8,18.245,414,Low
+2015-08-01,2015,8,SAR Radar Antennas,80,780.1,62.408,268,Low
+2015-09-01,2015,9,Ion Propulsion Engines,61,847.4,51.691,253,Low
+2015-09-01,2015,9,High-Efficiency Solar Arrays,57,543.3,30.968,407,Low
+2015-09-01,2015,9,Cryogenic Tanks,62,279.9,17.354,381,Low
+2015-09-01,2015,9,Radiation-Hardened Rad-750 CPUs,75,208.0,15.6,366,Low
+2015-09-01,2015,9,Optical Inter-Satellite Links,83,649.2,53.884,212,Low
+2015-09-01,2015,9,Star Trackers,59,669.2,39.483,161,Low
+2015-09-01,2015,9,Reaction Wheels,57,147.4,8.402,232,Low
+2015-09-01,2015,9,SAR Radar Antennas,78,806.6,62.915,397,Low
+2015-10-01,2015,10,Ion Propulsion Engines,63,278.7,17.558,210,Low
+2015-10-01,2015,10,High-Efficiency Solar Arrays,59,604.3,35.654,319,Low
+2015-10-01,2015,10,Cryogenic Tanks,58,187.4,10.869,378,Low
+2015-10-01,2015,10,Radiation-Hardened Rad-750 CPUs,80,382.4,30.592,105,Low
+2015-10-01,2015,10,Optical Inter-Satellite Links,77,902.8,69.516,206,Low
+2015-10-01,2015,10,Star Trackers,66,548.7,36.214,305,Low
+2015-10-01,2015,10,Reaction Wheels,59,864.0,50.976,94,Low
+2015-10-01,2015,10,SAR Radar Antennas,83,236.4,19.621,117,Low
+2015-11-01,2015,11,Ion Propulsion Engines,64,733.3,46.931,415,Low
+2015-11-01,2015,11,High-Efficiency Solar Arrays,61,182.0,11.102,271,Low
+2015-11-01,2015,11,Cryogenic Tanks,64,283.7,18.157,376,Low
+2015-11-01,2015,11,Radiation-Hardened Rad-750 CPUs,86,665.1,57.199,185,Low
+2015-11-01,2015,11,Optical Inter-Satellite Links,83,165.8,13.761,267,Low
+2015-11-01,2015,11,Star Trackers,67,418.0,28.006,268,Low
+2015-11-01,2015,11,Reaction Wheels,67,716.8,48.026,202,Low
+2015-11-01,2015,11,SAR Radar Antennas,87,679.2,59.09,226,Low
+2015-12-01,2015,12,Ion Propulsion Engines,66,354.4,23.39,108,Low
+2015-12-01,2015,12,High-Efficiency Solar Arrays,65,493.6,32.084,354,Low
+2015-12-01,2015,12,Cryogenic Tanks,66,707.8,46.715,301,Low
+2015-12-01,2015,12,Radiation-Hardened Rad-750 CPUs,88,498.5,43.868,347,Medium
+2015-12-01,2015,12,Optical Inter-Satellite Links,90,845.9,76.131,365,Medium
+2015-12-01,2015,12,Star Trackers,61,926.8,56.535,390,Low
+2015-12-01,2015,12,Reaction Wheels,68,889.5,60.486,174,Medium
+2015-12-01,2015,12,SAR Radar Antennas,88,654.8,57.622,159,Medium
+2016-01-01,2016,1,Ion Propulsion Engines,71,929.2,65.973,144,Medium
+2016-01-01,2016,1,High-Efficiency Solar Arrays,76,752.7,57.205,106,Medium
+2016-01-01,2016,1,Cryogenic Tanks,73,734.4,53.611,323,Medium
+2016-01-01,2016,1,Radiation-Hardened Rad-750 CPUs,96,767.1,73.642,94,Medium
+2016-01-01,2016,1,Optical Inter-Satellite Links,91,888.2,80.826,101,Medium
+2016-01-01,2016,1,Star Trackers,75,758.3,56.873,406,Medium
+2016-01-01,2016,1,Reaction Wheels,77,377.6,29.075,124,Medium
+2016-01-01,2016,1,SAR Radar Antennas,96,939.3,90.173,178,Medium
+2016-02-01,2016,2,Ion Propulsion Engines,72,364.9,26.273,144,Medium
+2016-02-01,2016,2,High-Efficiency Solar Arrays,74,691.1,51.141,277,Medium
+2016-02-01,2016,2,Cryogenic Tanks,74,675.0,49.95,365,Medium
+2016-02-01,2016,2,Radiation-Hardened Rad-750 CPUs,96,695.1,66.73,233,Medium
+2016-02-01,2016,2,Optical Inter-Satellite Links,97,198.7,19.274,101,Medium
+2016-02-01,2016,2,Star Trackers,73,910.6,66.474,249,Medium
+2016-02-01,2016,2,Reaction Wheels,75,578.1,43.358,299,Medium
+2016-02-01,2016,2,SAR Radar Antennas,89,521.3,46.396,357,Low
+2016-03-01,2016,3,Ion Propulsion Engines,81,467.3,37.851,229,High
+2016-03-01,2016,3,High-Efficiency Solar Arrays,75,243.6,18.27,311,Medium
+2016-03-01,2016,3,Cryogenic Tanks,77,224.6,17.294,239,Medium
+2016-03-01,2016,3,Radiation-Hardened Rad-750 CPUs,96,369.5,35.472,344,Medium
+2016-03-01,2016,3,Optical Inter-Satellite Links,100,169.2,16.92,222,Medium
+2016-03-01,2016,3,Star Trackers,68,587.2,39.93,302,Low
+2016-03-01,2016,3,Reaction Wheels,77,510.1,39.278,148,Medium
+2016-03-01,2016,3,SAR Radar Antennas,96,788.3,75.677,150,Medium
+2016-04-01,2016,4,Ion Propulsion Engines,75,536.7,40.252,328,Medium
+2016-04-01,2016,4,High-Efficiency Solar Arrays,82,766.2,62.828,208,High
+2016-04-01,2016,4,Cryogenic Tanks,74,321.0,23.754,257,Medium
+2016-04-01,2016,4,Radiation-Hardened Rad-750 CPUs,99,504.5,49.946,114,Medium
+2016-04-01,2016,4,Optical Inter-Satellite Links,98,695.1,68.12,240,Medium
+2016-04-01,2016,4,Star Trackers,80,306.0,24.48,104,Medium
+2016-04-01,2016,4,Reaction Wheels,75,504.8,37.86,158,Medium
+2016-04-01,2016,4,SAR Radar Antennas,94,375.6,35.306,282,Medium
+2016-05-01,2016,5,Ion Propulsion Engines,78,667.3,52.049,361,Medium
+2016-05-01,2016,5,High-Efficiency Solar Arrays,76,590.0,44.84,404,Medium
+2016-05-01,2016,5,Cryogenic Tanks,70,846.1,59.227,221,Low
+2016-05-01,2016,5,Radiation-Hardened Rad-750 CPUs,93,618.6,57.53,120,Medium
+2016-05-01,2016,5,Optical Inter-Satellite Links,96,746.5,71.664,417,Medium
+2016-05-01,2016,5,Star Trackers,77,763.9,58.82,223,Medium
+2016-05-01,2016,5,Reaction Wheels,73,782.4,57.115,206,Medium
+2016-05-01,2016,5,SAR Radar Antennas,86,546.1,46.965,141,Low
+2016-06-01,2016,6,Ion Propulsion Engines,74,786.3,58.186,316,Medium
+2016-06-01,2016,6,High-Efficiency Solar Arrays,69,638.2,44.036,346,Low
+2016-06-01,2016,6,Cryogenic Tanks,66,894.8,59.057,383,Low
+2016-06-01,2016,6,Radiation-Hardened Rad-750 CPUs,84,238.5,20.034,296,Low
+2016-06-01,2016,6,Optical Inter-Satellite Links,95,818.4,77.748,172,Medium
+2016-06-01,2016,6,Star Trackers,73,355.4,25.944,101,Medium
+2016-06-01,2016,6,Reaction Wheels,72,354.5,25.524,360,Low
+2016-06-01,2016,6,SAR Radar Antennas,97,220.6,21.398,188,Medium
+2016-07-01,2016,7,Ion Propulsion Engines,72,169.1,12.175,351,Low
+2016-07-01,2016,7,High-Efficiency Solar Arrays,75,473.6,35.52,237,Medium
+2016-07-01,2016,7,Cryogenic Tanks,66,323.4,21.344,216,Low
+2016-07-01,2016,7,Radiation-Hardened Rad-750 CPUs,90,189.5,17.055,225,Low
+2016-07-01,2016,7,Optical Inter-Satellite Links,85,885.5,75.267,284,Low
+2016-07-01,2016,7,Star Trackers,69,796.9,54.986,139,Low
+2016-07-01,2016,7,Reaction Wheels,69,543.4,37.495,153,Low
+2016-07-01,2016,7,SAR Radar Antennas,92,257.8,23.718,278,Low
+2016-08-01,2016,8,Ion Propulsion Engines,69,613.6,42.338,333,Low
+2016-08-01,2016,8,High-Efficiency Solar Arrays,70,167.2,11.704,215,Low
+2016-08-01,2016,8,Cryogenic Tanks,71,345.1,24.502,325,Low
+2016-08-01,2016,8,Radiation-Hardened Rad-750 CPUs,95,344.8,32.756,169,Medium
+2016-08-01,2016,8,Optical Inter-Satellite Links,87,413.9,36.009,285,Low
+2016-08-01,2016,8,Star Trackers,66,789.0,52.074,330,Low
+2016-08-01,2016,8,Reaction Wheels,69,365.7,25.233,259,Low
+2016-08-01,2016,8,SAR Radar Antennas,86,294.3,25.31,160,Low
+2016-09-01,2016,9,Ion Propulsion Engines,73,381.6,27.857,169,Low
+2016-09-01,2016,9,High-Efficiency Solar Arrays,67,290.6,19.47,127,Low
+2016-09-01,2016,9,Cryogenic Tanks,67,801.9,53.727,222,Low
+2016-09-01,2016,9,Radiation-Hardened Rad-750 CPUs,87,210.7,18.331,124,Low
+2016-09-01,2016,9,Optical Inter-Satellite Links,90,214.2,19.278,103,Low
+2016-09-01,2016,9,Star Trackers,68,651.3,44.288,104,Low
+2016-09-01,2016,9,Reaction Wheels,66,434.7,28.69,340,Low
+2016-09-01,2016,9,SAR Radar Antennas,93,205.0,19.065,295,Low
+2016-10-01,2016,10,Ion Propulsion Engines,67,659.2,44.166,194,Low
+2016-10-01,2016,10,High-Efficiency Solar Arrays,70,163.8,11.466,106,Low
+2016-10-01,2016,10,Cryogenic Tanks,72,419.2,30.182,155,Low
+2016-10-01,2016,10,Radiation-Hardened Rad-750 CPUs,85,266.5,22.652,248,Low
+2016-10-01,2016,10,Optical Inter-Satellite Links,91,339.8,30.922,307,Low
+2016-10-01,2016,10,Star Trackers,67,770.9,51.65,314,Low
+2016-10-01,2016,10,Reaction Wheels,72,662.8,47.722,215,Low
+2016-10-01,2016,10,SAR Radar Antennas,87,741.1,64.476,277,Low
+2016-11-01,2016,11,Ion Propulsion Engines,75,797.5,59.812,376,Low
+2016-11-01,2016,11,High-Efficiency Solar Arrays,76,340.4,25.87,159,Low
+2016-11-01,2016,11,Cryogenic Tanks,76,382.2,29.047,307,Low
+2016-11-01,2016,11,Radiation-Hardened Rad-750 CPUs,94,219.5,20.633,299,Low
+2016-11-01,2016,11,Optical Inter-Satellite Links,92,210.2,19.338,250,Low
+2016-11-01,2016,11,Star Trackers,71,674.5,47.889,408,Low
+2016-11-01,2016,11,Reaction Wheels,78,593.8,46.316,402,Medium
+2016-11-01,2016,11,SAR Radar Antennas,91,378.2,34.416,162,Low
+2016-12-01,2016,12,Ion Propulsion Engines,74,462.9,34.255,133,Low
+2016-12-01,2016,12,High-Efficiency Solar Arrays,79,563.2,44.493,258,Medium
+2016-12-01,2016,12,Cryogenic Tanks,75,381.1,28.582,314,Low
+2016-12-01,2016,12,Radiation-Hardened Rad-750 CPUs,94,753.4,70.82,252,Low
+2016-12-01,2016,12,Optical Inter-Satellite Links,93,564.3,52.48,168,Low
+2016-12-01,2016,12,Star Trackers,76,453.2,34.443,155,Low
+2016-12-01,2016,12,Reaction Wheels,77,717.5,55.248,409,Low
+2016-12-01,2016,12,SAR Radar Antennas,98,426.1,41.758,363,Medium
+2017-01-01,2017,1,Ion Propulsion Engines,84,208.4,17.506,403,Medium
+2017-01-01,2017,1,High-Efficiency Solar Arrays,83,601.8,49.949,249,Medium
+2017-01-01,2017,1,Cryogenic Tanks,81,923.0,74.763,183,Medium
+2017-01-01,2017,1,Radiation-Hardened Rad-750 CPUs,101,783.2,79.103,158,Medium
+2017-01-01,2017,1,Optical Inter-Satellite Links,103,281.7,29.015,374,Medium
+2017-01-01,2017,1,Star Trackers,85,427.5,36.337,207,Medium
+2017-01-01,2017,1,Reaction Wheels,82,805.1,66.018,351,Medium
+2017-01-01,2017,1,SAR Radar Antennas,100,166.4,16.64,195,Medium
+2017-02-01,2017,2,Ion Propulsion Engines,81,907.7,73.524,411,Medium
+2017-02-01,2017,2,High-Efficiency Solar Arrays,80,396.6,31.728,420,Medium
+2017-02-01,2017,2,Cryogenic Tanks,86,262.3,22.558,355,Medium
+2017-02-01,2017,2,Radiation-Hardened Rad-750 CPUs,106,145.1,15.381,104,Medium
+2017-02-01,2017,2,Optical Inter-Satellite Links,106,888.6,94.192,343,Medium
+2017-02-01,2017,2,Star Trackers,84,382.4,32.122,344,Medium
+2017-02-01,2017,2,Reaction Wheels,89,714.3,63.573,350,High
+2017-02-01,2017,2,SAR Radar Antennas,103,193.1,19.889,412,Medium
+2017-03-01,2017,3,Ion Propulsion Engines,89,801.7,71.351,198,Medium
+2017-03-01,2017,3,High-Efficiency Solar Arrays,86,419.4,36.068,240,Medium
+2017-03-01,2017,3,Cryogenic Tanks,84,877.0,73.668,273,Medium
+2017-03-01,2017,3,Radiation-Hardened Rad-750 CPUs,108,270.1,29.171,332,Medium
+2017-03-01,2017,3,Optical Inter-Satellite Links,107,528.6,56.56,337,Medium
+2017-03-01,2017,3,Star Trackers,87,330.1,28.719,230,Medium
+2017-03-01,2017,3,Reaction Wheels,86,589.4,50.688,225,Medium
+2017-03-01,2017,3,SAR Radar Antennas,106,779.3,82.606,215,Medium
+2017-04-01,2017,4,Ion Propulsion Engines,93,148.2,13.783,308,High
+2017-04-01,2017,4,High-Efficiency Solar Arrays,89,354.3,31.533,117,Medium
+2017-04-01,2017,4,Cryogenic Tanks,88,160.5,14.124,94,Medium
+2017-04-01,2017,4,Radiation-Hardened Rad-750 CPUs,106,440.8,46.725,362,Medium
+2017-04-01,2017,4,Optical Inter-Satellite Links,109,845.2,92.127,159,Medium
+2017-04-01,2017,4,Star Trackers,87,443.8,38.611,369,Medium
+2017-04-01,2017,4,Reaction Wheels,86,480.5,41.323,324,Medium
+2017-04-01,2017,4,SAR Radar Antennas,105,422.2,44.331,276,Medium
+2017-05-01,2017,5,Ion Propulsion Engines,84,785.9,66.016,344,Medium
+2017-05-01,2017,5,High-Efficiency Solar Arrays,75,504.0,37.8,206,Low
+2017-05-01,2017,5,Cryogenic Tanks,85,771.7,65.594,377,Medium
+2017-05-01,2017,5,Radiation-Hardened Rad-750 CPUs,103,411.9,42.426,238,Medium
+2017-05-01,2017,5,Optical Inter-Satellite Links,109,662.2,72.18,284,Medium
+2017-05-01,2017,5,Star Trackers,84,137.2,11.525,141,Medium
+2017-05-01,2017,5,Reaction Wheels,81,236.0,19.116,101,Low
+2017-05-01,2017,5,SAR Radar Antennas,104,855.3,88.951,220,Medium
+2017-06-01,2017,6,Ion Propulsion Engines,79,140.2,11.076,170,Low
+2017-06-01,2017,6,High-Efficiency Solar Arrays,83,833.6,69.189,219,Medium
+2017-06-01,2017,6,Cryogenic Tanks,83,792.2,65.753,271,Medium
+2017-06-01,2017,6,Radiation-Hardened Rad-750 CPUs,105,726.8,76.314,398,Medium
+2017-06-01,2017,6,Optical Inter-Satellite Links,99,481.1,47.629,137,Low
+2017-06-01,2017,6,Star Trackers,82,747.2,61.27,120,Medium
+2017-06-01,2017,6,Reaction Wheels,78,596.0,46.488,404,Low
+2017-06-01,2017,6,SAR Radar Antennas,104,829.2,86.237,203,Medium
+2017-07-01,2017,7,Ion Propulsion Engines,81,237.3,19.221,413,Low
+2017-07-01,2017,7,High-Efficiency Solar Arrays,81,736.8,59.681,329,Low
+2017-07-01,2017,7,Cryogenic Tanks,79,145.8,11.518,378,Low
+2017-07-01,2017,7,Radiation-Hardened Rad-750 CPUs,101,239.0,24.139,159,Low
+2017-07-01,2017,7,Optical Inter-Satellite Links,104,419.3,43.607,143,Medium
+2017-07-01,2017,7,Star Trackers,79,706.5,55.813,241,Low
+2017-07-01,2017,7,Reaction Wheels,80,287.1,22.968,291,Low
+2017-07-01,2017,7,SAR Radar Antennas,96,762.3,73.181,201,Low
+2017-08-01,2017,8,Ion Propulsion Engines,75,229.3,17.198,120,Low
+2017-08-01,2017,8,High-Efficiency Solar Arrays,78,658.7,51.379,208,Low
+2017-08-01,2017,8,Cryogenic Tanks,81,742.1,60.11,389,Low
+2017-08-01,2017,8,Radiation-Hardened Rad-750 CPUs,97,366.6,35.56,414,Low
+2017-08-01,2017,8,Optical Inter-Satellite Links,97,615.9,59.742,361,Low
+2017-08-01,2017,8,Star Trackers,77,334.7,25.772,226,Low
+2017-08-01,2017,8,Reaction Wheels,76,898.4,68.278,325,Low
+2017-08-01,2017,8,SAR Radar Antennas,99,582.2,57.638,273,Low
+2017-09-01,2017,9,Ion Propulsion Engines,73,248.9,18.17,214,Low
+2017-09-01,2017,9,High-Efficiency Solar Arrays,82,474.7,38.925,345,Low
+2017-09-01,2017,9,Cryogenic Tanks,76,611.0,46.436,225,Low
+2017-09-01,2017,9,Radiation-Hardened Rad-750 CPUs,100,593.0,59.3,224,Low
+2017-09-01,2017,9,Optical Inter-Satellite Links,94,399.0,37.506,246,Low
+2017-09-01,2017,9,Star Trackers,80,621.7,49.736,271,Low
+2017-09-01,2017,9,Reaction Wheels,80,710.3,56.824,271,Low
+2017-09-01,2017,9,SAR Radar Antennas,99,819.5,81.13,349,Low
+2017-10-01,2017,10,Ion Propulsion Engines,76,847.0,64.372,178,Low
+2017-10-01,2017,10,High-Efficiency Solar Arrays,80,492.4,39.392,188,Low
+2017-10-01,2017,10,Cryogenic Tanks,76,722.3,54.895,342,Low
+2017-10-01,2017,10,Radiation-Hardened Rad-750 CPUs,99,709.0,70.191,237,Low
+2017-10-01,2017,10,Optical Inter-Satellite Links,102,685.3,69.901,163,Low
+2017-10-01,2017,10,Star Trackers,82,484.7,39.745,144,Low
+2017-10-01,2017,10,Reaction Wheels,79,559.1,44.169,157,Low
+2017-10-01,2017,10,SAR Radar Antennas,96,825.5,79.248,233,Low
+2017-11-01,2017,11,Ion Propulsion Engines,85,868.9,73.856,172,Low
+2017-11-01,2017,11,High-Efficiency Solar Arrays,83,297.0,24.651,196,Low
+2017-11-01,2017,11,Cryogenic Tanks,76,447.1,33.98,156,Low
+2017-11-01,2017,11,Radiation-Hardened Rad-750 CPUs,105,514.9,54.065,142,Low
+2017-11-01,2017,11,Optical Inter-Satellite Links,103,503.2,51.83,228,Low
+2017-11-01,2017,11,Star Trackers,86,709.7,61.034,231,Medium
+2017-11-01,2017,11,Reaction Wheels,79,932.2,73.644,232,Low
+2017-11-01,2017,11,SAR Radar Antennas,93,724.6,67.388,289,Low
+2017-12-01,2017,12,Ion Propulsion Engines,87,399.2,34.73,277,Medium
+2017-12-01,2017,12,High-Efficiency Solar Arrays,88,202.4,17.811,173,Medium
+2017-12-01,2017,12,Cryogenic Tanks,82,578.5,47.437,208,Low
+2017-12-01,2017,12,Radiation-Hardened Rad-750 CPUs,104,538.9,56.046,152,Low
+2017-12-01,2017,12,Optical Inter-Satellite Links,115,920.8,105.892,269,Medium
+2017-12-01,2017,12,Star Trackers,86,125.4,10.784,159,Low
+2017-12-01,2017,12,Reaction Wheels,89,707.1,62.932,157,Medium
+2017-12-01,2017,12,SAR Radar Antennas,105,561.5,58.958,398,Low
+2018-01-01,2018,1,Ion Propulsion Engines,84,254.4,21.37,334,Low
+2018-01-01,2018,1,High-Efficiency Solar Arrays,90,763.2,68.688,239,Medium
+2018-01-01,2018,1,Cryogenic Tanks,90,683.7,61.533,263,Medium
+2018-01-01,2018,1,Radiation-Hardened Rad-750 CPUs,109,607.8,66.25,176,Medium
+2018-01-01,2018,1,Optical Inter-Satellite Links,110,778.3,85.613,359,Medium
+2018-01-01,2018,1,Star Trackers,91,931.2,84.739,159,Medium
+2018-01-01,2018,1,Reaction Wheels,90,487.2,43.848,305,Medium
+2018-01-01,2018,1,SAR Radar Antennas,107,527.0,56.389,229,Low
+2018-02-01,2018,2,Ion Propulsion Engines,95,271.5,25.793,409,Medium
+2018-02-01,2018,2,High-Efficiency Solar Arrays,88,294.5,25.916,225,Low
+2018-02-01,2018,2,Cryogenic Tanks,88,300.1,26.409,207,Low
+2018-02-01,2018,2,Radiation-Hardened Rad-750 CPUs,116,800.5,92.858,323,Medium
+2018-02-01,2018,2,Optical Inter-Satellite Links,115,280.6,32.269,158,Medium
+2018-02-01,2018,2,Star Trackers,94,713.8,67.097,356,Medium
+2018-02-01,2018,2,Reaction Wheels,90,919.6,82.764,401,Medium
+2018-02-01,2018,2,SAR Radar Antennas,112,467.1,52.315,386,Medium
+2018-03-01,2018,3,Ion Propulsion Engines,95,275.3,26.154,266,Medium
+2018-03-01,2018,3,High-Efficiency Solar Arrays,91,219.3,19.956,96,Medium
+2018-03-01,2018,3,Cryogenic Tanks,93,234.5,21.808,90,Medium
+2018-03-01,2018,3,Radiation-Hardened Rad-750 CPUs,117,526.5,61.6,174,Medium
+2018-03-01,2018,3,Optical Inter-Satellite Links,120,176.2,21.144,189,High
+2018-03-01,2018,3,Star Trackers,94,862.0,81.028,410,Medium
+2018-03-01,2018,3,Reaction Wheels,98,328.6,32.203,357,Medium
+2018-03-01,2018,3,SAR Radar Antennas,110,439.9,48.389,381,Medium
+2018-04-01,2018,4,Ion Propulsion Engines,97,673.2,65.3,285,Medium
+2018-04-01,2018,4,High-Efficiency Solar Arrays,93,926.1,86.127,265,Medium
+2018-04-01,2018,4,Cryogenic Tanks,96,299.8,28.781,344,Medium
+2018-04-01,2018,4,Radiation-Hardened Rad-750 CPUs,115,176.7,20.32,272,Medium
+2018-04-01,2018,4,Optical Inter-Satellite Links,119,515.4,61.333,147,Medium
+2018-04-01,2018,4,Star Trackers,93,924.8,86.006,272,Medium
+2018-04-01,2018,4,Reaction Wheels,97,270.7,26.258,376,Medium
+2018-04-01,2018,4,SAR Radar Antennas,115,591.3,67.999,189,Medium
+2018-05-01,2018,5,Ion Propulsion Engines,93,174.4,16.219,322,Medium
+2018-05-01,2018,5,High-Efficiency Solar Arrays,93,304.2,28.291,380,Medium
+2018-05-01,2018,5,Cryogenic Tanks,91,940.2,85.558,116,Medium
+2018-05-01,2018,5,Radiation-Hardened Rad-750 CPUs,114,515.3,58.744,197,Medium
+2018-05-01,2018,5,Optical Inter-Satellite Links,114,818.3,93.286,329,Medium
+2018-05-01,2018,5,Star Trackers,95,492.9,46.825,206,Medium
+2018-05-01,2018,5,Reaction Wheels,94,207.5,19.505,156,Medium
+2018-05-01,2018,5,SAR Radar Antennas,116,628.2,72.871,188,Medium
+2018-06-01,2018,6,Ion Propulsion Engines,94,857.9,80.643,230,Medium
+2018-06-01,2018,6,High-Efficiency Solar Arrays,88,901.3,79.314,249,Low
+2018-06-01,2018,6,Cryogenic Tanks,94,549.3,51.634,116,Medium
+2018-06-01,2018,6,Radiation-Hardened Rad-750 CPUs,108,861.8,93.074,171,Low
+2018-06-01,2018,6,Optical Inter-Satellite Links,113,688.0,77.744,322,Medium
+2018-06-01,2018,6,Star Trackers,93,676.0,62.868,281,Medium
+2018-06-01,2018,6,Reaction Wheels,86,623.4,53.612,103,Low
+2018-06-01,2018,6,SAR Radar Antennas,112,556.2,62.294,300,Medium
+2018-07-01,2018,7,Ion Propulsion Engines,88,571.6,50.301,99,Low
+2018-07-01,2018,7,High-Efficiency Solar Arrays,87,120.2,10.457,120,Low
+2018-07-01,2018,7,Cryogenic Tanks,93,511.8,47.597,178,Medium
+2018-07-01,2018,7,Radiation-Hardened Rad-750 CPUs,107,142.8,15.28,411,Low
+2018-07-01,2018,7,Optical Inter-Satellite Links,107,516.4,55.255,170,Low
+2018-07-01,2018,7,Star Trackers,89,903.3,80.394,152,Low
+2018-07-01,2018,7,Reaction Wheels,91,553.6,50.378,232,Low
+2018-07-01,2018,7,SAR Radar Antennas,109,408.2,44.494,215,Low
+2018-08-01,2018,8,Ion Propulsion Engines,91,614.9,55.956,419,Low
+2018-08-01,2018,8,High-Efficiency Solar Arrays,89,700.7,62.362,381,Low
+2018-08-01,2018,8,Cryogenic Tanks,81,463.2,37.519,109,Low
+2018-08-01,2018,8,Radiation-Hardened Rad-750 CPUs,106,229.1,24.285,197,Low
+2018-08-01,2018,8,Optical Inter-Satellite Links,106,182.6,19.356,257,Low
+2018-08-01,2018,8,Star Trackers,89,792.9,70.568,409,Low
+2018-08-01,2018,8,Reaction Wheels,80,548.4,43.872,327,Low
+2018-08-01,2018,8,SAR Radar Antennas,115,905.2,104.098,148,Medium
+2018-09-01,2018,9,Ion Propulsion Engines,89,502.0,44.678,318,Low
+2018-09-01,2018,9,High-Efficiency Solar Arrays,88,775.3,68.226,105,Low
+2018-09-01,2018,9,Cryogenic Tanks,91,284.1,25.853,190,Low
+2018-09-01,2018,9,Radiation-Hardened Rad-750 CPUs,114,131.4,14.98,372,Medium
+2018-09-01,2018,9,Optical Inter-Satellite Links,110,556.4,61.204,119,Low
+2018-09-01,2018,9,Star Trackers,90,779.3,70.137,91,Low
+2018-09-01,2018,9,Reaction Wheels,88,855.4,75.275,234,Low
+2018-09-01,2018,9,SAR Radar Antennas,107,899.3,96.225,328,Low
+2018-10-01,2018,10,Ion Propulsion Engines,88,399.1,35.121,176,Low
+2018-10-01,2018,10,High-Efficiency Solar Arrays,87,912.4,79.379,233,Low
+2018-10-01,2018,10,Cryogenic Tanks,87,221.1,19.236,203,Low
+2018-10-01,2018,10,Radiation-Hardened Rad-750 CPUs,105,894.2,93.891,114,Low
+2018-10-01,2018,10,Optical Inter-Satellite Links,109,488.3,53.225,410,Low
+2018-10-01,2018,10,Star Trackers,84,573.4,48.166,342,Low
+2018-10-01,2018,10,Reaction Wheels,90,659.2,59.328,354,Low
+2018-10-01,2018,10,SAR Radar Antennas,109,701.6,76.474,338,Low
+2018-11-01,2018,11,Ion Propulsion Engines,93,389.4,36.214,367,Low
+2018-11-01,2018,11,High-Efficiency Solar Arrays,91,400.6,36.455,92,Low
+2018-11-01,2018,11,Cryogenic Tanks,101,607.8,61.388,384,Medium
+2018-11-01,2018,11,Radiation-Hardened Rad-750 CPUs,116,745.0,86.42,245,Medium
+2018-11-01,2018,11,Optical Inter-Satellite Links,109,398.3,43.415,241,Low
+2018-11-01,2018,11,Star Trackers,93,633.4,58.906,314,Low
+2018-11-01,2018,11,Reaction Wheels,90,266.1,23.949,217,Low
+2018-11-01,2018,11,SAR Radar Antennas,109,444.4,48.44,408,Low
+2018-12-01,2018,12,Ion Propulsion Engines,92,361.8,33.286,291,Low
+2018-12-01,2018,12,High-Efficiency Solar Arrays,98,226.2,22.168,181,Medium
+2018-12-01,2018,12,Cryogenic Tanks,94,536.4,50.422,263,Low
+2018-12-01,2018,12,Radiation-Hardened Rad-750 CPUs,119,206.6,24.585,153,Medium
+2018-12-01,2018,12,Optical Inter-Satellite Links,119,359.1,42.733,158,Medium
+2018-12-01,2018,12,Star Trackers,100,152.7,15.27,205,Medium
+2018-12-01,2018,12,Reaction Wheels,94,660.6,62.096,228,Low
+2018-12-01,2018,12,SAR Radar Antennas,118,755.3,89.125,255,Medium
+2019-01-01,2019,1,Ion Propulsion Engines,102,878.0,89.556,222,Medium
+2019-01-01,2019,1,High-Efficiency Solar Arrays,99,872.5,86.377,164,Medium
+2019-01-01,2019,1,Cryogenic Tanks,98,208.0,20.384,287,Medium
+2019-01-01,2019,1,Radiation-Hardened Rad-750 CPUs,125,336.5,42.062,189,Medium
+2019-01-01,2019,1,Optical Inter-Satellite Links,121,891.1,107.823,399,Medium
+2019-01-01,2019,1,Star Trackers,102,842.0,85.884,383,Medium
+2019-01-01,2019,1,Reaction Wheels,98,870.5,85.309,144,Medium
+2019-01-01,2019,1,SAR Radar Antennas,117,473.4,55.388,283,Low
+2019-02-01,2019,2,Ion Propulsion Engines,102,492.8,50.266,107,Medium
+2019-02-01,2019,2,High-Efficiency Solar Arrays,103,486.5,50.109,376,Medium
+2019-02-01,2019,2,Cryogenic Tanks,100,677.8,67.78,304,Medium
+2019-02-01,2019,2,Radiation-Hardened Rad-750 CPUs,124,587.8,72.887,274,Medium
+2019-02-01,2019,2,Optical Inter-Satellite Links,118,562.3,66.351,318,Medium
+2019-02-01,2019,2,Star Trackers,100,344.7,34.47,128,Medium
+2019-02-01,2019,2,Reaction Wheels,106,914.9,96.979,134,Medium
+2019-02-01,2019,2,SAR Radar Antennas,125,165.3,20.663,420,Medium
+2019-03-01,2019,3,Ion Propulsion Engines,104,793.2,82.493,313,Medium
+2019-03-01,2019,3,High-Efficiency Solar Arrays,102,499.9,50.99,167,Medium
+2019-03-01,2019,3,Cryogenic Tanks,102,932.0,95.064,238,Medium
+2019-03-01,2019,3,Radiation-Hardened Rad-750 CPUs,124,908.2,112.617,348,Medium
+2019-03-01,2019,3,Optical Inter-Satellite Links,127,491.5,62.42,210,Medium
+2019-03-01,2019,3,Star Trackers,108,662.1,71.507,320,Medium
+2019-03-01,2019,3,Reaction Wheels,104,566.5,58.916,252,Medium
+2019-03-01,2019,3,SAR Radar Antennas,122,299.8,36.576,332,Medium
+2019-04-01,2019,4,Ion Propulsion Engines,106,163.5,17.331,171,Medium
+2019-04-01,2019,4,High-Efficiency Solar Arrays,103,351.4,36.194,198,Medium
+2019-04-01,2019,4,Cryogenic Tanks,104,849.4,88.338,146,Medium
+2019-04-01,2019,4,Radiation-Hardened Rad-750 CPUs,129,477.9,61.649,226,Medium
+2019-04-01,2019,4,Optical Inter-Satellite Links,128,415.8,53.222,395,Medium
+2019-04-01,2019,4,Star Trackers,106,552.9,58.607,165,Medium
+2019-04-01,2019,4,Reaction Wheels,101,888.8,89.769,222,Medium
+2019-04-01,2019,4,SAR Radar Antennas,126,935.2,117.835,314,Medium
+2019-05-01,2019,5,Ion Propulsion Engines,107,573.7,61.386,228,Medium
+2019-05-01,2019,5,High-Efficiency Solar Arrays,102,485.5,49.521,239,Medium
+2019-05-01,2019,5,Cryogenic Tanks,108,152.6,16.481,411,Medium
+2019-05-01,2019,5,Radiation-Hardened Rad-750 CPUs,128,609.0,77.952,289,Medium
+2019-05-01,2019,5,Optical Inter-Satellite Links,129,406.0,52.374,350,Medium
+2019-05-01,2019,5,Star Trackers,105,815.5,85.627,281,Medium
+2019-05-01,2019,5,Reaction Wheels,105,446.9,46.925,386,Medium
+2019-05-01,2019,5,SAR Radar Antennas,128,268.1,34.317,311,Medium
+2019-06-01,2019,6,Ion Propulsion Engines,103,866.9,89.291,391,Medium
+2019-06-01,2019,6,High-Efficiency Solar Arrays,100,235.8,23.58,115,Low
+2019-06-01,2019,6,Cryogenic Tanks,100,812.0,81.2,202,Low
+2019-06-01,2019,6,Radiation-Hardened Rad-750 CPUs,122,674.6,82.301,171,Medium
+2019-06-01,2019,6,Optical Inter-Satellite Links,117,509.8,59.647,196,Low
+2019-06-01,2019,6,Star Trackers,101,920.0,92.92,344,Low
+2019-06-01,2019,6,Reaction Wheels,104,217.8,22.651,276,Medium
+2019-06-01,2019,6,SAR Radar Antennas,115,443.2,50.968,337,Low
+2019-07-01,2019,7,Ion Propulsion Engines,103,941.9,97.016,127,Medium
+2019-07-01,2019,7,High-Efficiency Solar Arrays,102,248.1,25.306,217,Low
+2019-07-01,2019,7,Cryogenic Tanks,97,124.0,12.028,372,Low
+2019-07-01,2019,7,Radiation-Hardened Rad-750 CPUs,120,767.8,92.136,324,Low
+2019-07-01,2019,7,Optical Inter-Satellite Links,119,667.6,79.444,384,Low
+2019-07-01,2019,7,Star Trackers,102,409.6,41.779,390,Low
+2019-07-01,2019,7,Reaction Wheels,102,215.6,21.991,209,Low
+2019-07-01,2019,7,SAR Radar Antennas,115,237.7,27.335,246,Low
+2019-08-01,2019,8,Ion Propulsion Engines,99,270.8,26.809,288,Low
+2019-08-01,2019,8,High-Efficiency Solar Arrays,97,435.9,42.282,93,Low
+2019-08-01,2019,8,Cryogenic Tanks,97,601.7,58.365,90,Low
+2019-08-01,2019,8,Radiation-Hardened Rad-750 CPUs,115,846.6,97.359,260,Low
+2019-08-01,2019,8,Optical Inter-Satellite Links,122,881.0,107.482,365,Low
+2019-08-01,2019,8,Star Trackers,100,296.7,29.67,400,Low
+2019-08-01,2019,8,Reaction Wheels,95,158.3,15.039,195,Low
+2019-08-01,2019,8,SAR Radar Antennas,113,145.6,16.453,227,Low
+2019-09-01,2019,9,Ion Propulsion Engines,96,180.7,17.347,215,Low
+2019-09-01,2019,9,High-Efficiency Solar Arrays,98,802.1,78.606,297,Low
+2019-09-01,2019,9,Cryogenic Tanks,98,400.9,39.288,186,Low
+2019-09-01,2019,9,Radiation-Hardened Rad-750 CPUs,121,223.8,27.08,353,Low
+2019-09-01,2019,9,Optical Inter-Satellite Links,120,388.2,46.584,364,Low
+2019-09-01,2019,9,Star Trackers,100,341.6,34.16,398,Low
+2019-09-01,2019,9,Reaction Wheels,98,948.3,92.933,317,Low
+2019-09-01,2019,9,SAR Radar Antennas,113,838.6,94.762,315,Low
+2019-10-01,2019,10,Ion Propulsion Engines,98,797.6,78.165,104,Low
+2019-10-01,2019,10,High-Efficiency Solar Arrays,102,731.2,74.582,112,Low
+2019-10-01,2019,10,Cryogenic Tanks,99,473.7,46.896,102,Low
+2019-10-01,2019,10,Radiation-Hardened Rad-750 CPUs,120,533.9,64.068,283,Low
+2019-10-01,2019,10,Optical Inter-Satellite Links,118,202.4,23.883,232,Low
+2019-10-01,2019,10,Star Trackers,96,773.4,74.246,216,Low
+2019-10-01,2019,10,Reaction Wheels,98,843.7,82.683,106,Low
+2019-10-01,2019,10,SAR Radar Antennas,120,944.1,113.292,232,Low
+2019-11-01,2019,11,Ion Propulsion Engines,100,728.6,72.86,130,Low
+2019-11-01,2019,11,High-Efficiency Solar Arrays,101,725.5,73.275,339,Low
+2019-11-01,2019,11,Cryogenic Tanks,99,943.2,93.377,235,Low
+2019-11-01,2019,11,Radiation-Hardened Rad-750 CPUs,125,283.5,35.438,376,Low
+2019-11-01,2019,11,Optical Inter-Satellite Links,121,483.3,58.479,416,Low
+2019-11-01,2019,11,Star Trackers,106,805.5,85.383,285,Medium
+2019-11-01,2019,11,Reaction Wheels,107,317.8,34.005,324,Medium
+2019-11-01,2019,11,SAR Radar Antennas,122,482.4,58.853,130,Low
+2019-12-01,2019,12,Ion Propulsion Engines,103,872.4,89.857,334,Low
+2019-12-01,2019,12,High-Efficiency Solar Arrays,100,707.5,70.75,244,Low
+2019-12-01,2019,12,Cryogenic Tanks,102,810.9,82.712,256,Low
+2019-12-01,2019,12,Radiation-Hardened Rad-750 CPUs,122,331.6,40.455,281,Low
+2019-12-01,2019,12,Optical Inter-Satellite Links,130,811.7,105.521,313,Medium
+2019-12-01,2019,12,Star Trackers,106,476.1,50.467,358,Low
+2019-12-01,2019,12,Reaction Wheels,107,243.9,26.097,366,Medium
+2019-12-01,2019,12,SAR Radar Antennas,119,721.3,85.835,247,Low
+2020-01-01,2020,1,Ion Propulsion Engines,107,175.7,18.8,177,Medium
+2020-01-01,2020,1,High-Efficiency Solar Arrays,113,525.9,59.427,275,Medium
+2020-01-01,2020,1,Cryogenic Tanks,111,852.4,94.616,411,Medium
+2020-01-01,2020,1,Radiation-Hardened Rad-750 CPUs,130,172.7,22.451,145,Medium
+2020-01-01,2020,1,Optical Inter-Satellite Links,132,722.4,95.357,399,Medium
+2020-01-01,2020,1,Star Trackers,115,537.6,61.824,330,Medium
+2020-01-01,2020,1,Reaction Wheels,110,263.7,29.007,196,Medium
+2020-01-01,2020,1,SAR Radar Antennas,130,708.3,92.079,382,Medium
+2020-02-01,2020,2,Ion Propulsion Engines,114,262.8,29.959,414,Medium
+2020-02-01,2020,2,High-Efficiency Solar Arrays,121,253.7,30.698,194,High
+2020-02-01,2020,2,Cryogenic Tanks,107,712.4,76.227,385,Low
+2020-02-01,2020,2,Radiation-Hardened Rad-750 CPUs,135,841.7,113.629,358,Medium
+2020-02-01,2020,2,Optical Inter-Satellite Links,133,864.6,114.992,171,Medium
+2020-02-01,2020,2,Star Trackers,115,221.8,25.507,378,Medium
+2020-02-01,2020,2,Reaction Wheels,111,771.9,85.681,97,Medium
+2020-02-01,2020,2,SAR Radar Antennas,133,502.7,66.859,152,Medium
+2020-03-01,2020,3,Ion Propulsion Engines,117,295.6,34.585,160,Medium
+2020-03-01,2020,3,High-Efficiency Solar Arrays,124,669.3,82.993,93,High
+2020-03-01,2020,3,Cryogenic Tanks,118,360.3,42.515,229,Medium
+2020-03-01,2020,3,Radiation-Hardened Rad-750 CPUs,133,906.9,120.618,222,Medium
+2020-03-01,2020,3,Optical Inter-Satellite Links,134,886.1,118.737,269,Medium
+2020-03-01,2020,3,Star Trackers,114,468.5,53.409,337,Medium
+2020-03-01,2020,3,Reaction Wheels,110,179.0,19.69,226,Medium
+2020-03-01,2020,3,SAR Radar Antennas,134,211.7,28.368,327,Medium
+2020-04-01,2020,4,Ion Propulsion Engines,117,659.4,77.15,284,Medium
+2020-04-01,2020,4,High-Efficiency Solar Arrays,111,444.2,49.306,241,Medium
+2020-04-01,2020,4,Cryogenic Tanks,118,382.0,45.076,370,Medium
+2020-04-01,2020,4,Radiation-Hardened Rad-750 CPUs,137,609.0,83.433,208,Medium
+2020-04-01,2020,4,Optical Inter-Satellite Links,133,598.7,79.627,140,Medium
+2020-04-01,2020,4,Star Trackers,115,453.6,52.164,248,Medium
+2020-04-01,2020,4,Reaction Wheels,120,427.6,51.312,295,High
+2020-04-01,2020,4,SAR Radar Antennas,137,528.0,72.336,320,Medium
+2020-05-01,2020,5,Ion Propulsion Engines,114,744.0,84.816,294,Medium
+2020-05-01,2020,5,High-Efficiency Solar Arrays,113,893.7,100.988,332,Medium
+2020-05-01,2020,5,Cryogenic Tanks,114,717.2,81.761,287,Medium
+2020-05-01,2020,5,Radiation-Hardened Rad-750 CPUs,132,452.7,59.756,218,Medium
+2020-05-01,2020,5,Optical Inter-Satellite Links,127,518.9,65.9,291,Low
+2020-05-01,2020,5,Star Trackers,120,158.9,19.068,270,Medium
+2020-05-01,2020,5,Reaction Wheels,114,224.3,25.57,346,Medium
+2020-05-01,2020,5,SAR Radar Antennas,135,677.1,91.409,265,Medium
+2020-06-01,2020,6,Ion Propulsion Engines,111,825.4,91.619,161,Low
+2020-06-01,2020,6,High-Efficiency Solar Arrays,109,606.5,66.109,249,Low
+2020-06-01,2020,6,Cryogenic Tanks,111,393.5,43.678,254,Low
+2020-06-01,2020,6,Radiation-Hardened Rad-750 CPUs,126,889.1,112.027,126,Low
+2020-06-01,2020,6,Optical Inter-Satellite Links,138,527.5,72.795,121,Medium
+2020-06-01,2020,6,Star Trackers,107,358.6,38.37,409,Low
+2020-06-01,2020,6,Reaction Wheels,108,565.9,61.117,343,Low
+2020-06-01,2020,6,SAR Radar Antennas,130,559.3,72.709,393,Low
+2020-07-01,2020,7,Ion Propulsion Engines,113,583.4,65.924,339,Medium
+2020-07-01,2020,7,High-Efficiency Solar Arrays,109,946.7,103.19,329,Low
+2020-07-01,2020,7,Cryogenic Tanks,105,419.3,44.026,231,Low
+2020-07-01,2020,7,Radiation-Hardened Rad-750 CPUs,132,237.6,31.363,92,Medium
+2020-07-01,2020,7,Optical Inter-Satellite Links,131,477.8,62.592,373,Low
+2020-07-01,2020,7,Star Trackers,110,420.3,46.233,110,Low
+2020-07-01,2020,7,Reaction Wheels,111,463.7,51.471,400,Low
+2020-07-01,2020,7,SAR Radar Antennas,136,261.2,35.523,364,Medium
+2020-08-01,2020,8,Ion Propulsion Engines,114,508.0,57.912,208,Medium
+2020-08-01,2020,8,High-Efficiency Solar Arrays,105,655.6,68.838,311,Low
+2020-08-01,2020,8,Cryogenic Tanks,112,771.7,86.43,231,Low
+2020-08-01,2020,8,Radiation-Hardened Rad-750 CPUs,128,148.8,19.046,284,Low
+2020-08-01,2020,8,Optical Inter-Satellite Links,129,784.3,101.175,161,Low
+2020-08-01,2020,8,Star Trackers,102,373.4,38.087,311,Low
+2020-08-01,2020,8,Reaction Wheels,107,287.8,30.795,109,Low
+2020-08-01,2020,8,SAR Radar Antennas,125,324.0,40.5,134,Low
+2020-09-01,2020,9,Ion Propulsion Engines,110,333.3,36.663,118,Low
+2020-09-01,2020,9,High-Efficiency Solar Arrays,110,281.0,30.91,368,Low
+2020-09-01,2020,9,Cryogenic Tanks,101,697.9,70.488,380,Low
+2020-09-01,2020,9,Radiation-Hardened Rad-750 CPUs,127,801.2,101.752,212,Low
+2020-09-01,2020,9,Optical Inter-Satellite Links,130,320.7,41.691,100,Low
+2020-09-01,2020,9,Star Trackers,107,864.4,92.491,145,Low
+2020-09-01,2020,9,Reaction Wheels,109,885.1,96.476,350,Low
+2020-09-01,2020,9,SAR Radar Antennas,128,338.2,43.29,100,Low
+2020-10-01,2020,10,Ion Propulsion Engines,110,452.4,49.764,218,Low
+2020-10-01,2020,10,High-Efficiency Solar Arrays,108,536.5,57.942,255,Low
+2020-10-01,2020,10,Cryogenic Tanks,105,404.8,42.504,345,Low
+2020-10-01,2020,10,Radiation-Hardened Rad-750 CPUs,125,385.4,48.175,158,Low
+2020-10-01,2020,10,Optical Inter-Satellite Links,131,698.1,91.451,272,Low
+2020-10-01,2020,10,Star Trackers,109,247.4,26.967,291,Low
+2020-10-01,2020,10,Reaction Wheels,108,206.6,22.313,128,Low
+2020-10-01,2020,10,SAR Radar Antennas,128,349.5,44.736,300,Low
+2020-11-01,2020,11,Ion Propulsion Engines,111,625.1,69.386,219,Low
+2020-11-01,2020,11,High-Efficiency Solar Arrays,115,407.5,46.862,357,Low
+2020-11-01,2020,11,Cryogenic Tanks,111,295.2,32.767,127,Low
+2020-11-01,2020,11,Radiation-Hardened Rad-750 CPUs,128,898.1,114.957,382,Low
+2020-11-01,2020,11,Optical Inter-Satellite Links,134,850.1,113.913,192,Low
+2020-11-01,2020,11,Star Trackers,111,659.6,73.216,323,Low
+2020-11-01,2020,11,Reaction Wheels,112,711.5,79.688,135,Low
+2020-11-01,2020,11,SAR Radar Antennas,137,665.1,91.119,258,Medium
+2020-12-01,2020,12,Ion Propulsion Engines,116,409.8,47.537,293,Low
+2020-12-01,2020,12,High-Efficiency Solar Arrays,117,912.8,106.798,406,Medium
+2020-12-01,2020,12,Cryogenic Tanks,113,478.6,54.082,216,Low
+2020-12-01,2020,12,Radiation-Hardened Rad-750 CPUs,135,665.4,89.829,194,Low
+2020-12-01,2020,12,Optical Inter-Satellite Links,138,790.5,109.089,367,Medium
+2020-12-01,2020,12,Star Trackers,111,711.0,78.921,384,Low
+2020-12-01,2020,12,Reaction Wheels,117,415.0,48.555,365,Medium
+2020-12-01,2020,12,SAR Radar Antennas,136,483.0,65.688,218,Low
+2021-01-01,2021,1,Ion Propulsion Engines,120,176.7,21.204,363,Medium
+2021-01-01,2021,1,High-Efficiency Solar Arrays,123,886.4,109.027,257,Medium
+2021-01-01,2021,1,Cryogenic Tanks,121,904.0,109.384,288,Medium
+2021-01-01,2021,1,Radiation-Hardened Rad-750 CPUs,145,870.3,126.194,152,Medium
+2021-01-01,2021,1,Optical Inter-Satellite Links,137,618.0,84.666,388,Medium
+2021-01-01,2021,1,Star Trackers,121,944.3,114.26,311,Medium
+2021-01-01,2021,1,Reaction Wheels,120,227.0,27.24,307,Medium
+2021-01-01,2021,1,SAR Radar Antennas,137,895.4,122.67,246,Medium
+2021-02-01,2021,2,Ion Propulsion Engines,126,646.1,81.409,305,Medium
+2021-02-01,2021,2,High-Efficiency Solar Arrays,130,704.1,91.533,176,High
+2021-02-01,2021,2,Cryogenic Tanks,123,611.3,75.19,291,Medium
+2021-02-01,2021,2,Radiation-Hardened Rad-750 CPUs,145,785.4,113.883,364,Medium
+2021-02-01,2021,2,Optical Inter-Satellite Links,144,355.7,51.221,310,Medium
+2021-02-01,2021,2,Star Trackers,121,555.9,67.264,275,Medium
+2021-02-01,2021,2,Reaction Wheels,118,814.3,96.087,338,Medium
+2021-02-01,2021,2,SAR Radar Antennas,141,921.9,129.988,324,Medium
+2021-03-01,2021,3,Ion Propulsion Engines,121,278.7,33.723,336,Medium
+2021-03-01,2021,3,High-Efficiency Solar Arrays,130,588.6,76.518,400,High
+2021-03-01,2021,3,Cryogenic Tanks,125,855.7,106.963,114,Medium
+2021-03-01,2021,3,Radiation-Hardened Rad-750 CPUs,144,195.1,28.094,92,Medium
+2021-03-01,2021,3,Optical Inter-Satellite Links,148,228.8,33.862,343,Medium
+2021-03-01,2021,3,Star Trackers,122,794.9,96.978,400,Medium
+2021-03-01,2021,3,Reaction Wheels,123,750.0,92.25,407,Medium
+2021-03-01,2021,3,SAR Radar Antennas,145,379.6,55.042,155,Medium
+2021-04-01,2021,4,Ion Propulsion Engines,128,814.4,104.243,186,Medium
+2021-04-01,2021,4,High-Efficiency Solar Arrays,127,568.2,72.161,322,Medium
+2021-04-01,2021,4,Cryogenic Tanks,126,251.8,31.727,155,Medium
+2021-04-01,2021,4,Radiation-Hardened Rad-750 CPUs,145,223.1,32.349,277,Medium
+2021-04-01,2021,4,Optical Inter-Satellite Links,146,648.7,94.71,382,Medium
+2021-04-01,2021,4,Star Trackers,126,154.4,19.454,230,Medium
+2021-04-01,2021,4,Reaction Wheels,122,866.2,105.676,285,Medium
+2021-04-01,2021,4,SAR Radar Antennas,145,262.4,38.048,246,Medium
+2021-05-01,2021,5,Ion Propulsion Engines,120,796.9,95.628,228,Low
+2021-05-01,2021,5,High-Efficiency Solar Arrays,124,466.2,57.809,183,Medium
+2021-05-01,2021,5,Cryogenic Tanks,122,244.9,29.878,138,Medium
+2021-05-01,2021,5,Radiation-Hardened Rad-750 CPUs,151,444.3,67.089,307,High
+2021-05-01,2021,5,Optical Inter-Satellite Links,143,458.7,65.594,413,Medium
+2021-05-01,2021,5,Star Trackers,119,777.4,92.511,398,Low
+2021-05-01,2021,5,Reaction Wheels,123,296.1,36.42,270,Medium
+2021-05-01,2021,5,SAR Radar Antennas,145,150.3,21.794,169,Medium
+2021-06-01,2021,6,Ion Propulsion Engines,126,359.0,45.234,157,Medium
+2021-06-01,2021,6,High-Efficiency Solar Arrays,119,438.1,52.134,255,Low
+2021-06-01,2021,6,Cryogenic Tanks,116,319.7,37.085,365,Low
+2021-06-01,2021,6,Radiation-Hardened Rad-750 CPUs,144,195.8,28.195,231,Medium
+2021-06-01,2021,6,Optical Inter-Satellite Links,137,132.0,18.084,117,Low
+2021-06-01,2021,6,Star Trackers,120,653.9,78.468,250,Low
+2021-06-01,2021,6,Reaction Wheels,120,380.1,45.612,394,Low
+2021-06-01,2021,6,SAR Radar Antennas,141,748.1,105.482,235,Low
+2021-07-01,2021,7,Ion Propulsion Engines,121,174.4,21.102,230,Low
+2021-07-01,2021,7,High-Efficiency Solar Arrays,117,862.0,100.854,121,Low
+2021-07-01,2021,7,Cryogenic Tanks,118,237.1,27.978,234,Low
+2021-07-01,2021,7,Radiation-Hardened Rad-750 CPUs,139,559.3,77.743,187,Low
+2021-07-01,2021,7,Optical Inter-Satellite Links,139,745.0,103.555,267,Low
+2021-07-01,2021,7,Star Trackers,119,160.9,19.147,233,Low
+2021-07-01,2021,7,Reaction Wheels,120,426.3,51.156,397,Low
+2021-07-01,2021,7,SAR Radar Antennas,141,296.3,41.778,216,Low
+2021-08-01,2021,8,Ion Propulsion Engines,118,901.6,106.389,353,Low
+2021-08-01,2021,8,High-Efficiency Solar Arrays,119,164.9,19.623,389,Low
+2021-08-01,2021,8,Cryogenic Tanks,112,650.9,72.901,379,Low
+2021-08-01,2021,8,Radiation-Hardened Rad-750 CPUs,137,624.7,85.584,328,Low
+2021-08-01,2021,8,Optical Inter-Satellite Links,139,140.3,19.502,225,Low
+2021-08-01,2021,8,Star Trackers,119,344.0,40.936,244,Low
+2021-08-01,2021,8,Reaction Wheels,115,890.1,102.362,193,Low
+2021-08-01,2021,8,SAR Radar Antennas,135,191.4,25.839,407,Low
+2021-09-01,2021,9,Ion Propulsion Engines,115,130.0,14.95,337,Low
+2021-09-01,2021,9,High-Efficiency Solar Arrays,119,199.8,23.776,375,Low
+2021-09-01,2021,9,Cryogenic Tanks,120,264.3,31.716,258,Low
+2021-09-01,2021,9,Radiation-Hardened Rad-750 CPUs,136,703.2,95.635,213,Low
+2021-09-01,2021,9,Optical Inter-Satellite Links,140,899.1,125.874,156,Low
+2021-09-01,2021,9,Star Trackers,118,747.9,88.252,340,Low
+2021-09-01,2021,9,Reaction Wheels,117,514.0,60.138,419,Low
+2021-09-01,2021,9,SAR Radar Antennas,137,303.1,41.525,313,Low
+2021-10-01,2021,10,Ion Propulsion Engines,121,414.3,50.13,221,Low
+2021-10-01,2021,10,High-Efficiency Solar Arrays,120,485.9,58.308,123,Low
+2021-10-01,2021,10,Cryogenic Tanks,126,483.2,60.883,317,Medium
+2021-10-01,2021,10,Radiation-Hardened Rad-750 CPUs,136,416.3,56.617,205,Low
+2021-10-01,2021,10,Optical Inter-Satellite Links,140,400.2,56.028,248,Low
+2021-10-01,2021,10,Star Trackers,117,582.7,68.176,144,Low
+2021-10-01,2021,10,Reaction Wheels,116,359.1,41.656,139,Low
+2021-10-01,2021,10,SAR Radar Antennas,139,269.2,37.419,289,Low
+2021-11-01,2021,11,Ion Propulsion Engines,123,457.2,56.236,144,Low
+2021-11-01,2021,11,High-Efficiency Solar Arrays,131,401.9,52.649,216,Medium
+2021-11-01,2021,11,Cryogenic Tanks,122,601.5,73.383,385,Low
+2021-11-01,2021,11,Radiation-Hardened Rad-750 CPUs,139,738.3,102.624,155,Low
+2021-11-01,2021,11,Optical Inter-Satellite Links,143,624.0,89.232,181,Low
+2021-11-01,2021,11,Star Trackers,116,504.0,58.464,116,Low
+2021-11-01,2021,11,Reaction Wheels,122,810.8,98.918,125,Low
+2021-11-01,2021,11,SAR Radar Antennas,142,407.0,57.794,418,Low
+2021-12-01,2021,12,Ion Propulsion Engines,129,201.5,25.994,220,Medium
+2021-12-01,2021,12,High-Efficiency Solar Arrays,129,809.3,104.4,203,Medium
+2021-12-01,2021,12,Cryogenic Tanks,125,648.4,81.05,381,Low
+2021-12-01,2021,12,Radiation-Hardened Rad-750 CPUs,146,161.9,23.637,170,Low
+2021-12-01,2021,12,Optical Inter-Satellite Links,144,512.2,73.757,366,Low
+2021-12-01,2021,12,Star Trackers,123,927.1,114.033,419,Low
+2021-12-01,2021,12,Reaction Wheels,127,854.8,108.56,348,Medium
+2021-12-01,2021,12,SAR Radar Antennas,142,270.2,38.368,237,Low
+2022-01-01,2022,1,Ion Propulsion Engines,129,794.3,102.465,332,Medium
+2022-01-01,2022,1,High-Efficiency Solar Arrays,127,276.8,35.154,379,Low
+2022-01-01,2022,1,Cryogenic Tanks,132,178.0,23.496,157,Medium
+2022-01-01,2022,1,Radiation-Hardened Rad-750 CPUs,156,620.5,96.798,399,Medium
+2022-01-01,2022,1,Optical Inter-Satellite Links,146,837.6,122.29,203,Low
+2022-01-01,2022,1,Star Trackers,125,493.4,61.675,147,Low
+2022-01-01,2022,1,Reaction Wheels,130,691.6,89.908,146,Medium
+2022-01-01,2022,1,SAR Radar Antennas,150,242.9,36.435,316,Medium
+2022-02-01,2022,2,Ion Propulsion Engines,134,407.7,54.632,214,Medium
+2022-02-01,2022,2,High-Efficiency Solar Arrays,132,590.9,77.999,275,Medium
+2022-02-01,2022,2,Cryogenic Tanks,133,381.5,50.739,134,Medium
+2022-02-01,2022,2,Radiation-Hardened Rad-750 CPUs,155,907.6,140.678,182,Medium
+2022-02-01,2022,2,Optical Inter-Satellite Links,157,189.9,29.814,135,Medium
+2022-02-01,2022,2,Star Trackers,128,469.8,60.134,185,Medium
+2022-02-01,2022,2,Reaction Wheels,132,935.9,123.539,107,Medium
+2022-02-01,2022,2,SAR Radar Antennas,154,811.6,124.986,290,Medium
+2022-03-01,2022,3,Ion Propulsion Engines,133,830.8,110.496,256,Medium
+2022-03-01,2022,3,High-Efficiency Solar Arrays,140,616.4,86.296,113,High
+2022-03-01,2022,3,Cryogenic Tanks,133,123.2,16.386,231,Medium
+2022-03-01,2022,3,Radiation-Hardened Rad-750 CPUs,155,812.4,125.922,187,Medium
+2022-03-01,2022,3,Optical Inter-Satellite Links,157,446.9,70.163,200,Medium
+2022-03-01,2022,3,Star Trackers,133,445.6,59.265,238,Medium
+2022-03-01,2022,3,Reaction Wheels,130,328.3,42.679,172,Medium
+2022-03-01,2022,3,SAR Radar Antennas,154,741.5,114.191,378,Medium
+2022-04-01,2022,4,Ion Propulsion Engines,138,790.9,109.144,304,Medium
+2022-04-01,2022,4,High-Efficiency Solar Arrays,134,608.2,81.499,219,Medium
+2022-04-01,2022,4,Cryogenic Tanks,133,242.3,32.226,93,Medium
+2022-04-01,2022,4,Radiation-Hardened Rad-750 CPUs,158,644.2,101.784,327,Medium
+2022-04-01,2022,4,Optical Inter-Satellite Links,154,642.3,98.914,174,Medium
+2022-04-01,2022,4,Star Trackers,134,883.5,118.389,316,Medium
+2022-04-01,2022,4,Reaction Wheels,136,450.3,61.241,346,Medium
+2022-04-01,2022,4,SAR Radar Antennas,158,318.4,50.307,170,Medium
+2022-05-01,2022,5,Ion Propulsion Engines,141,503.3,70.965,114,High
+2022-05-01,2022,5,High-Efficiency Solar Arrays,136,823.2,111.955,349,Medium
+2022-05-01,2022,5,Cryogenic Tanks,137,869.0,119.053,318,Medium
+2022-05-01,2022,5,Radiation-Hardened Rad-750 CPUs,152,885.0,134.52,253,Medium
+2022-05-01,2022,5,Optical Inter-Satellite Links,151,675.0,101.925,144,Medium
+2022-05-01,2022,5,Star Trackers,134,166.8,22.351,201,Medium
+2022-05-01,2022,5,Reaction Wheels,134,276.3,37.024,280,Medium
+2022-05-01,2022,5,SAR Radar Antennas,150,301.0,45.15,97,Low
+2022-06-01,2022,6,Ion Propulsion Engines,131,156.2,20.462,112,Low
+2022-06-01,2022,6,High-Efficiency Solar Arrays,133,866.6,115.258,306,Medium
+2022-06-01,2022,6,Cryogenic Tanks,132,295.7,39.032,161,Medium
+2022-06-01,2022,6,Radiation-Hardened Rad-750 CPUs,153,403.9,61.797,307,Medium
+2022-06-01,2022,6,Optical Inter-Satellite Links,152,655.7,99.666,333,Medium
+2022-06-01,2022,6,Star Trackers,130,893.4,116.142,259,Low
+2022-06-01,2022,6,Reaction Wheels,130,355.5,46.215,279,Low
+2022-06-01,2022,6,SAR Radar Antennas,148,577.8,85.514,151,Low
+2022-07-01,2022,7,Ion Propulsion Engines,134,517.9,69.399,373,Medium
+2022-07-01,2022,7,High-Efficiency Solar Arrays,129,666.2,85.94,326,Low
+2022-07-01,2022,7,Cryogenic Tanks,128,663.0,84.864,213,Low
+2022-07-01,2022,7,Radiation-Hardened Rad-750 CPUs,146,360.1,52.575,305,Low
+2022-07-01,2022,7,Optical Inter-Satellite Links,158,649.3,102.589,202,Medium
+2022-07-01,2022,7,Star Trackers,126,272.6,34.348,236,Low
+2022-07-01,2022,7,Reaction Wheels,128,800.6,102.477,271,Low
+2022-07-01,2022,7,SAR Radar Antennas,150,658.3,98.745,301,Low
+2022-08-01,2022,8,Ion Propulsion Engines,129,830.2,107.096,360,Low
+2022-08-01,2022,8,High-Efficiency Solar Arrays,130,356.6,46.358,123,Low
+2022-08-01,2022,8,Cryogenic Tanks,133,397.4,52.854,300,Low
+2022-08-01,2022,8,Radiation-Hardened Rad-750 CPUs,149,729.9,108.755,260,Low
+2022-08-01,2022,8,Optical Inter-Satellite Links,144,220.5,31.752,250,Low
+2022-08-01,2022,8,Star Trackers,127,530.9,67.424,250,Low
+2022-08-01,2022,8,Reaction Wheels,128,927.5,118.72,124,Low
+2022-08-01,2022,8,SAR Radar Antennas,154,798.6,122.984,353,Medium
+2022-09-01,2022,9,Ion Propulsion Engines,123,424.2,52.177,345,Low
+2022-09-01,2022,9,High-Efficiency Solar Arrays,131,448.6,58.767,287,Low
+2022-09-01,2022,9,Cryogenic Tanks,128,417.9,53.491,379,Low
+2022-09-01,2022,9,Radiation-Hardened Rad-750 CPUs,150,419.6,62.94,386,Low
+2022-09-01,2022,9,Optical Inter-Satellite Links,147,459.0,67.473,300,Low
+2022-09-01,2022,9,Star Trackers,125,130.5,16.312,417,Low
+2022-09-01,2022,9,Reaction Wheels,130,884.9,115.037,207,Low
+2022-09-01,2022,9,SAR Radar Antennas,149,705.4,105.105,319,Low
+2022-10-01,2022,10,Ion Propulsion Engines,132,737.5,97.35,168,Low
+2022-10-01,2022,10,High-Efficiency Solar Arrays,129,271.3,34.998,292,Low
+2022-10-01,2022,10,Cryogenic Tanks,127,731.5,92.9,354,Low
+2022-10-01,2022,10,Radiation-Hardened Rad-750 CPUs,144,332.7,47.909,161,Low
+2022-10-01,2022,10,Optical Inter-Satellite Links,152,193.3,29.382,378,Low
+2022-10-01,2022,10,Star Trackers,130,252.6,32.838,155,Low
+2022-10-01,2022,10,Reaction Wheels,126,390.6,49.216,225,Low
+2022-10-01,2022,10,SAR Radar Antennas,147,401.0,58.947,335,Low
+2022-11-01,2022,11,Ion Propulsion Engines,131,881.8,115.516,414,Low
+2022-11-01,2022,11,High-Efficiency Solar Arrays,128,425.7,54.49,191,Low
+2022-11-01,2022,11,Cryogenic Tanks,130,496.1,64.493,156,Low
+2022-11-01,2022,11,Radiation-Hardened Rad-750 CPUs,149,310.8,46.309,293,Low
+2022-11-01,2022,11,Optical Inter-Satellite Links,151,463.0,69.913,229,Low
+2022-11-01,2022,11,Star Trackers,130,178.2,23.166,163,Low
+2022-11-01,2022,11,Reaction Wheels,127,896.6,113.868,247,Low
+2022-11-01,2022,11,SAR Radar Antennas,158,297.6,47.021,184,Medium
+2022-12-01,2022,12,Ion Propulsion Engines,140,633.6,88.704,331,Medium
+2022-12-01,2022,12,High-Efficiency Solar Arrays,134,158.4,21.226,129,Low
+2022-12-01,2022,12,Cryogenic Tanks,137,303.2,41.538,339,Medium
+2022-12-01,2022,12,Radiation-Hardened Rad-750 CPUs,158,248.9,39.326,392,Medium
+2022-12-01,2022,12,Optical Inter-Satellite Links,160,584.4,93.504,152,Medium
+2022-12-01,2022,12,Star Trackers,134,133.4,17.876,192,Low
+2022-12-01,2022,12,Reaction Wheels,140,420.2,58.828,166,Medium
+2022-12-01,2022,12,SAR Radar Antennas,155,378.5,58.667,187,Low
+2023-01-01,2023,1,Ion Propulsion Engines,137,623.1,85.365,175,Low
+2023-01-01,2023,1,High-Efficiency Solar Arrays,143,624.1,89.246,279,Medium
+2023-01-01,2023,1,Cryogenic Tanks,144,147.3,21.211,246,Medium
+2023-01-01,2023,1,Radiation-Hardened Rad-750 CPUs,168,591.2,99.322,158,High
+2023-01-01,2023,1,Optical Inter-Satellite Links,157,582.3,91.421,103,Low
+2023-01-01,2023,1,Star Trackers,143,502.5,71.858,311,Medium
+2023-01-01,2023,1,Reaction Wheels,139,681.8,94.77,392,Medium
+2023-01-01,2023,1,SAR Radar Antennas,163,792.3,129.145,191,Medium
+2023-02-01,2023,2,Ion Propulsion Engines,139,620.9,86.305,369,Medium
+2023-02-01,2023,2,High-Efficiency Solar Arrays,140,508.3,71.162,198,Medium
+2023-02-01,2023,2,Cryogenic Tanks,141,667.2,94.075,240,Medium
+2023-02-01,2023,2,Radiation-Hardened Rad-750 CPUs,164,743.8,121.983,296,Medium
+2023-02-01,2023,2,Optical Inter-Satellite Links,162,500.1,81.016,409,Medium
+2023-02-01,2023,2,Star Trackers,146,140.0,20.44,314,Medium
+2023-02-01,2023,2,Reaction Wheels,147,539.8,79.351,249,Medium
+2023-02-01,2023,2,SAR Radar Antennas,166,371.9,61.735,310,Medium
+2023-03-01,2023,3,Ion Propulsion Engines,150,933.8,140.07,283,High
+2023-03-01,2023,3,High-Efficiency Solar Arrays,147,624.3,91.772,377,Medium
+2023-03-01,2023,3,Cryogenic Tanks,142,304.2,43.196,92,Medium
+2023-03-01,2023,3,Radiation-Hardened Rad-750 CPUs,170,684.4,116.348,379,High
+2023-03-01,2023,3,Optical Inter-Satellite Links,164,646.0,105.944,197,Medium
+2023-03-01,2023,3,Star Trackers,148,550.0,81.4,348,Medium
+2023-03-01,2023,3,Reaction Wheels,150,251.8,37.77,272,High
+2023-03-01,2023,3,SAR Radar Antennas,167,871.5,145.541,98,Medium
+2023-04-01,2023,4,Ion Propulsion Engines,141,559.4,78.875,261,Medium
+2023-04-01,2023,4,High-Efficiency Solar Arrays,143,600.8,85.914,261,Medium
+2023-04-01,2023,4,Cryogenic Tanks,149,773.3,115.222,308,Medium
+2023-04-01,2023,4,Radiation-Hardened Rad-750 CPUs,165,257.1,42.422,334,Medium
+2023-04-01,2023,4,Optical Inter-Satellite Links,166,778.0,129.148,283,Medium
+2023-04-01,2023,4,Star Trackers,148,435.7,64.484,164,Medium
+2023-04-01,2023,4,Reaction Wheels,148,294.9,43.645,163,Medium
+2023-04-01,2023,4,SAR Radar Antennas,166,391.7,65.022,171,Medium
+2023-05-01,2023,5,Ion Propulsion Engines,143,524.9,75.061,413,Medium
+2023-05-01,2023,5,High-Efficiency Solar Arrays,143,904.7,129.372,301,Medium
+2023-05-01,2023,5,Cryogenic Tanks,147,885.1,130.11,400,Medium
+2023-05-01,2023,5,Radiation-Hardened Rad-750 CPUs,166,710.6,117.96,332,Medium
+2023-05-01,2023,5,Optical Inter-Satellite Links,163,917.6,149.569,228,Medium
+2023-05-01,2023,5,Star Trackers,147,508.0,74.676,188,Medium
+2023-05-01,2023,5,Reaction Wheels,144,768.2,110.621,213,Medium
+2023-05-01,2023,5,SAR Radar Antennas,161,330.3,53.178,218,Medium
+2023-06-01,2023,6,Ion Propulsion Engines,139,846.4,117.65,310,Low
+2023-06-01,2023,6,High-Efficiency Solar Arrays,139,465.4,64.691,143,Low
+2023-06-01,2023,6,Cryogenic Tanks,141,158.2,22.306,141,Low
+2023-06-01,2023,6,Radiation-Hardened Rad-750 CPUs,165,898.0,148.17,242,Medium
+2023-06-01,2023,6,Optical Inter-Satellite Links,159,617.6,98.198,287,Low
+2023-06-01,2023,6,Star Trackers,142,192.2,27.292,114,Medium
+2023-06-01,2023,6,Reaction Wheels,140,933.7,130.718,352,Low
+2023-06-01,2023,6,SAR Radar Antennas,161,448.6,72.225,347,Low
+2023-07-01,2023,7,Ion Propulsion Engines,135,795.4,107.379,287,Low
+2023-07-01,2023,7,High-Efficiency Solar Arrays,139,748.9,104.097,356,Low
+2023-07-01,2023,7,Cryogenic Tanks,139,697.2,96.911,331,Low
+2023-07-01,2023,7,Radiation-Hardened Rad-750 CPUs,161,902.4,145.286,405,Low
+2023-07-01,2023,7,Optical Inter-Satellite Links,160,922.6,147.616,229,Low
+2023-07-01,2023,7,Star Trackers,136,926.6,126.018,399,Low
+2023-07-01,2023,7,Reaction Wheels,142,862.1,122.418,220,Low
+2023-07-01,2023,7,SAR Radar Antennas,160,858.3,137.328,215,Low
+2023-08-01,2023,8,Ion Propulsion Engines,138,684.6,94.475,408,Low
+2023-08-01,2023,8,High-Efficiency Solar Arrays,138,419.0,57.822,356,Low
+2023-08-01,2023,8,Cryogenic Tanks,136,914.4,124.358,408,Low
+2023-08-01,2023,8,Radiation-Hardened Rad-750 CPUs,158,707.0,111.706,303,Low
+2023-08-01,2023,8,Optical Inter-Satellite Links,159,784.0,124.656,207,Low
+2023-08-01,2023,8,Star Trackers,132,673.8,88.942,229,Low
+2023-08-01,2023,8,Reaction Wheels,136,159.1,21.638,377,Low
+2023-08-01,2023,8,SAR Radar Antennas,157,929.3,145.9,206,Low
+2023-09-01,2023,9,Ion Propulsion Engines,138,697.2,96.214,210,Low
+2023-09-01,2023,9,High-Efficiency Solar Arrays,141,841.1,118.595,368,Low
+2023-09-01,2023,9,Cryogenic Tanks,135,325.5,43.943,104,Low
+2023-09-01,2023,9,Radiation-Hardened Rad-750 CPUs,156,220.7,34.429,386,Low
+2023-09-01,2023,9,Optical Inter-Satellite Links,156,735.2,114.691,227,Low
+2023-09-01,2023,9,Star Trackers,135,509.2,68.742,389,Low
+2023-09-01,2023,9,Reaction Wheels,137,176.5,24.18,159,Low
+2023-09-01,2023,9,SAR Radar Antennas,160,655.7,104.912,194,Low
+2023-10-01,2023,10,Ion Propulsion Engines,136,530.0,72.08,342,Low
+2023-10-01,2023,10,High-Efficiency Solar Arrays,141,620.0,87.42,216,Low
+2023-10-01,2023,10,Cryogenic Tanks,134,644.3,86.336,402,Low
+2023-10-01,2023,10,Radiation-Hardened Rad-750 CPUs,158,577.4,91.229,91,Low
+2023-10-01,2023,10,Optical Inter-Satellite Links,158,195.6,30.905,170,Low
+2023-10-01,2023,10,Star Trackers,144,252.8,36.403,104,Low
+2023-10-01,2023,10,Reaction Wheels,139,183.7,25.534,200,Low
+2023-10-01,2023,10,SAR Radar Antennas,153,199.5,30.523,277,Low
+2023-11-01,2023,11,Ion Propulsion Engines,137,269.7,36.949,93,Low
+2023-11-01,2023,11,High-Efficiency Solar Arrays,143,640.6,91.606,213,Low
+2023-11-01,2023,11,Cryogenic Tanks,145,601.4,87.203,276,Low
+2023-11-01,2023,11,Radiation-Hardened Rad-750 CPUs,164,246.1,40.36,127,Low
+2023-11-01,2023,11,Optical Inter-Satellite Links,163,890.4,145.135,214,Low
+2023-11-01,2023,11,Star Trackers,146,795.4,116.128,292,Medium
+2023-11-01,2023,11,Reaction Wheels,141,648.8,91.481,201,Low
+2023-11-01,2023,11,SAR Radar Antennas,165,683.5,112.778,239,Low
+2023-12-01,2023,12,Ion Propulsion Engines,142,757.5,107.565,393,Low
+2023-12-01,2023,12,High-Efficiency Solar Arrays,144,579.2,83.405,130,Low
+2023-12-01,2023,12,Cryogenic Tanks,141,259.4,36.575,113,Low
+2023-12-01,2023,12,Radiation-Hardened Rad-750 CPUs,166,272.4,45.218,152,Low
+2023-12-01,2023,12,Optical Inter-Satellite Links,167,575.9,96.175,308,Medium
+2023-12-01,2023,12,Star Trackers,147,521.6,76.675,107,Medium
+2023-12-01,2023,12,Reaction Wheels,147,812.0,119.364,183,Medium
+2023-12-01,2023,12,SAR Radar Antennas,164,636.6,104.402,399,Low
+2024-01-01,2024,1,Ion Propulsion Engines,150,135.1,20.265,215,Medium
+2024-01-01,2024,1,High-Efficiency Solar Arrays,146,201.1,29.361,323,Low
+2024-01-01,2024,1,Cryogenic Tanks,155,523.3,81.112,253,Medium
+2024-01-01,2024,1,Radiation-Hardened Rad-750 CPUs,170,451.0,76.67,384,Medium
+2024-01-01,2024,1,Optical Inter-Satellite Links,169,698.9,118.114,97,Medium
+2024-01-01,2024,1,Star Trackers,156,126.5,19.734,92,Medium
+2024-01-01,2024,1,Reaction Wheels,147,692.9,101.856,387,Low
+2024-01-01,2024,1,SAR Radar Antennas,168,650.2,109.234,130,Medium
+2024-02-01,2024,2,Ion Propulsion Engines,151,909.5,137.334,282,Medium
+2024-02-01,2024,2,High-Efficiency Solar Arrays,154,841.1,129.529,198,Medium
+2024-02-01,2024,2,Cryogenic Tanks,155,801.3,124.201,179,Medium
+2024-02-01,2024,2,Radiation-Hardened Rad-750 CPUs,176,899.4,158.294,248,Medium
+2024-02-01,2024,2,Optical Inter-Satellite Links,182,559.6,101.847,221,High
+2024-02-01,2024,2,Star Trackers,147,942.7,138.577,351,Low
+2024-02-01,2024,2,Reaction Wheels,156,875.0,136.5,336,Medium
+2024-02-01,2024,2,SAR Radar Antennas,173,214.4,37.091,127,Medium
+2024-03-01,2024,3,Ion Propulsion Engines,154,379.5,58.443,342,Medium
+2024-03-01,2024,3,High-Efficiency Solar Arrays,154,372.7,57.396,406,Medium
+2024-03-01,2024,3,Cryogenic Tanks,153,215.7,33.002,328,Medium
+2024-03-01,2024,3,Radiation-Hardened Rad-750 CPUs,181,930.4,168.402,119,High
+2024-03-01,2024,3,Optical Inter-Satellite Links,178,865.3,154.023,372,Medium
+2024-03-01,2024,3,Star Trackers,156,495.3,77.267,158,Medium
+2024-03-01,2024,3,Reaction Wheels,160,520.6,83.296,362,High
+2024-03-01,2024,3,SAR Radar Antennas,171,922.9,157.816,106,Medium
+2024-04-01,2024,4,Ion Propulsion Engines,152,820.3,124.686,117,Medium
+2024-04-01,2024,4,High-Efficiency Solar Arrays,149,158.7,23.646,211,Low
+2024-04-01,2024,4,Cryogenic Tanks,154,665.1,102.425,356,Medium
+2024-04-01,2024,4,Radiation-Hardened Rad-750 CPUs,176,128.0,22.528,369,Medium
+2024-04-01,2024,4,Optical Inter-Satellite Links,176,894.5,157.432,193,Medium
+2024-04-01,2024,4,Star Trackers,156,354.9,55.364,380,Medium
+2024-04-01,2024,4,Reaction Wheels,152,652.5,99.18,181,Medium
+2024-04-01,2024,4,SAR Radar Antennas,178,815.0,145.07,175,Medium
+2024-05-01,2024,5,Ion Propulsion Engines,155,214.0,33.17,96,Medium
+2024-05-01,2024,5,High-Efficiency Solar Arrays,157,140.8,22.106,397,Medium
+2024-05-01,2024,5,Cryogenic Tanks,149,842.5,125.532,199,Low
+2024-05-01,2024,5,Radiation-Hardened Rad-750 CPUs,175,267.7,46.847,128,Medium
+2024-05-01,2024,5,Optical Inter-Satellite Links,171,573.5,98.069,161,Low
+2024-05-01,2024,5,Star Trackers,153,687.1,105.126,269,Medium
+2024-05-01,2024,5,Reaction Wheels,156,275.1,42.916,320,Medium
+2024-05-01,2024,5,SAR Radar Antennas,175,439.0,76.825,274,Medium
+2024-06-01,2024,6,Ion Propulsion Engines,149,242.5,36.133,111,Low
+2024-06-01,2024,6,High-Efficiency Solar Arrays,152,853.8,129.778,135,Low
+2024-06-01,2024,6,Cryogenic Tanks,147,302.8,44.512,140,Low
+2024-06-01,2024,6,Radiation-Hardened Rad-750 CPUs,175,482.4,84.42,378,Medium
+2024-06-01,2024,6,Optical Inter-Satellite Links,171,407.4,69.665,238,Low
+2024-06-01,2024,6,Star Trackers,155,257.5,39.913,200,Medium
+2024-06-01,2024,6,Reaction Wheels,150,259.0,38.85,287,Low
+2024-06-01,2024,6,SAR Radar Antennas,170,530.1,90.117,103,Low
+2024-07-01,2024,7,Ion Propulsion Engines,147,204.3,30.032,132,Low
+2024-07-01,2024,7,High-Efficiency Solar Arrays,152,452.7,68.81,348,Low
+2024-07-01,2024,7,Cryogenic Tanks,148,212.0,31.376,311,Low
+2024-07-01,2024,7,Radiation-Hardened Rad-750 CPUs,172,939.4,161.577,329,Low
+2024-07-01,2024,7,Optical Inter-Satellite Links,169,779.6,131.752,364,Low
+2024-07-01,2024,7,Star Trackers,144,461.5,66.456,159,Low
+2024-07-01,2024,7,Reaction Wheels,148,911.1,134.843,93,Low
+2024-07-01,2024,7,SAR Radar Antennas,166,269.0,44.654,139,Low
+2024-08-01,2024,8,Ion Propulsion Engines,148,396.5,58.682,349,Low
+2024-08-01,2024,8,High-Efficiency Solar Arrays,145,449.5,65.177,221,Low
+2024-08-01,2024,8,Cryogenic Tanks,151,745.8,112.616,311,Low
+2024-08-01,2024,8,Radiation-Hardened Rad-750 CPUs,168,487.2,81.85,98,Low
+2024-08-01,2024,8,Optical Inter-Satellite Links,168,261.6,43.949,110,Low
+2024-08-01,2024,8,Star Trackers,150,630.3,94.545,243,Low
+2024-08-01,2024,8,Reaction Wheels,151,189.4,28.599,263,Low
+2024-08-01,2024,8,SAR Radar Antennas,168,293.2,49.258,101,Low
+2024-09-01,2024,9,Ion Propulsion Engines,146,354.8,51.801,96,Low
+2024-09-01,2024,9,High-Efficiency Solar Arrays,143,419.6,60.003,191,Low
+2024-09-01,2024,9,Cryogenic Tanks,146,184.4,26.922,357,Low
+2024-09-01,2024,9,Radiation-Hardened Rad-750 CPUs,166,353.2,58.631,128,Low
+2024-09-01,2024,9,Optical Inter-Satellite Links,168,170.3,28.61,265,Low
+2024-09-01,2024,9,Star Trackers,147,142.8,20.992,255,Low
+2024-09-01,2024,9,Reaction Wheels,150,780.2,117.03,91,Low
+2024-09-01,2024,9,SAR Radar Antennas,166,557.9,92.611,346,Low
+2024-10-01,2024,10,Ion Propulsion Engines,150,385.5,57.825,370,Low
+2024-10-01,2024,10,High-Efficiency Solar Arrays,153,361.7,55.34,340,Low
+2024-10-01,2024,10,Cryogenic Tanks,151,490.7,74.096,209,Low
+2024-10-01,2024,10,Radiation-Hardened Rad-750 CPUs,170,768.8,130.696,348,Low
+2024-10-01,2024,10,Optical Inter-Satellite Links,168,327.9,55.087,321,Low
+2024-10-01,2024,10,Star Trackers,148,626.3,92.692,115,Low
+2024-10-01,2024,10,Reaction Wheels,147,729.1,107.178,376,Low
+2024-10-01,2024,10,SAR Radar Antennas,168,663.7,111.502,206,Low
+2024-11-01,2024,11,Ion Propulsion Engines,155,946.8,146.754,320,Low
+2024-11-01,2024,11,High-Efficiency Solar Arrays,152,445.9,67.777,240,Low
+2024-11-01,2024,11,Cryogenic Tanks,149,809.5,120.615,263,Low
+2024-11-01,2024,11,Radiation-Hardened Rad-750 CPUs,178,895.0,159.31,208,Medium
+2024-11-01,2024,11,Optical Inter-Satellite Links,174,387.2,67.373,93,Low
+2024-11-01,2024,11,Star Trackers,149,189.9,28.295,173,Low
+2024-11-01,2024,11,Reaction Wheels,152,486.7,73.978,322,Low
+2024-11-01,2024,11,SAR Radar Antennas,173,652.2,112.831,316,Low
+2024-12-01,2024,12,Ion Propulsion Engines,162,321.2,52.034,160,Medium
+2024-12-01,2024,12,High-Efficiency Solar Arrays,154,575.3,88.596,379,Low
+2024-12-01,2024,12,Cryogenic Tanks,160,141.4,22.624,370,Medium
+2024-12-01,2024,12,Radiation-Hardened Rad-750 CPUs,181,873.5,158.103,156,Medium
+2024-12-01,2024,12,Optical Inter-Satellite Links,175,129.0,22.575,145,Low
+2024-12-01,2024,12,Star Trackers,156,194.7,30.373,170,Low
+2024-12-01,2024,12,Reaction Wheels,154,172.5,26.565,188,Low
+2024-12-01,2024,12,SAR Radar Antennas,177,332.2,58.799,308,Low
+2025-01-01,2025,1,Ion Propulsion Engines,161,863.2,138.975,286,Medium
+2025-01-01,2025,1,High-Efficiency Solar Arrays,163,563.4,91.834,127,Medium
+2025-01-01,2025,1,Cryogenic Tanks,165,855.2,141.108,395,Medium
+2025-01-01,2025,1,Radiation-Hardened Rad-750 CPUs,179,152.8,27.351,105,Medium
+2025-01-01,2025,1,Optical Inter-Satellite Links,176,268.4,47.238,111,Low
+2025-01-01,2025,1,Star Trackers,161,453.0,72.933,122,Medium
+2025-01-01,2025,1,Reaction Wheels,162,174.9,28.334,330,Medium
+2025-01-01,2025,1,SAR Radar Antennas,182,649.6,118.227,229,Medium
+2025-02-01,2025,2,Ion Propulsion Engines,164,830.4,136.186,333,Medium
+2025-02-01,2025,2,High-Efficiency Solar Arrays,165,785.6,129.624,135,Medium
+2025-02-01,2025,2,Cryogenic Tanks,169,502.5,84.922,291,Medium
+2025-02-01,2025,2,Radiation-Hardened Rad-750 CPUs,186,345.4,64.244,270,Medium
+2025-02-01,2025,2,Optical Inter-Satellite Links,184,899.5,165.508,315,Medium
+2025-02-01,2025,2,Star Trackers,163,590.4,96.235,351,Medium
+2025-02-01,2025,2,Reaction Wheels,164,581.6,95.382,189,Medium
+2025-02-01,2025,2,SAR Radar Antennas,190,643.5,122.265,135,High
+2025-03-01,2025,3,Ion Propulsion Engines,166,255.7,42.446,220,Medium
+2025-03-01,2025,3,High-Efficiency Solar Arrays,166,808.5,134.211,319,Medium
+2025-03-01,2025,3,Cryogenic Tanks,165,732.8,120.912,399,Medium
+2025-03-01,2025,3,Radiation-Hardened Rad-750 CPUs,190,140.9,26.771,414,High
+2025-03-01,2025,3,Optical Inter-Satellite Links,192,367.1,70.483,131,High
+2025-03-01,2025,3,Star Trackers,168,900.2,151.234,367,Medium
+2025-03-01,2025,3,Reaction Wheels,167,935.6,156.245,356,Medium
+2025-03-01,2025,3,SAR Radar Antennas,187,220.0,41.14,121,Medium
+2025-04-01,2025,4,Ion Propulsion Engines,159,878.5,139.681,141,Low
+2025-04-01,2025,4,High-Efficiency Solar Arrays,169,947.3,160.094,230,Medium
+2025-04-01,2025,4,Cryogenic Tanks,167,801.4,133.834,261,Medium
+2025-04-01,2025,4,Radiation-Hardened Rad-750 CPUs,188,699.9,131.581,345,Medium
+2025-04-01,2025,4,Optical Inter-Satellite Links,184,780.5,143.612,295,Medium
+2025-04-01,2025,4,Star Trackers,165,505.7,83.441,303,Medium
+2025-04-01,2025,4,Reaction Wheels,165,868.8,143.352,389,Medium
+2025-04-01,2025,4,SAR Radar Antennas,189,834.2,157.664,156,Medium
+2025-05-01,2025,5,Ion Propulsion Engines,164,342.4,56.154,294,Medium
+2025-05-01,2025,5,High-Efficiency Solar Arrays,171,732.4,125.24,139,Medium
+2025-05-01,2025,5,Cryogenic Tanks,166,521.7,86.602,380,Medium
+2025-05-01,2025,5,Radiation-Hardened Rad-750 CPUs,181,247.2,44.743,138,Low
+2025-05-01,2025,5,Optical Inter-Satellite Links,185,493.4,91.279,246,Medium
+2025-05-01,2025,5,Star Trackers,163,394.8,64.352,337,Medium
+2025-05-01,2025,5,Reaction Wheels,158,842.1,133.052,328,Low
+2025-05-01,2025,5,SAR Radar Antennas,190,749.5,142.405,110,Medium
+2025-06-01,2025,6,Ion Propulsion Engines,165,227.0,37.455,168,Medium
+2025-06-01,2025,6,High-Efficiency Solar Arrays,164,672.3,110.257,374,Medium
+2025-06-01,2025,6,Cryogenic Tanks,163,123.5,20.131,269,Medium
+2025-06-01,2025,6,Radiation-Hardened Rad-750 CPUs,178,914.5,162.781,246,Low
+2025-06-01,2025,6,Optical Inter-Satellite Links,181,495.3,89.649,173,Low
+2025-06-01,2025,6,Star Trackers,165,485.6,80.124,159,Medium
+2025-06-01,2025,6,Reaction Wheels,159,387.8,61.66,187,Low
+2025-06-01,2025,6,SAR Radar Antennas,175,724.7,126.823,120,Low
+2025-07-01,2025,7,Ion Propulsion Engines,160,632.3,101.168,270,Low
+2025-07-01,2025,7,High-Efficiency Solar Arrays,160,648.0,103.68,419,Low
+2025-07-01,2025,7,Cryogenic Tanks,161,692.5,111.493,362,Low
+2025-07-01,2025,7,Radiation-Hardened Rad-750 CPUs,182,342.3,62.299,378,Low
+2025-07-01,2025,7,Optical Inter-Satellite Links,182,581.2,105.778,210,Low
+2025-07-01,2025,7,Star Trackers,161,419.4,67.523,347,Low
+2025-07-01,2025,7,Reaction Wheels,164,534.0,87.576,324,Medium
+2025-07-01,2025,7,SAR Radar Antennas,176,914.6,160.97,407,Low
+2025-08-01,2025,8,Ion Propulsion Engines,160,624.4,99.904,187,Low
+2025-08-01,2025,8,High-Efficiency Solar Arrays,161,298.4,48.042,263,Low
+2025-08-01,2025,8,Cryogenic Tanks,155,701.5,108.733,411,Low
+2025-08-01,2025,8,Radiation-Hardened Rad-750 CPUs,174,133.2,23.177,220,Low
+2025-08-01,2025,8,Optical Inter-Satellite Links,176,144.9,25.502,403,Low
+2025-08-01,2025,8,Star Trackers,157,321.4,50.46,347,Low
+2025-08-01,2025,8,Reaction Wheels,161,452.7,72.885,306,Low
+2025-08-01,2025,8,SAR Radar Antennas,177,282.2,49.949,400,Low
+2025-09-01,2025,9,Ion Propulsion Engines,156,783.9,122.288,247,Low
+2025-09-01,2025,9,High-Efficiency Solar Arrays,157,755.6,118.629,236,Low
+2025-09-01,2025,9,Cryogenic Tanks,162,563.0,91.206,226,Low
+2025-09-01,2025,9,Radiation-Hardened Rad-750 CPUs,179,232.3,41.582,322,Low
+2025-09-01,2025,9,Optical Inter-Satellite Links,178,326.2,58.064,375,Low
+2025-09-01,2025,9,Star Trackers,158,313.0,49.454,291,Low
+2025-09-01,2025,9,Reaction Wheels,163,780.7,127.254,267,Low
+2025-09-01,2025,9,SAR Radar Antennas,176,228.6,40.234,212,Low
+2025-10-01,2025,10,Ion Propulsion Engines,164,620.3,101.729,373,Low
+2025-10-01,2025,10,High-Efficiency Solar Arrays,161,728.4,117.272,303,Low
+2025-10-01,2025,10,Cryogenic Tanks,160,669.1,107.056,297,Low
+2025-10-01,2025,10,Radiation-Hardened Rad-750 CPUs,188,257.8,48.466,169,Medium
+2025-10-01,2025,10,Optical Inter-Satellite Links,177,512.9,90.783,260,Low
+2025-10-01,2025,10,Star Trackers,159,927.8,147.52,205,Low
+2025-10-01,2025,10,Reaction Wheels,157,809.3,127.06,249,Low
+2025-10-01,2025,10,SAR Radar Antennas,183,862.8,157.892,289,Low
+2025-11-01,2025,11,Ion Propulsion Engines,169,643.5,108.751,118,Medium
+2025-11-01,2025,11,High-Efficiency Solar Arrays,169,827.2,139.797,300,Medium
+2025-11-01,2025,11,Cryogenic Tanks,167,472.0,78.824,215,Medium
+2025-11-01,2025,11,Radiation-Hardened Rad-750 CPUs,183,344.2,62.989,120,Low
+2025-11-01,2025,11,Optical Inter-Satellite Links,183,216.9,39.693,158,Low
+2025-11-01,2025,11,Star Trackers,159,196.2,31.196,293,Low
+2025-11-01,2025,11,Reaction Wheels,170,692.5,117.725,220,Medium
+2025-11-01,2025,11,SAR Radar Antennas,185,852.3,157.675,265,Low
+2025-12-01,2025,12,Ion Propulsion Engines,166,267.0,44.322,302,Low
+2025-12-01,2025,12,High-Efficiency Solar Arrays,172,295.8,50.878,177,Medium
+2025-12-01,2025,12,Cryogenic Tanks,165,783.8,129.327,360,Low
+2025-12-01,2025,12,Radiation-Hardened Rad-750 CPUs,189,582.0,109.998,183,Medium
+2025-12-01,2025,12,Optical Inter-Satellite Links,187,856.1,160.091,189,Low
+2025-12-01,2025,12,Star Trackers,170,422.5,71.825,106,Medium
+2025-12-01,2025,12,Reaction Wheels,168,355.1,59.657,226,Medium
+2025-12-01,2025,12,SAR Radar Antennas,184,422.0,77.648,150,Low
+2026-01-01,2026,1,Ion Propulsion Engines,172,734.4,126.317,246,Medium
+2026-01-01,2026,1,High-Efficiency Solar Arrays,175,288.8,50.54,238,Medium
+2026-01-01,2026,1,Cryogenic Tanks,172,895.2,153.974,133,Medium
+2026-01-01,2026,1,Radiation-Hardened Rad-750 CPUs,194,184.3,35.754,329,Medium
+2026-01-01,2026,1,Optical Inter-Satellite Links,189,401.8,75.94,384,Medium
+2026-01-01,2026,1,Star Trackers,172,339.9,58.463,380,Medium
+2026-01-01,2026,1,Reaction Wheels,170,395.9,67.303,418,Medium
+2026-01-01,2026,1,SAR Radar Antennas,194,359.7,69.782,131,Medium
+2026-02-01,2026,2,Ion Propulsion Engines,175,644.4,112.77,362,Medium
+2026-02-01,2026,2,High-Efficiency Solar Arrays,177,716.4,126.803,181,Medium
+2026-02-01,2026,2,Cryogenic Tanks,179,830.7,148.695,243,Medium
+2026-02-01,2026,2,Radiation-Hardened Rad-750 CPUs,197,434.2,85.537,348,Medium
+2026-02-01,2026,2,Optical Inter-Satellite Links,196,211.0,41.356,277,Medium
+2026-02-01,2026,2,Star Trackers,172,181.9,31.287,409,Medium
+2026-02-01,2026,2,Reaction Wheels,175,212.3,37.153,298,Medium
+2026-02-01,2026,2,SAR Radar Antennas,194,346.7,67.26,341,Medium
+2026-03-01,2026,3,Ion Propulsion Engines,176,652.6,114.858,178,Medium
+2026-03-01,2026,3,High-Efficiency Solar Arrays,176,868.7,152.891,288,Medium
+2026-03-01,2026,3,Cryogenic Tanks,174,359.3,62.518,390,Medium
+2026-03-01,2026,3,Radiation-Hardened Rad-750 CPUs,191,614.9,117.446,346,Medium
+2026-03-01,2026,3,Optical Inter-Satellite Links,195,942.3,183.749,178,Medium
+2026-03-01,2026,3,Star Trackers,178,330.1,58.758,194,Medium
+2026-03-01,2026,3,Reaction Wheels,173,388.3,67.176,408,Medium
+2026-03-01,2026,3,SAR Radar Antennas,197,633.2,124.74,343,Medium
+2026-04-01,2026,4,Ion Propulsion Engines,183,431.0,78.873,420,High
+2026-04-01,2026,4,High-Efficiency Solar Arrays,180,593.0,106.74,150,Medium
+2026-04-01,2026,4,Cryogenic Tanks,182,418.9,76.24,91,High
+2026-04-01,2026,4,Radiation-Hardened Rad-750 CPUs,198,170.8,33.818,251,Medium
+2026-04-01,2026,4,Optical Inter-Satellite Links,201,791.9,159.172,223,Medium
+2026-04-01,2026,4,Star Trackers,175,425.9,74.532,128,Medium
+2026-04-01,2026,4,Reaction Wheels,175,781.5,136.762,202,Medium
+2026-04-01,2026,4,SAR Radar Antennas,189,831.0,157.059,335,Low
+2026-05-01,2026,5,Ion Propulsion Engines,179,853.3,152.741,180,Medium
+2026-05-01,2026,5,High-Efficiency Solar Arrays,180,881.4,158.652,210,Medium
+2026-05-01,2026,5,Cryogenic Tanks,174,160.4,27.91,328,Medium
+2026-05-01,2026,5,Radiation-Hardened Rad-750 CPUs,195,794.6,154.947,375,Medium
+2026-05-01,2026,5,Optical Inter-Satellite Links,193,262.4,50.643,256,Medium
+2026-05-01,2026,5,Star Trackers,177,734.3,129.971,129,Medium
+2026-05-01,2026,5,Reaction Wheels,179,141.3,25.293,347,Medium
+2026-05-01,2026,5,SAR Radar Antennas,190,196.2,37.278,218,Low
+2026-06-01,2026,6,Ion Propulsion Engines,174,455.7,79.292,243,Medium
+2026-06-01,2026,6,High-Efficiency Solar Arrays,172,870.4,149.709,212,Low
+2026-06-01,2026,6,Cryogenic Tanks,174,736.5,128.151,363,Medium
+2026-06-01,2026,6,Radiation-Hardened Rad-750 CPUs,195,651.2,126.984,286,Medium
+2026-06-01,2026,6,Optical Inter-Satellite Links,193,900.0,173.7,247,Low
+2026-06-01,2026,6,Star Trackers,173,290.6,50.274,114,Low
+2026-06-01,2026,6,Reaction Wheels,173,939.9,162.603,415,Low
+2026-06-01,2026,6,SAR Radar Antennas,196,178.9,35.064,227,Medium
+2026-07-01,2026,7,Ion Propulsion Engines,172,644.5,110.854,96,Low
+2026-07-01,2026,7,High-Efficiency Solar Arrays,171,473.4,80.951,392,Low
+2026-07-01,2026,7,Cryogenic Tanks,167,443.1,73.998,103,Low
+2026-07-01,2026,7,Radiation-Hardened Rad-750 CPUs,190,433.4,82.346,394,Low
+2026-07-01,2026,7,Optical Inter-Satellite Links,194,640.1,124.179,214,Low
+2026-07-01,2026,7,Star Trackers,171,742.5,126.968,248,Low
+2026-07-01,2026,7,Reaction Wheels,173,623.9,107.935,165,Low
+2026-07-01,2026,7,SAR Radar Antennas,196,783.2,153.507,122,Medium
+2026-08-01,2026,8,Ion Propulsion Engines,172,550.7,94.72,341,Low
+2026-08-01,2026,8,High-Efficiency Solar Arrays,170,616.1,104.737,411,Low
+2026-08-01,2026,8,Cryogenic Tanks,168,150.7,25.318,263,Low
+2026-08-01,2026,8,Radiation-Hardened Rad-750 CPUs,182,127.4,23.187,129,Low
+2026-08-01,2026,8,Optical Inter-Satellite Links,189,825.1,155.944,226,Low
+2026-08-01,2026,8,Star Trackers,168,483.3,81.194,269,Low
+2026-08-01,2026,8,Reaction Wheels,171,602.5,103.028,142,Low
+2026-08-01,2026,8,SAR Radar Antennas,189,209.2,39.539,174,Low
+2026-09-01,2026,9,Ion Propulsion Engines,168,384.3,64.562,161,Low
+2026-09-01,2026,9,High-Efficiency Solar Arrays,164,723.5,118.654,187,Low
+2026-09-01,2026,9,Cryogenic Tanks,167,187.6,31.329,112,Low
+2026-09-01,2026,9,Radiation-Hardened Rad-750 CPUs,191,121.4,23.187,220,Low
+2026-09-01,2026,9,Optical Inter-Satellite Links,195,752.1,146.66,185,Low
+2026-09-01,2026,9,Star Trackers,169,875.6,147.976,336,Low
+2026-09-01,2026,9,Reaction Wheels,170,257.0,43.69,407,Low
+2026-09-01,2026,9,SAR Radar Antennas,192,569.1,109.267,351,Low
+2026-10-01,2026,10,Ion Propulsion Engines,169,918.4,155.21,417,Low
+2026-10-01,2026,10,High-Efficiency Solar Arrays,172,230.9,39.715,178,Low
+2026-10-01,2026,10,Cryogenic Tanks,169,169.9,28.713,290,Low
+2026-10-01,2026,10,Radiation-Hardened Rad-750 CPUs,194,857.5,166.355,225,Low
+2026-10-01,2026,10,Optical Inter-Satellite Links,192,740.5,142.176,405,Low
+2026-10-01,2026,10,Star Trackers,172,574.8,98.866,162,Low
+2026-10-01,2026,10,Reaction Wheels,169,428.7,72.45,326,Low
+2026-10-01,2026,10,SAR Radar Antennas,193,633.3,122.227,284,Low

@@ -1,0 +1,1201 @@
+launch_id,mission_id,launch_date,year,month,vehicle,launch_site,country,launch_outcome,commercial_flag,launch_cost_million_usd,payload_to_orbit_kg,data_origin
+LNCH-2025-100,MSN-2021-2082,2025-05-15,2025,5,Long March 5,Satish Dhawan SHAR,India,Success,True,98.36,20417.0,synthetic
+LNCH-2018-101,MSN-2011-2208,2018-07-02,2018,7,H3 Launch Vehicle,Baikonur Cosmodrome,Russia,Success,True,169.1,22948.0,synthetic
+LNCH-2026-102,MSN-2012-1835,2026-02-06,2026,2,Atlas V,Tanegashima Space Center,Japan,Success,True,112.72,22437.9,synthetic
+LNCH-2022-103,MSN-2011-1069,2022-04-16,2022,4,H3 Launch Vehicle,Satish Dhawan SHAR,India,Success,False,163.64,21500.5,synthetic
+LNCH-2019-104,MSN-2012-1767,2019-11-06,2019,11,Starship Heavy,Jiuquan SLS,China,Success,True,145.96,5876.7,synthetic
+LNCH-2022-105,MSN-2026-1832,2022-09-03,2022,9,Ariane 6,Tanegashima Space Center,Japan,Success,False,71.19,11880.3,synthetic
+LNCH-2014-106,MSN-2018-1909,2014-02-14,2014,2,Atlas V,Baikonur Cosmodrome,Russia,Success,True,149.95,2458.0,synthetic
+LNCH-2019-107,MSN-2022-1488,2019-10-27,2019,10,Long March 5,Tanegashima Space Center,Japan,Success,True,58.2,14813.3,synthetic
+LNCH-2013-108,MSN-2020-2353,2013-11-13,2013,11,Falcon 9,Kennedy Space Center LC-39A,United States,Success,False,115.55,21742.9,synthetic
+LNCH-2013-109,MSN-2015-1413,2013-10-07,2013,10,Ariane 6,Kourou ELA-4,Europe,Success,True,66.96,22669.4,synthetic
+LNCH-2015-110,MSN-2014-1293,2015-06-05,2015,6,PSLV,Cape Canaveral SLC-40,United States,Success,True,122.51,6439.1,synthetic
+LNCH-2016-111,MSN-2022-1046,2016-04-12,2016,4,Soyuz-2,Satish Dhawan SHAR,India,Success,True,164.54,20227.0,synthetic
+LNCH-2018-112,MSN-2012-1529,2018-06-23,2018,6,PSLV,Jiuquan SLS,China,Success,True,168.4,10293.2,synthetic
+LNCH-2017-113,MSN-2022-1267,2017-09-17,2017,9,PSLV,Baikonur Cosmodrome,Russia,Launch Abort,False,101.27,21263.0,synthetic
+LNCH-2017-114,MSN-2025-1287,2017-03-31,2017,3,H3 Launch Vehicle,Tanegashima Space Center,Japan,Launch Abort,False,52.65,12733.3,synthetic
+LNCH-2015-115,MSN-2013-2465,2015-06-10,2015,6,Falcon 9,Satish Dhawan SHAR,India,Success,True,149.97,20841.9,synthetic
+LNCH-2015-116,MSN-2026-2087,2015-12-11,2015,12,Vulcan Centaur,Kourou ELA-4,Europe,Success,False,80.22,12118.4,synthetic
+LNCH-2017-117,MSN-2024-1218,2017-08-22,2017,8,Atlas V,Kennedy Space Center LC-39A,United States,Success,True,128.45,18634.4,synthetic
+LNCH-2021-118,MSN-2013-1020,2021-09-02,2021,9,GSLV Mk III,Tanegashima Space Center,Japan,Success,True,90.7,23158.4,synthetic
+LNCH-2013-119,MSN-2023-1013,2013-03-18,2013,3,Long March 5,Jiuquan SLS,China,Success,True,176.42,10552.5,synthetic
+LNCH-2016-120,MSN-2026-1747,2016-10-15,2016,10,Long March 5,Kennedy Space Center LC-39A,United States,Partial Failure,True,107.15,20799.8,synthetic
+LNCH-2019-121,MSN-2024-2085,2019-07-08,2019,7,Starship Heavy,Jiuquan SLS,China,Success,True,95.56,16675.2,synthetic
+LNCH-2010-122,MSN-2026-2478,2010-12-11,2010,12,H3 Launch Vehicle,Kennedy Space Center LC-39A,United States,Success,True,63.63,6879.6,synthetic
+LNCH-2011-123,MSN-2012-1070,2011-09-08,2011,9,Atlas V,Satish Dhawan SHAR,India,Success,True,175.64,21801.3,synthetic
+LNCH-2022-124,MSN-2026-1849,2022-07-26,2022,7,PSLV,Satish Dhawan SHAR,India,Catastrophic Failure,True,148.6,16289.8,synthetic
+LNCH-2022-125,MSN-2024-1966,2022-02-10,2022,2,H3 Launch Vehicle,Tanegashima Space Center,Japan,Success,True,148.74,4836.1,synthetic
+LNCH-2021-126,MSN-2017-1415,2021-08-25,2021,8,Atlas V,Satish Dhawan SHAR,India,Success,False,152.2,19566.9,synthetic
+LNCH-2022-127,MSN-2014-1837,2022-09-23,2022,9,Ariane 6,Kourou ELA-4,Europe,Success,True,154.44,12004.7,synthetic
+LNCH-2024-128,MSN-2014-1803,2024-12-13,2024,12,GSLV Mk III,Jiuquan SLS,China,Success,False,56.08,1390.2,synthetic
+LNCH-2014-129,MSN-2010-1374,2014-05-14,2014,5,Vulcan Centaur,Tanegashima Space Center,Japan,Success,True,110.92,11939.0,synthetic
+LNCH-2010-130,MSN-2017-1160,2010-06-08,2010,6,Falcon 9,Kourou ELA-4,Europe,Partial Failure,True,113.79,8318.6,synthetic
+LNCH-2025-131,MSN-2011-1307,2025-05-11,2025,5,Falcon 9,Cape Canaveral SLC-40,United States,Success,True,135.35,17858.2,synthetic
+LNCH-2024-132,MSN-2017-1007,2024-09-18,2024,9,Atlas V,Tanegashima Space Center,Japan,Success,True,164.24,9427.4,synthetic
+LNCH-2018-133,MSN-2010-1136,2018-03-22,2018,3,Soyuz-2,Kourou ELA-4,Europe,Success,False,114.18,15324.9,synthetic
+LNCH-2024-134,MSN-2024-2425,2024-10-08,2024,10,Atlas V,Tanegashima Space Center,Japan,Success,True,161.58,7334.6,synthetic
+LNCH-2019-135,MSN-2013-1955,2019-04-24,2019,4,Long March 5,Kennedy Space Center LC-39A,United States,Success,True,143.56,18982.2,synthetic
+LNCH-2017-136,MSN-2024-1830,2017-12-22,2017,12,H3 Launch Vehicle,Kennedy Space Center LC-39A,United States,Success,False,75.4,5094.5,synthetic
+LNCH-2011-137,MSN-2025-2477,2011-02-21,2011,2,Soyuz-2,Kennedy Space Center LC-39A,United States,Success,True,107.38,21914.9,synthetic
+LNCH-2017-138,MSN-2016-2111,2017-08-30,2017,8,PSLV,Kourou ELA-4,Europe,Success,True,41.88,23261.2,synthetic
+LNCH-2021-139,MSN-2011-1290,2021-05-21,2021,5,PSLV,Satish Dhawan SHAR,India,Success,True,117.75,10272.0,synthetic
+LNCH-2025-140,MSN-2014-1021,2025-11-11,2025,11,Soyuz-2,Baikonur Cosmodrome,Russia,Success,True,151.39,20909.0,synthetic
+LNCH-2017-141,MSN-2020-2217,2017-07-12,2017,7,Ariane 6,Satish Dhawan SHAR,India,Success,True,58.84,12267.7,synthetic
+LNCH-2016-142,MSN-2026-2359,2016-01-04,2016,1,Vulcan Centaur,Baikonur Cosmodrome,Russia,Success,False,110.02,3473.7,synthetic
+LNCH-2024-143,MSN-2024-1014,2024-03-23,2024,3,Atlas V,Satish Dhawan SHAR,India,Success,False,46.2,3636.3,synthetic
+LNCH-2019-144,MSN-2016-2247,2019-09-12,2019,9,Starship Heavy,Satish Dhawan SHAR,India,Success,True,58.51,15277.3,synthetic
+LNCH-2017-145,MSN-2024-2170,2017-11-10,2017,11,Ariane 6,Cape Canaveral SLC-40,United States,Success,True,56.68,14021.6,synthetic
+LNCH-2022-146,MSN-2024-2476,2022-05-01,2022,5,Long March 5,Baikonur Cosmodrome,Russia,Success,True,73.36,17274.7,synthetic
+LNCH-2022-147,MSN-2017-1007,2022-09-04,2022,9,GSLV Mk III,Satish Dhawan SHAR,India,Success,True,130.64,5707.7,synthetic
+LNCH-2020-148,MSN-2010-1697,2020-09-09,2020,9,Vulcan Centaur,Jiuquan SLS,China,Success,True,123.07,3551.6,synthetic
+LNCH-2022-149,MSN-2023-1761,2022-01-05,2022,1,Long March 5,Baikonur Cosmodrome,Russia,Success,True,50.83,20404.8,synthetic
+LNCH-2023-150,MSN-2017-1908,2023-07-22,2023,7,Atlas V,Baikonur Cosmodrome,Russia,Success,False,124.22,23398.0,synthetic
+LNCH-2020-151,MSN-2016-1941,2020-06-19,2020,6,GSLV Mk III,Kourou ELA-4,Europe,Success,True,160.29,23884.2,synthetic
+LNCH-2016-152,MSN-2010-1612,2016-12-12,2016,12,Vulcan Centaur,Kennedy Space Center LC-39A,United States,Launch Abort,False,155.74,14488.4,synthetic
+LNCH-2013-153,MSN-2021-1266,2013-07-22,2013,7,Long March 5,Satish Dhawan SHAR,India,Success,True,51.16,22305.4,synthetic
+LNCH-2015-154,MSN-2017-1143,2015-05-02,2015,5,Ariane 6,Baikonur Cosmodrome,Russia,Success,False,131.44,22916.3,synthetic
+LNCH-2020-155,MSN-2012-1920,2020-07-15,2020,7,PSLV,Baikonur Cosmodrome,Russia,Success,True,100.79,19198.4,synthetic
+LNCH-2020-156,MSN-2011-1528,2020-10-07,2020,10,GSLV Mk III,Kennedy Space Center LC-39A,United States,Success,True,128.95,5704.2,synthetic
+LNCH-2017-157,MSN-2021-1623,2017-09-07,2017,9,H3 Launch Vehicle,Tanegashima Space Center,Japan,Success,False,112.64,4957.2,synthetic
+LNCH-2018-158,MSN-2016-1975,2018-06-11,2018,6,Atlas V,Kourou ELA-4,Europe,Success,False,166.56,18361.2,synthetic
+LNCH-2016-159,MSN-2017-2061,2016-11-23,2016,11,Falcon 9,Kennedy Space Center LC-39A,United States,Success,True,125.87,14226.9,synthetic
+LNCH-2015-160,MSN-2015-2093,2015-01-29,2015,1,Falcon 9,Kourou ELA-4,Europe,Success,True,81.56,7880.7,synthetic
+LNCH-2023-161,MSN-2017-1857,2023-01-14,2023,1,Falcon 9,Tanegashima Space Center,Japan,Success,True,44.28,2336.3,synthetic
+LNCH-2016-162,MSN-2017-2231,2016-06-09,2016,6,Atlas V,Cape Canaveral SLC-40,United States,Success,False,137.86,12210.8,synthetic
+LNCH-2020-163,MSN-2016-1261,2020-09-19,2020,9,GSLV Mk III,Satish Dhawan SHAR,India,Success,True,96.77,17035.1,synthetic
+LNCH-2025-164,MSN-2021-1283,2025-07-25,2025,7,Ariane 6,Tanegashima Space Center,Japan,Success,False,76.64,4706.4,synthetic
+LNCH-2010-165,MSN-2021-1844,2010-09-28,2010,9,H3 Launch Vehicle,Kennedy Space Center LC-39A,United States,Success,True,47.43,18538.8,synthetic
+LNCH-2026-166,MSN-2024-2289,2026-02-06,2026,2,Falcon 9,Kourou ELA-4,Europe,Success,True,135.03,4581.4,synthetic
+LNCH-2015-167,MSN-2020-2455,2015-06-04,2015,6,Atlas V,Cape Canaveral SLC-40,United States,Success,False,65.81,5356.0,synthetic
+LNCH-2016-168,MSN-2012-1529,2016-12-20,2016,12,Starship Heavy,Cape Canaveral SLC-40,United States,Success,False,98.95,23308.2,synthetic
+LNCH-2010-169,MSN-2016-2298,2010-04-15,2010,4,Atlas V,Cape Canaveral SLC-40,United States,Success,True,77.23,22139.7,synthetic
+LNCH-2014-170,MSN-2022-1675,2014-12-30,2014,12,H3 Launch Vehicle,Kennedy Space Center LC-39A,United States,Launch Abort,True,177.91,7422.1,synthetic
+LNCH-2016-171,MSN-2010-1323,2016-11-13,2016,11,H3 Launch Vehicle,Kennedy Space Center LC-39A,United States,Success,True,129.23,20216.7,synthetic
+LNCH-2024-172,MSN-2025-1661,2024-07-09,2024,7,H3 Launch Vehicle,Tanegashima Space Center,Japan,Success,False,135.81,21984.3,synthetic
+LNCH-2020-173,MSN-2017-1976,2020-10-17,2020,10,Atlas V,Tanegashima Space Center,Japan,Success,False,74.89,14768.9,synthetic
+LNCH-2013-174,MSN-2026-1883,2013-10-14,2013,10,Ariane 6,Kennedy Space Center LC-39A,United States,Success,True,82.17,17811.9,synthetic
+LNCH-2015-175,MSN-2011-1664,2015-04-20,2015,4,Falcon 9,Satish Dhawan SHAR,India,Success,True,140.76,4466.1,synthetic
+LNCH-2022-176,MSN-2013-2176,2022-08-16,2022,8,Falcon 9,Cape Canaveral SLC-40,United States,Success,True,175.99,2467.7,synthetic
+LNCH-2016-177,MSN-2020-1928,2016-09-28,2016,9,Soyuz-2,Tanegashima Space Center,Japan,Success,True,161.05,15904.2,synthetic
+LNCH-2016-178,MSN-2016-1924,2016-10-02,2016,10,Vulcan Centaur,Kennedy Space Center LC-39A,United States,Success,False,74.92,18016.0,synthetic
+LNCH-2017-179,MSN-2015-1532,2017-04-15,2017,4,Falcon 9,Kourou ELA-4,Europe,Success,True,168.95,5213.6,synthetic
+LNCH-2015-180,MSN-2014-1820,2015-07-30,2015,7,H3 Launch Vehicle,Cape Canaveral SLC-40,United States,Success,False,123.82,17709.9,synthetic
+LNCH-2011-181,MSN-2012-1886,2011-05-17,2011,5,Starship Heavy,Baikonur Cosmodrome,Russia,Success,False,153.6,7302.2,synthetic
+LNCH-2022-182,MSN-2025-2273,2022-10-21,2022,10,PSLV,Kennedy Space Center LC-39A,United States,Success,False,173.83,16793.1,synthetic
+LNCH-2018-183,MSN-2015-1039,2018-12-23,2018,12,GSLV Mk III,Jiuquan SLS,China,Success,False,159.51,18057.0,synthetic
+LNCH-2025-184,MSN-2011-1375,2025-01-25,2025,1,Long March 5,Jiuquan SLS,China,Success,True,111.87,13920.9,synthetic
+LNCH-2014-185,MSN-2010-1935,2014-12-28,2014,12,PSLV,Kourou ELA-4,Europe,Partial Failure,True,155.81,20032.7,synthetic
+LNCH-2012-186,MSN-2021-1504,2012-03-18,2012,3,Falcon 9,Kennedy Space Center LC-39A,United States,Success,False,72.54,8960.8,synthetic
+LNCH-2024-187,MSN-2024-2391,2024-02-10,2024,2,PSLV,Tanegashima Space Center,Japan,Success,True,65.31,6444.1,synthetic
+LNCH-2016-188,MSN-2019-1366,2016-12-16,2016,12,Ariane 6,Cape Canaveral SLC-40,United States,Success,False,146.14,22481.6,synthetic
+LNCH-2010-189,MSN-2021-2167,2010-06-27,2010,6,Vulcan Centaur,Baikonur Cosmodrome,Russia,Success,False,66.72,19871.6,synthetic
+LNCH-2013-190,MSN-2012-1495,2013-07-12,2013,7,PSLV,Cape Canaveral SLC-40,United States,Success,False,46.28,22081.5,synthetic
+LNCH-2018-191,MSN-2012-1257,2018-12-19,2018,12,PSLV,Cape Canaveral SLC-40,United States,Success,True,85.73,19869.9,synthetic
+LNCH-2020-192,MSN-2023-1183,2020-12-07,2020,12,Long March 5,Baikonur Cosmodrome,Russia,Success,False,85.4,20789.7,synthetic
+LNCH-2011-193,MSN-2023-2203,2011-03-20,2011,3,GSLV Mk III,Tanegashima Space Center,Japan,Success,True,179.67,2393.1,synthetic
+LNCH-2013-194,MSN-2010-2326,2013-05-29,2013,5,GSLV Mk III,Kennedy Space Center LC-39A,United States,Success,False,95.06,2823.5,synthetic
+LNCH-2023-195,MSN-2024-1320,2023-04-26,2023,4,Long March 5,Jiuquan SLS,China,Success,False,159.82,4200.4,synthetic
+LNCH-2015-196,MSN-2014-1072,2015-03-21,2015,3,Starship Heavy,Jiuquan SLS,China,Success,True,50.55,3277.8,synthetic
+LNCH-2015-197,MSN-2020-1707,2015-08-06,2015,8,Falcon 9,Tanegashima Space Center,Japan,Success,False,140.17,6289.3,synthetic
+LNCH-2025-198,MSN-2020-2251,2025-06-11,2025,6,GSLV Mk III,Kourou ELA-4,Europe,Success,True,126.31,21138.3,synthetic
+LNCH-2012-199,MSN-2016-2417,2012-06-20,2012,6,Starship Heavy,Kourou ELA-4,Europe,Success,False,90.11,22846.2,synthetic
+LNCH-2018-200,MSN-2023-1472,2018-10-19,2018,10,Ariane 6,Satish Dhawan SHAR,India,Success,True,128.45,4197.3,synthetic
+LNCH-2016-201,MSN-2020-1503,2016-03-24,2016,3,Falcon 9,Satish Dhawan SHAR,India,Success,False,56.85,10559.8,synthetic
+LNCH-2011-202,MSN-2021-2371,2011-09-02,2011,9,Vulcan Centaur,Baikonur Cosmodrome,Russia,Success,True,91.06,22825.5,synthetic
+LNCH-2019-203,MSN-2011-1647,2019-09-14,2019,9,Ariane 6,Kennedy Space Center LC-39A,United States,Success,True,162.36,1217.7,synthetic
+LNCH-2019-204,MSN-2021-1640,2019-10-11,2019,10,Falcon 9,Cape Canaveral SLC-40,United States,Success,False,61.54,8368.1,synthetic
+LNCH-2022-205,MSN-2017-1789,2022-08-12,2022,8,Vulcan Centaur,Baikonur Cosmodrome,Russia,Success,False,133.47,10776.6,synthetic
+LNCH-2019-206,MSN-2015-1158,2019-12-28,2019,12,GSLV Mk III,Satish Dhawan SHAR,India,Success,True,136.02,16994.3,synthetic
+LNCH-2019-207,MSN-2024-2034,2019-06-23,2019,6,Falcon 9,Cape Canaveral SLC-40,United States,Success,True,147.16,2065.1,synthetic
+LNCH-2010-208,MSN-2014-1582,2010-12-28,2010,12,Soyuz-2,Cape Canaveral SLC-40,United States,Success,True,53.45,2341.3,synthetic
+LNCH-2014-209,MSN-2025-1304,2014-11-09,2014,11,Starship Heavy,Jiuquan SLS,China,Success,True,113.42,13905.7,synthetic
+LNCH-2022-210,MSN-2026-1424,2022-01-24,2022,1,Falcon 9,Jiuquan SLS,China,Success,False,151.89,21625.0,synthetic
+LNCH-2024-211,MSN-2018-1790,2024-09-21,2024,9,PSLV,Cape Canaveral SLC-40,United States,Success,True,113.22,10494.0,synthetic
+LNCH-2021-212,MSN-2014-2449,2021-05-26,2021,5,Vulcan Centaur,Satish Dhawan SHAR,India,Success,True,89.32,13225.7,synthetic
+LNCH-2025-213,MSN-2021-1861,2025-05-13,2025,5,H3 Launch Vehicle,Kourou ELA-4,Europe,Success,True,179.02,15511.8,synthetic
+LNCH-2024-214,MSN-2026-1781,2024-10-27,2024,10,Long March 5,Jiuquan SLS,China,Success,False,146.22,13427.7,synthetic
+LNCH-2013-215,MSN-2021-1980,2013-08-06,2013,8,Ariane 6,Satish Dhawan SHAR,India,Success,True,44.8,12125.0,synthetic
+LNCH-2013-216,MSN-2023-1999,2013-07-02,2013,7,Ariane 6,Baikonur Cosmodrome,Russia,Success,True,141.36,23624.2,synthetic
+LNCH-2012-217,MSN-2019-2369,2012-07-08,2012,7,GSLV Mk III,Baikonur Cosmodrome,Russia,Success,False,61.61,5603.9,synthetic
+LNCH-2014-218,MSN-2020-1860,2014-09-23,2014,9,GSLV Mk III,Kourou ELA-4,Europe,Success,True,105.26,6290.7,synthetic
+LNCH-2026-219,MSN-2017-1058,2026-04-01,2026,4,Vulcan Centaur,Baikonur Cosmodrome,Russia,Success,True,46.96,10327.8,synthetic
+LNCH-2019-220,MSN-2011-2225,2019-12-12,2019,12,H3 Launch Vehicle,Jiuquan SLS,China,Success,True,178.41,9664.0,synthetic
+LNCH-2024-221,MSN-2022-1709,2024-05-22,2024,5,GSLV Mk III,Kourou ELA-4,Europe,Success,True,116.81,10585.8,synthetic
+LNCH-2011-222,MSN-2021-1793,2011-10-13,2011,10,Starship Heavy,Kourou ELA-4,Europe,Success,False,119.0,22719.1,synthetic
+LNCH-2018-223,MSN-2010-2054,2018-07-02,2018,7,Soyuz-2,Jiuquan SLS,China,Success,False,92.16,20999.5,synthetic
+LNCH-2017-224,MSN-2013-2006,2017-07-28,2017,7,Atlas V,Tanegashima Space Center,Japan,Success,True,99.5,9278.6,synthetic
+LNCH-2011-225,MSN-2019-2369,2011-01-08,2011,1,H3 Launch Vehicle,Kourou ELA-4,Europe,Success,False,154.94,5924.8,synthetic
+LNCH-2016-226,MSN-2023-1183,2016-10-23,2016,10,Vulcan Centaur,Kennedy Space Center LC-39A,United States,Success,True,168.25,16152.7,synthetic
+LNCH-2014-227,MSN-2021-1300,2014-09-13,2014,9,Falcon 9,Jiuquan SLS,China,Success,True,44.53,9168.4,synthetic
+LNCH-2017-228,MSN-2025-1678,2017-10-06,2017,10,PSLV,Satish Dhawan SHAR,India,Success,True,147.87,17239.9,synthetic
+LNCH-2020-229,MSN-2012-1495,2020-10-24,2020,10,Falcon 9,Tanegashima Space Center,Japan,Success,True,68.01,9830.4,synthetic
+LNCH-2025-230,MSN-2026-1985,2025-06-03,2025,6,Atlas V,Jiuquan SLS,China,Success,True,149.59,20344.0,synthetic
+LNCH-2012-231,MSN-2011-1579,2012-06-01,2012,6,Vulcan Centaur,Kourou ELA-4,Europe,Success,False,134.26,1487.6,synthetic
+LNCH-2012-232,MSN-2020-1537,2012-04-27,2012,4,Falcon 9,Kennedy Space Center LC-39A,United States,Success,True,173.55,22981.0,synthetic
+LNCH-2016-233,MSN-2021-1657,2016-07-04,2016,7,Falcon 9,Kourou ELA-4,Europe,Catastrophic Failure,True,48.09,8999.9,synthetic
+LNCH-2023-234,MSN-2011-2038,2023-03-26,2023,3,Falcon 9,Cape Canaveral SLC-40,United States,Success,True,118.9,22139.6,synthetic
+LNCH-2014-235,MSN-2022-2015,2014-09-07,2014,9,Soyuz-2,Jiuquan SLS,China,Catastrophic Failure,True,104.15,13065.8,synthetic
+LNCH-2020-236,MSN-2015-1634,2020-09-23,2020,9,Soyuz-2,Kennedy Space Center LC-39A,United States,Launch Abort,True,94.84,1500.7,synthetic
+LNCH-2016-237,MSN-2016-2077,2016-04-29,2016,4,PSLV,Kennedy Space Center LC-39A,United States,Success,True,48.32,1881.9,synthetic
+LNCH-2011-238,MSN-2025-1457,2011-10-14,2011,10,Long March 5,Kourou ELA-4,Europe,Success,True,126.11,15300.9,synthetic
+LNCH-2015-239,MSN-2014-2007,2015-01-26,2015,1,GSLV Mk III,Cape Canaveral SLC-40,United States,Success,True,101.28,14153.6,synthetic
+LNCH-2024-240,MSN-2024-1643,2024-06-10,2024,6,GSLV Mk III,Satish Dhawan SHAR,India,Success,False,145.64,4679.4,synthetic
+LNCH-2023-241,MSN-2018-2419,2023-11-21,2023,11,PSLV,Satish Dhawan SHAR,India,Success,False,53.97,15008.5,synthetic
+LNCH-2018-242,MSN-2018-1297,2018-06-21,2018,6,Long March 5,Kennedy Space Center LC-39A,United States,Success,True,103.33,8662.6,synthetic
+LNCH-2019-243,MSN-2018-1008,2019-01-25,2019,1,Ariane 6,Cape Canaveral SLC-40,United States,Success,True,74.97,4155.8,synthetic
+LNCH-2016-244,MSN-2024-1762,2016-06-08,2016,6,Soyuz-2,Cape Canaveral SLC-40,United States,Success,True,105.53,20651.0,synthetic
+LNCH-2012-245,MSN-2015-1736,2012-04-16,2012,4,Atlas V,Kennedy Space Center LC-39A,United States,Success,True,91.65,14056.1,synthetic
+LNCH-2010-246,MSN-2020-1537,2010-12-23,2010,12,Atlas V,Tanegashima Space Center,Japan,Success,True,159.12,4984.8,synthetic
+LNCH-2021-247,MSN-2019-1689,2021-05-15,2021,5,Atlas V,Cape Canaveral SLC-40,United States,Success,False,96.36,2190.5,synthetic
+LNCH-2022-248,MSN-2024-1235,2022-03-01,2022,3,Ariane 6,Tanegashima Space Center,Japan,Success,True,121.08,12321.8,synthetic
+LNCH-2022-249,MSN-2013-1564,2022-05-30,2022,5,Starship Heavy,Kourou ELA-4,Europe,Success,True,125.99,14508.4,synthetic
+LNCH-2018-250,MSN-2015-1396,2018-07-24,2018,7,Soyuz-2,Tanegashima Space Center,Japan,Partial Failure,True,85.69,11998.9,synthetic
+LNCH-2023-251,MSN-2017-2129,2023-09-19,2023,9,GSLV Mk III,Kourou ELA-4,Europe,Success,False,82.41,1537.7,synthetic
+LNCH-2013-252,MSN-2014-1531,2013-08-04,2013,8,Vulcan Centaur,Tanegashima Space Center,Japan,Success,True,75.15,13608.2,synthetic
+LNCH-2018-253,MSN-2014-2483,2018-10-24,2018,10,Atlas V,Kennedy Space Center LC-39A,United States,Success,True,161.56,6551.3,synthetic
+LNCH-2011-254,MSN-2013-1751,2011-09-22,2011,9,Falcon 9,Kourou ELA-4,Europe,Success,True,172.02,20297.2,synthetic
+LNCH-2012-255,MSN-2023-1064,2012-06-19,2012,6,Ariane 6,Jiuquan SLS,China,Success,False,135.07,15593.6,synthetic
+LNCH-2012-256,MSN-2020-1248,2012-09-24,2012,9,H3 Launch Vehicle,Kourou ELA-4,Europe,Success,True,133.74,10519.8,synthetic
+LNCH-2018-257,MSN-2026-1050,2018-08-06,2018,8,GSLV Mk III,Cape Canaveral SLC-40,United States,Success,False,170.3,19165.4,synthetic
+LNCH-2021-258,MSN-2026-1254,2021-03-31,2021,3,Atlas V,Jiuquan SLS,China,Success,True,152.59,15236.6,synthetic
+LNCH-2026-259,MSN-2019-1774,2026-06-15,2026,6,H3 Launch Vehicle,Kourou ELA-4,Europe,Catastrophic Failure,True,164.37,17759.2,synthetic
+LNCH-2019-260,MSN-2018-2130,2019-03-07,2019,3,PSLV,Jiuquan SLS,China,Success,False,48.87,2232.1,synthetic
+LNCH-2015-261,MSN-2024-1575,2015-11-15,2015,11,Atlas V,Cape Canaveral SLC-40,United States,Success,True,145.79,12957.2,synthetic
+LNCH-2012-262,MSN-2022-2151,2012-06-27,2012,6,Atlas V,Tanegashima Space Center,Japan,Success,False,41.36,23618.6,synthetic
+LNCH-2011-263,MSN-2023-2441,2011-12-05,2011,12,PSLV,Baikonur Cosmodrome,Russia,Success,True,84.08,3841.2,synthetic
+LNCH-2023-264,MSN-2014-1004,2023-03-04,2023,3,GSLV Mk III,Baikonur Cosmodrome,Russia,Success,False,103.06,12653.1,synthetic
+LNCH-2019-265,MSN-2026-2172,2019-04-16,2019,4,GSLV Mk III,Cape Canaveral SLC-40,United States,Success,True,152.93,21782.4,synthetic
+LNCH-2020-266,MSN-2021-1606,2020-03-01,2020,3,Vulcan Centaur,Cape Canaveral SLC-40,United States,Success,False,113.72,2778.0,synthetic
+LNCH-2014-267,MSN-2020-1537,2014-06-10,2014,6,Long March 5,Cape Canaveral SLC-40,United States,Launch Abort,False,78.05,12002.7,synthetic
+LNCH-2013-268,MSN-2018-1671,2013-06-03,2013,6,Starship Heavy,Satish Dhawan SHAR,India,Success,True,77.63,2446.1,synthetic
+LNCH-2026-269,MSN-2014-1055,2026-04-11,2026,4,PSLV,Kourou ELA-4,Europe,Success,True,160.1,22571.8,synthetic
+LNCH-2015-270,MSN-2018-2266,2015-12-16,2015,12,H3 Launch Vehicle,Kourou ELA-4,Europe,Success,True,168.96,13176.0,synthetic
+LNCH-2010-271,MSN-2021-1470,2010-01-31,2010,1,PSLV,Jiuquan SLS,China,Success,True,54.92,6415.7,synthetic
+LNCH-2023-272,MSN-2022-1182,2023-10-17,2023,10,Ariane 6,Kourou ELA-4,Europe,Success,True,96.63,8050.5,synthetic
+LNCH-2010-273,MSN-2017-1789,2010-02-05,2010,2,Falcon 9,Tanegashima Space Center,Japan,Success,True,63.5,18507.0,synthetic
+LNCH-2020-274,MSN-2012-1478,2020-02-11,2020,2,Atlas V,Kourou ELA-4,Europe,Success,True,130.43,2236.8,synthetic
+LNCH-2020-275,MSN-2011-1494,2020-12-19,2020,12,Atlas V,Satish Dhawan SHAR,India,Success,True,157.11,3051.7,synthetic
+LNCH-2021-276,MSN-2025-1831,2021-12-22,2021,12,Long March 5,Jiuquan SLS,China,Success,False,96.98,3357.4,synthetic
+LNCH-2017-277,MSN-2022-1811,2017-03-23,2017,3,Falcon 9,Kennedy Space Center LC-39A,United States,Success,False,170.34,1686.1,synthetic
+LNCH-2016-278,MSN-2010-1595,2016-04-20,2016,4,Vulcan Centaur,Satish Dhawan SHAR,India,Success,False,104.94,8047.2,synthetic
+LNCH-2022-279,MSN-2019-2301,2022-08-05,2022,8,H3 Launch Vehicle,Satish Dhawan SHAR,India,Success,True,122.73,12799.9,synthetic
+LNCH-2021-280,MSN-2015-1957,2021-08-04,2021,8,Falcon 9,Cape Canaveral SLC-40,United States,Success,True,74.5,19625.2,synthetic
+LNCH-2010-281,MSN-2025-1933,2010-07-27,2010,7,Starship Heavy,Cape Canaveral SLC-40,United States,Success,True,145.49,11335.0,synthetic
+LNCH-2014-282,MSN-2025-1984,2014-12-23,2014,12,Long March 5,Baikonur Cosmodrome,Russia,Success,True,167.04,14777.8,synthetic
+LNCH-2014-283,MSN-2017-1075,2014-07-13,2014,7,Starship Heavy,Tanegashima Space Center,Japan,Success,True,54.46,22440.0,synthetic
+LNCH-2011-284,MSN-2024-1218,2011-08-29,2011,8,H3 Launch Vehicle,Satish Dhawan SHAR,India,Success,True,146.24,20173.0,synthetic
+LNCH-2010-285,MSN-2013-2261,2010-10-27,2010,10,Falcon 9,Kourou ELA-4,Europe,Success,True,169.07,7311.5,synthetic
+LNCH-2016-286,MSN-2026-1730,2016-08-03,2016,8,Long March 5,Cape Canaveral SLC-40,United States,Success,True,99.2,7568.4,synthetic
+LNCH-2015-287,MSN-2013-2363,2015-03-19,2015,3,Vulcan Centaur,Kennedy Space Center LC-39A,United States,Success,False,132.9,17853.4,synthetic
+LNCH-2025-288,MSN-2011-1766,2025-09-24,2025,9,Ariane 6,Kourou ELA-4,Europe,Success,True,119.46,3682.9,synthetic
+LNCH-2025-289,MSN-2017-1432,2025-03-31,2025,3,PSLV,Cape Canaveral SLC-40,United States,Success,False,74.13,1228.8,synthetic
+LNCH-2011-290,MSN-2016-2264,2011-03-30,2011,3,H3 Launch Vehicle,Kourou ELA-4,Europe,Success,True,65.22,15484.4,synthetic
+LNCH-2017-291,MSN-2021-2473,2017-10-21,2017,10,Soyuz-2,Kennedy Space Center LC-39A,United States,Success,True,55.63,18065.1,synthetic
+LNCH-2020-292,MSN-2026-1934,2020-09-17,2020,9,PSLV,Baikonur Cosmodrome,Russia,Success,True,179.22,6135.2,synthetic
+LNCH-2022-293,MSN-2019-1621,2022-09-27,2022,9,Soyuz-2,Tanegashima Space Center,Japan,Success,True,167.83,7425.5,synthetic
+LNCH-2021-294,MSN-2011-2480,2021-02-09,2021,2,Ariane 6,Baikonur Cosmodrome,Russia,Success,True,150.99,19708.8,synthetic
+LNCH-2017-295,MSN-2016-2077,2017-10-29,2017,10,Soyuz-2,Tanegashima Space Center,Japan,Success,False,175.76,6754.1,synthetic
+LNCH-2023-296,MSN-2022-1981,2023-12-12,2023,12,Soyuz-2,Kennedy Space Center LC-39A,United States,Success,True,103.45,3308.7,synthetic
+LNCH-2025-297,MSN-2011-1494,2025-09-24,2025,9,GSLV Mk III,Cape Canaveral SLC-40,United States,Success,True,68.11,4035.6,synthetic
+LNCH-2020-298,MSN-2010-1799,2020-10-20,2020,10,Starship Heavy,Jiuquan SLS,China,Success,True,100.26,9528.6,synthetic
+LNCH-2022-299,MSN-2013-1207,2022-07-18,2022,7,Starship Heavy,Baikonur Cosmodrome,Russia,Success,True,155.47,11745.2,synthetic
+LNCH-2012-300,MSN-2016-2468,2012-10-23,2012,10,Atlas V,Cape Canaveral SLC-40,United States,Success,False,59.07,1758.5,synthetic
+LNCH-2025-301,MSN-2023-2203,2025-08-23,2025,8,Vulcan Centaur,Tanegashima Space Center,Japan,Success,True,66.32,21193.5,synthetic
+LNCH-2015-302,MSN-2017-1619,2015-11-25,2015,11,Soyuz-2,Satish Dhawan SHAR,India,Success,True,154.75,13400.6,synthetic
+LNCH-2023-303,MSN-2024-1031,2023-05-15,2023,5,Atlas V,Satish Dhawan SHAR,India,Success,False,132.77,15527.3,synthetic
+LNCH-2017-304,MSN-2019-1995,2017-05-08,2017,5,Falcon 9,Kourou ELA-4,Europe,Success,True,123.9,6611.3,synthetic
+LNCH-2024-305,MSN-2014-1973,2024-11-01,2024,11,Atlas V,Kennedy Space Center LC-39A,United States,Success,True,115.74,10208.7,synthetic
+LNCH-2023-306,MSN-2020-1741,2023-01-30,2023,1,Long March 5,Kennedy Space Center LC-39A,United States,Launch Abort,True,124.61,20631.2,synthetic
+LNCH-2011-307,MSN-2024-1048,2011-03-25,2011,3,H3 Launch Vehicle,Kourou ELA-4,Europe,Success,True,94.52,2422.0,synthetic
+LNCH-2011-308,MSN-2021-1164,2011-01-28,2011,1,Atlas V,Baikonur Cosmodrome,Russia,Success,True,147.9,2462.7,synthetic
+LNCH-2017-309,MSN-2025-1151,2017-04-30,2017,4,Soyuz-2,Satish Dhawan SHAR,India,Success,True,158.45,11680.5,synthetic
+LNCH-2022-310,MSN-2016-1516,2022-08-08,2022,8,H3 Launch Vehicle,Kourou ELA-4,Europe,Success,True,112.0,4376.4,synthetic
+LNCH-2011-311,MSN-2024-1473,2011-12-20,2011,12,Falcon 9,Tanegashima Space Center,Japan,Success,True,134.16,13877.7,synthetic
+LNCH-2013-312,MSN-2014-1395,2013-02-20,2013,2,Vulcan Centaur,Baikonur Cosmodrome,Russia,Success,False,133.24,9760.7,synthetic
+LNCH-2022-313,MSN-2012-1104,2022-11-07,2022,11,Vulcan Centaur,Jiuquan SLS,China,Success,False,106.93,5683.4,synthetic
+LNCH-2014-314,MSN-2016-1125,2014-11-22,2014,11,GSLV Mk III,Cape Canaveral SLC-40,United States,Success,True,76.74,4047.0,synthetic
+LNCH-2025-315,MSN-2021-2286,2025-03-02,2025,3,PSLV,Satish Dhawan SHAR,India,Success,True,178.86,20718.6,synthetic
+LNCH-2018-316,MSN-2015-2484,2018-02-20,2018,2,Soyuz-2,Kourou ELA-4,Europe,Success,True,124.83,4083.0,synthetic
+LNCH-2011-317,MSN-2025-2086,2011-08-12,2011,8,Vulcan Centaur,Tanegashima Space Center,Japan,Success,True,163.03,1678.6,synthetic
+LNCH-2014-318,MSN-2024-1167,2014-10-14,2014,10,Vulcan Centaur,Tanegashima Space Center,Japan,Success,True,177.77,19940.4,synthetic
+LNCH-2012-319,MSN-2015-1787,2012-09-22,2012,9,Atlas V,Satish Dhawan SHAR,India,Success,True,128.16,23424.2,synthetic
+LNCH-2015-320,MSN-2018-1059,2015-01-04,2015,1,Ariane 6,Tanegashima Space Center,Japan,Success,True,97.88,18632.4,synthetic
+LNCH-2025-321,MSN-2019-1893,2025-06-25,2025,6,H3 Launch Vehicle,Baikonur Cosmodrome,Russia,Success,True,99.3,5515.5,synthetic
+LNCH-2024-322,MSN-2013-2210,2024-01-13,2024,1,Atlas V,Jiuquan SLS,China,Success,False,158.67,11107.6,synthetic
+LNCH-2010-323,MSN-2016-1499,2010-05-03,2010,5,Ariane 6,Tanegashima Space Center,Japan,Success,True,149.42,16394.5,synthetic
+LNCH-2025-324,MSN-2018-1467,2025-12-29,2025,12,Ariane 6,Jiuquan SLS,China,Success,False,59.59,21713.1,synthetic
+LNCH-2013-325,MSN-2017-1823,2013-05-07,2013,5,Starship Heavy,Baikonur Cosmodrome,Russia,Success,True,64.47,21447.8,synthetic
+LNCH-2015-326,MSN-2014-2194,2015-05-24,2015,5,GSLV Mk III,Satish Dhawan SHAR,India,Success,True,158.4,14142.9,synthetic
+LNCH-2013-327,MSN-2022-1641,2013-09-17,2013,9,Ariane 6,Kennedy Space Center LC-39A,United States,Partial Failure,True,98.03,7065.6,synthetic
+LNCH-2016-328,MSN-2021-2065,2016-10-04,2016,10,GSLV Mk III,Baikonur Cosmodrome,Russia,Success,True,152.2,18231.4,synthetic
+LNCH-2019-329,MSN-2022-2440,2019-08-18,2019,8,Vulcan Centaur,Tanegashima Space Center,Japan,Success,False,111.02,21084.1,synthetic
+LNCH-2012-330,MSN-2014-1633,2012-08-09,2012,8,PSLV,Cape Canaveral SLC-40,United States,Success,True,46.49,7071.1,synthetic
+LNCH-2023-331,MSN-2020-2064,2023-07-28,2023,7,Falcon 9,Baikonur Cosmodrome,Russia,Success,False,118.67,12119.0,synthetic
+LNCH-2017-332,MSN-2020-2438,2017-06-28,2017,6,Long March 5,Kourou ELA-4,Europe,Success,True,134.47,19023.6,synthetic
+LNCH-2011-333,MSN-2012-2311,2011-04-03,2011,4,Soyuz-2,Tanegashima Space Center,Japan,Success,True,164.43,18984.0,synthetic
+LNCH-2021-334,MSN-2017-2248,2021-11-26,2021,11,Falcon 9,Satish Dhawan SHAR,India,Success,True,169.12,14358.5,synthetic
+LNCH-2025-335,MSN-2025-1032,2025-06-07,2025,6,GSLV Mk III,Kennedy Space Center LC-39A,United States,Success,False,173.52,11869.5,synthetic
+LNCH-2012-336,MSN-2018-1365,2012-08-10,2012,8,Soyuz-2,Satish Dhawan SHAR,India,Success,False,141.48,6133.1,synthetic
+LNCH-2014-337,MSN-2014-2041,2014-04-08,2014,4,GSLV Mk III,Kourou ELA-4,Europe,Success,True,114.93,1353.1,synthetic
+LNCH-2023-338,MSN-2018-1705,2023-12-18,2023,12,H3 Launch Vehicle,Kourou ELA-4,Europe,Success,True,119.49,12365.3,synthetic
+LNCH-2015-339,MSN-2024-1932,2015-02-06,2015,2,H3 Launch Vehicle,Baikonur Cosmodrome,Russia,Success,True,124.23,9385.3,synthetic
+LNCH-2020-340,MSN-2022-2185,2020-12-18,2020,12,Long March 5,Tanegashima Space Center,Japan,Success,False,49.44,23126.1,synthetic
+LNCH-2013-341,MSN-2022-2474,2013-04-11,2013,4,Starship Heavy,Kourou ELA-4,Europe,Success,False,135.51,2875.6,synthetic
+LNCH-2020-342,MSN-2011-1443,2020-10-02,2020,10,Soyuz-2,Baikonur Cosmodrome,Russia,Success,False,41.66,17399.0,synthetic
+LNCH-2019-343,MSN-2023-1727,2019-07-20,2019,7,Soyuz-2,Kennedy Space Center LC-39A,United States,Success,True,104.82,11028.8,synthetic
+LNCH-2012-344,MSN-2026-1747,2012-04-27,2012,4,Vulcan Centaur,Kennedy Space Center LC-39A,United States,Success,False,142.24,4856.4,synthetic
+LNCH-2014-345,MSN-2022-1029,2014-08-31,2014,8,Vulcan Centaur,Cape Canaveral SLC-40,United States,Success,True,90.61,23002.3,synthetic
+LNCH-2010-346,MSN-2013-2040,2010-09-20,2010,9,Ariane 6,Baikonur Cosmodrome,Russia,Success,True,174.96,15524.8,synthetic
+LNCH-2024-347,MSN-2023-1285,2024-04-19,2024,4,Vulcan Centaur,Jiuquan SLS,China,Success,False,71.24,21927.8,synthetic
+LNCH-2013-348,MSN-2015-1226,2013-11-04,2013,11,Falcon 9,Tanegashima Space Center,Japan,Success,False,135.61,13094.8,synthetic
+LNCH-2014-349,MSN-2021-1351,2014-07-19,2014,7,Starship Heavy,Cape Canaveral SLC-40,United States,Success,True,140.28,23580.2,synthetic
+LNCH-2016-350,MSN-2010-1714,2016-07-08,2016,7,Ariane 6,Jiuquan SLS,China,Success,True,40.37,4249.1,synthetic
+LNCH-2011-351,MSN-2011-1919,2011-06-09,2011,6,Falcon 9,Jiuquan SLS,China,Success,True,81.29,13620.8,synthetic
+LNCH-2015-352,MSN-2012-2379,2015-09-07,2015,9,Atlas V,Tanegashima Space Center,Japan,Success,False,135.46,4851.8,synthetic
+LNCH-2023-353,MSN-2023-1880,2023-10-02,2023,10,PSLV,Baikonur Cosmodrome,Russia,Success,True,95.38,2709.9,synthetic
+LNCH-2024-354,MSN-2010-2496,2024-01-05,2024,1,Long March 5,Baikonur Cosmodrome,Russia,Success,False,86.48,16805.0,synthetic
+LNCH-2010-355,MSN-2023-1744,2010-06-09,2010,6,Atlas V,Cape Canaveral SLC-40,United States,Success,True,111.86,15300.5,synthetic
+LNCH-2025-356,MSN-2024-1524,2025-06-12,2025,6,Ariane 6,Jiuquan SLS,China,Success,True,100.1,5142.5,synthetic
+LNCH-2025-357,MSN-2019-1026,2025-06-24,2025,6,PSLV,Cape Canaveral SLC-40,United States,Success,False,41.5,11501.0,synthetic
+LNCH-2012-358,MSN-2023-1659,2012-11-22,2012,11,Falcon 9,Kennedy Space Center LC-39A,United States,Partial Failure,True,144.42,13260.0,synthetic
+LNCH-2010-359,MSN-2025-1389,2010-01-24,2010,1,GSLV Mk III,Baikonur Cosmodrome,Russia,Success,True,59.93,19879.5,synthetic
+LNCH-2016-360,MSN-2010-1935,2016-02-28,2016,2,Long March 5,Kennedy Space Center LC-39A,United States,Success,True,120.4,23557.9,synthetic
+LNCH-2022-361,MSN-2018-2147,2022-11-09,2022,11,Falcon 9,Kennedy Space Center LC-39A,United States,Success,True,55.66,10674.4,synthetic
+LNCH-2018-362,MSN-2025-1253,2018-11-22,2018,11,Soyuz-2,Kennedy Space Center LC-39A,United States,Success,False,125.71,20264.2,synthetic
+LNCH-2020-363,MSN-2017-2384,2020-07-27,2020,7,GSLV Mk III,Baikonur Cosmodrome,Russia,Success,True,74.82,20765.3,synthetic
+LNCH-2015-364,MSN-2019-1570,2015-09-14,2015,9,GSLV Mk III,Kourou ELA-4,Europe,Success,True,172.0,10081.4,synthetic
+LNCH-2019-365,MSN-2023-1540,2019-10-11,2019,10,H3 Launch Vehicle,Satish Dhawan SHAR,India,Success,False,40.6,16835.7,synthetic
+LNCH-2016-366,MSN-2025-1678,2016-06-12,2016,6,Vulcan Centaur,Kourou ELA-4,Europe,Success,True,53.98,17818.2,synthetic
+LNCH-2012-367,MSN-2010-1833,2012-02-18,2012,2,GSLV Mk III,Satish Dhawan SHAR,India,Success,True,121.21,10613.5,synthetic
+LNCH-2025-368,MSN-2012-2056,2025-07-20,2025,7,Falcon 9,Kennedy Space Center LC-39A,United States,Success,True,58.14,3386.4,synthetic
+LNCH-2018-369,MSN-2014-1650,2018-01-17,2018,1,Falcon 9,Cape Canaveral SLC-40,United States,Success,True,125.38,19578.0,synthetic
+LNCH-2023-370,MSN-2026-2444,2023-10-20,2023,10,Soyuz-2,Jiuquan SLS,China,Success,True,142.31,18820.7,synthetic
+LNCH-2012-371,MSN-2019-1332,2012-09-27,2012,9,Long March 5,Kourou ELA-4,Europe,Catastrophic Failure,False,62.37,6775.6,synthetic
+LNCH-2013-372,MSN-2020-2353,2013-08-25,2013,8,Vulcan Centaur,Kennedy Space Center LC-39A,United States,Success,True,85.41,20293.9,synthetic
+LNCH-2014-373,MSN-2010-2326,2014-05-01,2014,5,Starship Heavy,Satish Dhawan SHAR,India,Success,True,82.58,9176.4,synthetic
+LNCH-2016-374,MSN-2025-1117,2016-01-30,2016,1,GSLV Mk III,Baikonur Cosmodrome,Russia,Success,False,179.31,5175.3,synthetic
+LNCH-2017-375,MSN-2018-2385,2017-08-16,2017,8,PSLV,Baikonur Cosmodrome,Russia,Catastrophic Failure,True,90.98,18792.2,synthetic
+LNCH-2011-376,MSN-2022-1675,2011-12-14,2011,12,Ariane 6,Cape Canaveral SLC-40,United States,Success,False,84.71,16836.8,synthetic
+LNCH-2014-377,MSN-2021-1912,2014-01-27,2014,1,Vulcan Centaur,Satish Dhawan SHAR,India,Success,True,115.36,10362.5,synthetic
+LNCH-2014-378,MSN-2020-1911,2014-12-16,2014,12,GSLV Mk III,Cape Canaveral SLC-40,United States,Success,True,122.26,23301.6,synthetic
+LNCH-2010-379,MSN-2013-1734,2010-06-12,2010,6,Vulcan Centaur,Kourou ELA-4,Europe,Success,True,40.98,18510.5,synthetic
+LNCH-2020-380,MSN-2018-2113,2020-07-24,2020,7,Soyuz-2,Cape Canaveral SLC-40,United States,Success,True,151.9,20569.6,synthetic
+LNCH-2016-381,MSN-2023-1268,2016-12-10,2016,12,Ariane 6,Tanegashima Space Center,Japan,Success,True,178.83,6220.2,synthetic
+LNCH-2025-382,MSN-2016-2417,2025-10-04,2025,10,GSLV Mk III,Kourou ELA-4,Europe,Success,True,142.32,14794.7,synthetic
+LNCH-2014-383,MSN-2014-1667,2014-01-23,2014,1,Long March 5,Cape Canaveral SLC-40,United States,Success,True,96.95,8522.8,synthetic
+LNCH-2021-384,MSN-2012-2243,2021-02-14,2021,2,Atlas V,Jiuquan SLS,China,Success,True,135.29,19103.8,synthetic
+LNCH-2023-385,MSN-2010-2122,2023-04-16,2023,4,PSLV,Tanegashima Space Center,Japan,Success,True,139.21,18496.0,synthetic
+LNCH-2020-386,MSN-2013-1292,2020-06-28,2020,6,Starship Heavy,Satish Dhawan SHAR,India,Success,False,85.52,20990.0,synthetic
+LNCH-2012-387,MSN-2024-1796,2012-05-02,2012,5,Falcon 9,Cape Canaveral SLC-40,United States,Success,True,119.8,21542.2,synthetic
+LNCH-2017-388,MSN-2022-2168,2017-12-31,2017,12,Starship Heavy,Jiuquan SLS,China,Success,True,151.72,3685.9,synthetic
+LNCH-2017-389,MSN-2013-1343,2017-10-26,2017,10,Ariane 6,Baikonur Cosmodrome,Russia,Success,True,148.72,5792.3,synthetic
+LNCH-2025-390,MSN-2021-2218,2025-11-28,2025,11,Soyuz-2,Jiuquan SLS,China,Success,True,41.09,12919.6,synthetic
+LNCH-2016-391,MSN-2012-1886,2016-02-09,2016,2,Atlas V,Satish Dhawan SHAR,India,Success,True,134.03,15692.1,synthetic
+LNCH-2021-392,MSN-2016-2264,2021-07-30,2021,7,PSLV,Jiuquan SLS,China,Success,True,136.16,22191.5,synthetic
+LNCH-2016-393,MSN-2022-1216,2016-04-19,2016,4,Atlas V,Satish Dhawan SHAR,India,Success,True,74.5,20285.9,synthetic
+LNCH-2023-394,MSN-2026-2308,2023-07-22,2023,7,Starship Heavy,Tanegashima Space Center,Japan,Success,True,163.74,20480.6,synthetic
+LNCH-2012-395,MSN-2021-1215,2012-11-03,2012,11,Long March 5,Satish Dhawan SHAR,India,Success,True,95.15,2309.0,synthetic
+LNCH-2014-396,MSN-2022-2066,2014-12-10,2014,12,Starship Heavy,Kennedy Space Center LC-39A,United States,Success,True,115.74,13034.3,synthetic
+LNCH-2017-397,MSN-2019-1298,2017-11-29,2017,11,Vulcan Centaur,Tanegashima Space Center,Japan,Success,False,142.74,23161.8,synthetic
+LNCH-2022-398,MSN-2011-2259,2022-07-31,2022,7,Vulcan Centaur,Tanegashima Space Center,Japan,Success,False,111.75,3592.0,synthetic
+LNCH-2015-399,MSN-2014-1480,2015-10-17,2015,10,H3 Launch Vehicle,Tanegashima Space Center,Japan,Success,False,95.43,6733.9,synthetic
+LNCH-2025-400,MSN-2010-1017,2025-12-18,2025,12,Falcon 9,Jiuquan SLS,China,Success,False,73.21,14592.4,synthetic
+LNCH-2023-401,MSN-2021-2252,2023-10-21,2023,10,GSLV Mk III,Jiuquan SLS,China,Success,False,83.77,16795.0,synthetic
+LNCH-2024-402,MSN-2017-1517,2024-05-30,2024,5,GSLV Mk III,Baikonur Cosmodrome,Russia,Success,False,55.44,23156.6,synthetic
+LNCH-2020-403,MSN-2010-2190,2020-02-19,2020,2,Ariane 6,Satish Dhawan SHAR,India,Launch Abort,True,99.65,9991.7,synthetic
+LNCH-2017-404,MSN-2023-2339,2017-09-13,2017,9,PSLV,Kourou ELA-4,Europe,Success,False,147.6,20131.9,synthetic
+LNCH-2022-405,MSN-2010-2411,2022-09-28,2022,9,Soyuz-2,Cape Canaveral SLC-40,United States,Success,True,171.14,17926.7,synthetic
+LNCH-2015-406,MSN-2024-2187,2015-08-06,2015,8,Vulcan Centaur,Kourou ELA-4,Europe,Success,True,168.93,12958.5,synthetic
+LNCH-2024-407,MSN-2020-2455,2024-01-21,2024,1,H3 Launch Vehicle,Baikonur Cosmodrome,Russia,Success,True,47.59,19722.1,synthetic
+LNCH-2025-408,MSN-2026-2172,2025-10-16,2025,10,Soyuz-2,Tanegashima Space Center,Japan,Success,False,110.88,8364.3,synthetic
+LNCH-2021-409,MSN-2024-1456,2021-05-19,2021,5,Starship Heavy,Tanegashima Space Center,Japan,Success,False,98.33,23685.9,synthetic
+LNCH-2022-410,MSN-2019-1774,2022-05-21,2022,5,Starship Heavy,Cape Canaveral SLC-40,United States,Success,True,83.32,19982.9,synthetic
+LNCH-2016-411,MSN-2021-1079,2016-11-16,2016,11,Starship Heavy,Baikonur Cosmodrome,Russia,Success,True,69.47,23910.6,synthetic
+LNCH-2024-412,MSN-2023-1200,2024-08-17,2024,8,Starship Heavy,Baikonur Cosmodrome,Russia,Success,False,174.02,3341.4,synthetic
+LNCH-2025-413,MSN-2014-1395,2025-05-22,2025,5,Long March 5,Baikonur Cosmodrome,Russia,Success,True,43.58,15482.3,synthetic
+LNCH-2021-414,MSN-2016-2094,2021-01-12,2021,1,PSLV,Jiuquan SLS,China,Success,False,121.74,4588.4,synthetic
+LNCH-2014-415,MSN-2022-2457,2014-06-05,2014,6,Vulcan Centaur,Baikonur Cosmodrome,Russia,Success,False,79.55,6587.6,synthetic
+LNCH-2014-416,MSN-2011-2191,2014-03-30,2014,3,H3 Launch Vehicle,Satish Dhawan SHAR,India,Success,True,87.61,22949.7,synthetic
+LNCH-2017-417,MSN-2013-1088,2017-06-21,2017,6,Ariane 6,Baikonur Cosmodrome,Russia,Success,True,52.18,23992.7,synthetic
+LNCH-2013-418,MSN-2015-2399,2013-02-06,2013,2,Soyuz-2,Tanegashima Space Center,Japan,Success,False,67.38,11656.1,synthetic
+LNCH-2017-419,MSN-2024-2374,2017-01-12,2017,1,Long March 5,Baikonur Cosmodrome,Russia,Success,True,79.86,11471.2,synthetic
+LNCH-2015-420,MSN-2012-2413,2015-11-21,2015,11,Falcon 9,Jiuquan SLS,China,Success,True,59.55,4117.5,synthetic
+LNCH-2016-421,MSN-2021-1997,2016-01-04,2016,1,Atlas V,Satish Dhawan SHAR,India,Success,False,99.34,15162.1,synthetic
+LNCH-2010-422,MSN-2014-1497,2010-10-01,2010,10,Long March 5,Jiuquan SLS,China,Success,False,91.54,17042.8,synthetic
+LNCH-2010-423,MSN-2017-1075,2010-12-10,2010,12,Falcon 9,Kennedy Space Center LC-39A,United States,Success,False,55.9,6933.7,synthetic
+LNCH-2014-424,MSN-2014-1633,2014-05-13,2014,5,GSLV Mk III,Satish Dhawan SHAR,India,Success,False,118.9,19424.5,synthetic
+LNCH-2018-425,MSN-2014-1327,2018-10-14,2018,10,Atlas V,Cape Canaveral SLC-40,United States,Success,True,118.92,22339.5,synthetic
+LNCH-2023-426,MSN-2018-2300,2023-05-24,2023,5,Ariane 6,Cape Canaveral SLC-40,United States,Success,False,134.78,18432.8,synthetic
+LNCH-2010-427,MSN-2017-1857,2010-04-27,2010,4,Long March 5,Tanegashima Space Center,Japan,Success,True,101.26,10439.0,synthetic
+LNCH-2013-428,MSN-2010-1306,2013-06-14,2013,6,Vulcan Centaur,Kennedy Space Center LC-39A,United States,Success,True,73.16,17389.9,synthetic
+LNCH-2010-429,MSN-2018-1790,2010-08-05,2010,8,GSLV Mk III,Kourou ELA-4,Europe,Success,False,98.69,17045.4,synthetic
+LNCH-2015-430,MSN-2018-1008,2015-07-28,2015,7,GSLV Mk III,Baikonur Cosmodrome,Russia,Success,False,91.76,19697.2,synthetic
+LNCH-2017-431,MSN-2011-1681,2017-08-18,2017,8,Falcon 9,Jiuquan SLS,China,Success,True,175.73,6039.2,synthetic
+LNCH-2017-432,MSN-2023-1013,2017-06-19,2017,6,Starship Heavy,Satish Dhawan SHAR,India,Success,False,108.22,13487.7,synthetic
+LNCH-2025-433,MSN-2011-1443,2025-01-28,2025,1,PSLV,Kourou ELA-4,Europe,Success,True,59.17,10546.7,synthetic
+LNCH-2014-434,MSN-2012-2481,2014-04-20,2014,4,H3 Launch Vehicle,Jiuquan SLS,China,Success,True,76.8,19975.4,synthetic
+LNCH-2010-435,MSN-2020-2064,2010-10-17,2010,10,Ariane 6,Cape Canaveral SLC-40,United States,Success,True,143.86,6767.7,synthetic
+LNCH-2022-436,MSN-2024-2476,2022-09-08,2022,9,Ariane 6,Satish Dhawan SHAR,India,Success,False,164.57,14032.0,synthetic
+LNCH-2014-437,MSN-2012-1376,2014-02-14,2014,2,Ariane 6,Baikonur Cosmodrome,Russia,Success,True,118.99,9739.2,synthetic
+LNCH-2017-438,MSN-2023-1047,2017-07-25,2017,7,Soyuz-2,Baikonur Cosmodrome,Russia,Success,True,104.11,15005.2,synthetic
+LNCH-2019-439,MSN-2021-1946,2019-09-07,2019,9,Falcon 9,Baikonur Cosmodrome,Russia,Success,True,49.4,8969.3,synthetic
+LNCH-2012-440,MSN-2021-1079,2012-06-02,2012,6,Falcon 9,Kennedy Space Center LC-39A,United States,Success,True,121.76,5960.3,synthetic
+LNCH-2016-441,MSN-2026-1067,2016-12-09,2016,12,Starship Heavy,Jiuquan SLS,China,Success,False,123.88,21584.3,synthetic
+LNCH-2012-442,MSN-2026-1373,2012-07-27,2012,7,Atlas V,Satish Dhawan SHAR,India,Success,True,130.87,16837.8,synthetic
+LNCH-2025-443,MSN-2024-1473,2025-05-23,2025,5,H3 Launch Vehicle,Tanegashima Space Center,Japan,Success,True,128.93,20331.0,synthetic
+LNCH-2026-444,MSN-2026-1322,2026-08-12,2026,8,H3 Launch Vehicle,Jiuquan SLS,China,Success,False,149.65,15094.3,synthetic
+LNCH-2012-445,MSN-2020-1690,2012-07-10,2012,7,PSLV,Cape Canaveral SLC-40,United States,Partial Failure,True,107.25,4839.2,synthetic
+LNCH-2019-446,MSN-2021-1113,2019-05-17,2019,5,Vulcan Centaur,Cape Canaveral SLC-40,United States,Success,True,163.82,12848.7,synthetic
+LNCH-2024-447,MSN-2019-1910,2024-08-19,2024,8,GSLV Mk III,Satish Dhawan SHAR,India,Success,True,103.56,2434.4,synthetic
+LNCH-2016-448,MSN-2017-2146,2016-06-01,2016,6,Long March 5,Jiuquan SLS,China,Success,False,142.95,13408.2,synthetic
+LNCH-2019-449,MSN-2011-1341,2019-12-24,2019,12,Vulcan Centaur,Tanegashima Space Center,Japan,Launch Abort,True,48.7,5612.2,synthetic
+LNCH-2013-450,MSN-2019-2352,2013-07-24,2013,7,Vulcan Centaur,Baikonur Cosmodrome,Russia,Success,True,144.62,1788.1,synthetic
+LNCH-2011-451,MSN-2023-1863,2011-10-11,2011,10,H3 Launch Vehicle,Kennedy Space Center LC-39A,United States,Success,True,47.42,7837.9,synthetic
+LNCH-2019-452,MSN-2018-1858,2019-05-01,2019,5,Long March 5,Baikonur Cosmodrome,Russia,Success,True,121.14,4331.7,synthetic
+LNCH-2016-453,MSN-2013-1836,2016-01-27,2016,1,Falcon 9,Satish Dhawan SHAR,India,Success,True,98.37,16991.5,synthetic
+LNCH-2010-454,MSN-2016-1873,2010-06-09,2010,6,GSLV Mk III,Baikonur Cosmodrome,Russia,Success,False,61.79,15509.9,synthetic
+LNCH-2017-455,MSN-2019-1740,2017-09-07,2017,9,Starship Heavy,Kennedy Space Center LC-39A,United States,Success,True,103.43,11819.7,synthetic
+LNCH-2015-456,MSN-2020-2013,2015-08-15,2015,8,Vulcan Centaur,Satish Dhawan SHAR,India,Catastrophic Failure,True,76.52,11266.6,synthetic
+LNCH-2025-457,MSN-2010-2241,2025-08-18,2025,8,GSLV Mk III,Baikonur Cosmodrome,Russia,Success,False,84.53,11872.7,synthetic
+LNCH-2011-458,MSN-2016-1176,2011-03-10,2011,3,Ariane 6,Satish Dhawan SHAR,India,Success,True,111.95,15031.9,synthetic
+LNCH-2013-459,MSN-2025-1627,2013-06-08,2013,6,Ariane 6,Jiuquan SLS,China,Success,False,113.14,19338.9,synthetic
+LNCH-2013-460,MSN-2021-1300,2013-01-21,2013,1,Soyuz-2,Jiuquan SLS,China,Success,True,140.74,17329.7,synthetic
+LNCH-2018-461,MSN-2016-1244,2018-06-21,2018,6,Starship Heavy,Kourou ELA-4,Europe,Success,True,40.18,5666.0,synthetic
+LNCH-2021-462,MSN-2022-2321,2021-01-19,2021,1,Vulcan Centaur,Cape Canaveral SLC-40,United States,Success,False,44.66,10028.0,synthetic
+LNCH-2026-463,MSN-2016-2111,2026-02-01,2026,2,Vulcan Centaur,Satish Dhawan SHAR,India,Success,True,151.29,2893.4,synthetic
+LNCH-2024-464,MSN-2019-1774,2024-05-20,2024,5,GSLV Mk III,Satish Dhawan SHAR,India,Success,False,175.72,14360.8,synthetic
+LNCH-2018-465,MSN-2022-1131,2018-04-01,2018,4,Ariane 6,Baikonur Cosmodrome,Russia,Success,False,121.57,5552.7,synthetic
+LNCH-2012-466,MSN-2020-1537,2012-10-06,2012,10,Ariane 6,Kennedy Space Center LC-39A,United States,Success,True,135.86,6631.5,synthetic
+LNCH-2018-467,MSN-2020-2404,2018-05-15,2018,5,GSLV Mk III,Baikonur Cosmodrome,Russia,Success,True,157.38,19253.1,synthetic
+LNCH-2011-468,MSN-2022-2236,2011-11-26,2011,11,Atlas V,Jiuquan SLS,China,Success,True,117.89,7166.6,synthetic
+LNCH-2010-469,MSN-2010-1901,2010-06-11,2010,6,Falcon 9,Jiuquan SLS,China,Partial Failure,True,56.59,1226.8,synthetic
+LNCH-2021-470,MSN-2013-2482,2021-07-16,2021,7,Soyuz-2,Tanegashima Space Center,Japan,Success,False,162.11,3543.2,synthetic
+LNCH-2013-471,MSN-2023-1982,2013-10-29,2013,10,Starship Heavy,Cape Canaveral SLC-40,United States,Partial Failure,True,54.48,22838.4,synthetic
+LNCH-2020-472,MSN-2016-1584,2020-07-27,2020,7,Falcon 9,Tanegashima Space Center,Japan,Success,False,71.65,10882.0,synthetic
+LNCH-2022-473,MSN-2025-1763,2022-04-16,2022,4,Starship Heavy,Jiuquan SLS,China,Success,True,93.1,17146.0,synthetic
+LNCH-2024-474,MSN-2021-1844,2024-07-15,2024,7,Atlas V,Kourou ELA-4,Europe,Success,True,47.52,23417.4,synthetic
+LNCH-2012-475,MSN-2022-2168,2012-01-21,2012,1,Falcon 9,Cape Canaveral SLC-40,United States,Success,True,134.68,2362.7,synthetic
+LNCH-2012-476,MSN-2025-2137,2012-05-19,2012,5,Long March 5,Satish Dhawan SHAR,India,Success,True,141.71,1469.5,synthetic
+LNCH-2011-477,MSN-2025-1712,2011-01-29,2011,1,GSLV Mk III,Kennedy Space Center LC-39A,United States,Success,True,106.3,16842.6,synthetic
+LNCH-2024-478,MSN-2022-2440,2024-01-22,2024,1,H3 Launch Vehicle,Kennedy Space Center LC-39A,United States,Success,True,44.59,1472.6,synthetic
+LNCH-2025-479,MSN-2021-2269,2025-02-17,2025,2,Starship Heavy,Kennedy Space Center LC-39A,United States,Success,False,166.63,19224.7,synthetic
+LNCH-2020-480,MSN-2011-2327,2020-08-13,2020,8,Starship Heavy,Kourou ELA-4,Europe,Success,True,136.99,16330.3,synthetic
+LNCH-2017-481,MSN-2022-1471,2017-06-27,2017,6,H3 Launch Vehicle,Baikonur Cosmodrome,Russia,Success,False,84.98,20969.2,synthetic
+LNCH-2020-482,MSN-2014-1633,2020-02-15,2020,2,GSLV Mk III,Baikonur Cosmodrome,Russia,Success,True,88.52,9945.6,synthetic
+LNCH-2025-483,MSN-2012-2260,2025-03-18,2025,3,GSLV Mk III,Baikonur Cosmodrome,Russia,Success,True,130.78,2480.4,synthetic
+LNCH-2011-484,MSN-2014-1582,2011-11-15,2011,11,Atlas V,Satish Dhawan SHAR,India,Success,False,149.0,6015.1,synthetic
+LNCH-2016-485,MSN-2025-2392,2016-07-17,2016,7,Long March 5,Cape Canaveral SLC-40,United States,Success,True,166.06,23894.3,synthetic
+LNCH-2015-486,MSN-2023-2254,2015-05-07,2015,5,PSLV,Satish Dhawan SHAR,India,Success,False,150.52,19353.8,synthetic
+LNCH-2018-487,MSN-2011-2174,2018-11-14,2018,11,H3 Launch Vehicle,Baikonur Cosmodrome,Russia,Success,False,93.1,3826.8,synthetic
+LNCH-2025-488,MSN-2019-1009,2025-03-01,2025,3,Vulcan Centaur,Satish Dhawan SHAR,India,Success,False,88.09,18683.5,synthetic
+LNCH-2020-489,MSN-2012-2226,2020-04-08,2020,4,Falcon 9,Kourou ELA-4,Europe,Success,False,112.94,15230.6,synthetic
+LNCH-2018-490,MSN-2015-2042,2018-10-08,2018,10,Atlas V,Jiuquan SLS,China,Success,False,78.2,15159.9,synthetic
+LNCH-2021-491,MSN-2018-1433,2021-07-25,2021,7,Long March 5,Cape Canaveral SLC-40,United States,Success,True,96.11,7657.9,synthetic
+LNCH-2011-492,MSN-2024-1728,2011-01-05,2011,1,Starship Heavy,Baikonur Cosmodrome,Russia,Success,False,77.17,1811.2,synthetic
+LNCH-2023-493,MSN-2013-2142,2023-11-05,2023,11,Soyuz-2,Jiuquan SLS,China,Success,True,65.57,9724.6,synthetic
+LNCH-2015-494,MSN-2018-1297,2015-06-18,2015,6,Starship Heavy,Kourou ELA-4,Europe,Success,True,122.76,3415.5,synthetic
+LNCH-2012-495,MSN-2015-2416,2012-08-12,2012,8,Falcon 9,Cape Canaveral SLC-40,United States,Success,True,112.53,19455.5,synthetic
+LNCH-2011-496,MSN-2012-1512,2011-08-04,2011,8,Soyuz-2,Jiuquan SLS,China,Success,True,99.4,12866.3,synthetic
+LNCH-2022-497,MSN-2019-2488,2022-06-04,2022,6,Long March 5,Baikonur Cosmodrome,Russia,Success,True,71.13,4983.5,synthetic
+LNCH-2015-498,MSN-2018-2181,2015-06-12,2015,6,Soyuz-2,Kourou ELA-4,Europe,Success,True,110.01,5979.9,synthetic
+LNCH-2024-499,MSN-2012-2481,2024-10-13,2024,10,PSLV,Satish Dhawan SHAR,India,Success,True,78.5,22563.5,synthetic
+LNCH-2021-500,MSN-2023-1081,2021-12-06,2021,12,Ariane 6,Cape Canaveral SLC-40,United States,Success,True,131.93,10743.9,synthetic
+LNCH-2013-501,MSN-2013-2261,2013-06-22,2013,6,Starship Heavy,Kourou ELA-4,Europe,Partial Failure,True,170.54,1397.3,synthetic
+LNCH-2017-502,MSN-2024-2119,2017-06-11,2017,6,Ariane 6,Kourou ELA-4,Europe,Success,True,112.39,21363.7,synthetic
+LNCH-2020-503,MSN-2010-2122,2020-11-11,2020,11,Atlas V,Tanegashima Space Center,Japan,Success,True,125.37,23279.2,synthetic
+LNCH-2016-504,MSN-2014-2398,2016-04-28,2016,4,GSLV Mk III,Satish Dhawan SHAR,India,Success,True,142.04,7584.9,synthetic
+LNCH-2016-505,MSN-2020-1010,2016-11-03,2016,11,GSLV Mk III,Satish Dhawan SHAR,India,Success,True,121.74,22528.8,synthetic
+LNCH-2012-506,MSN-2024-2476,2012-04-29,2012,4,Vulcan Centaur,Satish Dhawan SHAR,India,Success,False,135.51,23696.0,synthetic
+LNCH-2014-507,MSN-2020-1537,2014-01-16,2014,1,Soyuz-2,Cape Canaveral SLC-40,United States,Success,True,104.12,12578.0,synthetic
+LNCH-2022-508,MSN-2021-1555,2022-01-03,2022,1,Long March 5,Cape Canaveral SLC-40,United States,Success,True,127.01,21652.9,synthetic
+LNCH-2019-509,MSN-2019-1876,2019-07-04,2019,7,H3 Launch Vehicle,Satish Dhawan SHAR,India,Success,True,112.59,15305.4,synthetic
+LNCH-2023-510,MSN-2013-2074,2023-03-24,2023,3,Starship Heavy,Jiuquan SLS,China,Success,False,86.29,7556.2,synthetic
+LNCH-2021-511,MSN-2017-1925,2021-07-02,2021,7,GSLV Mk III,Kourou ELA-4,Europe,Partial Failure,True,72.98,1297.4,synthetic
+LNCH-2023-512,MSN-2026-2478,2023-09-10,2023,9,H3 Launch Vehicle,Kennedy Space Center LC-39A,United States,Success,True,177.72,10683.6,synthetic
+LNCH-2010-513,MSN-2019-1672,2010-01-27,2010,1,H3 Launch Vehicle,Baikonur Cosmodrome,Russia,Success,False,65.48,11543.9,synthetic
+LNCH-2024-514,MSN-2012-2430,2024-11-18,2024,11,H3 Launch Vehicle,Cape Canaveral SLC-40,United States,Launch Abort,True,75.16,21624.5,synthetic
+LNCH-2021-515,MSN-2014-1055,2021-07-28,2021,7,Atlas V,Jiuquan SLS,China,Success,True,157.64,20386.0,synthetic
+LNCH-2021-516,MSN-2018-1603,2021-11-04,2021,11,Starship Heavy,Kourou ELA-4,Europe,Success,True,73.94,17587.9,synthetic
+LNCH-2025-517,MSN-2010-1833,2025-01-03,2025,1,Atlas V,Kourou ELA-4,Europe,Success,True,177.37,10538.6,synthetic
+LNCH-2019-518,MSN-2026-2444,2019-01-07,2019,1,Ariane 6,Kennedy Space Center LC-39A,United States,Success,True,169.02,20986.1,synthetic
+LNCH-2011-519,MSN-2011-1953,2011-05-24,2011,5,Falcon 9,Tanegashima Space Center,Japan,Success,True,98.64,15183.0,synthetic
+LNCH-2021-520,MSN-2011-1647,2021-08-18,2021,8,PSLV,Cape Canaveral SLC-40,United States,Success,True,93.03,4194.1,synthetic
+LNCH-2012-521,MSN-2019-2301,2012-12-05,2012,12,GSLV Mk III,Satish Dhawan SHAR,India,Partial Failure,True,74.73,6060.5,synthetic
+LNCH-2019-522,MSN-2013-1360,2019-11-14,2019,11,Starship Heavy,Baikonur Cosmodrome,Russia,Success,True,115.17,15694.9,synthetic
+LNCH-2013-523,MSN-2025-1610,2013-08-19,2013,8,Starship Heavy,Kourou ELA-4,Europe,Success,False,98.57,20844.0,synthetic
+LNCH-2012-524,MSN-2016-2281,2012-05-11,2012,5,Atlas V,Kennedy Space Center LC-39A,United States,Success,True,116.1,1526.9,synthetic
+LNCH-2022-525,MSN-2016-1380,2022-03-19,2022,3,Vulcan Centaur,Tanegashima Space Center,Japan,Partial Failure,False,115.54,19393.2,synthetic
+LNCH-2018-526,MSN-2015-1158,2018-11-11,2018,11,Long March 5,Satish Dhawan SHAR,India,Success,True,163.48,9105.1,synthetic
+LNCH-2021-527,MSN-2024-2051,2021-06-15,2021,6,Soyuz-2,Kourou ELA-4,Europe,Catastrophic Failure,False,72.43,11072.6,synthetic
+LNCH-2025-528,MSN-2022-1607,2025-11-23,2025,11,Atlas V,Tanegashima Space Center,Japan,Success,True,170.21,4967.6,synthetic
+LNCH-2022-529,MSN-2025-2069,2022-05-11,2022,5,Ariane 6,Baikonur Cosmodrome,Russia,Success,False,59.53,22589.6,synthetic
+LNCH-2024-530,MSN-2025-2443,2024-11-12,2024,11,Vulcan Centaur,Jiuquan SLS,China,Success,False,100.59,2146.3,synthetic
+LNCH-2017-531,MSN-2025-2256,2017-02-02,2017,2,GSLV Mk III,Tanegashima Space Center,Japan,Success,False,122.51,17496.3,synthetic
+LNCH-2021-532,MSN-2016-1635,2021-10-18,2021,10,Ariane 6,Tanegashima Space Center,Japan,Success,True,110.21,4764.1,synthetic
+LNCH-2025-533,MSN-2012-2090,2025-07-15,2025,7,GSLV Mk III,Tanegashima Space Center,Japan,Success,False,163.68,8686.1,synthetic
+LNCH-2010-534,MSN-2019-1162,2010-12-31,2010,12,PSLV,Kennedy Space Center LC-39A,United States,Success,True,63.46,15265.2,synthetic
+LNCH-2022-535,MSN-2017-1942,2022-06-17,2022,6,Atlas V,Tanegashima Space Center,Japan,Success,True,145.65,5021.0,synthetic
+LNCH-2026-536,MSN-2010-1034,2026-09-23,2026,9,PSLV,Kennedy Space Center LC-39A,United States,Success,False,172.25,13123.4,synthetic
+LNCH-2016-537,MSN-2015-1906,2016-07-28,2016,7,Starship Heavy,Kennedy Space Center LC-39A,United States,Success,True,94.49,10946.4,synthetic
+LNCH-2022-538,MSN-2025-2358,2022-02-23,2022,2,Long March 5,Baikonur Cosmodrome,Russia,Success,True,105.97,13265.4,synthetic
+LNCH-2026-539,MSN-2018-1059,2026-07-28,2026,7,PSLV,Satish Dhawan SHAR,India,Success,True,40.88,23861.9,synthetic
+LNCH-2020-540,MSN-2020-2149,2020-11-01,2020,11,PSLV,Satish Dhawan SHAR,India,Success,False,101.27,3023.9,synthetic
+LNCH-2026-541,MSN-2026-1832,2026-09-03,2026,9,Ariane 6,Cape Canaveral SLC-40,United States,Success,True,115.17,19984.4,synthetic
+LNCH-2015-542,MSN-2014-2296,2015-12-19,2015,12,Long March 5,Baikonur Cosmodrome,Russia,Success,True,138.59,12151.7,synthetic
+LNCH-2017-543,MSN-2025-1355,2017-09-03,2017,9,PSLV,Satish Dhawan SHAR,India,Success,True,58.07,19536.2,synthetic
+LNCH-2020-544,MSN-2020-2319,2020-02-28,2020,2,Falcon 9,Satish Dhawan SHAR,India,Success,True,75.66,6055.6,synthetic
+LNCH-2021-545,MSN-2010-2445,2021-11-26,2021,11,H3 Launch Vehicle,Kourou ELA-4,Europe,Success,False,70.57,22666.6,synthetic
+LNCH-2020-546,MSN-2020-2302,2020-05-15,2020,5,Ariane 6,Kennedy Space Center LC-39A,United States,Success,True,117.11,19800.6,synthetic
+LNCH-2020-547,MSN-2020-1639,2020-01-20,2020,1,Ariane 6,Cape Canaveral SLC-40,United States,Success,False,45.85,17771.5,synthetic
+LNCH-2013-548,MSN-2013-1700,2013-06-02,2013,6,Long March 5,Kourou ELA-4,Europe,Success,False,167.15,13083.5,synthetic
+LNCH-2026-549,MSN-2016-2434,2026-04-18,2026,4,PSLV,Tanegashima Space Center,Japan,Success,True,151.41,21546.1,synthetic
+LNCH-2020-550,MSN-2021-1079,2020-04-11,2020,4,GSLV Mk III,Baikonur Cosmodrome,Russia,Success,True,54.56,12068.2,synthetic
+LNCH-2022-551,MSN-2015-1141,2022-07-07,2022,7,Long March 5,Jiuquan SLS,China,Success,True,98.99,19083.0,synthetic
+LNCH-2016-552,MSN-2021-2320,2016-05-27,2016,5,Starship Heavy,Satish Dhawan SHAR,India,Success,True,113.87,20384.1,synthetic
+LNCH-2017-553,MSN-2015-2246,2017-09-13,2017,9,Falcon 9,Satish Dhawan SHAR,India,Partial Failure,False,174.95,7550.7,synthetic
+LNCH-2025-554,MSN-2024-2374,2025-01-20,2025,1,Soyuz-2,Kourou ELA-4,Europe,Success,False,144.46,5924.8,synthetic
+LNCH-2025-555,MSN-2012-2277,2025-12-18,2025,12,Atlas V,Kennedy Space Center LC-39A,United States,Success,True,62.82,13611.5,synthetic
+LNCH-2017-556,MSN-2016-2094,2017-05-29,2017,5,Starship Heavy,Kourou ELA-4,Europe,Success,True,101.28,1440.9,synthetic
+LNCH-2019-557,MSN-2023-1489,2019-06-30,2019,6,H3 Launch Vehicle,Kennedy Space Center LC-39A,United States,Success,False,171.6,14485.2,synthetic
+LNCH-2023-558,MSN-2020-1571,2023-04-19,2023,4,Ariane 6,Baikonur Cosmodrome,Russia,Success,False,78.44,12330.7,synthetic
+LNCH-2010-559,MSN-2024-2136,2010-07-16,2010,7,H3 Launch Vehicle,Baikonur Cosmodrome,Russia,Success,False,68.89,3141.3,synthetic
+LNCH-2026-560,MSN-2012-1461,2026-02-11,2026,2,PSLV,Cape Canaveral SLC-40,United States,Success,True,111.63,17018.8,synthetic
+LNCH-2015-561,MSN-2023-2033,2015-05-31,2015,5,Starship Heavy,Baikonur Cosmodrome,Russia,Success,True,161.4,9771.0,synthetic
+LNCH-2022-562,MSN-2024-1507,2022-03-17,2022,3,Long March 5,Kennedy Space Center LC-39A,United States,Success,False,116.96,2416.2,synthetic
+LNCH-2022-563,MSN-2012-1155,2022-04-18,2022,4,Falcon 9,Tanegashima Space Center,Japan,Success,True,134.31,22783.5,synthetic
+LNCH-2018-564,MSN-2015-1447,2018-03-18,2018,3,PSLV,Tanegashima Space Center,Japan,Success,False,79.23,19625.1,synthetic
+LNCH-2017-565,MSN-2013-1938,2017-04-25,2017,4,Falcon 9,Satish Dhawan SHAR,India,Success,True,129.02,11456.6,synthetic
+LNCH-2013-566,MSN-2018-1943,2013-09-19,2013,9,Atlas V,Jiuquan SLS,China,Success,False,169.64,9540.6,synthetic
+LNCH-2019-567,MSN-2023-2271,2019-09-05,2019,9,Long March 5,Baikonur Cosmodrome,Russia,Success,False,137.56,14455.1,synthetic
+LNCH-2016-568,MSN-2020-2013,2016-08-20,2016,8,Long March 5,Kourou ELA-4,Europe,Success,True,88.06,14197.0,synthetic
+LNCH-2018-569,MSN-2014-1701,2018-04-02,2018,4,Long March 5,Cape Canaveral SLC-40,United States,Success,True,73.6,15545.6,synthetic
+LNCH-2013-570,MSN-2019-2454,2013-01-02,2013,1,Atlas V,Jiuquan SLS,China,Success,False,56.06,12918.0,synthetic
+LNCH-2016-571,MSN-2016-2145,2016-06-02,2016,6,PSLV,Cape Canaveral SLC-40,United States,Success,True,88.3,4858.3,synthetic
+LNCH-2017-572,MSN-2024-2357,2017-01-07,2017,1,Long March 5,Kennedy Space Center LC-39A,United States,Success,True,153.26,2606.8,synthetic
+LNCH-2020-573,MSN-2023-2084,2020-03-01,2020,3,Vulcan Centaur,Baikonur Cosmodrome,Russia,Success,True,148.48,2894.2,synthetic
+LNCH-2024-574,MSN-2020-1197,2024-07-31,2024,7,Atlas V,Kourou ELA-4,Europe,Success,True,128.08,5417.4,synthetic
+LNCH-2016-575,MSN-2011-1766,2016-09-18,2016,9,Starship Heavy,Tanegashima Space Center,Japan,Success,False,139.47,8488.5,synthetic
+LNCH-2011-576,MSN-2020-1418,2011-05-07,2011,5,Falcon 9,Tanegashima Space Center,Japan,Success,True,58.97,15579.4,synthetic
+LNCH-2023-577,MSN-2023-1948,2023-12-22,2023,12,PSLV,Kourou ELA-4,Europe,Success,True,111.8,18861.1,synthetic
+LNCH-2013-578,MSN-2024-1116,2013-03-05,2013,3,PSLV,Kourou ELA-4,Europe,Success,True,90.73,20767.9,synthetic
+LNCH-2013-579,MSN-2010-1187,2013-11-12,2013,11,Ariane 6,Baikonur Cosmodrome,Russia,Success,True,178.88,21219.6,synthetic
+LNCH-2016-580,MSN-2020-2438,2016-05-29,2016,5,Ariane 6,Cape Canaveral SLC-40,United States,Success,True,68.04,18822.2,synthetic
+LNCH-2015-581,MSN-2019-2318,2015-03-29,2015,3,Falcon 9,Kourou ELA-4,Europe,Success,True,75.07,5213.4,synthetic
+LNCH-2026-582,MSN-2017-2129,2026-01-26,2026,1,Falcon 9,Cape Canaveral SLC-40,United States,Success,False,140.58,16248.8,synthetic
+LNCH-2017-583,MSN-2024-2170,2017-12-06,2017,12,Long March 5,Satish Dhawan SHAR,India,Success,True,119.55,17328.8,synthetic
+LNCH-2016-584,MSN-2020-1979,2016-05-01,2016,5,H3 Launch Vehicle,Tanegashima Space Center,Japan,Success,False,52.4,19450.9,synthetic
+LNCH-2024-585,MSN-2019-1315,2024-09-13,2024,9,Long March 5,Kennedy Space Center LC-39A,United States,Success,False,96.93,3168.6,synthetic
+LNCH-2023-586,MSN-2022-1233,2023-05-01,2023,5,PSLV,Cape Canaveral SLC-40,United States,Partial Failure,False,143.74,17840.8,synthetic
+LNCH-2015-587,MSN-2018-2028,2015-03-26,2015,3,Long March 5,Kourou ELA-4,Europe,Success,False,49.61,6086.9,synthetic
+LNCH-2025-588,MSN-2011-1885,2025-05-18,2025,5,Ariane 6,Jiuquan SLS,China,Success,False,99.85,10685.0,synthetic
+LNCH-2014-589,MSN-2023-1489,2014-03-01,2014,3,GSLV Mk III,Satish Dhawan SHAR,India,Success,True,56.24,3856.1,synthetic
+LNCH-2010-590,MSN-2025-1338,2010-08-01,2010,8,H3 Launch Vehicle,Tanegashima Space Center,Japan,Success,True,163.6,17336.7,synthetic
+LNCH-2021-591,MSN-2026-1458,2021-04-09,2021,4,Falcon 9,Cape Canaveral SLC-40,United States,Success,True,80.6,20792.0,synthetic
+LNCH-2022-592,MSN-2020-1333,2022-07-28,2022,7,H3 Launch Vehicle,Cape Canaveral SLC-40,United States,Success,True,173.11,2356.9,synthetic
+LNCH-2022-593,MSN-2020-2081,2022-03-23,2022,3,Atlas V,Baikonur Cosmodrome,Russia,Success,True,93.18,10597.4,synthetic
+LNCH-2018-594,MSN-2021-1385,2018-01-31,2018,1,Atlas V,Kennedy Space Center LC-39A,United States,Partial Failure,True,55.08,14326.3,synthetic
+LNCH-2023-595,MSN-2023-2050,2023-03-28,2023,3,Ariane 6,Cape Canaveral SLC-40,United States,Success,True,133.9,5582.0,synthetic
+LNCH-2018-596,MSN-2020-2489,2018-10-21,2018,10,PSLV,Jiuquan SLS,China,Success,True,101.92,4656.6,synthetic
+LNCH-2019-597,MSN-2017-2282,2019-09-02,2019,9,Soyuz-2,Tanegashima Space Center,Japan,Success,False,47.54,8049.0,synthetic
+LNCH-2025-598,MSN-2015-1141,2025-12-16,2025,12,Starship Heavy,Baikonur Cosmodrome,Russia,Success,True,41.59,16138.4,synthetic
+LNCH-2025-599,MSN-2024-2153,2025-06-29,2025,6,Atlas V,Jiuquan SLS,China,Success,True,56.12,12740.9,synthetic
+LNCH-2020-600,MSN-2015-1073,2020-09-30,2020,9,Long March 5,Kourou ELA-4,Europe,Success,True,55.68,17665.6,synthetic
+LNCH-2013-601,MSN-2026-1509,2013-07-25,2013,7,GSLV Mk III,Cape Canaveral SLC-40,United States,Success,False,122.94,11000.7,synthetic
+LNCH-2021-602,MSN-2024-1524,2021-01-22,2021,1,Vulcan Centaur,Cape Canaveral SLC-40,United States,Success,False,147.79,9064.7,synthetic
+LNCH-2026-603,MSN-2021-1929,2026-01-18,2026,1,Long March 5,Satish Dhawan SHAR,India,Success,True,61.49,17330.7,synthetic
+LNCH-2024-604,MSN-2015-1311,2024-08-24,2024,8,PSLV,Satish Dhawan SHAR,India,Catastrophic Failure,True,155.57,18434.6,synthetic
+LNCH-2014-605,MSN-2018-1807,2014-09-08,2014,9,Falcon 9,Cape Canaveral SLC-40,United States,Success,True,132.7,23080.7,synthetic
+LNCH-2021-606,MSN-2014-1157,2021-04-20,2021,4,Atlas V,Baikonur Cosmodrome,Russia,Partial Failure,True,176.14,16517.9,synthetic
+LNCH-2011-607,MSN-2012-2413,2011-03-26,2011,3,Starship Heavy,Kourou ELA-4,Europe,Success,True,173.57,18521.0,synthetic
+LNCH-2022-608,MSN-2021-1776,2022-11-10,2022,11,PSLV,Jiuquan SLS,China,Success,True,99.43,21027.9,synthetic
+LNCH-2010-609,MSN-2020-1707,2010-07-06,2010,7,H3 Launch Vehicle,Cape Canaveral SLC-40,United States,Success,True,79.33,22039.1,synthetic
+LNCH-2018-610,MSN-2021-2405,2018-11-26,2018,11,H3 Launch Vehicle,Satish Dhawan SHAR,India,Success,True,160.58,4321.9,synthetic
+LNCH-2015-611,MSN-2012-2413,2015-07-24,2015,7,Starship Heavy,Kennedy Space Center LC-39A,United States,Success,True,44.1,3664.6,synthetic
+LNCH-2025-612,MSN-2026-2070,2025-04-12,2025,4,Falcon 9,Kourou ELA-4,Europe,Success,True,121.2,20959.6,synthetic
+LNCH-2011-613,MSN-2010-2343,2011-06-23,2011,6,Falcon 9,Kourou ELA-4,Europe,Success,True,98.92,6892.0,synthetic
+LNCH-2014-614,MSN-2026-1441,2014-11-07,2014,11,Falcon 9,Kourou ELA-4,Europe,Success,False,87.27,13387.0,synthetic
+LNCH-2021-615,MSN-2016-1584,2021-01-04,2021,1,Vulcan Centaur,Kourou ELA-4,Europe,Success,True,113.66,5593.5,synthetic
+LNCH-2024-616,MSN-2015-1498,2024-08-08,2024,8,Starship Heavy,Kennedy Space Center LC-39A,United States,Success,False,123.97,1318.7,synthetic
+LNCH-2022-617,MSN-2017-1381,2022-12-17,2022,12,Ariane 6,Satish Dhawan SHAR,India,Success,True,159.13,8610.5,synthetic
+LNCH-2022-618,MSN-2017-2418,2022-02-24,2022,2,Ariane 6,Tanegashima Space Center,Japan,Success,True,92.34,22758.6,synthetic
+LNCH-2026-619,MSN-2025-1729,2026-08-29,2026,8,Long March 5,Kourou ELA-4,Europe,Success,True,69.62,18739.9,synthetic
+LNCH-2022-620,MSN-2025-1049,2022-12-03,2022,12,PSLV,Satish Dhawan SHAR,India,Success,False,112.71,4964.1,synthetic
+LNCH-2015-621,MSN-2022-2015,2015-04-11,2015,4,Vulcan Centaur,Satish Dhawan SHAR,India,Partial Failure,True,167.24,13689.9,synthetic
+LNCH-2020-622,MSN-2022-1811,2020-12-20,2020,12,H3 Launch Vehicle,Kennedy Space Center LC-39A,United States,Success,True,66.95,22924.9,synthetic
+LNCH-2021-623,MSN-2025-1066,2021-12-06,2021,12,GSLV Mk III,Cape Canaveral SLC-40,United States,Success,True,72.95,7021.7,synthetic
+LNCH-2018-624,MSN-2018-1637,2018-03-02,2018,3,Soyuz-2,Jiuquan SLS,China,Success,False,165.8,7435.1,synthetic
+LNCH-2019-625,MSN-2023-1982,2019-08-30,2019,8,GSLV Mk III,Baikonur Cosmodrome,Russia,Success,True,95.01,12396.9,synthetic
+LNCH-2011-626,MSN-2021-1079,2011-12-25,2011,12,Soyuz-2,Kennedy Space Center LC-39A,United States,Success,True,54.79,8790.5,synthetic
+LNCH-2013-627,MSN-2014-1905,2013-10-13,2013,10,Starship Heavy,Jiuquan SLS,China,Success,False,45.22,7131.4,synthetic
+LNCH-2021-628,MSN-2019-1009,2021-07-07,2021,7,Vulcan Centaur,Kourou ELA-4,Europe,Success,True,55.53,18898.6,synthetic
+LNCH-2015-629,MSN-2019-1162,2015-09-05,2015,9,Long March 5,Tanegashima Space Center,Japan,Success,False,64.96,3770.5,synthetic
+LNCH-2016-630,MSN-2023-1438,2016-12-27,2016,12,Soyuz-2,Baikonur Cosmodrome,Russia,Success,True,50.18,13489.5,synthetic
+LNCH-2012-631,MSN-2026-1628,2012-08-26,2012,8,Soyuz-2,Cape Canaveral SLC-40,United States,Success,True,160.36,21205.9,synthetic
+LNCH-2011-632,MSN-2013-2057,2011-09-16,2011,9,H3 Launch Vehicle,Cape Canaveral SLC-40,United States,Success,True,95.95,18262.2,synthetic
+LNCH-2017-633,MSN-2025-1695,2017-06-19,2017,6,GSLV Mk III,Kourou ELA-4,Europe,Success,False,175.99,21942.7,synthetic
+LNCH-2013-634,MSN-2026-1815,2013-12-08,2013,12,Vulcan Centaur,Baikonur Cosmodrome,Russia,Success,True,93.17,18369.8,synthetic
+LNCH-2015-635,MSN-2017-1925,2015-03-12,2015,3,Atlas V,Satish Dhawan SHAR,India,Success,False,152.97,5723.6,synthetic
+LNCH-2025-636,MSN-2012-2294,2025-03-06,2025,3,Long March 5,Kourou ELA-4,Europe,Success,False,178.86,20525.3,synthetic
+LNCH-2017-637,MSN-2017-1840,2017-12-11,2017,12,Soyuz-2,Baikonur Cosmodrome,Russia,Success,True,41.24,23828.5,synthetic
+LNCH-2011-638,MSN-2016-2230,2011-12-08,2011,12,Soyuz-2,Cape Canaveral SLC-40,United States,Catastrophic Failure,True,177.12,4669.9,synthetic
+LNCH-2013-639,MSN-2026-2070,2013-05-12,2013,5,Soyuz-2,Kennedy Space Center LC-39A,United States,Success,True,106.02,7288.9,synthetic
+LNCH-2012-640,MSN-2025-1202,2012-10-26,2012,10,Starship Heavy,Baikonur Cosmodrome,Russia,Success,True,162.12,5934.6,synthetic
+LNCH-2021-641,MSN-2017-2095,2021-11-23,2021,11,Long March 5,Kennedy Space Center LC-39A,United States,Success,True,150.05,2462.1,synthetic
+LNCH-2023-642,MSN-2023-2390,2023-01-11,2023,1,Starship Heavy,Kourou ELA-4,Europe,Success,True,177.18,14548.9,synthetic
+LNCH-2015-643,MSN-2014-2466,2015-10-20,2015,10,H3 Launch Vehicle,Cape Canaveral SLC-40,United States,Success,True,51.9,16771.7,synthetic
+LNCH-2018-644,MSN-2018-2113,2018-02-02,2018,2,Atlas V,Cape Canaveral SLC-40,United States,Success,True,66.46,19520.4,synthetic
+LNCH-2015-645,MSN-2015-1039,2015-10-28,2015,10,PSLV,Tanegashima Space Center,Japan,Launch Abort,False,154.27,15526.7,synthetic
+LNCH-2022-646,MSN-2022-1386,2022-08-09,2022,8,Starship Heavy,Kourou ELA-4,Europe,Success,False,44.75,16955.4,synthetic
+LNCH-2013-647,MSN-2021-1997,2013-11-15,2013,11,H3 Launch Vehicle,Tanegashima Space Center,Japan,Success,False,139.75,14342.0,synthetic
+LNCH-2025-648,MSN-2022-1624,2025-12-02,2025,12,Ariane 6,Cape Canaveral SLC-40,United States,Success,True,173.65,7015.9,synthetic
+LNCH-2023-649,MSN-2020-1792,2023-10-02,2023,10,Soyuz-2,Baikonur Cosmodrome,Russia,Success,True,86.1,4350.7,synthetic
+LNCH-2011-650,MSN-2025-2426,2011-11-24,2011,11,Starship Heavy,Baikonur Cosmodrome,Russia,Success,True,137.74,9265.0,synthetic
+LNCH-2019-651,MSN-2013-1972,2019-10-05,2019,10,Long March 5,Kennedy Space Center LC-39A,United States,Success,True,110.07,23252.8,synthetic
+LNCH-2012-652,MSN-2019-2471,2012-07-08,2012,7,Atlas V,Satish Dhawan SHAR,India,Success,True,179.0,5867.0,synthetic
+LNCH-2016-653,MSN-2024-2187,2016-11-12,2016,11,GSLV Mk III,Satish Dhawan SHAR,India,Success,True,145.18,14539.7,synthetic
+LNCH-2015-654,MSN-2013-2380,2015-04-03,2015,4,Atlas V,Kourou ELA-4,Europe,Success,False,139.62,13758.3,synthetic
+LNCH-2013-655,MSN-2019-1570,2013-08-22,2013,8,Vulcan Centaur,Satish Dhawan SHAR,India,Success,True,108.1,3277.0,synthetic
+LNCH-2025-656,MSN-2019-1094,2025-05-01,2025,5,Falcon 9,Tanegashima Space Center,Japan,Success,True,102.29,11804.8,synthetic
+LNCH-2012-657,MSN-2014-2398,2012-04-27,2012,4,H3 Launch Vehicle,Kennedy Space Center LC-39A,United States,Success,False,129.08,8902.8,synthetic
+LNCH-2019-658,MSN-2024-1490,2019-02-01,2019,2,Falcon 9,Cape Canaveral SLC-40,United States,Success,False,162.35,18942.6,synthetic
+LNCH-2022-659,MSN-2016-2145,2022-09-13,2022,9,GSLV Mk III,Kourou ELA-4,Europe,Success,True,137.84,20652.7,synthetic
+LNCH-2013-660,MSN-2010-2445,2013-11-24,2013,11,PSLV,Baikonur Cosmodrome,Russia,Success,False,139.91,18844.2,synthetic
+LNCH-2022-661,MSN-2011-2310,2022-02-25,2022,2,PSLV,Kennedy Space Center LC-39A,United States,Success,False,63.66,13395.2,synthetic
+LNCH-2020-662,MSN-2014-1735,2020-08-01,2020,8,Soyuz-2,Baikonur Cosmodrome,Russia,Catastrophic Failure,True,108.87,23852.9,synthetic
+LNCH-2012-663,MSN-2011-1426,2012-10-18,2012,10,Falcon 9,Baikonur Cosmodrome,Russia,Success,True,98.04,8626.2,synthetic
+LNCH-2016-664,MSN-2026-1934,2016-02-22,2016,2,Starship Heavy,Baikonur Cosmodrome,Russia,Success,True,155.91,8989.7,synthetic
+LNCH-2022-665,MSN-2023-2492,2022-07-27,2022,7,Atlas V,Kennedy Space Center LC-39A,United States,Success,True,161.14,23091.1,synthetic
+LNCH-2010-666,MSN-2024-2068,2010-11-04,2010,11,H3 Launch Vehicle,Baikonur Cosmodrome,Russia,Success,False,50.22,17650.9,synthetic
+LNCH-2010-667,MSN-2021-2490,2010-01-17,2010,1,H3 Launch Vehicle,Satish Dhawan SHAR,India,Success,True,56.24,10696.7,synthetic
+LNCH-2011-668,MSN-2015-1821,2011-09-16,2011,9,GSLV Mk III,Kourou ELA-4,Europe,Partial Failure,False,93.46,16011.7,synthetic
+LNCH-2012-669,MSN-2023-2033,2012-04-24,2012,4,PSLV,Jiuquan SLS,China,Success,True,146.15,11630.5,synthetic
+LNCH-2016-670,MSN-2012-2498,2016-10-21,2016,10,GSLV Mk III,Kennedy Space Center LC-39A,United States,Success,False,69.8,17882.1,synthetic
+LNCH-2025-671,MSN-2024-2119,2025-01-14,2025,1,Long March 5,Jiuquan SLS,China,Catastrophic Failure,True,65.86,12532.6,synthetic
+LNCH-2026-672,MSN-2012-1988,2026-03-09,2026,3,GSLV Mk III,Baikonur Cosmodrome,Russia,Success,True,134.46,23345.4,synthetic
+LNCH-2021-673,MSN-2019-1009,2021-02-11,2021,2,Falcon 9,Satish Dhawan SHAR,India,Success,False,118.44,21431.7,synthetic
+LNCH-2024-674,MSN-2010-1697,2024-03-09,2024,3,PSLV,Kennedy Space Center LC-39A,United States,Success,True,86.81,3361.6,synthetic
+LNCH-2011-675,MSN-2014-2330,2011-12-10,2011,12,Vulcan Centaur,Tanegashima Space Center,Japan,Success,True,117.08,4926.1,synthetic
+LNCH-2013-676,MSN-2013-1989,2013-09-21,2013,9,H3 Launch Vehicle,Satish Dhawan SHAR,India,Success,True,48.46,10527.5,synthetic
+LNCH-2019-677,MSN-2021-2490,2019-02-07,2019,2,Falcon 9,Satish Dhawan SHAR,India,Success,True,115.76,9421.4,synthetic
+LNCH-2026-678,MSN-2018-1416,2026-02-15,2026,2,Vulcan Centaur,Tanegashima Space Center,Japan,Success,True,156.05,15942.2,synthetic
+LNCH-2018-679,MSN-2020-1129,2018-02-05,2018,2,Soyuz-2,Satish Dhawan SHAR,India,Success,False,96.35,20016.3,synthetic
+LNCH-2021-680,MSN-2011-1222,2021-11-17,2021,11,Falcon 9,Kennedy Space Center LC-39A,United States,Success,True,66.45,23841.0,synthetic
+LNCH-2020-681,MSN-2018-2215,2020-08-05,2020,8,Falcon 9,Cape Canaveral SLC-40,United States,Success,False,46.53,6808.1,synthetic
+LNCH-2021-682,MSN-2015-1124,2021-09-01,2021,9,Vulcan Centaur,Tanegashima Space Center,Japan,Success,True,111.7,17916.4,synthetic
+LNCH-2026-683,MSN-2016-1890,2026-01-02,2026,1,H3 Launch Vehicle,Baikonur Cosmodrome,Russia,Success,True,62.99,12570.6,synthetic
+LNCH-2025-684,MSN-2022-2168,2025-11-04,2025,11,Vulcan Centaur,Cape Canaveral SLC-40,United States,Success,True,78.21,7386.1,synthetic
+LNCH-2013-685,MSN-2022-2423,2013-06-20,2013,6,Soyuz-2,Baikonur Cosmodrome,Russia,Success,False,141.16,13530.8,synthetic
+LNCH-2019-686,MSN-2013-1360,2019-03-08,2019,3,H3 Launch Vehicle,Baikonur Cosmodrome,Russia,Success,False,88.67,20635.2,synthetic
+LNCH-2016-687,MSN-2016-1550,2016-06-04,2016,6,Long March 5,Baikonur Cosmodrome,Russia,Success,False,84.33,4237.7,synthetic
+LNCH-2020-688,MSN-2017-1738,2020-07-24,2020,7,GSLV Mk III,Satish Dhawan SHAR,India,Success,True,148.28,12824.2,synthetic
+LNCH-2021-689,MSN-2023-1914,2021-04-06,2021,4,H3 Launch Vehicle,Cape Canaveral SLC-40,United States,Success,False,109.78,14364.6,synthetic
+LNCH-2010-690,MSN-2024-1082,2010-01-29,2010,1,PSLV,Tanegashima Space Center,Japan,Success,False,86.74,4218.2,synthetic
+LNCH-2013-691,MSN-2016-1380,2013-05-06,2013,5,Soyuz-2,Cape Canaveral SLC-40,United States,Success,True,95.61,23810.7,synthetic
+LNCH-2015-692,MSN-2011-1443,2015-01-24,2015,1,Ariane 6,Cape Canaveral SLC-40,United States,Success,True,94.45,22906.4,synthetic
+LNCH-2015-693,MSN-2021-1351,2015-09-26,2015,9,Long March 5,Kourou ELA-4,Europe,Success,False,71.18,1430.5,synthetic
+LNCH-2026-694,MSN-2026-1067,2026-01-20,2026,1,Starship Heavy,Tanegashima Space Center,Japan,Success,False,148.58,2094.3,synthetic
+LNCH-2018-695,MSN-2016-1686,2018-07-19,2018,7,Atlas V,Kennedy Space Center LC-39A,United States,Success,False,112.09,4543.3,synthetic
+LNCH-2013-696,MSN-2010-1952,2013-05-01,2013,5,Soyuz-2,Kourou ELA-4,Europe,Success,True,107.01,3985.5,synthetic
+LNCH-2017-697,MSN-2013-2142,2017-09-07,2017,9,PSLV,Baikonur Cosmodrome,Russia,Success,False,146.41,14304.4,synthetic
+LNCH-2010-698,MSN-2022-2474,2010-07-22,2010,7,Long March 5,Cape Canaveral SLC-40,United States,Success,True,95.92,22270.6,synthetic
+LNCH-2019-699,MSN-2012-1427,2019-02-26,2019,2,PSLV,Jiuquan SLS,China,Success,True,108.96,6456.5,synthetic
+LNCH-2015-700,MSN-2010-1306,2015-10-14,2015,10,Vulcan Centaur,Kennedy Space Center LC-39A,United States,Success,False,137.6,4833.0,synthetic
+LNCH-2021-701,MSN-2011-1953,2021-08-27,2021,8,Ariane 6,Kennedy Space Center LC-39A,United States,Success,True,109.62,5229.1,synthetic
+LNCH-2017-702,MSN-2024-2187,2017-07-23,2017,7,PSLV,Tanegashima Space Center,Japan,Success,True,44.95,19666.0,synthetic
+LNCH-2026-703,MSN-2013-2431,2026-02-03,2026,2,Falcon 9,Satish Dhawan SHAR,India,Success,True,116.05,14516.7,synthetic
+LNCH-2013-704,MSN-2010-1425,2013-03-13,2013,3,GSLV Mk III,Baikonur Cosmodrome,Russia,Success,True,68.62,11363.6,synthetic
+LNCH-2015-705,MSN-2010-1391,2015-12-29,2015,12,PSLV,Kennedy Space Center LC-39A,United States,Success,True,135.59,15615.4,synthetic
+LNCH-2022-706,MSN-2026-2053,2022-01-20,2022,1,PSLV,Tanegashima Space Center,Japan,Success,True,79.33,10288.6,synthetic
+LNCH-2011-707,MSN-2016-1737,2011-11-07,2011,11,Starship Heavy,Kennedy Space Center LC-39A,United States,Success,True,127.63,1488.2,synthetic
+LNCH-2020-708,MSN-2026-1900,2020-06-04,2020,6,Atlas V,Kennedy Space Center LC-39A,United States,Success,True,113.33,17407.7,synthetic
+LNCH-2024-709,MSN-2023-2407,2024-01-18,2024,1,Atlas V,Kourou ELA-4,Europe,Partial Failure,False,172.93,14227.2,synthetic
+LNCH-2018-710,MSN-2026-1033,2018-08-26,2018,8,Soyuz-2,Jiuquan SLS,China,Success,False,91.73,17297.3,synthetic
+LNCH-2016-711,MSN-2021-2490,2016-11-21,2016,11,Ariane 6,Kourou ELA-4,Europe,Success,True,91.47,16377.7,synthetic
+LNCH-2022-712,MSN-2023-1455,2022-02-05,2022,2,Starship Heavy,Tanegashima Space Center,Japan,Success,True,133.62,11119.7,synthetic
+LNCH-2010-713,MSN-2024-1422,2010-09-04,2010,9,Ariane 6,Kourou ELA-4,Europe,Success,True,155.35,5719.4,synthetic
+LNCH-2023-714,MSN-2025-2069,2023-07-07,2023,7,Vulcan Centaur,Satish Dhawan SHAR,India,Success,False,126.34,7198.1,synthetic
+LNCH-2012-715,MSN-2026-2138,2012-12-23,2012,12,PSLV,Jiuquan SLS,China,Success,True,152.39,2066.8,synthetic
+LNCH-2023-716,MSN-2025-2256,2023-07-13,2023,7,H3 Launch Vehicle,Satish Dhawan SHAR,India,Success,False,167.92,16634.2,synthetic
+LNCH-2021-717,MSN-2013-1445,2021-08-13,2021,8,PSLV,Tanegashima Space Center,Japan,Success,True,137.07,1721.1,synthetic
+LNCH-2013-718,MSN-2019-2216,2013-09-13,2013,9,Vulcan Centaur,Cape Canaveral SLC-40,United States,Success,False,146.06,19993.5,synthetic
+LNCH-2019-719,MSN-2022-1743,2019-06-08,2019,6,Atlas V,Kourou ELA-4,Europe,Success,True,135.89,1880.7,synthetic
+LNCH-2017-720,MSN-2022-1811,2017-06-09,2017,6,Soyuz-2,Cape Canaveral SLC-40,United States,Success,False,162.77,17990.9,synthetic
+LNCH-2021-721,MSN-2024-2306,2021-10-02,2021,10,Falcon 9,Satish Dhawan SHAR,India,Success,False,130.47,6287.9,synthetic
+LNCH-2016-722,MSN-2015-1855,2016-09-04,2016,9,Starship Heavy,Satish Dhawan SHAR,India,Success,True,161.92,20097.5,synthetic
+LNCH-2022-723,MSN-2011-2089,2022-12-10,2022,12,Soyuz-2,Baikonur Cosmodrome,Russia,Success,True,59.93,14505.5,synthetic
+LNCH-2026-724,MSN-2022-1182,2026-03-30,2026,3,Falcon 9,Jiuquan SLS,China,Success,True,113.88,5422.5,synthetic
+LNCH-2013-725,MSN-2019-1961,2013-04-16,2013,4,Soyuz-2,Tanegashima Space Center,Japan,Success,True,61.38,8615.8,synthetic
+LNCH-2022-726,MSN-2014-1820,2022-09-11,2022,9,PSLV,Tanegashima Space Center,Japan,Success,True,101.85,5894.5,synthetic
+LNCH-2025-727,MSN-2017-1466,2025-03-06,2025,3,H3 Launch Vehicle,Satish Dhawan SHAR,India,Success,True,76.0,8879.4,synthetic
+LNCH-2023-728,MSN-2024-1014,2023-05-19,2023,5,PSLV,Kourou ELA-4,Europe,Success,True,118.8,8504.8,synthetic
+LNCH-2026-729,MSN-2026-1849,2026-09-09,2026,9,Long March 5,Kourou ELA-4,Europe,Success,False,149.02,16086.5,synthetic
+LNCH-2014-730,MSN-2020-1962,2014-06-14,2014,6,Falcon 9,Cape Canaveral SLC-40,United States,Success,True,108.68,1913.9,synthetic
+LNCH-2013-731,MSN-2026-1186,2013-05-10,2013,5,Falcon 9,Baikonur Cosmodrome,Russia,Success,True,60.51,19592.0,synthetic
+LNCH-2020-732,MSN-2023-1778,2020-06-28,2020,6,Soyuz-2,Kennedy Space Center LC-39A,United States,Success,True,135.61,23383.8,synthetic
+LNCH-2017-733,MSN-2010-1799,2017-11-14,2017,11,Starship Heavy,Baikonur Cosmodrome,Russia,Success,True,140.77,20051.7,synthetic
+LNCH-2013-734,MSN-2020-1418,2013-10-24,2013,10,GSLV Mk III,Baikonur Cosmodrome,Russia,Success,True,103.28,14065.6,synthetic
+LNCH-2023-735,MSN-2015-1872,2023-06-04,2023,6,Soyuz-2,Cape Canaveral SLC-40,United States,Success,True,151.57,14429.9,synthetic
+LNCH-2010-736,MSN-2014-1021,2010-10-01,2010,10,GSLV Mk III,Jiuquan SLS,China,Success,True,112.72,10236.3,synthetic
+LNCH-2026-737,MSN-2014-1905,2026-04-24,2026,4,PSLV,Cape Canaveral SLC-40,United States,Success,True,61.6,8257.6,synthetic
+LNCH-2020-738,MSN-2013-2142,2020-01-13,2020,1,H3 Launch Vehicle,Tanegashima Space Center,Japan,Success,True,136.72,16350.0,synthetic
+LNCH-2021-739,MSN-2026-2257,2021-07-13,2021,7,Long March 5,Kourou ELA-4,Europe,Success,True,171.52,3283.1,synthetic
+LNCH-2019-740,MSN-2010-1119,2019-08-30,2019,8,H3 Launch Vehicle,Tanegashima Space Center,Japan,Success,True,43.25,5710.5,synthetic
+LNCH-2012-741,MSN-2014-1599,2012-03-03,2012,3,Long March 5,Satish Dhawan SHAR,India,Success,True,172.94,3649.7,synthetic
+LNCH-2016-742,MSN-2012-2005,2016-05-28,2016,5,PSLV,Kourou ELA-4,Europe,Success,True,78.07,11125.5,synthetic
+LNCH-2022-743,MSN-2012-1614,2022-11-21,2022,11,GSLV Mk III,Tanegashima Space Center,Japan,Success,False,150.99,16901.6,synthetic
+LNCH-2015-744,MSN-2011-1902,2015-03-31,2015,3,Vulcan Centaur,Jiuquan SLS,China,Success,True,144.19,19129.4,synthetic
+LNCH-2025-745,MSN-2022-1267,2025-12-16,2025,12,Vulcan Centaur,Kourou ELA-4,Europe,Success,True,44.2,8764.0,synthetic
+LNCH-2019-746,MSN-2019-1179,2019-10-18,2019,10,Vulcan Centaur,Kourou ELA-4,Europe,Success,True,101.95,19413.7,synthetic
+LNCH-2016-747,MSN-2012-1920,2016-10-17,2016,10,Starship Heavy,Baikonur Cosmodrome,Russia,Success,True,123.08,22229.9,synthetic
+LNCH-2022-748,MSN-2018-1484,2022-02-08,2022,2,Starship Heavy,Jiuquan SLS,China,Success,False,74.37,7219.7,synthetic
+LNCH-2010-749,MSN-2019-1825,2010-12-22,2010,12,Vulcan Centaur,Jiuquan SLS,China,Success,False,126.66,12676.7,synthetic
+LNCH-2018-750,MSN-2026-1662,2018-11-11,2018,11,Falcon 9,Kennedy Space Center LC-39A,United States,Partial Failure,True,73.56,12862.3,synthetic
+LNCH-2022-751,MSN-2014-2211,2022-10-19,2022,10,Soyuz-2,Baikonur Cosmodrome,Russia,Success,False,95.06,15068.3,synthetic
+LNCH-2024-752,MSN-2026-1543,2024-05-08,2024,5,PSLV,Kennedy Space Center LC-39A,United States,Success,False,148.43,6494.0,synthetic
+LNCH-2015-753,MSN-2024-1830,2015-08-20,2015,8,H3 Launch Vehicle,Jiuquan SLS,China,Success,False,64.75,3755.8,synthetic
+LNCH-2012-754,MSN-2024-1728,2012-04-16,2012,4,Soyuz-2,Baikonur Cosmodrome,Russia,Success,True,155.16,12700.4,synthetic
+LNCH-2011-755,MSN-2023-2067,2011-06-05,2011,6,Vulcan Centaur,Cape Canaveral SLC-40,United States,Success,True,69.34,20985.4,synthetic
+LNCH-2019-756,MSN-2010-1595,2019-05-31,2019,5,Soyuz-2,Jiuquan SLS,China,Success,False,40.1,8032.1,synthetic
+LNCH-2011-757,MSN-2017-1976,2011-04-26,2011,4,Soyuz-2,Kennedy Space Center LC-39A,United States,Success,False,101.78,11677.9,synthetic
+LNCH-2026-758,MSN-2022-1250,2026-06-24,2026,6,Atlas V,Jiuquan SLS,China,Partial Failure,False,51.35,5245.2,synthetic
+LNCH-2017-759,MSN-2020-1486,2017-08-01,2017,8,H3 Launch Vehicle,Cape Canaveral SLC-40,United States,Catastrophic Failure,True,96.71,8336.6,synthetic
+LNCH-2017-760,MSN-2014-1837,2017-11-16,2017,11,Vulcan Centaur,Jiuquan SLS,China,Success,True,169.67,2799.0,synthetic
+LNCH-2022-761,MSN-2015-1090,2022-08-18,2022,8,Falcon 9,Baikonur Cosmodrome,Russia,Success,False,57.17,13081.9,synthetic
+LNCH-2014-762,MSN-2011-1443,2014-12-21,2014,12,Long March 5,Kennedy Space Center LC-39A,United States,Success,True,158.31,10684.4,synthetic
+LNCH-2026-763,MSN-2015-1821,2026-01-15,2026,1,Falcon 9,Baikonur Cosmodrome,Russia,Success,True,154.09,12956.2,synthetic
+LNCH-2017-764,MSN-2010-1000,2017-01-29,2017,1,Falcon 9,Baikonur Cosmodrome,Russia,Success,True,122.06,19107.2,synthetic
+LNCH-2020-765,MSN-2018-2062,2020-10-22,2020,10,Falcon 9,Kennedy Space Center LC-39A,United States,Success,True,178.81,21361.5,synthetic
+LNCH-2011-766,MSN-2017-1602,2011-07-16,2011,7,Long March 5,Kennedy Space Center LC-39A,United States,Success,False,53.25,13557.1,synthetic
+LNCH-2018-767,MSN-2020-1112,2018-05-29,2018,5,Soyuz-2,Jiuquan SLS,China,Success,True,168.01,19632.0,synthetic
+LNCH-2023-768,MSN-2013-2244,2023-05-29,2023,5,H3 Launch Vehicle,Kourou ELA-4,Europe,Success,True,56.23,22024.3,synthetic
+LNCH-2024-769,MSN-2013-2482,2024-01-11,2024,1,Long March 5,Tanegashima Space Center,Japan,Success,True,162.79,8861.8,synthetic
+LNCH-2022-770,MSN-2025-2375,2022-11-29,2022,11,H3 Launch Vehicle,Cape Canaveral SLC-40,United States,Success,True,156.66,14341.7,synthetic
+LNCH-2021-771,MSN-2023-1166,2021-12-09,2021,12,Vulcan Centaur,Satish Dhawan SHAR,India,Success,False,151.29,12428.0,synthetic
+LNCH-2020-772,MSN-2020-2098,2020-10-31,2020,10,Falcon 9,Cape Canaveral SLC-40,United States,Success,True,83.57,22812.6,synthetic
+LNCH-2023-773,MSN-2019-1417,2023-05-27,2023,5,Ariane 6,Tanegashima Space Center,Japan,Success,True,167.0,22956.2,synthetic
+LNCH-2018-774,MSN-2011-2004,2018-03-15,2018,3,Atlas V,Cape Canaveral SLC-40,United States,Success,True,99.16,4704.3,synthetic
+LNCH-2023-775,MSN-2010-1425,2023-04-04,2023,4,Ariane 6,Kennedy Space Center LC-39A,United States,Success,True,146.74,7571.4,synthetic
+LNCH-2017-776,MSN-2014-1276,2017-12-01,2017,12,Falcon 9,Kennedy Space Center LC-39A,United States,Success,True,162.01,20799.0,synthetic
+LNCH-2015-777,MSN-2013-2363,2015-12-13,2015,12,Falcon 9,Cape Canaveral SLC-40,United States,Success,True,106.92,16617.9,synthetic
+LNCH-2020-778,MSN-2022-1743,2020-07-26,2020,7,Vulcan Centaur,Satish Dhawan SHAR,India,Launch Abort,True,88.83,4722.6,synthetic
+LNCH-2020-779,MSN-2012-2107,2020-01-26,2020,1,Falcon 9,Kourou ELA-4,Europe,Success,False,95.92,2757.1,synthetic
+LNCH-2014-780,MSN-2023-1268,2014-01-25,2014,1,Falcon 9,Satish Dhawan SHAR,India,Partial Failure,True,72.14,2557.6,synthetic
+LNCH-2018-781,MSN-2020-1758,2018-09-17,2018,9,Atlas V,Jiuquan SLS,China,Success,False,84.52,16562.1,synthetic
+LNCH-2013-782,MSN-2013-1241,2013-10-08,2013,10,Vulcan Centaur,Cape Canaveral SLC-40,United States,Success,False,46.73,15865.4,synthetic
+LNCH-2022-783,MSN-2020-1248,2022-02-27,2022,2,Ariane 6,Cape Canaveral SLC-40,United States,Success,True,139.46,18982.0,synthetic
+LNCH-2025-784,MSN-2015-2246,2025-03-29,2025,3,PSLV,Jiuquan SLS,China,Success,True,48.3,8599.7,synthetic
+LNCH-2023-785,MSN-2013-2040,2023-02-03,2023,2,Starship Heavy,Tanegashima Space Center,Japan,Launch Abort,True,140.89,4293.0,synthetic
+LNCH-2019-786,MSN-2012-1308,2019-08-17,2019,8,PSLV,Tanegashima Space Center,Japan,Success,True,150.7,19804.7,synthetic
+LNCH-2017-787,MSN-2024-1881,2017-08-24,2017,8,Vulcan Centaur,Jiuquan SLS,China,Success,True,136.25,17185.4,synthetic
+LNCH-2012-788,MSN-2017-1041,2012-05-13,2012,5,H3 Launch Vehicle,Tanegashima Space Center,Japan,Success,True,94.17,3656.4,synthetic
+LNCH-2019-789,MSN-2026-2121,2019-01-28,2019,1,Falcon 9,Tanegashima Space Center,Japan,Success,False,90.3,9038.2,synthetic
+LNCH-2011-790,MSN-2026-1288,2011-12-31,2011,12,Falcon 9,Cape Canaveral SLC-40,United States,Success,True,150.96,1334.2,synthetic
+LNCH-2012-791,MSN-2010-1561,2012-09-30,2012,9,Atlas V,Satish Dhawan SHAR,India,Success,True,164.59,18725.9,synthetic
+LNCH-2015-792,MSN-2010-1833,2015-09-05,2015,9,Falcon 9,Kourou ELA-4,Europe,Success,True,138.21,16972.9,synthetic
+LNCH-2021-793,MSN-2025-1525,2021-03-16,2021,3,Falcon 9,Cape Canaveral SLC-40,United States,Success,True,157.71,7428.4,synthetic
+LNCH-2022-794,MSN-2022-1539,2022-08-25,2022,8,GSLV Mk III,Kourou ELA-4,Europe,Success,True,162.54,1880.3,synthetic
+LNCH-2019-795,MSN-2012-2209,2019-01-23,2019,1,Long March 5,Cape Canaveral SLC-40,United States,Success,True,44.86,20071.5,synthetic
+LNCH-2025-796,MSN-2020-1537,2025-07-12,2025,7,Long March 5,Satish Dhawan SHAR,India,Success,False,100.51,13911.0,synthetic
+LNCH-2025-797,MSN-2023-2305,2025-05-07,2025,5,Vulcan Centaur,Jiuquan SLS,China,Success,False,120.01,2126.2,synthetic
+LNCH-2015-798,MSN-2014-2245,2015-10-14,2015,10,GSLV Mk III,Kennedy Space Center LC-39A,United States,Success,True,82.71,16365.5,synthetic
+LNCH-2024-799,MSN-2026-1594,2024-10-03,2024,10,H3 Launch Vehicle,Cape Canaveral SLC-40,United States,Success,False,103.6,20794.2,synthetic
+LNCH-2024-800,MSN-2025-1882,2024-08-04,2024,8,Ariane 6,Satish Dhawan SHAR,India,Success,False,158.72,16578.2,synthetic
+LNCH-2024-801,MSN-2021-1589,2024-01-25,2024,1,Starship Heavy,Jiuquan SLS,China,Success,False,145.38,14989.9,synthetic
+LNCH-2023-802,MSN-2020-1707,2023-06-21,2023,6,PSLV,Tanegashima Space Center,Japan,Success,True,53.4,22589.9,synthetic
+LNCH-2016-803,MSN-2022-1284,2016-05-29,2016,5,Vulcan Centaur,Satish Dhawan SHAR,India,Success,True,96.12,11902.6,synthetic
+LNCH-2016-804,MSN-2023-2458,2016-08-01,2016,8,Soyuz-2,Baikonur Cosmodrome,Russia,Success,True,84.82,21871.3,synthetic
+LNCH-2013-805,MSN-2021-2405,2013-01-08,2013,1,Soyuz-2,Tanegashima Space Center,Japan,Success,True,125.23,11368.6,synthetic
+LNCH-2018-806,MSN-2019-1247,2018-09-15,2018,9,Soyuz-2,Cape Canaveral SLC-40,United States,Success,False,59.19,17596.9,synthetic
+LNCH-2018-807,MSN-2026-1016,2018-12-13,2018,12,PSLV,Satish Dhawan SHAR,India,Success,False,123.55,4106.4,synthetic
+LNCH-2018-808,MSN-2020-2217,2018-12-21,2018,12,Soyuz-2,Jiuquan SLS,China,Partial Failure,False,131.07,4048.5,synthetic
+LNCH-2018-809,MSN-2026-1322,2018-04-16,2018,4,Starship Heavy,Satish Dhawan SHAR,India,Success,True,108.75,16791.0,synthetic
+LNCH-2011-810,MSN-2019-1128,2011-01-03,2011,1,Long March 5,Kennedy Space Center LC-39A,United States,Success,False,173.26,5903.2,synthetic
+LNCH-2026-811,MSN-2024-1660,2026-01-29,2026,1,Ariane 6,Kennedy Space Center LC-39A,United States,Success,False,65.1,5830.2,synthetic
+LNCH-2013-812,MSN-2010-1799,2013-05-25,2013,5,Falcon 9,Kourou ELA-4,Europe,Success,True,112.94,18188.8,synthetic
+LNCH-2021-813,MSN-2020-2268,2021-09-20,2021,9,GSLV Mk III,Tanegashima Space Center,Japan,Success,True,94.67,2625.4,synthetic
+LNCH-2014-814,MSN-2020-1741,2014-01-12,2014,1,Falcon 9,Cape Canaveral SLC-40,United States,Success,False,148.18,1388.2,synthetic
+LNCH-2018-815,MSN-2017-1466,2018-01-27,2018,1,Long March 5,Baikonur Cosmodrome,Russia,Success,True,147.46,5495.9,synthetic
+LNCH-2012-816,MSN-2023-1557,2012-09-02,2012,9,Long March 5,Jiuquan SLS,China,Success,False,42.33,15167.7,synthetic
+LNCH-2023-817,MSN-2022-1590,2023-12-28,2023,12,Ariane 6,Kennedy Space Center LC-39A,United States,Success,True,60.92,17743.7,synthetic
+LNCH-2025-818,MSN-2023-1013,2025-12-13,2025,12,H3 Launch Vehicle,Cape Canaveral SLC-40,United States,Success,True,163.65,22206.9,synthetic
+LNCH-2022-819,MSN-2011-1528,2022-12-24,2022,12,PSLV,Kourou ELA-4,Europe,Success,True,55.26,19768.0,synthetic
+LNCH-2025-820,MSN-2010-1153,2025-08-30,2025,8,GSLV Mk III,Baikonur Cosmodrome,Russia,Success,True,153.04,13472.1,synthetic
+LNCH-2020-821,MSN-2023-1455,2020-11-21,2020,11,GSLV Mk III,Jiuquan SLS,China,Success,True,166.97,20765.1,synthetic
+LNCH-2025-822,MSN-2018-2300,2025-04-10,2025,4,Starship Heavy,Tanegashima Space Center,Japan,Success,False,122.84,13603.0,synthetic
+LNCH-2025-823,MSN-2020-1622,2025-06-16,2025,6,Falcon 9,Tanegashima Space Center,Japan,Success,True,53.53,3816.5,synthetic
+LNCH-2021-824,MSN-2018-1467,2021-11-28,2021,11,Atlas V,Kennedy Space Center LC-39A,United States,Partial Failure,True,108.89,22639.4,synthetic
+LNCH-2025-825,MSN-2014-2058,2025-04-14,2025,4,Atlas V,Baikonur Cosmodrome,Russia,Success,True,55.27,1553.2,synthetic
+LNCH-2010-826,MSN-2010-2394,2010-12-16,2010,12,H3 Launch Vehicle,Tanegashima Space Center,Japan,Success,False,61.08,8284.7,synthetic
+LNCH-2019-827,MSN-2023-1948,2019-02-28,2019,2,Vulcan Centaur,Kourou ELA-4,Europe,Success,True,145.67,11123.0,synthetic
+LNCH-2014-828,MSN-2010-1680,2014-11-14,2014,11,Long March 5,Baikonur Cosmodrome,Russia,Success,True,106.29,23370.8,synthetic
+LNCH-2017-829,MSN-2016-1261,2017-10-12,2017,10,Soyuz-2,Tanegashima Space Center,Japan,Success,True,147.41,8051.6,synthetic
+LNCH-2021-830,MSN-2015-1294,2021-09-21,2021,9,PSLV,Jiuquan SLS,China,Success,True,146.01,12463.0,synthetic
+LNCH-2024-831,MSN-2025-1644,2024-01-20,2024,1,GSLV Mk III,Kennedy Space Center LC-39A,United States,Success,False,144.7,4124.4,synthetic
+LNCH-2017-832,MSN-2016-1669,2017-03-22,2017,3,Atlas V,Kennedy Space Center LC-39A,United States,Success,True,165.87,23315.9,synthetic
+LNCH-2025-833,MSN-2018-1382,2025-03-29,2025,3,Vulcan Centaur,Jiuquan SLS,China,Success,True,86.36,23655.8,synthetic
+LNCH-2015-834,MSN-2010-1748,2015-08-25,2015,8,PSLV,Kourou ELA-4,Europe,Success,True,143.07,5456.5,synthetic
+LNCH-2020-835,MSN-2024-1014,2020-07-31,2020,7,GSLV Mk III,Kennedy Space Center LC-39A,United States,Partial Failure,False,95.54,11121.4,synthetic
+LNCH-2018-836,MSN-2015-1090,2018-07-01,2018,7,Vulcan Centaur,Baikonur Cosmodrome,Russia,Success,True,115.65,23313.0,synthetic
+LNCH-2016-837,MSN-2012-2447,2016-09-17,2016,9,Vulcan Centaur,Kourou ELA-4,Europe,Success,False,51.06,16364.9,synthetic
+LNCH-2011-838,MSN-2025-1967,2011-04-01,2011,4,Long March 5,Baikonur Cosmodrome,Russia,Success,True,50.12,20397.7,synthetic
+LNCH-2014-839,MSN-2026-1798,2014-10-29,2014,10,Vulcan Centaur,Baikonur Cosmodrome,Russia,Success,False,124.58,3542.1,synthetic
+LNCH-2025-840,MSN-2022-1811,2025-11-28,2025,11,Ariane 6,Kennedy Space Center LC-39A,United States,Partial Failure,True,131.93,1985.8,synthetic
+LNCH-2016-841,MSN-2025-1168,2016-08-18,2016,8,GSLV Mk III,Baikonur Cosmodrome,Russia,Success,False,70.78,15691.0,synthetic
+LNCH-2012-842,MSN-2021-1793,2012-09-24,2012,9,Atlas V,Cape Canaveral SLC-40,United States,Success,False,169.08,9304.8,synthetic
+LNCH-2023-843,MSN-2026-2223,2023-04-03,2023,4,Soyuz-2,Tanegashima Space Center,Japan,Success,False,89.35,11719.0,synthetic
+LNCH-2016-844,MSN-2022-1437,2016-01-31,2016,1,Atlas V,Kennedy Space Center LC-39A,United States,Success,True,151.4,20584.6,synthetic
+LNCH-2012-845,MSN-2022-1250,2012-03-03,2012,3,Long March 5,Tanegashima Space Center,Japan,Success,True,71.79,6741.3,synthetic
+LNCH-2016-846,MSN-2026-2189,2016-03-16,2016,3,Starship Heavy,Tanegashima Space Center,Japan,Success,True,127.11,20397.6,synthetic
+LNCH-2020-847,MSN-2011-1188,2020-06-25,2020,6,Falcon 9,Cape Canaveral SLC-40,United States,Success,True,144.48,19253.6,synthetic
+LNCH-2016-848,MSN-2018-1603,2016-10-14,2016,10,GSLV Mk III,Kennedy Space Center LC-39A,United States,Success,True,123.95,9506.0,synthetic
+LNCH-2025-849,MSN-2017-2435,2025-12-16,2025,12,Long March 5,Jiuquan SLS,China,Success,True,140.37,15493.3,synthetic
+LNCH-2026-850,MSN-2011-2072,2026-06-16,2026,6,Vulcan Centaur,Jiuquan SLS,China,Success,True,157.3,12056.5,synthetic
+LNCH-2019-851,MSN-2020-2455,2019-01-19,2019,1,Ariane 6,Cape Canaveral SLC-40,United States,Success,True,91.29,14669.4,synthetic
+LNCH-2021-852,MSN-2022-1522,2021-03-12,2021,3,PSLV,Jiuquan SLS,China,Success,False,101.19,22137.5,synthetic
+LNCH-2021-853,MSN-2012-2005,2021-07-20,2021,7,GSLV Mk III,Kennedy Space Center LC-39A,United States,Success,True,161.45,22918.8,synthetic
+LNCH-2014-854,MSN-2012-1240,2014-09-22,2014,9,Ariane 6,Kennedy Space Center LC-39A,United States,Success,True,66.07,21057.5,synthetic
+LNCH-2017-855,MSN-2011-2140,2017-03-18,2017,3,Falcon 9,Kourou ELA-4,Europe,Success,False,41.93,11470.7,synthetic
+LNCH-2025-856,MSN-2020-1639,2025-05-19,2025,5,Vulcan Centaur,Cape Canaveral SLC-40,United States,Success,True,151.66,13867.1,synthetic
+LNCH-2016-857,MSN-2023-1965,2016-12-11,2016,12,Starship Heavy,Satish Dhawan SHAR,India,Success,False,40.89,1610.4,synthetic
+LNCH-2019-858,MSN-2018-1841,2019-01-12,2019,1,Long March 5,Satish Dhawan SHAR,India,Success,False,41.75,16526.4,synthetic
+LNCH-2020-859,MSN-2016-2468,2020-01-29,2020,1,Ariane 6,Satish Dhawan SHAR,India,Success,True,159.67,13731.4,synthetic
+LNCH-2013-860,MSN-2023-1370,2013-06-20,2013,6,Vulcan Centaur,Cape Canaveral SLC-40,United States,Success,True,56.93,20101.1,synthetic
+LNCH-2014-861,MSN-2021-2031,2014-10-08,2014,10,Soyuz-2,Tanegashima Space Center,Japan,Success,True,63.1,13867.6,synthetic
+LNCH-2015-862,MSN-2010-1901,2015-11-13,2015,11,Ariane 6,Tanegashima Space Center,Japan,Success,False,76.6,19222.1,synthetic
+LNCH-2023-863,MSN-2023-1404,2023-06-06,2023,6,Falcon 9,Kennedy Space Center LC-39A,United States,Success,False,141.07,9411.5,synthetic
+LNCH-2023-864,MSN-2025-1882,2023-02-24,2023,2,H3 Launch Vehicle,Tanegashima Space Center,Japan,Success,True,132.72,2036.4,synthetic
+LNCH-2019-865,MSN-2018-2351,2019-01-09,2019,1,Soyuz-2,Satish Dhawan SHAR,India,Success,True,164.24,13582.2,synthetic
+LNCH-2015-866,MSN-2025-1372,2015-03-13,2015,3,PSLV,Cape Canaveral SLC-40,United States,Success,False,131.48,7233.4,synthetic
+LNCH-2017-867,MSN-2019-2488,2017-08-17,2017,8,GSLV Mk III,Jiuquan SLS,China,Success,True,162.96,14023.2,synthetic
+LNCH-2012-868,MSN-2014-2347,2012-07-10,2012,7,GSLV Mk III,Jiuquan SLS,China,Success,False,89.21,4711.7,synthetic
+LNCH-2015-869,MSN-2014-1242,2015-11-12,2015,11,Falcon 9,Kennedy Space Center LC-39A,United States,Success,False,144.91,11863.2,synthetic
+LNCH-2025-870,MSN-2011-1970,2025-04-20,2025,4,Falcon 9,Cape Canaveral SLC-40,United States,Success,False,118.28,17749.1,synthetic
+LNCH-2015-871,MSN-2015-1770,2015-01-22,2015,1,GSLV Mk III,Tanegashima Space Center,Japan,Success,True,172.96,3362.5,synthetic
+LNCH-2025-872,MSN-2019-2488,2025-06-17,2025,6,Long March 5,Satish Dhawan SHAR,India,Success,True,88.95,9440.6,synthetic
+LNCH-2022-873,MSN-2015-2280,2022-05-23,2022,5,Long March 5,Tanegashima Space Center,Japan,Success,True,170.49,5005.8,synthetic
+LNCH-2023-874,MSN-2013-2023,2023-12-19,2023,12,H3 Launch Vehicle,Kennedy Space Center LC-39A,United States,Success,True,169.0,5955.5,synthetic
+LNCH-2019-875,MSN-2010-2411,2019-03-14,2019,3,Soyuz-2,Kennedy Space Center LC-39A,United States,Success,False,120.67,5241.7,synthetic
+LNCH-2018-876,MSN-2018-1875,2018-12-19,2018,12,Vulcan Centaur,Satish Dhawan SHAR,India,Success,False,106.67,9547.2,synthetic
+LNCH-2014-877,MSN-2015-2144,2014-09-14,2014,9,Soyuz-2,Kourou ELA-4,Europe,Launch Abort,True,69.21,18882.7,synthetic
+LNCH-2012-878,MSN-2026-1526,2012-01-02,2012,1,H3 Launch Vehicle,Satish Dhawan SHAR,India,Success,True,121.88,6217.3,synthetic
+LNCH-2022-879,MSN-2026-2121,2022-06-16,2022,6,Vulcan Centaur,Cape Canaveral SLC-40,United States,Success,False,65.08,19135.0,synthetic
+LNCH-2012-880,MSN-2012-1410,2012-12-03,2012,12,H3 Launch Vehicle,Kennedy Space Center LC-39A,United States,Success,True,41.82,19700.2,synthetic
+LNCH-2019-881,MSN-2023-1744,2019-02-09,2019,2,Falcon 9,Cape Canaveral SLC-40,United States,Success,True,53.16,3069.5,synthetic
+LNCH-2023-882,MSN-2014-1684,2023-09-05,2023,9,GSLV Mk III,Cape Canaveral SLC-40,United States,Partial Failure,True,175.38,8218.2,synthetic
+LNCH-2014-883,MSN-2026-1407,2014-02-11,2014,2,Soyuz-2,Baikonur Cosmodrome,Russia,Success,False,109.91,4763.3,synthetic
+LNCH-2011-884,MSN-2018-2198,2011-09-04,2011,9,H3 Launch Vehicle,Kourou ELA-4,Europe,Success,True,52.18,20899.4,synthetic
+LNCH-2021-885,MSN-2022-1199,2021-10-07,2021,10,Soyuz-2,Satish Dhawan SHAR,India,Success,False,155.57,17252.0,synthetic
+LNCH-2010-886,MSN-2022-2287,2010-06-01,2010,6,H3 Launch Vehicle,Kourou ELA-4,Europe,Success,True,173.8,9011.9,synthetic
+LNCH-2020-887,MSN-2025-2086,2020-10-17,2020,10,Falcon 9,Kennedy Space Center LC-39A,United States,Success,False,103.59,22600.2,synthetic
+LNCH-2018-888,MSN-2014-2364,2018-07-18,2018,7,PSLV,Satish Dhawan SHAR,India,Success,False,103.29,23494.0,synthetic
+LNCH-2023-889,MSN-2018-1807,2023-02-06,2023,2,Atlas V,Baikonur Cosmodrome,Russia,Launch Abort,True,152.13,18566.2,synthetic
+LNCH-2020-890,MSN-2011-1885,2020-04-10,2020,4,GSLV Mk III,Kennedy Space Center LC-39A,United States,Success,True,134.45,2502.7,synthetic
+LNCH-2021-891,MSN-2020-1792,2021-06-01,2021,6,H3 Launch Vehicle,Tanegashima Space Center,Japan,Success,True,101.44,4807.7,synthetic
+LNCH-2015-892,MSN-2022-2270,2015-12-27,2015,12,Starship Heavy,Kourou ELA-4,Europe,Success,True,133.04,18366.6,synthetic
+LNCH-2018-893,MSN-2012-2396,2018-03-02,2018,3,Starship Heavy,Kourou ELA-4,Europe,Success,True,67.37,18715.4,synthetic
+LNCH-2020-894,MSN-2024-1014,2020-12-19,2020,12,Atlas V,Satish Dhawan SHAR,India,Success,True,135.38,8228.2,synthetic
+LNCH-2023-895,MSN-2013-1955,2023-11-16,2023,11,Starship Heavy,Cape Canaveral SLC-40,United States,Success,True,127.55,5369.8,synthetic
+LNCH-2019-896,MSN-2020-2200,2019-04-13,2019,4,Soyuz-2,Cape Canaveral SLC-40,United States,Success,True,87.65,12791.2,synthetic
+LNCH-2025-897,MSN-2013-2312,2025-06-05,2025,6,Vulcan Centaur,Jiuquan SLS,China,Success,False,145.61,1996.5,synthetic
+LNCH-2021-898,MSN-2012-2379,2021-09-30,2021,9,H3 Launch Vehicle,Kourou ELA-4,Europe,Success,False,68.07,9106.3,synthetic
+LNCH-2018-899,MSN-2013-2210,2018-06-28,2018,6,GSLV Mk III,Satish Dhawan SHAR,India,Catastrophic Failure,True,172.84,22080.4,synthetic
+LNCH-2019-900,MSN-2022-1556,2019-03-19,2019,3,Starship Heavy,Kourou ELA-4,Europe,Success,True,63.55,5777.4,synthetic
+LNCH-2020-901,MSN-2016-2009,2020-12-28,2020,12,Soyuz-2,Satish Dhawan SHAR,India,Success,False,123.23,19633.2,synthetic
+LNCH-2015-902,MSN-2015-1685,2015-12-02,2015,12,Vulcan Centaur,Baikonur Cosmodrome,Russia,Success,False,131.82,10029.2,synthetic
+LNCH-2023-903,MSN-2014-2194,2023-11-20,2023,11,GSLV Mk III,Kourou ELA-4,Europe,Success,False,144.24,9154.2,synthetic
+LNCH-2024-904,MSN-2022-1488,2024-02-04,2024,2,GSLV Mk III,Tanegashima Space Center,Japan,Success,False,167.0,20888.6,synthetic
+LNCH-2024-905,MSN-2016-2468,2024-07-12,2024,7,Ariane 6,Cape Canaveral SLC-40,United States,Success,False,43.29,9511.6,synthetic
+LNCH-2019-906,MSN-2017-1347,2019-12-06,2019,12,H3 Launch Vehicle,Satish Dhawan SHAR,India,Success,True,40.78,17729.4,synthetic
+LNCH-2025-907,MSN-2012-2073,2025-03-27,2025,3,H3 Launch Vehicle,Tanegashima Space Center,Japan,Success,False,84.07,6375.4,synthetic
+LNCH-2023-908,MSN-2011-1681,2023-12-28,2023,12,Falcon 9,Kourou ELA-4,Europe,Success,True,101.73,19776.1,synthetic
+LNCH-2016-909,MSN-2025-1066,2016-04-09,2016,4,Starship Heavy,Jiuquan SLS,China,Success,True,41.02,6434.2,synthetic
+LNCH-2014-910,MSN-2024-2493,2014-11-04,2014,11,Vulcan Centaur,Kennedy Space Center LC-39A,United States,Success,False,169.49,14431.9,synthetic
+LNCH-2014-911,MSN-2012-2243,2014-03-09,2014,3,Atlas V,Baikonur Cosmodrome,Russia,Success,True,96.99,9858.9,synthetic
+LNCH-2026-912,MSN-2012-1087,2026-08-09,2026,8,GSLV Mk III,Jiuquan SLS,China,Success,True,106.46,11656.0,synthetic
+LNCH-2011-913,MSN-2011-1562,2011-03-30,2011,3,Atlas V,Tanegashima Space Center,Japan,Success,False,40.18,21262.0,synthetic
+LNCH-2014-914,MSN-2011-2446,2014-11-25,2014,11,GSLV Mk III,Kennedy Space Center LC-39A,United States,Success,True,83.99,2246.3,synthetic
+LNCH-2026-915,MSN-2011-1834,2026-07-22,2026,7,Long March 5,Kennedy Space Center LC-39A,United States,Success,True,72.26,13351.6,synthetic
+LNCH-2024-916,MSN-2010-1884,2024-03-02,2024,3,PSLV,Jiuquan SLS,China,Success,True,164.72,22279.2,synthetic
+LNCH-2020-917,MSN-2010-2326,2020-06-24,2020,6,Soyuz-2,Kourou ELA-4,Europe,Catastrophic Failure,False,136.83,23949.9,synthetic
+LNCH-2018-918,MSN-2010-1884,2018-11-03,2018,11,Falcon 9,Tanegashima Space Center,Japan,Success,True,70.58,20742.1,synthetic
+LNCH-2013-919,MSN-2021-1402,2013-01-23,2013,1,H3 Launch Vehicle,Satish Dhawan SHAR,India,Success,True,106.44,3741.3,synthetic
+LNCH-2023-920,MSN-2017-1109,2023-05-04,2023,5,H3 Launch Vehicle,Kennedy Space Center LC-39A,United States,Success,False,154.54,2791.8,synthetic
+LNCH-2011-921,MSN-2019-1366,2011-12-29,2011,12,Starship Heavy,Cape Canaveral SLC-40,United States,Success,False,46.29,19535.6,synthetic
+LNCH-2012-922,MSN-2024-2221,2012-06-21,2012,6,Long March 5,Baikonur Cosmodrome,Russia,Success,True,94.84,23470.0,synthetic
+LNCH-2015-923,MSN-2020-1945,2015-11-20,2015,11,Starship Heavy,Jiuquan SLS,China,Success,True,128.74,5809.8,synthetic
+LNCH-2014-924,MSN-2020-1044,2014-05-28,2014,5,Soyuz-2,Kennedy Space Center LC-39A,United States,Success,True,76.9,6101.2,synthetic
+LNCH-2017-925,MSN-2026-2342,2017-03-18,2017,3,Long March 5,Satish Dhawan SHAR,India,Success,False,138.81,11985.7,synthetic
+LNCH-2023-926,MSN-2012-1699,2023-03-27,2023,3,Falcon 9,Kennedy Space Center LC-39A,United States,Success,False,133.62,18722.6,synthetic
+LNCH-2025-927,MSN-2016-1839,2025-05-23,2025,5,Falcon 9,Kennedy Space Center LC-39A,United States,Success,True,146.47,1861.0,synthetic
+LNCH-2019-928,MSN-2020-2081,2019-01-19,2019,1,Starship Heavy,Tanegashima Space Center,Japan,Success,False,100.58,11926.2,synthetic
+LNCH-2020-929,MSN-2021-2303,2020-10-14,2020,10,Vulcan Centaur,Cape Canaveral SLC-40,United States,Success,True,171.93,22664.8,synthetic
+LNCH-2023-930,MSN-2023-1489,2023-06-14,2023,6,Soyuz-2,Kennedy Space Center LC-39A,United States,Success,True,160.78,14195.7,synthetic
+LNCH-2012-931,MSN-2014-2007,2012-11-09,2012,11,Starship Heavy,Kennedy Space Center LC-39A,United States,Success,False,90.95,15897.1,synthetic
+LNCH-2021-932,MSN-2026-2376,2021-09-07,2021,9,Atlas V,Kourou ELA-4,Europe,Success,True,143.1,5921.9,synthetic
+LNCH-2015-933,MSN-2019-1842,2015-07-29,2015,7,Vulcan Centaur,Satish Dhawan SHAR,India,Success,False,41.26,22100.0,synthetic
+LNCH-2021-934,MSN-2016-1023,2021-04-30,2021,4,Starship Heavy,Tanegashima Space Center,Japan,Success,True,49.26,2223.0,synthetic
+LNCH-2019-935,MSN-2014-2313,2019-01-27,2019,1,Long March 5,Tanegashima Space Center,Japan,Success,True,164.1,19865.7,synthetic
+LNCH-2015-936,MSN-2022-2015,2015-12-30,2015,12,Falcon 9,Cape Canaveral SLC-40,United States,Success,False,113.88,18558.8,synthetic
+LNCH-2025-937,MSN-2015-1617,2025-04-08,2025,4,Starship Heavy,Baikonur Cosmodrome,Russia,Success,True,142.31,12880.2,synthetic
+LNCH-2014-938,MSN-2014-1021,2014-05-27,2014,5,PSLV,Tanegashima Space Center,Japan,Success,False,112.46,18728.0,synthetic
+LNCH-2020-939,MSN-2012-1886,2020-05-16,2020,5,Long March 5,Kennedy Space Center LC-39A,United States,Success,True,79.86,16667.4,synthetic
+LNCH-2016-940,MSN-2022-2270,2016-07-12,2016,7,Ariane 6,Kourou ELA-4,Europe,Success,False,65.86,2516.8,synthetic
+LNCH-2010-941,MSN-2013-1241,2010-03-23,2010,3,Starship Heavy,Kennedy Space Center LC-39A,United States,Success,True,161.68,12737.9,synthetic
+LNCH-2024-942,MSN-2026-1798,2024-11-16,2024,11,GSLV Mk III,Tanegashima Space Center,Japan,Success,True,143.51,3085.7,synthetic
+LNCH-2021-943,MSN-2019-2063,2021-01-17,2021,1,Long March 5,Baikonur Cosmodrome,Russia,Catastrophic Failure,True,127.38,20092.8,synthetic
+LNCH-2015-944,MSN-2010-1085,2015-11-09,2015,11,Vulcan Centaur,Kourou ELA-4,Europe,Success,True,132.26,21742.8,synthetic
+LNCH-2026-945,MSN-2026-1441,2026-08-27,2026,8,Falcon 9,Jiuquan SLS,China,Success,True,179.42,23355.2,synthetic
+LNCH-2010-946,MSN-2017-2282,2010-10-03,2010,10,Long March 5,Satish Dhawan SHAR,India,Success,False,40.71,17462.0,synthetic
+LNCH-2017-947,MSN-2026-1866,2017-09-04,2017,9,H3 Launch Vehicle,Kennedy Space Center LC-39A,United States,Success,True,149.37,4031.7,synthetic
+LNCH-2018-948,MSN-2025-1423,2018-02-10,2018,2,Falcon 9,Kennedy Space Center LC-39A,United States,Success,True,124.99,14837.1,synthetic
+LNCH-2023-949,MSN-2025-1780,2023-12-18,2023,12,PSLV,Satish Dhawan SHAR,India,Success,True,42.99,14889.1,synthetic
+LNCH-2013-950,MSN-2012-1733,2013-09-14,2013,9,Soyuz-2,Kennedy Space Center LC-39A,United States,Success,False,77.06,1273.3,synthetic
+LNCH-2015-951,MSN-2010-1901,2015-06-29,2015,6,H3 Launch Vehicle,Cape Canaveral SLC-40,United States,Success,True,123.04,19514.0,synthetic
+LNCH-2016-952,MSN-2014-1123,2016-03-04,2016,3,Ariane 6,Tanegashima Space Center,Japan,Success,True,104.81,22276.1,synthetic
+LNCH-2010-953,MSN-2019-1298,2010-07-30,2010,7,H3 Launch Vehicle,Cape Canaveral SLC-40,United States,Success,False,70.1,13932.1,synthetic
+LNCH-2017-954,MSN-2021-1045,2017-04-27,2017,4,GSLV Mk III,Cape Canaveral SLC-40,United States,Success,True,68.07,16346.1,synthetic
+LNCH-2021-955,MSN-2015-2433,2021-12-04,2021,12,Falcon 9,Kennedy Space Center LC-39A,United States,Success,True,159.61,22478.8,synthetic
+LNCH-2012-956,MSN-2021-1113,2012-10-31,2012,10,GSLV Mk III,Tanegashima Space Center,Japan,Success,True,162.43,19024.2,synthetic
+LNCH-2010-957,MSN-2020-1486,2010-09-24,2010,9,Falcon 9,Jiuquan SLS,China,Success,False,81.63,7763.8,synthetic
+LNCH-2020-958,MSN-2013-2057,2020-01-21,2020,1,Long March 5,Kennedy Space Center LC-39A,United States,Success,False,145.91,12267.4,synthetic
+LNCH-2020-959,MSN-2021-2201,2020-01-11,2020,1,Vulcan Centaur,Kennedy Space Center LC-39A,United States,Catastrophic Failure,True,61.05,20147.4,synthetic
+LNCH-2017-960,MSN-2025-2392,2017-05-23,2017,5,Long March 5,Baikonur Cosmodrome,Russia,Success,True,113.68,3593.5,synthetic
+LNCH-2011-961,MSN-2025-1321,2011-11-25,2011,11,Starship Heavy,Jiuquan SLS,China,Catastrophic Failure,True,160.34,5481.7,synthetic
+LNCH-2021-962,MSN-2020-1282,2021-07-22,2021,7,Soyuz-2,Tanegashima Space Center,Japan,Success,False,159.27,14580.9,synthetic
+LNCH-2012-963,MSN-2016-1703,2012-03-17,2012,3,Ariane 6,Jiuquan SLS,China,Success,False,91.12,11848.5,synthetic
+LNCH-2019-964,MSN-2020-2081,2019-05-24,2019,5,Vulcan Centaur,Tanegashima Space Center,Japan,Success,True,141.33,8873.2,synthetic
+LNCH-2017-965,MSN-2026-1084,2017-08-04,2017,8,PSLV,Jiuquan SLS,China,Catastrophic Failure,True,171.16,4025.7,synthetic
+LNCH-2019-966,MSN-2019-2488,2019-06-30,2019,6,H3 Launch Vehicle,Baikonur Cosmodrome,Russia,Success,False,158.3,7169.1,synthetic
+LNCH-2021-967,MSN-2021-1793,2021-04-03,2021,4,Atlas V,Satish Dhawan SHAR,India,Success,True,151.89,1539.6,synthetic
+LNCH-2025-968,MSN-2017-1602,2025-11-22,2025,11,Vulcan Centaur,Tanegashima Space Center,Japan,Success,True,79.44,18059.5,synthetic
+LNCH-2025-969,MSN-2013-1666,2025-12-28,2025,12,Falcon 9,Tanegashima Space Center,Japan,Success,True,120.1,16120.5,synthetic
+LNCH-2016-970,MSN-2022-2457,2016-06-18,2016,6,GSLV Mk III,Satish Dhawan SHAR,India,Success,True,73.23,8779.5,synthetic
+LNCH-2019-971,MSN-2022-1845,2019-12-14,2019,12,H3 Launch Vehicle,Tanegashima Space Center,Japan,Success,False,88.53,9232.4,synthetic
+LNCH-2025-972,MSN-2015-1430,2025-08-26,2025,8,Long March 5,Tanegashima Space Center,Japan,Success,False,111.16,2973.9,synthetic
+LNCH-2011-973,MSN-2022-2457,2011-05-23,2011,5,Ariane 6,Jiuquan SLS,China,Success,True,61.36,11201.0,synthetic
+LNCH-2017-974,MSN-2024-1915,2017-05-25,2017,5,Starship Heavy,Kourou ELA-4,Europe,Success,True,109.53,12444.1,synthetic
+LNCH-2018-975,MSN-2021-1368,2018-05-07,2018,5,Long March 5,Jiuquan SLS,China,Success,False,163.11,3878.4,synthetic
+LNCH-2014-976,MSN-2025-1916,2014-11-12,2014,11,Ariane 6,Jiuquan SLS,China,Success,False,143.13,19718.9,synthetic
+LNCH-2015-977,MSN-2023-2220,2015-07-28,2015,7,Starship Heavy,Satish Dhawan SHAR,India,Success,True,45.4,12450.9,synthetic
+LNCH-2025-978,MSN-2024-1677,2025-12-10,2025,12,Long March 5,Kourou ELA-4,Europe,Success,True,177.66,13681.2,synthetic
+LNCH-2016-979,MSN-2025-2409,2016-12-18,2016,12,Soyuz-2,Jiuquan SLS,China,Success,False,165.49,22222.1,synthetic
+LNCH-2012-980,MSN-2016-1873,2012-05-14,2012,5,Ariane 6,Satish Dhawan SHAR,India,Success,True,134.88,8973.0,synthetic
+LNCH-2019-981,MSN-2024-2000,2019-06-18,2019,6,Atlas V,Baikonur Cosmodrome,Russia,Success,True,86.18,14563.6,synthetic
+LNCH-2017-982,MSN-2015-1345,2017-09-15,2017,9,Starship Heavy,Cape Canaveral SLC-40,United States,Success,False,102.55,15428.7,synthetic
+LNCH-2010-983,MSN-2014-1616,2010-06-20,2010,6,Atlas V,Satish Dhawan SHAR,India,Success,True,167.58,23674.6,synthetic
+LNCH-2021-984,MSN-2024-2391,2021-01-03,2021,1,Starship Heavy,Kennedy Space Center LC-39A,United States,Success,False,90.46,19560.1,synthetic
+LNCH-2016-985,MSN-2015-1753,2016-05-07,2016,5,Atlas V,Tanegashima Space Center,Japan,Success,True,127.87,7499.8,synthetic
+LNCH-2021-986,MSN-2026-1101,2021-02-18,2021,2,Falcon 9,Baikonur Cosmodrome,Russia,Success,False,79.61,9511.4,synthetic
+LNCH-2022-987,MSN-2025-1593,2022-06-19,2022,6,Long March 5,Kennedy Space Center LC-39A,United States,Success,False,127.15,8865.6,synthetic
+LNCH-2018-988,MSN-2019-1383,2018-02-26,2018,2,Atlas V,Satish Dhawan SHAR,India,Success,False,178.89,23003.9,synthetic
+LNCH-2024-989,MSN-2018-1416,2024-11-18,2024,11,Long March 5,Kennedy Space Center LC-39A,United States,Success,True,107.71,23328.3,synthetic
+LNCH-2019-990,MSN-2015-2042,2019-04-20,2019,4,Falcon 9,Satish Dhawan SHAR,India,Success,True,154.85,15171.0,synthetic
+LNCH-2010-991,MSN-2025-2188,2010-03-05,2010,3,Atlas V,Kourou ELA-4,Europe,Partial Failure,True,110.38,18508.2,synthetic
+LNCH-2011-992,MSN-2013-1411,2011-02-21,2011,2,Atlas V,Kourou ELA-4,Europe,Success,False,52.43,21964.4,synthetic
+LNCH-2025-993,MSN-2016-2145,2025-04-06,2025,4,Long March 5,Satish Dhawan SHAR,India,Success,True,53.09,17574.9,synthetic
+LNCH-2020-994,MSN-2025-1474,2020-03-31,2020,3,PSLV,Jiuquan SLS,China,Success,False,117.84,21427.4,synthetic
+LNCH-2023-995,MSN-2013-1496,2023-10-26,2023,10,Atlas V,Baikonur Cosmodrome,Russia,Success,True,135.2,2021.9,synthetic
+LNCH-2022-996,MSN-2026-2036,2022-11-30,2022,11,Vulcan Centaur,Jiuquan SLS,China,Success,False,130.47,1757.3,synthetic
+LNCH-2011-997,MSN-2016-1754,2011-12-22,2011,12,Long March 5,Cape Canaveral SLC-40,United States,Success,True,67.57,2984.8,synthetic
+LNCH-2012-998,MSN-2021-1419,2012-06-03,2012,6,Ariane 6,Kourou ELA-4,Europe,Success,True,62.65,7698.8,synthetic
+LNCH-2010-999,MSN-2015-2450,2010-09-28,2010,9,PSLV,Jiuquan SLS,China,Success,True,134.9,6611.9,synthetic
+LNCH-2014-1000,MSN-2013-1887,2014-11-14,2014,11,PSLV,Jiuquan SLS,China,Success,False,122.24,5416.7,synthetic
+LNCH-2010-1001,MSN-2020-2370,2010-01-20,2010,1,PSLV,Baikonur Cosmodrome,Russia,Success,True,118.47,11404.1,synthetic
+LNCH-2013-1002,MSN-2019-1128,2013-10-21,2013,10,Vulcan Centaur,Baikonur Cosmodrome,Russia,Success,True,126.09,13243.3,synthetic
+LNCH-2016-1003,MSN-2020-2064,2016-05-10,2016,5,Atlas V,Satish Dhawan SHAR,India,Success,False,148.21,11055.9,synthetic
+LNCH-2015-1004,MSN-2025-1559,2015-07-29,2015,7,Ariane 6,Baikonur Cosmodrome,Russia,Success,True,41.11,6503.0,synthetic
+LNCH-2021-1005,MSN-2012-1189,2021-06-30,2021,6,Ariane 6,Baikonur Cosmodrome,Russia,Success,False,66.09,18663.1,synthetic
+LNCH-2019-1006,MSN-2025-1984,2019-10-04,2019,10,GSLV Mk III,Kourou ELA-4,Europe,Success,True,141.91,10617.0,synthetic
+LNCH-2016-1007,MSN-2020-1061,2016-03-01,2016,3,GSLV Mk III,Tanegashima Space Center,Japan,Partial Failure,False,130.75,5626.0,synthetic
+LNCH-2025-1008,MSN-2010-1340,2025-05-07,2025,5,Starship Heavy,Tanegashima Space Center,Japan,Success,True,154.86,10467.4,synthetic
+LNCH-2019-1009,MSN-2017-2333,2019-12-03,2019,12,Long March 5,Jiuquan SLS,China,Success,True,53.01,17001.7,synthetic
+LNCH-2020-1010,MSN-2017-1619,2020-08-22,2020,8,GSLV Mk III,Satish Dhawan SHAR,India,Success,True,119.31,8293.1,synthetic
+LNCH-2021-1011,MSN-2026-2359,2021-10-22,2021,10,Atlas V,Satish Dhawan SHAR,India,Success,False,170.52,7065.2,synthetic
+LNCH-2023-1012,MSN-2019-2165,2023-09-05,2023,9,H3 Launch Vehicle,Kennedy Space Center LC-39A,United States,Success,True,86.89,3294.2,synthetic
+LNCH-2017-1013,MSN-2021-1895,2017-05-03,2017,5,Soyuz-2,Kourou ELA-4,Europe,Success,False,131.5,5668.4,synthetic
+LNCH-2016-1014,MSN-2016-1312,2016-04-05,2016,4,Soyuz-2,Cape Canaveral SLC-40,United States,Success,True,146.26,20509.1,synthetic
+LNCH-2022-1015,MSN-2013-1768,2022-09-06,2022,9,GSLV Mk III,Tanegashima Space Center,Japan,Partial Failure,True,94.4,10737.2,synthetic
+LNCH-2021-1016,MSN-2021-1249,2021-08-25,2021,8,Vulcan Centaur,Cape Canaveral SLC-40,United States,Success,True,157.57,14345.1,synthetic
+LNCH-2013-1017,MSN-2011-2361,2013-04-10,2013,4,Ariane 6,Kennedy Space Center LC-39A,United States,Success,False,93.72,12386.7,synthetic
+LNCH-2014-1018,MSN-2014-1463,2014-03-02,2014,3,Starship Heavy,Cape Canaveral SLC-40,United States,Success,True,72.26,17319.7,synthetic
+LNCH-2016-1019,MSN-2020-1792,2016-01-20,2016,1,Atlas V,Cape Canaveral SLC-40,United States,Success,True,112.06,12416.2,synthetic
+LNCH-2016-1020,MSN-2022-2066,2016-09-30,2016,9,Long March 5,Baikonur Cosmodrome,Russia,Success,False,110.2,2373.2,synthetic
+LNCH-2015-1021,MSN-2022-1675,2015-12-15,2015,12,Long March 5,Tanegashima Space Center,Japan,Success,True,93.91,19441.9,synthetic
+LNCH-2017-1022,MSN-2012-1920,2017-04-20,2017,4,Soyuz-2,Baikonur Cosmodrome,Russia,Success,True,154.72,22086.1,synthetic
+LNCH-2018-1023,MSN-2017-1942,2018-05-05,2018,5,Vulcan Centaur,Tanegashima Space Center,Japan,Success,False,118.63,1248.5,synthetic
+LNCH-2017-1024,MSN-2011-1137,2017-11-28,2017,11,Ariane 6,Kourou ELA-4,Europe,Success,False,129.21,12120.7,synthetic
+LNCH-2019-1025,MSN-2026-2308,2019-07-09,2019,7,GSLV Mk III,Kourou ELA-4,Europe,Success,True,76.96,23273.0,synthetic
+LNCH-2015-1026,MSN-2014-1956,2015-01-11,2015,1,Falcon 9,Kennedy Space Center LC-39A,United States,Success,False,97.55,7022.2,synthetic
+LNCH-2019-1027,MSN-2014-1395,2019-09-29,2019,9,GSLV Mk III,Kourou ELA-4,Europe,Success,False,64.86,2601.1,synthetic
+LNCH-2013-1028,MSN-2018-2402,2013-05-21,2013,5,Vulcan Centaur,Cape Canaveral SLC-40,United States,Success,False,102.03,11594.8,synthetic
+LNCH-2012-1029,MSN-2017-1755,2012-03-28,2012,3,Ariane 6,Tanegashima Space Center,Japan,Success,True,74.94,3088.3,synthetic
+LNCH-2022-1030,MSN-2024-2170,2022-11-19,2022,11,Vulcan Centaur,Cape Canaveral SLC-40,United States,Success,False,133.89,16188.7,synthetic
+LNCH-2017-1031,MSN-2011-1766,2017-08-19,2017,8,Atlas V,Satish Dhawan SHAR,India,Success,True,71.33,21244.0,synthetic
+LNCH-2022-1032,MSN-2026-1101,2022-04-11,2022,4,Vulcan Centaur,Kourou ELA-4,Europe,Success,True,127.63,23746.7,synthetic
+LNCH-2014-1033,MSN-2016-1380,2014-03-01,2014,3,H3 Launch Vehicle,Tanegashima Space Center,Japan,Success,True,161.52,12048.1,synthetic
+LNCH-2019-1034,MSN-2019-2454,2019-06-30,2019,6,PSLV,Satish Dhawan SHAR,India,Success,True,159.59,16512.9,synthetic
+LNCH-2025-1035,MSN-2022-1097,2025-07-08,2025,7,GSLV Mk III,Baikonur Cosmodrome,Russia,Success,True,69.01,13693.7,synthetic
+LNCH-2010-1036,MSN-2025-1083,2010-01-13,2010,1,Vulcan Centaur,Satish Dhawan SHAR,India,Success,True,175.88,17996.3,synthetic
+LNCH-2021-1037,MSN-2020-1078,2021-01-05,2021,1,Long March 5,Cape Canaveral SLC-40,United States,Success,True,57.77,3058.7,synthetic
+LNCH-2015-1038,MSN-2015-1940,2015-12-30,2015,12,GSLV Mk III,Kourou ELA-4,Europe,Success,True,156.46,10466.6,synthetic
+LNCH-2023-1039,MSN-2018-1042,2023-11-12,2023,11,Long March 5,Jiuquan SLS,China,Success,True,106.23,17235.0,synthetic
+LNCH-2017-1040,MSN-2022-2270,2017-11-18,2017,11,Soyuz-2,Jiuquan SLS,China,Partial Failure,True,174.05,19480.4,synthetic
+LNCH-2014-1041,MSN-2021-2031,2014-11-01,2014,11,PSLV,Kourou ELA-4,Europe,Partial Failure,True,83.7,20975.5,synthetic
+LNCH-2024-1042,MSN-2022-1981,2024-01-28,2024,1,Long March 5,Satish Dhawan SHAR,India,Success,True,70.92,10960.8,synthetic
+LNCH-2010-1043,MSN-2017-1313,2010-03-30,2010,3,Ariane 6,Jiuquan SLS,China,Success,True,96.2,14599.0,synthetic
+LNCH-2016-1044,MSN-2013-1411,2016-06-13,2016,6,Starship Heavy,Kourou ELA-4,Europe,Success,True,79.55,11391.9,synthetic
+LNCH-2013-1045,MSN-2012-1580,2013-06-23,2013,6,PSLV,Cape Canaveral SLC-40,United States,Success,True,125.34,11311.1,synthetic
+LNCH-2015-1046,MSN-2018-1178,2015-08-02,2015,8,Ariane 6,Tanegashima Space Center,Japan,Partial Failure,False,99.5,9211.7,synthetic
+LNCH-2010-1047,MSN-2021-1453,2010-12-21,2010,12,PSLV,Kennedy Space Center LC-39A,United States,Success,False,52.1,10635.1,synthetic
+LNCH-2017-1048,MSN-2017-2044,2017-12-24,2017,12,Falcon 9,Kourou ELA-4,Europe,Success,False,146.8,6912.5,synthetic
+LNCH-2017-1049,MSN-2022-1692,2017-04-23,2017,4,Ariane 6,Kourou ELA-4,Europe,Success,False,103.97,4365.7,synthetic
+LNCH-2011-1050,MSN-2012-1495,2011-03-20,2011,3,Soyuz-2,Baikonur Cosmodrome,Russia,Catastrophic Failure,True,164.83,18240.5,synthetic
+LNCH-2013-1051,MSN-2013-2482,2013-03-25,2013,3,Long March 5,Satish Dhawan SHAR,India,Success,True,41.08,21475.1,synthetic
+LNCH-2017-1052,MSN-2019-2403,2017-12-28,2017,12,Soyuz-2,Baikonur Cosmodrome,Russia,Success,True,108.24,10918.9,synthetic
+LNCH-2010-1053,MSN-2021-1946,2010-01-23,2010,1,Atlas V,Kourou ELA-4,Europe,Success,True,176.01,3097.6,synthetic
+LNCH-2021-1054,MSN-2012-1784,2021-09-20,2021,9,Starship Heavy,Cape Canaveral SLC-40,United States,Success,True,123.84,19672.4,synthetic
+LNCH-2015-1055,MSN-2020-1384,2015-05-28,2015,5,H3 Launch Vehicle,Kourou ELA-4,Europe,Success,True,146.43,22154.2,synthetic
+LNCH-2010-1056,MSN-2020-1758,2010-05-17,2010,5,GSLV Mk III,Baikonur Cosmodrome,Russia,Success,True,79.46,14487.0,synthetic
+LNCH-2017-1057,MSN-2017-1857,2017-03-03,2017,3,Long March 5,Cape Canaveral SLC-40,United States,Partial Failure,False,154.48,21637.6,synthetic
+LNCH-2023-1058,MSN-2021-1385,2023-01-18,2023,1,Ariane 6,Kourou ELA-4,Europe,Success,True,138.88,6380.2,synthetic
+LNCH-2013-1059,MSN-2014-1361,2013-04-26,2013,4,Soyuz-2,Kourou ELA-4,Europe,Success,True,77.11,18297.2,synthetic
+LNCH-2017-1060,MSN-2017-2401,2017-07-01,2017,7,Long March 5,Baikonur Cosmodrome,Russia,Success,True,55.45,1759.7,synthetic
+LNCH-2026-1061,MSN-2021-1623,2026-03-02,2026,3,Atlas V,Cape Canaveral SLC-40,United States,Success,True,166.83,8564.3,synthetic
+LNCH-2016-1062,MSN-2023-2033,2016-11-01,2016,11,Falcon 9,Jiuquan SLS,China,Success,False,53.79,15034.9,synthetic
+LNCH-2014-1063,MSN-2012-1801,2014-04-09,2014,4,Long March 5,Kourou ELA-4,Europe,Success,True,74.69,23555.9,synthetic
+LNCH-2014-1064,MSN-2021-1487,2014-07-22,2014,7,Falcon 9,Tanegashima Space Center,Japan,Success,False,107.48,18807.2,synthetic
+LNCH-2025-1065,MSN-2015-1396,2025-09-12,2025,9,Starship Heavy,Kourou ELA-4,Europe,Success,True,161.87,1266.1,synthetic
+LNCH-2022-1066,MSN-2016-1244,2022-02-12,2022,2,Soyuz-2,Kourou ELA-4,Europe,Success,False,72.66,22382.9,synthetic
+LNCH-2010-1067,MSN-2025-2324,2010-09-28,2010,9,Ariane 6,Baikonur Cosmodrome,Russia,Success,True,150.08,1444.5,synthetic
+LNCH-2026-1068,MSN-2011-1902,2026-09-30,2026,9,Falcon 9,Kourou ELA-4,Europe,Success,True,154.65,8975.0,synthetic
+LNCH-2025-1069,MSN-2026-2274,2025-09-13,2025,9,Ariane 6,Tanegashima Space Center,Japan,Success,True,165.79,20230.6,synthetic
+LNCH-2015-1070,MSN-2019-1434,2015-01-09,2015,1,H3 Launch Vehicle,Tanegashima Space Center,Japan,Success,True,105.9,11439.0,synthetic
+LNCH-2022-1071,MSN-2024-1779,2022-02-03,2022,2,Vulcan Centaur,Kourou ELA-4,Europe,Success,True,103.56,14997.0,synthetic
+LNCH-2018-1072,MSN-2022-1726,2018-05-30,2018,5,H3 Launch Vehicle,Cape Canaveral SLC-40,United States,Success,True,109.1,18060.5,synthetic
+LNCH-2025-1073,MSN-2023-2152,2025-06-18,2025,6,PSLV,Tanegashima Space Center,Japan,Success,True,146.89,2777.5,synthetic
+LNCH-2011-1074,MSN-2023-1710,2011-04-14,2011,4,Long March 5,Baikonur Cosmodrome,Russia,Success,True,51.75,9828.1,synthetic
+LNCH-2022-1075,MSN-2023-1506,2022-04-18,2022,4,Atlas V,Kennedy Space Center LC-39A,United States,Success,False,122.44,23886.6,synthetic
+LNCH-2018-1076,MSN-2019-2318,2018-06-06,2018,6,Starship Heavy,Kourou ELA-4,Europe,Success,True,112.68,17465.2,synthetic
+LNCH-2015-1077,MSN-2012-1614,2015-10-13,2015,10,Falcon 9,Baikonur Cosmodrome,Russia,Success,False,89.05,17556.2,synthetic
+LNCH-2024-1078,MSN-2022-1726,2024-02-13,2024,2,Ariane 6,Kourou ELA-4,Europe,Success,True,86.77,5820.0,synthetic
+LNCH-2018-1079,MSN-2019-1043,2018-04-08,2018,4,Starship Heavy,Satish Dhawan SHAR,India,Success,False,161.1,1352.9,synthetic
+LNCH-2015-1080,MSN-2021-1368,2015-11-08,2015,11,Falcon 9,Satish Dhawan SHAR,India,Success,False,115.32,15975.1,synthetic
+LNCH-2019-1081,MSN-2020-2336,2019-07-17,2019,7,Ariane 6,Kennedy Space Center LC-39A,United States,Success,False,55.49,16285.3,synthetic
+LNCH-2013-1082,MSN-2012-1053,2013-08-04,2013,8,Ariane 6,Satish Dhawan SHAR,India,Success,True,132.07,19158.1,synthetic
+LNCH-2011-1083,MSN-2020-2149,2011-06-16,2011,6,Soyuz-2,Cape Canaveral SLC-40,United States,Success,True,160.5,1655.3,synthetic
+LNCH-2012-1084,MSN-2010-2241,2012-08-20,2012,8,PSLV,Cape Canaveral SLC-40,United States,Success,False,157.38,14598.1,synthetic
+LNCH-2011-1085,MSN-2019-1570,2011-07-12,2011,7,H3 Launch Vehicle,Jiuquan SLS,China,Success,True,154.04,2733.1,synthetic
+LNCH-2020-1086,MSN-2025-1100,2020-06-25,2020,6,PSLV,Cape Canaveral SLC-40,United States,Success,True,109.94,10461.7,synthetic
+LNCH-2013-1087,MSN-2025-1049,2013-10-08,2013,10,Long March 5,Jiuquan SLS,China,Success,True,133.38,13144.5,synthetic
+LNCH-2020-1088,MSN-2012-2005,2020-06-05,2020,6,Starship Heavy,Tanegashima Space Center,Japan,Success,True,51.85,16499.4,synthetic
+LNCH-2020-1089,MSN-2010-2428,2020-05-30,2020,5,Soyuz-2,Kennedy Space Center LC-39A,United States,Success,True,58.12,23061.7,synthetic
+LNCH-2012-1090,MSN-2017-1687,2012-05-11,2012,5,Soyuz-2,Jiuquan SLS,China,Success,True,131.85,17963.7,synthetic
+LNCH-2018-1091,MSN-2014-1888,2018-12-31,2018,12,Falcon 9,Kourou ELA-4,Europe,Success,False,102.94,15694.9,synthetic
+LNCH-2023-1092,MSN-2010-1799,2023-05-04,2023,5,H3 Launch Vehicle,Kourou ELA-4,Europe,Success,True,55.69,14716.8,synthetic
+LNCH-2013-1093,MSN-2017-1075,2013-10-02,2013,10,Long March 5,Kennedy Space Center LC-39A,United States,Success,True,175.93,9599.4,synthetic
+LNCH-2015-1094,MSN-2024-2493,2015-05-22,2015,5,H3 Launch Vehicle,Tanegashima Space Center,Japan,Success,True,132.81,19373.4,synthetic
+LNCH-2026-1095,MSN-2022-2372,2026-05-22,2026,5,H3 Launch Vehicle,Jiuquan SLS,China,Success,True,89.24,2310.5,synthetic
+LNCH-2018-1096,MSN-2012-1869,2018-01-02,2018,1,Starship Heavy,Cape Canaveral SLC-40,United States,Success,True,77.2,19678.8,synthetic
+LNCH-2021-1097,MSN-2026-2308,2021-10-10,2021,10,Starship Heavy,Satish Dhawan SHAR,India,Success,True,90.83,3950.8,synthetic
+LNCH-2012-1098,MSN-2020-1231,2012-12-06,2012,12,Starship Heavy,Baikonur Cosmodrome,Russia,Success,True,109.53,12818.7,synthetic
+LNCH-2016-1099,MSN-2015-1923,2016-04-30,2016,4,H3 Launch Vehicle,Satish Dhawan SHAR,India,Success,True,92.33,23655.8,synthetic
+LNCH-2023-1100,MSN-2021-2388,2023-12-22,2023,12,Long March 5,Baikonur Cosmodrome,Russia,Success,True,117.01,6128.5,synthetic
+LNCH-2015-1101,MSN-2019-1791,2015-04-11,2015,4,H3 Launch Vehicle,Kourou ELA-4,Europe,Success,True,122.64,18339.4,synthetic
+LNCH-2013-1102,MSN-2017-1296,2013-12-24,2013,12,Falcon 9,Kourou ELA-4,Europe,Success,True,125.63,2604.1,synthetic
+LNCH-2018-1103,MSN-2015-1872,2018-07-10,2018,7,H3 Launch Vehicle,Kourou ELA-4,Europe,Success,True,60.82,19664.7,synthetic
+LNCH-2012-1104,MSN-2022-1182,2012-07-05,2012,7,H3 Launch Vehicle,Jiuquan SLS,China,Success,False,174.7,14314.5,synthetic
+LNCH-2014-1105,MSN-2023-1489,2014-09-24,2014,9,Falcon 9,Kourou ELA-4,Europe,Success,True,127.8,6793.2,synthetic
+LNCH-2022-1106,MSN-2011-2140,2022-06-14,2022,6,PSLV,Satish Dhawan SHAR,India,Launch Abort,True,84.93,10167.6,synthetic
+LNCH-2012-1107,MSN-2013-2482,2012-12-22,2012,12,Starship Heavy,Jiuquan SLS,China,Success,False,72.5,8710.9,synthetic
+LNCH-2017-1108,MSN-2010-1867,2017-06-08,2017,6,Ariane 6,Kennedy Space Center LC-39A,United States,Success,True,59.01,16602.2,synthetic
+LNCH-2022-1109,MSN-2019-1519,2022-04-24,2022,4,Starship Heavy,Satish Dhawan SHAR,India,Success,True,57.34,5447.6,synthetic
+LNCH-2013-1110,MSN-2013-2210,2013-07-15,2013,7,H3 Launch Vehicle,Satish Dhawan SHAR,India,Success,True,80.65,9599.3,synthetic
+LNCH-2020-1111,MSN-2022-2168,2020-02-21,2020,2,Ariane 6,Kennedy Space Center LC-39A,United States,Success,True,59.24,6239.4,synthetic
+LNCH-2019-1112,MSN-2017-1942,2019-11-18,2019,11,Vulcan Centaur,Baikonur Cosmodrome,Russia,Success,False,86.99,22465.6,synthetic
+LNCH-2015-1113,MSN-2017-2333,2015-06-25,2015,6,GSLV Mk III,Jiuquan SLS,China,Success,True,140.97,20443.0,synthetic
+LNCH-2018-1114,MSN-2020-2319,2018-05-18,2018,5,Falcon 9,Tanegashima Space Center,Japan,Success,False,85.59,12197.7,synthetic
+LNCH-2024-1115,MSN-2015-2484,2024-10-22,2024,10,Starship Heavy,Satish Dhawan SHAR,India,Success,True,51.04,8054.9,synthetic
+LNCH-2011-1116,MSN-2020-2370,2011-08-31,2011,8,GSLV Mk III,Kennedy Space Center LC-39A,United States,Success,True,82.25,8479.2,synthetic
+LNCH-2017-1117,MSN-2019-2029,2017-11-05,2017,11,Atlas V,Kennedy Space Center LC-39A,United States,Success,True,136.59,12484.9,synthetic
+LNCH-2010-1118,MSN-2023-2203,2010-09-17,2010,9,Ariane 6,Tanegashima Space Center,Japan,Success,False,62.11,15310.9,synthetic
+LNCH-2021-1119,MSN-2021-1385,2021-07-25,2021,7,Soyuz-2,Cape Canaveral SLC-40,United States,Success,True,138.26,9708.0,synthetic
+LNCH-2024-1120,MSN-2015-1855,2024-06-08,2024,6,Ariane 6,Kourou ELA-4,Europe,Partial Failure,True,75.92,5747.9,synthetic
+LNCH-2012-1121,MSN-2019-2097,2012-04-02,2012,4,Soyuz-2,Satish Dhawan SHAR,India,Success,False,176.71,19590.2,synthetic
+LNCH-2022-1122,MSN-2011-1664,2022-01-17,2022,1,Falcon 9,Kourou ELA-4,Europe,Success,False,120.17,7407.9,synthetic
+LNCH-2022-1123,MSN-2024-1558,2022-12-28,2022,12,GSLV Mk III,Baikonur Cosmodrome,Russia,Success,True,48.46,17544.3,synthetic
+LNCH-2010-1124,MSN-2019-1298,2010-05-09,2010,5,Starship Heavy,Kourou ELA-4,Europe,Success,True,123.02,7138.1,synthetic
+LNCH-2014-1125,MSN-2019-1570,2014-04-30,2014,4,H3 Launch Vehicle,Kourou ELA-4,Europe,Success,True,56.06,23036.1,synthetic
+LNCH-2012-1126,MSN-2013-2074,2012-05-24,2012,5,Atlas V,Tanegashima Space Center,Japan,Success,True,116.4,15800.5,synthetic
+LNCH-2019-1127,MSN-2026-2274,2019-04-29,2019,4,Atlas V,Jiuquan SLS,China,Success,True,174.31,18588.7,synthetic
+LNCH-2024-1128,MSN-2019-1502,2024-01-29,2024,1,Long March 5,Jiuquan SLS,China,Success,False,175.96,8517.9,synthetic
+LNCH-2021-1129,MSN-2019-2029,2021-11-09,2021,11,Atlas V,Kourou ELA-4,Europe,Success,True,52.48,17539.4,synthetic
+LNCH-2010-1130,MSN-2022-1386,2010-11-04,2010,11,GSLV Mk III,Tanegashima Space Center,Japan,Success,False,91.72,2413.2,synthetic
+LNCH-2012-1131,MSN-2020-1843,2012-01-28,2012,1,GSLV Mk III,Tanegashima Space Center,Japan,Success,True,62.59,5472.2,synthetic
+LNCH-2017-1132,MSN-2013-1581,2017-07-01,2017,7,Soyuz-2,Kourou ELA-4,Europe,Launch Abort,True,40.45,5255.4,synthetic
+LNCH-2012-1133,MSN-2023-1472,2012-10-08,2012,10,Long March 5,Tanegashima Space Center,Japan,Success,True,75.09,10078.0,synthetic
+LNCH-2025-1134,MSN-2017-1347,2025-11-27,2025,11,Ariane 6,Baikonur Cosmodrome,Russia,Success,True,74.99,7686.4,synthetic
+LNCH-2020-1135,MSN-2010-1170,2020-12-29,2020,12,Starship Heavy,Tanegashima Space Center,Japan,Success,True,133.3,6422.9,synthetic
+LNCH-2018-1136,MSN-2018-1127,2018-08-20,2018,8,H3 Launch Vehicle,Satish Dhawan SHAR,India,Success,False,156.65,7109.5,synthetic
+LNCH-2025-1137,MSN-2024-2476,2025-05-14,2025,5,Falcon 9,Cape Canaveral SLC-40,United States,Success,False,47.1,19244.1,synthetic
+LNCH-2022-1138,MSN-2014-1157,2022-10-20,2022,10,Falcon 9,Jiuquan SLS,China,Success,False,120.93,18842.4,synthetic
+LNCH-2012-1139,MSN-2024-1388,2012-06-06,2012,6,Long March 5,Satish Dhawan SHAR,India,Success,True,50.44,15618.9,synthetic
+LNCH-2026-1140,MSN-2016-1363,2026-07-22,2026,7,Falcon 9,Cape Canaveral SLC-40,United States,Success,True,63.16,15634.9,synthetic
+LNCH-2020-1141,MSN-2011-1817,2020-12-08,2020,12,Atlas V,Kourou ELA-4,Europe,Success,False,112.04,21844.2,synthetic
+LNCH-2017-1142,MSN-2018-1518,2017-07-27,2017,7,Atlas V,Satish Dhawan SHAR,India,Success,True,142.47,21887.5,synthetic
+LNCH-2016-1143,MSN-2011-1392,2016-01-20,2016,1,PSLV,Cape Canaveral SLC-40,United States,Success,True,67.59,10139.1,synthetic
+LNCH-2026-1144,MSN-2018-1025,2026-05-23,2026,5,Ariane 6,Tanegashima Space Center,Japan,Success,True,87.68,22640.5,synthetic
+LNCH-2011-1145,MSN-2025-1882,2011-07-06,2011,7,Long March 5,Kourou ELA-4,Europe,Partial Failure,True,56.32,15947.0,synthetic
+LNCH-2012-1146,MSN-2026-1764,2012-03-21,2012,3,Starship Heavy,Baikonur Cosmodrome,Russia,Success,True,63.86,2557.6,synthetic
+LNCH-2017-1147,MSN-2020-1622,2017-05-20,2017,5,H3 Launch Vehicle,Kennedy Space Center LC-39A,United States,Success,True,63.83,19769.2,synthetic
+LNCH-2012-1148,MSN-2020-2404,2012-08-09,2012,8,Atlas V,Baikonur Cosmodrome,Russia,Success,True,79.64,14205.8,synthetic
+LNCH-2023-1149,MSN-2021-2031,2023-08-18,2023,8,Atlas V,Kourou ELA-4,Europe,Success,False,55.42,1355.9,synthetic
+LNCH-2011-1150,MSN-2024-2051,2011-11-20,2011,11,Long March 5,Kennedy Space Center LC-39A,United States,Success,True,138.46,21749.2,synthetic
+LNCH-2023-1151,MSN-2025-2188,2023-01-13,2023,1,Atlas V,Kennedy Space Center LC-39A,United States,Success,False,159.66,10597.9,synthetic
+LNCH-2013-1152,MSN-2019-1247,2013-06-14,2013,6,Ariane 6,Cape Canaveral SLC-40,United States,Success,True,44.27,11465.1,synthetic
+LNCH-2010-1153,MSN-2013-1105,2010-12-18,2010,12,H3 Launch Vehicle,Kennedy Space Center LC-39A,United States,Success,True,130.52,17202.0,synthetic
+LNCH-2019-1154,MSN-2020-2030,2019-10-11,2019,10,Vulcan Centaur,Jiuquan SLS,China,Success,True,94.74,9498.9,synthetic
+LNCH-2016-1155,MSN-2025-1151,2016-09-01,2016,9,Vulcan Centaur,Jiuquan SLS,China,Success,True,104.87,22620.5,synthetic
+LNCH-2023-1156,MSN-2023-1506,2023-06-16,2023,6,Soyuz-2,Cape Canaveral SLC-40,United States,Success,False,164.17,8654.4,synthetic
+LNCH-2023-1157,MSN-2012-1852,2023-08-10,2023,8,GSLV Mk III,Cape Canaveral SLC-40,United States,Success,False,137.14,14349.1,synthetic
+LNCH-2017-1158,MSN-2010-1306,2017-01-11,2017,1,Atlas V,Kennedy Space Center LC-39A,United States,Success,True,131.65,21547.4,synthetic
+LNCH-2012-1159,MSN-2017-1126,2012-03-16,2012,3,Vulcan Centaur,Kennedy Space Center LC-39A,United States,Success,False,163.57,6164.2,synthetic
+LNCH-2018-1160,MSN-2014-2092,2018-01-22,2018,1,Ariane 6,Satish Dhawan SHAR,India,Success,True,80.57,13583.7,synthetic
+LNCH-2026-1161,MSN-2020-2489,2026-01-16,2026,1,Ariane 6,Cape Canaveral SLC-40,United States,Success,True,163.4,21189.7,synthetic
+LNCH-2015-1162,MSN-2026-1356,2015-08-25,2015,8,Soyuz-2,Satish Dhawan SHAR,India,Success,False,156.71,15557.9,synthetic
+LNCH-2013-1163,MSN-2023-1285,2013-07-19,2013,7,Long March 5,Cape Canaveral SLC-40,United States,Success,True,171.22,23259.6,synthetic
+LNCH-2015-1164,MSN-2012-1495,2015-09-05,2015,9,Vulcan Centaur,Kennedy Space Center LC-39A,United States,Success,False,101.74,2097.3,synthetic
+LNCH-2020-1165,MSN-2016-1788,2020-01-20,2020,1,Falcon 9,Satish Dhawan SHAR,India,Success,False,148.19,15315.0,synthetic
+LNCH-2026-1166,MSN-2018-2334,2026-05-31,2026,5,H3 Launch Vehicle,Kennedy Space Center LC-39A,United States,Launch Abort,True,109.09,17298.6,synthetic
+LNCH-2019-1167,MSN-2020-1809,2019-07-27,2019,7,Starship Heavy,Baikonur Cosmodrome,Russia,Success,False,47.25,13491.0,synthetic
+LNCH-2021-1168,MSN-2012-1274,2021-03-13,2021,3,Atlas V,Satish Dhawan SHAR,India,Partial Failure,True,102.83,8907.3,synthetic
+LNCH-2016-1169,MSN-2025-2409,2016-07-20,2016,7,Falcon 9,Tanegashima Space Center,Japan,Success,True,73.75,6185.5,synthetic
+LNCH-2010-1170,MSN-2020-1758,2010-10-21,2010,10,Atlas V,Tanegashima Space Center,Japan,Success,True,136.31,19767.8,synthetic
+LNCH-2023-1171,MSN-2016-2009,2023-06-03,2023,6,Ariane 6,Baikonur Cosmodrome,Russia,Success,False,151.76,19538.7,synthetic
+LNCH-2013-1172,MSN-2015-1566,2013-01-31,2013,1,Ariane 6,Kourou ELA-4,Europe,Success,False,88.49,21386.3,synthetic
+LNCH-2019-1173,MSN-2014-2364,2019-10-19,2019,10,Vulcan Centaur,Baikonur Cosmodrome,Russia,Success,True,133.93,14732.4,synthetic
+LNCH-2020-1174,MSN-2015-1889,2020-11-20,2020,11,PSLV,Tanegashima Space Center,Japan,Success,True,117.13,17144.4,synthetic
+LNCH-2014-1175,MSN-2013-2346,2014-12-04,2014,12,Atlas V,Jiuquan SLS,China,Success,True,63.7,22356.2,synthetic
+LNCH-2022-1176,MSN-2025-1780,2022-12-07,2022,12,PSLV,Kennedy Space Center LC-39A,United States,Success,True,127.72,18917.1,synthetic
+LNCH-2020-1177,MSN-2017-2333,2020-04-21,2020,4,Soyuz-2,Jiuquan SLS,China,Success,True,42.99,21369.8,synthetic
+LNCH-2026-1178,MSN-2010-1561,2026-07-18,2026,7,Ariane 6,Cape Canaveral SLC-40,United States,Success,True,162.7,9232.0,synthetic
+LNCH-2020-1179,MSN-2016-2332,2020-03-29,2020,3,PSLV,Tanegashima Space Center,Japan,Success,True,112.95,14927.5,synthetic
+LNCH-2022-1180,MSN-2018-1144,2022-12-25,2022,12,Atlas V,Kennedy Space Center LC-39A,United States,Launch Abort,True,99.69,14392.0,synthetic
+LNCH-2014-1181,MSN-2022-1165,2014-03-13,2014,3,PSLV,Baikonur Cosmodrome,Russia,Success,False,74.92,17322.1,synthetic
+LNCH-2026-1182,MSN-2021-1708,2026-02-23,2026,2,Falcon 9,Cape Canaveral SLC-40,United States,Success,False,177.68,23923.9,synthetic
+LNCH-2010-1183,MSN-2022-1981,2010-01-28,2010,1,Long March 5,Satish Dhawan SHAR,India,Success,True,141.25,13776.0,synthetic
+LNCH-2016-1184,MSN-2010-1578,2016-09-03,2016,9,H3 Launch Vehicle,Jiuquan SLS,China,Success,True,125.67,22015.1,synthetic
+LNCH-2014-1185,MSN-2022-1709,2014-06-09,2014,6,Starship Heavy,Tanegashima Space Center,Japan,Success,False,110.64,17259.2,synthetic
+LNCH-2019-1186,MSN-2018-1144,2019-04-20,2019,4,PSLV,Kennedy Space Center LC-39A,United States,Success,True,170.81,19710.6,synthetic
+LNCH-2022-1187,MSN-2023-1149,2022-12-25,2022,12,H3 Launch Vehicle,Kourou ELA-4,Europe,Success,False,117.34,18068.5,synthetic
+LNCH-2016-1188,MSN-2020-1350,2016-03-26,2016,3,Ariane 6,Baikonur Cosmodrome,Russia,Success,False,121.58,8875.6,synthetic
+LNCH-2014-1189,MSN-2022-1386,2014-05-26,2014,5,Falcon 9,Tanegashima Space Center,Japan,Success,True,85.84,2734.9,synthetic
+LNCH-2016-1190,MSN-2011-2191,2016-08-06,2016,8,Soyuz-2,Cape Canaveral SLC-40,United States,Launch Abort,True,132.32,9280.0,synthetic
+LNCH-2025-1191,MSN-2012-1053,2025-10-16,2025,10,H3 Launch Vehicle,Cape Canaveral SLC-40,United States,Success,False,109.7,9011.8,synthetic
+LNCH-2025-1192,MSN-2021-1878,2025-01-31,2025,1,PSLV,Kennedy Space Center LC-39A,United States,Success,False,145.88,17938.3,synthetic
+LNCH-2010-1193,MSN-2016-1686,2010-03-22,2010,3,Falcon 9,Tanegashima Space Center,Japan,Success,False,49.08,6611.6,synthetic
+LNCH-2013-1194,MSN-2019-1485,2013-03-12,2013,3,GSLV Mk III,Kennedy Space Center LC-39A,United States,Success,True,98.77,17207.0,synthetic
+LNCH-2021-1195,MSN-2012-1954,2021-04-08,2021,4,Falcon 9,Tanegashima Space Center,Japan,Success,True,67.82,22993.2,synthetic
+LNCH-2025-1196,MSN-2011-1443,2025-03-20,2025,3,Vulcan Centaur,Kennedy Space Center LC-39A,United States,Success,True,59.59,3028.1,synthetic
+LNCH-2011-1197,MSN-2016-2077,2011-06-02,2011,6,H3 Launch Vehicle,Tanegashima Space Center,Japan,Success,True,141.57,18302.7,synthetic
+LNCH-2017-1198,MSN-2010-1629,2017-12-04,2017,12,Starship Heavy,Tanegashima Space Center,Japan,Success,True,135.48,18280.1,synthetic
+LNCH-2013-1199,MSN-2017-1245,2013-02-12,2013,2,Atlas V,Tanegashima Space Center,Japan,Success,True,101.77,8431.6,synthetic
+LNCH-2023-1200,MSN-2017-1500,2023-01-15,2023,1,Starship Heavy,Satish Dhawan SHAR,India,Success,True,49.85,8172.5,synthetic
+LNCH-2014-1201,MSN-2021-1215,2014-08-14,2014,8,Falcon 9,Kennedy Space Center LC-39A,United States,Success,True,110.54,4893.0,synthetic
+LNCH-2015-1202,MSN-2010-1884,2015-05-27,2015,5,Long March 5,Cape Canaveral SLC-40,United States,Success,True,164.41,16552.0,synthetic
+LNCH-2010-1203,MSN-2015-1481,2010-08-04,2010,8,Vulcan Centaur,Cape Canaveral SLC-40,United States,Success,True,111.32,1626.6,synthetic
+LNCH-2025-1204,MSN-2024-1609,2025-10-24,2025,10,Vulcan Centaur,Satish Dhawan SHAR,India,Success,False,140.14,16647.2,synthetic
+LNCH-2010-1205,MSN-2012-1138,2010-12-31,2010,12,Vulcan Centaur,Kennedy Space Center LC-39A,United States,Success,True,82.64,17306.4,synthetic
+LNCH-2010-1206,MSN-2018-1178,2010-07-14,2010,7,Starship Heavy,Jiuquan SLS,China,Success,True,58.86,7168.8,synthetic
+LNCH-2019-1207,MSN-2012-1869,2019-06-25,2019,6,Vulcan Centaur,Cape Canaveral SLC-40,United States,Success,False,114.61,15826.9,synthetic
+LNCH-2024-1208,MSN-2012-1376,2024-03-08,2024,3,Atlas V,Kennedy Space Center LC-39A,United States,Success,False,119.5,14285.9,synthetic
+LNCH-2010-1209,MSN-2011-2361,2010-03-30,2010,3,Ariane 6,Kennedy Space Center LC-39A,United States,Success,True,79.21,15888.4,synthetic
+LNCH-2024-1210,MSN-2023-1523,2024-11-24,2024,11,PSLV,Satish Dhawan SHAR,India,Success,True,68.69,8163.9,synthetic
+LNCH-2012-1211,MSN-2019-1842,2012-05-05,2012,5,Long March 5,Cape Canaveral SLC-40,United States,Success,True,161.91,19549.2,synthetic
+LNCH-2016-1212,MSN-2020-1809,2016-08-07,2016,8,Falcon 9,Tanegashima Space Center,Japan,Success,True,41.68,7864.3,synthetic
+LNCH-2014-1213,MSN-2014-1480,2014-06-21,2014,6,Long March 5,Cape Canaveral SLC-40,United States,Success,False,86.75,18190.5,synthetic
+LNCH-2022-1214,MSN-2010-1272,2022-10-24,2022,10,Falcon 9,Kourou ELA-4,Europe,Success,True,106.13,23447.6,synthetic
+LNCH-2013-1215,MSN-2010-2394,2013-04-17,2013,4,Ariane 6,Baikonur Cosmodrome,Russia,Success,True,72.48,23090.2,synthetic
+LNCH-2019-1216,MSN-2017-2418,2019-06-30,2019,6,Starship Heavy,Tanegashima Space Center,Japan,Success,True,131.97,12352.0,synthetic
+LNCH-2011-1217,MSN-2026-2070,2011-09-21,2011,9,H3 Launch Vehicle,Baikonur Cosmodrome,Russia,Success,True,171.73,13838.4,synthetic
+LNCH-2026-1218,MSN-2021-1929,2026-01-16,2026,1,Starship Heavy,Jiuquan SLS,China,Success,False,106.66,11185.4,synthetic
+LNCH-2018-1219,MSN-2021-1130,2018-04-28,2018,4,PSLV,Tanegashima Space Center,Japan,Success,True,107.25,16163.2,synthetic
+LNCH-2012-1220,MSN-2021-1436,2012-11-21,2012,11,H3 Launch Vehicle,Tanegashima Space Center,Japan,Success,True,51.76,23337.9,synthetic
+LNCH-2015-1221,MSN-2026-1934,2015-01-03,2015,1,Ariane 6,Jiuquan SLS,China,Success,True,78.88,12065.4,synthetic
+LNCH-2010-1222,MSN-2018-1739,2010-11-15,2010,11,Atlas V,Kourou ELA-4,Europe,Partial Failure,True,75.41,8988.1,synthetic
+LNCH-2021-1223,MSN-2017-2044,2021-03-30,2021,3,Atlas V,Satish Dhawan SHAR,India,Success,True,143.12,11602.4,synthetic
+LNCH-2026-1224,MSN-2023-1574,2026-03-30,2026,3,Atlas V,Kennedy Space Center LC-39A,United States,Partial Failure,True,117.77,16831.5,synthetic
+LNCH-2021-1225,MSN-2013-2346,2021-03-08,2021,3,Soyuz-2,Jiuquan SLS,China,Success,False,141.91,2113.1,synthetic
+LNCH-2024-1226,MSN-2025-1219,2024-01-19,2024,1,Long March 5,Baikonur Cosmodrome,Russia,Success,False,152.68,12828.0,synthetic
+LNCH-2023-1227,MSN-2018-2164,2023-11-26,2023,11,Atlas V,Kennedy Space Center LC-39A,United States,Success,True,129.26,6636.1,synthetic
+LNCH-2018-1228,MSN-2025-1287,2018-10-11,2018,10,Falcon 9,Baikonur Cosmodrome,Russia,Success,False,166.07,20061.0,synthetic
+LNCH-2023-1229,MSN-2016-1482,2023-06-24,2023,6,H3 Launch Vehicle,Kennedy Space Center LC-39A,United States,Success,True,102.73,16573.4,synthetic
+LNCH-2017-1230,MSN-2022-1063,2017-02-03,2017,2,Soyuz-2,Kourou ELA-4,Europe,Success,True,112.32,20521.6,synthetic
+LNCH-2020-1231,MSN-2025-1287,2020-03-25,2020,3,Falcon 9,Cape Canaveral SLC-40,United States,Success,True,105.56,15675.4,synthetic
+LNCH-2017-1232,MSN-2014-1939,2017-12-19,2017,12,Vulcan Centaur,Kennedy Space Center LC-39A,United States,Success,True,79.07,2457.9,synthetic
+LNCH-2017-1233,MSN-2013-2397,2017-10-08,2017,10,Long March 5,Kourou ELA-4,Europe,Success,True,87.12,6194.2,synthetic
+LNCH-2017-1234,MSN-2010-1578,2017-03-03,2017,3,Falcon 9,Kourou ELA-4,Europe,Success,False,146.24,22139.4,synthetic
+LNCH-2025-1235,MSN-2020-2387,2025-11-19,2025,11,Soyuz-2,Jiuquan SLS,China,Success,False,105.52,23263.2,synthetic
+LNCH-2021-1236,MSN-2023-2203,2021-10-15,2021,10,Ariane 6,Jiuquan SLS,China,Success,True,140.21,17842.1,synthetic
+LNCH-2012-1237,MSN-2023-1064,2012-05-17,2012,5,Falcon 9,Tanegashima Space Center,Japan,Launch Abort,False,149.15,16684.3,synthetic
+LNCH-2010-1238,MSN-2020-1044,2010-03-16,2010,3,H3 Launch Vehicle,Kourou ELA-4,Europe,Success,False,109.23,23313.8,synthetic
+LNCH-2012-1239,MSN-2025-1355,2012-10-19,2012,10,GSLV Mk III,Tanegashima Space Center,Japan,Success,False,54.79,11313.9,synthetic
+LNCH-2024-1240,MSN-2022-2100,2024-12-30,2024,12,Falcon 9,Satish Dhawan SHAR,India,Success,False,53.27,21440.1,synthetic
+LNCH-2025-1241,MSN-2018-2130,2025-07-26,2025,7,Soyuz-2,Kourou ELA-4,Europe,Success,False,107.69,13097.4,synthetic
+LNCH-2015-1242,MSN-2026-1305,2015-10-08,2015,10,Soyuz-2,Kourou ELA-4,Europe,Success,True,147.74,8054.1,synthetic
+LNCH-2021-1243,MSN-2023-2424,2021-02-28,2021,2,GSLV Mk III,Cape Canaveral SLC-40,United States,Success,True,116.81,11916.4,synthetic
+LNCH-2012-1244,MSN-2025-1032,2012-07-30,2012,7,Atlas V,Tanegashima Space Center,Japan,Success,True,104.85,18951.8,synthetic
+LNCH-2015-1245,MSN-2025-1321,2015-03-07,2015,3,Long March 5,Kennedy Space Center LC-39A,United States,Success,False,148.72,16999.0,synthetic
+LNCH-2024-1246,MSN-2010-1459,2024-10-17,2024,10,Falcon 9,Kourou ELA-4,Europe,Success,False,74.2,8221.4,synthetic
+LNCH-2018-1247,MSN-2026-1866,2018-06-09,2018,6,Vulcan Centaur,Baikonur Cosmodrome,Russia,Success,True,178.86,21146.9,synthetic
+LNCH-2024-1248,MSN-2016-2230,2024-09-28,2024,9,Falcon 9,Kourou ELA-4,Europe,Success,True,129.47,2500.7,synthetic
+LNCH-2015-1249,MSN-2013-1207,2015-02-08,2015,2,Starship Heavy,Jiuquan SLS,China,Success,False,127.41,21226.4,synthetic
+LNCH-2021-1250,MSN-2011-2174,2021-03-21,2021,3,Ariane 6,Jiuquan SLS,China,Success,False,96.55,14278.3,synthetic
+LNCH-2016-1251,MSN-2021-1045,2016-05-12,2016,5,GSLV Mk III,Satish Dhawan SHAR,India,Success,True,56.97,22383.3,synthetic
+LNCH-2025-1252,MSN-2012-1121,2025-04-03,2025,4,Atlas V,Kennedy Space Center LC-39A,United States,Success,True,99.64,23489.2,synthetic
+LNCH-2015-1253,MSN-2023-1506,2015-07-01,2015,7,Atlas V,Kennedy Space Center LC-39A,United States,Success,False,169.13,16916.9,synthetic
+LNCH-2018-1254,MSN-2017-2044,2018-05-03,2018,5,Atlas V,Cape Canaveral SLC-40,United States,Success,True,104.92,14758.6,synthetic
+LNCH-2020-1255,MSN-2020-1044,2020-08-24,2020,8,PSLV,Cape Canaveral SLC-40,United States,Success,False,73.88,18503.6,synthetic
+LNCH-2016-1256,MSN-2023-2492,2016-01-28,2016,1,Ariane 6,Kennedy Space Center LC-39A,United States,Success,False,164.36,19578.3,synthetic
+LNCH-2020-1257,MSN-2017-1058,2020-07-09,2020,7,Long March 5,Kourou ELA-4,Europe,Success,True,93.19,8386.6,synthetic
+LNCH-2024-1258,MSN-2021-1317,2024-07-25,2024,7,PSLV,Baikonur Cosmodrome,Russia,Success,True,50.23,8873.5,synthetic
+LNCH-2012-1259,MSN-2010-1136,2012-06-13,2012,6,Atlas V,Baikonur Cosmodrome,Russia,Success,True,157.04,21742.3,synthetic
+LNCH-2024-1260,MSN-2015-1056,2024-05-10,2024,5,Soyuz-2,Kennedy Space Center LC-39A,United States,Partial Failure,True,108.43,6850.9,synthetic
+LNCH-2019-1261,MSN-2014-2194,2019-01-07,2019,1,PSLV,Baikonur Cosmodrome,Russia,Success,True,149.77,9419.0,synthetic
+LNCH-2012-1262,MSN-2011-1154,2012-11-19,2012,11,GSLV Mk III,Kennedy Space Center LC-39A,United States,Success,False,62.95,20913.1,synthetic
+LNCH-2019-1263,MSN-2017-1500,2019-10-26,2019,10,Long March 5,Baikonur Cosmodrome,Russia,Success,True,118.48,16470.9,synthetic
+LNCH-2017-1264,MSN-2012-1869,2017-02-01,2017,2,Atlas V,Tanegashima Space Center,Japan,Success,True,156.55,3677.6,synthetic
+LNCH-2025-1265,MSN-2018-2368,2025-05-16,2025,5,H3 Launch Vehicle,Kourou ELA-4,Europe,Success,True,140.16,8292.7,synthetic
+LNCH-2026-1266,MSN-2023-1846,2026-06-23,2026,6,Atlas V,Kennedy Space Center LC-39A,United States,Success,True,78.53,20056.3,synthetic
+LNCH-2017-1267,MSN-2024-1898,2017-01-21,2017,1,Long March 5,Kennedy Space Center LC-39A,United States,Success,True,175.97,10353.7,synthetic
+LNCH-2012-1268,MSN-2014-2313,2012-11-08,2012,11,H3 Launch Vehicle,Baikonur Cosmodrome,Russia,Success,False,48.4,3627.4,synthetic
+LNCH-2023-1269,MSN-2012-2345,2023-09-23,2023,9,GSLV Mk III,Jiuquan SLS,China,Success,True,65.62,5566.3,synthetic
+LNCH-2014-1270,MSN-2024-2136,2014-05-16,2014,5,Long March 5,Kourou ELA-4,Europe,Success,True,72.2,9130.1,synthetic
+LNCH-2011-1271,MSN-2024-1422,2011-04-04,2011,4,Long March 5,Baikonur Cosmodrome,Russia,Success,True,64.0,13007.5,synthetic
+LNCH-2017-1272,MSN-2022-2015,2017-07-16,2017,7,Long March 5,Cape Canaveral SLC-40,United States,Success,True,162.2,17526.4,synthetic
+LNCH-2021-1273,MSN-2019-2199,2021-05-28,2021,5,Starship Heavy,Cape Canaveral SLC-40,United States,Success,True,90.5,19174.7,synthetic
+LNCH-2016-1274,MSN-2012-1733,2016-08-11,2016,8,Ariane 6,Kennedy Space Center LC-39A,United States,Launch Abort,False,138.52,11992.6,synthetic
+LNCH-2020-1275,MSN-2018-1518,2020-12-17,2020,12,GSLV Mk III,Satish Dhawan SHAR,India,Success,False,119.17,7231.6,synthetic
+LNCH-2023-1276,MSN-2011-1069,2023-03-05,2023,3,GSLV Mk III,Kennedy Space Center LC-39A,United States,Success,False,79.52,2405.4,synthetic
+LNCH-2019-1277,MSN-2019-1791,2019-10-02,2019,10,H3 Launch Vehicle,Cape Canaveral SLC-40,United States,Success,True,162.33,22265.6,synthetic
+LNCH-2018-1278,MSN-2023-2118,2018-10-02,2018,10,Soyuz-2,Kourou ELA-4,Europe,Success,True,174.44,16512.4,synthetic
+LNCH-2018-1279,MSN-2026-1747,2018-03-03,2018,3,PSLV,Tanegashima Space Center,Japan,Success,False,104.77,6395.4,synthetic
+LNCH-2022-1280,MSN-2018-2334,2022-08-13,2022,8,GSLV Mk III,Kourou ELA-4,Europe,Success,True,152.62,1671.9,synthetic
+LNCH-2012-1281,MSN-2020-1248,2012-04-04,2012,4,Falcon 9,Kennedy Space Center LC-39A,United States,Success,False,43.41,4783.2,synthetic
+LNCH-2018-1282,MSN-2021-1725,2018-01-31,2018,1,PSLV,Kourou ELA-4,Europe,Success,True,100.91,3310.8,synthetic
+LNCH-2019-1283,MSN-2011-2174,2019-09-27,2019,9,H3 Launch Vehicle,Cape Canaveral SLC-40,United States,Success,True,59.79,15614.9,synthetic
+LNCH-2015-1284,MSN-2022-1063,2015-09-03,2015,9,Starship Heavy,Satish Dhawan SHAR,India,Success,True,60.07,22910.1,synthetic
+LNCH-2018-1285,MSN-2019-1213,2018-02-01,2018,2,Starship Heavy,Baikonur Cosmodrome,Russia,Success,False,68.18,16832.5,synthetic
+LNCH-2011-1286,MSN-2024-1269,2011-04-11,2011,4,Long March 5,Kennedy Space Center LC-39A,United States,Success,True,130.87,6470.0,synthetic
+LNCH-2025-1287,MSN-2017-2197,2025-04-05,2025,4,GSLV Mk III,Baikonur Cosmodrome,Russia,Success,True,134.36,14822.7,synthetic
+LNCH-2021-1288,MSN-2013-1547,2021-11-30,2021,11,Ariane 6,Kourou ELA-4,Europe,Success,False,117.95,9350.7,synthetic
+LNCH-2025-1289,MSN-2018-1875,2025-05-19,2025,5,Atlas V,Kennedy Space Center LC-39A,United States,Success,False,122.81,7232.8,synthetic
+LNCH-2019-1290,MSN-2020-1537,2019-04-16,2019,4,Long March 5,Baikonur Cosmodrome,Russia,Success,False,124.63,18264.8,synthetic
+LNCH-2017-1291,MSN-2011-2276,2017-12-12,2017,12,Long March 5,Baikonur Cosmodrome,Russia,Success,False,142.63,21169.3,synthetic
+LNCH-2013-1292,MSN-2016-2485,2013-11-20,2013,11,PSLV,Satish Dhawan SHAR,India,Success,True,55.29,17379.6,synthetic
+LNCH-2016-1293,MSN-2021-2490,2016-06-16,2016,6,Ariane 6,Baikonur Cosmodrome,Russia,Success,False,142.11,13263.1,synthetic
+LNCH-2012-1294,MSN-2018-1297,2012-12-23,2012,12,GSLV Mk III,Tanegashima Space Center,Japan,Success,True,62.6,14873.2,synthetic
+LNCH-2014-1295,MSN-2013-2363,2014-09-06,2014,9,Ariane 6,Satish Dhawan SHAR,India,Success,False,94.24,11726.1,synthetic
+LNCH-2016-1296,MSN-2021-1062,2016-01-26,2016,1,GSLV Mk III,Baikonur Cosmodrome,Russia,Success,True,78.94,22244.8,synthetic
+LNCH-2017-1297,MSN-2012-1750,2017-07-18,2017,7,Atlas V,Baikonur Cosmodrome,Russia,Success,True,62.87,9813.2,synthetic
+LNCH-2021-1298,MSN-2023-1251,2021-04-27,2021,4,Falcon 9,Cape Canaveral SLC-40,United States,Success,False,40.92,4297.5,synthetic
+LNCH-2012-1299,MSN-2019-2471,2012-12-11,2012,12,H3 Launch Vehicle,Jiuquan SLS,China,Success,True,45.3,18868.7,synthetic

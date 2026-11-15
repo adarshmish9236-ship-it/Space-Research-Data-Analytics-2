@@ -1,0 +1,272 @@
+{
+  "small": {
+    "scale_tier": "small",
+    "multiplier": 1,
+    "tables": {
+      "equipment_component_demand": {
+        "records": 1616,
+        "bytes": 109116,
+        "size_mb": 0.104,
+        "columns": [
+          "date",
+          "year",
+          "month",
+          "equipment_type",
+          "units_demanded",
+          "avg_unit_cost_thousand_usd",
+          "total_demand_value_million_usd",
+          "lead_time_days",
+          "shortage_risk"
+        ]
+      },
+      "resource_consumption": {
+        "records": 1414,
+        "bytes": 94997,
+        "size_mb": 0.091,
+        "columns": [
+          "date",
+          "year",
+          "month",
+          "resource_name",
+          "quantity_consumed",
+          "unit_of_measure",
+          "procurement_cost_k_usd"
+        ]
+      },
+      "space_missions": {
+        "records": 1500,
+        "bytes": 193303,
+        "size_mb": 0.184,
+        "columns": [
+          "mission_id",
+          "mission_name",
+          "agency",
+          "mission_type",
+          "launch_date",
+          "year",
+          "quarter",
+          "budget_million_usd",
+          "payload_mass_kg",
+          "status",
+          "crew_size",
+          "duration_days"
+        ]
+      },
+      "launch_activities": {
+        "records": 1200,
+        "bytes": 110997,
+        "size_mb": 0.106,
+        "columns": [
+          "launch_id",
+          "launch_date",
+          "year",
+          "month",
+          "vehicle",
+          "launch_site",
+          "launch_outcome",
+          "commercial_flag",
+          "launch_cost_million_usd",
+          "payload_to_orbit_kg"
+        ]
+      },
+      "agency_research_expenditures": {
+        "records": 1414,
+        "bytes": 87303,
+        "size_mb": 0.083,
+        "columns": [
+          "date",
+          "year",
+          "month",
+          "agency",
+          "rd_expenditure_million_usd",
+          "infrastructure_expenditure_million_usd",
+          "mission_operations_million_usd",
+          "total_monthly_expenditure_million_usd"
+        ]
+      }
+    },
+    "total_records": 7144,
+    "total_bytes": 595716,
+    "total_size_mb": 0.568
+  },
+  "medium": {
+    "scale_tier": "medium",
+    "multiplier": 15,
+    "tables": {
+      "equipment_component_demand": {
+        "records": 24240,
+        "bytes": 1613106,
+        "size_mb": 1.538,
+        "columns": [
+          "date",
+          "year",
+          "month",
+          "equipment_type",
+          "units_demanded",
+          "avg_unit_cost_thousand_usd",
+          "total_demand_value_million_usd",
+          "lead_time_days",
+          "shortage_risk"
+        ]
+      },
+      "resource_consumption": {
+        "records": 21210,
+        "bytes": 1423828,
+        "size_mb": 1.358,
+        "columns": [
+          "date",
+          "year",
+          "month",
+          "resource_name",
+          "quantity_consumed",
+          "unit_of_measure",
+          "procurement_cost_k_usd"
+        ]
+      },
+      "space_missions": {
+        "records": 22500,
+        "bytes": 2981617,
+        "size_mb": 2.843,
+        "columns": [
+          "mission_id",
+          "mission_name",
+          "agency",
+          "mission_type",
+          "launch_date",
+          "year",
+          "quarter",
+          "budget_million_usd",
+          "payload_mass_kg",
+          "status",
+          "crew_size",
+          "duration_days"
+        ]
+      },
+      "launch_activities": {
+        "records": 18000,
+        "bytes": 1745095,
+        "size_mb": 1.664,
+        "columns": [
+          "launch_id",
+          "launch_date",
+          "year",
+          "month",
+          "vehicle",
+          "launch_site",
+          "launch_outcome",
+          "commercial_flag",
+          "launch_cost_million_usd",
+          "payload_to_orbit_kg"
+        ]
+      },
+      "agency_research_expenditures": {
+        "records": 21210,
+        "bytes": 1307127,
+        "size_mb": 1.247,
+        "columns": [
+          "date",
+          "year",
+          "month",
+          "agency",
+          "rd_expenditure_million_usd",
+          "infrastructure_expenditure_million_usd",
+          "mission_operations_million_usd",
+          "total_monthly_expenditure_million_usd"
+        ]
+      }
+    },
+    "total_records": 107160,
+    "total_bytes": 9070773,
+    "total_size_mb": 8.651
+  },
+  "large": {
+    "scale_tier": "large",
+    "multiplier": 60,
+    "tables": {
+      "equipment_component_demand": {
+        "records": 96960,
+        "bytes": 6447058,
+        "size_mb": 6.148,
+        "columns": [
+          "date",
+          "year",
+          "month",
+          "equipment_type",
+          "units_demanded",
+          "avg_unit_cost_thousand_usd",
+          "total_demand_value_million_usd",
+          "lead_time_days",
+          "shortage_risk"
+        ]
+      },
+      "resource_consumption": {
+        "records": 84840,
+        "bytes": 5695263,
+        "size_mb": 5.431,
+        "columns": [
+          "date",
+          "year",
+          "month",
+          "resource_name",
+          "quantity_consumed",
+          "unit_of_measure",
+          "procurement_cost_k_usd"
+        ]
+      },
+      "space_missions": {
+        "records": 90000,
+        "bytes": 11944198,
+        "size_mb": 11.391,
+        "columns": [
+          "mission_id",
+          "mission_name",
+          "agency",
+          "mission_type",
+          "launch_date",
+          "year",
+          "quarter",
+          "budget_million_usd",
+          "payload_mass_kg",
+          "status",
+          "crew_size",
+          "duration_days"
+        ]
+      },
+      "launch_activities": {
+        "records": 72000,
+        "bytes": 6997866,
+        "size_mb": 6.674,
+        "columns": [
+          "launch_id",
+          "launch_date",
+          "year",
+          "month",
+          "vehicle",
+          "launch_site",
+          "launch_outcome",
+          "commercial_flag",
+          "launch_cost_million_usd",
+          "payload_to_orbit_kg"
+        ]
+      },
+      "agency_research_expenditures": {
+        "records": 84840,
+        "bytes": 5228274,
+        "size_mb": 4.986,
+        "columns": [
+          "date",
+          "year",
+          "month",
+          "agency",
+          "rd_expenditure_million_usd",
+          "infrastructure_expenditure_million_usd",
+          "mission_operations_million_usd",
+          "total_monthly_expenditure_million_usd"
+        ]
+      }
+    },
+    "total_records": 428640,
+    "total_bytes": 36312659,
+    "total_size_mb": 34.63
+  }
+}

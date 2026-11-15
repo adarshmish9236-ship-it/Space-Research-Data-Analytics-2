@@ -1,0 +1,8 @@
+a.agency_key,a.agency_name,a.country,reporting_months,total_rd_spend_m_usd,total_infrastructure_spend_m_usd,total_operations_spend_m_usd,grand_total_budget_m_usd,rd_allocation_pct,infra_allocation_pct
+AGY-001,National Aeronautics and Space Administration,International,202,55673.5,32476.19,27836.77,115986.46,48.0,28.0
+AGY-002,European Space Agency,Europe,202,27902.79,16276.71,13951.47,58130.97,48.0,28.0
+AGY-005,China National Space Administration,China,202,27749.78,16187.25,13874.84,57811.87,48.0,28.0
+AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,202,13980.58,8155.3,6990.25,29126.13,48.0,28.0
+AGY-006,State Space Corporation Roscosmos,Russia,202,13915.01,8117.13,6957.49,28989.63,48.0,28.0
+AGY-004,Japan Aerospace Exploration Agency,Japan,202,13897.83,8107.02,6948.92,28953.77,48.0,28.0
+AGY-003,Indian Space Research Organisation,International,202,13878.81,8095.92,6939.45,28914.18,48.0,28.0

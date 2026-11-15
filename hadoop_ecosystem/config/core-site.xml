@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="configuration.xsl"?>
+<configuration>
+    <!-- Default Distributed File System URI -->
+    <property>
+        <name>fs.defaultFS</name>
+        <value>hdfs://namenode:9000</value>
+        <description>The NameNode RPC URI for the distributed space research lakehouse.</description>
+    </property>
+
+    <!-- Buffer size for streaming I/O operations (128 KB) -->
+    <property>
+        <name>io.file.buffer.size</name>
+        <value>131072</value>
+        <description>I/O buffer size tuned for Parquet and columnar dataset streaming.</description>
+    </property>
+
+    <!-- Static User and Proxy Permissions -->
+    <property>
+        <name>hadoop.http.staticuser.user</name>
+        <value>root</value>
+    </property>
+    <property>
+        <name>hadoop.proxyuser.hue.hosts</name>
+        <value>*</value>
+    </property>
+    <property>
+        <name>hadoop.proxyuser.hue.groups</name>
+        <value>*</value>
+    </property>
+    <property>
+        <name>hadoop.proxyuser.root.hosts</name>
+        <value>*</value>
+    </property>
+    <property>
+        <name>hadoop.proxyuser.root.groups</name>
+        <value>*</value>
+    </property>
+</configuration>
+

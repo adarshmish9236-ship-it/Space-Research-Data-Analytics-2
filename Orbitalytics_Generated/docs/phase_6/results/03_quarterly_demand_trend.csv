@@ -1,0 +1,5 @@
+quarter,total_orders,total_units_demanded,total_demand_value_m_usd,avg_lead_time_days,high_shortage_risk_pct
+Q1,2856,150105.0,76310.9,275.3,29.13
+Q2,2856,149511.0,73927.92,274.7,16.49
+Q3,2856,136918.0,68423.06,275.5,0.00
+Q4,2744,134374.0,67370.28,275.1,0.87

@@ -1,0 +1,13 @@
+unit_code,unit_name,dimension,si_base_equivalent,symbol,conversion_factor_to_si
+UNT-001,Units,Discrete Count,1.0 integer count,qty,1.0
+UNT-002,Metric Tons,Mass,1000.0 kg,t,1000.0
+UNT-003,Kilograms,Mass,1.0 kg,kg,1.0
+UNT-004,Kilowatts,Power,1000.0 Watts,kW,1000.0
+UNT-005,Tbps,Information Transmission Rate,1.0e12 bits per second,Tbps,1.0e12
+UNT-006,Million USD,Monetary Value,1000000.0 USD,M$,1000000.0
+UNT-007,Thousand USD,Monetary Value,1000.0 USD,k$,1000.0
+UNT-008,Billion USD,Monetary Value,1000000000.0 USD,B$,1000000000.0
+UNT-009,Days,Time Duration,86400.0 seconds,d,86400.0
+UNT-010,Hours,Time Duration,3600.0 seconds,h,3600.0
+UNT-011,Kilometers,Length,1000.0 meters,km,1000.0
+UNT-012,Percentage,Ratio,0.01 fractional ratio,%,0.01

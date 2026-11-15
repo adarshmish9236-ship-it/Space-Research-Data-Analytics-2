@@ -1,0 +1,9 @@
+resource_id,resource_name,resource_category,unit_of_measure,base_cost_usd_per_unit,hazard_class,storage_specification
+RES-001,Cryogenic Liquid Oxygen (LOX),Propellant & Oxidizer,Metric Tons,800.00,Class 2.2 Oxidizer,Cryogenic -183°C Dewars
+RES-002,RP-1 Highly Refined Kerosene,Liquid Fuel,Metric Tons,1200.00,Class 3 Flammable Liquid,Ambient Temperature Steel Tanks
+RES-003,Liquid Hydrogen (LH2),Cryogenic Fuel,Metric Tons,2500.00,Class 2.1 Flammable Gas,Deep Cryogenic -253°C Tanks
+RES-004,Hypergolic Monomethyl Hydrazine (MMH),Storable Propellant,Metric Tons,18000.00,Class 6.1 Toxic Material,Nitrogen-blanketed Sealed Drums
+RES-005,Radiation Shielding Tantalum & Tungsten Alloys,Spacecraft Materials,Metric Tons,45000.00,Non-Hazardous Solid,Cleanroom Controlled Facility
+RES-006,Deep Space Ka-Band / Optical Telemetry Bandwidth,Bandwidth & Communications,Tbps,12500.00,Non-Physical Infrastructure,DSN Ground Station Radios
+RES-007,Orbital High-Efficiency Solar Array Generation Capacity,Power & Energy,Kilowatts,950.00,Non-Physical Infrastructure,Deployable Solar Panels
+

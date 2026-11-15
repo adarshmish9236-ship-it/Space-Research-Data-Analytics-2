@@ -1,0 +1,12 @@
+Target Dimension,Space Equipment & Components
+Forecast Horizon (Quarters),4
+Algorithm Model,Random_Forest_Regressor
+RMSE,424.38
+MAE,379.6
+WAPE Pct,9.3
+
+Period,Predicted Demand,Lower 95% CI,Upper 95% CI,Growth Pct
+T+1Q,3775.8,3403.9,4147.7,-11.35
+T+2Q,3849.8,3323.8,4375.8,-9.61
+T+3Q,3923.8,3279.7,4568.0,-7.87
+T+4Q,3997.9,3254.0,4741.7,-6.13

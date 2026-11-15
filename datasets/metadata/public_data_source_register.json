@@ -1,0 +1,75 @@
+{
+  "registry_title": "Orbitalytics Public Space Research Data Source Register",
+  "last_updated": "2026-11-14T04:34:49.887990",
+  "sources": [
+    {
+      "source_id": "SRC-NASA-001",
+      "publisher": "National Aeronautics and Space Administration (NASA)",
+      "title": "NASA Spacecraft Master Catalog & Open Data Portal",
+      "portal_url": "https://data.nasa.gov/",
+      "api_endpoint": "https://api.nasa.gov/",
+      "licence": "Public Domain / CC0",
+      "coverage_years": "1958 - 2026",
+      "format": "JSON / CSV / REST API",
+      "domains_covered": [
+        "Missions",
+        "Orbital Parameters",
+        "Astronomy Targets"
+      ],
+      "data_provenance": "Official NASA Open Data Initiative"
+    },
+    {
+      "source_id": "SRC-ESA-002",
+      "publisher": "European Space Agency (ESA)",
+      "title": "ESA Science Portal & Copernicus Earth Observation Data Hub",
+      "portal_url": "https://www.esa.int/Science_Exploration",
+      "api_endpoint": "https://scihub.copernicus.eu/",
+      "licence": "CC BY-SA 3.0 IGO / Open Access",
+      "coverage_years": "1975 - 2026",
+      "format": "XML / JSON / GeoTIFF",
+      "domains_covered": [
+        "Earth Observation",
+        "Planetary Science",
+        "Space Weather"
+      ],
+      "data_provenance": "ESA Science Directorate"
+    },
+    {
+      "source_id": "SRC-ISRO-003",
+      "publisher": "Indian Space Research Organisation (ISRO)",
+      "title": "ISRO Space Missions, Satellite Inventory and Launch Manifests",
+      "portal_url": "https://www.isro.gov.in/",
+      "api_endpoint": "https://www.isro.gov.in/Missions.html",
+      "licence": "Government of India Open Access",
+      "coverage_years": "1969 - 2026",
+      "format": "HTML / PDF / Tabular Releases",
+      "domains_covered": [
+        "Missions",
+        "Launch Activities",
+        "Space Science"
+      ],
+      "data_provenance": "ISRO Headquarters Publications"
+    },
+    {
+      "source_id": "SRC-UNOOSA-004",
+      "publisher": "United Nations Office for Outer Space Affairs (UNOOSA)",
+      "title": "Register of Objects Launched into Outer Space",
+      "portal_url": "https://www.unoosa.org/oosa/en/spaceobjectregister/index.html",
+      "api_endpoint": "https://www.unoosa.org/oosa/osoindex/search-ng.jspx",
+      "licence": "UN Public Domain Treaty Registry",
+      "coverage_years": "1962 - 2026",
+      "format": "CSV / Online Registry",
+      "domains_covered": [
+        "Satellites",
+        "Orbital Parameters",
+        "Launching States"
+      ],
+      "data_provenance": "Convention on Registration of Objects Launched into Outer Space"
+    }
+  ],
+  "empirical_gap_assessment": {
+    "critical_limitation": "Public Space Agency Data Gap regarding Micro-Level Equipment Procurement & Resource Quantities",
+    "explanation": "While space agencies (NASA, ESA, ISRO, JAXA) publish mission milestones, flight trajectories, scientific telemetry, and macro-budgetary appropriations, granular month-by-month bills of materials (BOM), exact discrete component demand quantities (e.g., number of Rad-750 processors, reaction wheels, or optical transceivers procured monthly), and precise consumable propellant burn logs are classified under International Traffic in Arms Regulations (ITAR), national security protocols, and commercial confidentiality (SpaceX, Blue Origin proprietary supply contracts).",
+    "scientific_resolution": "To enable rigorous Big Data engineering, distributed analytics (Hadoop/HDFS/Hive/Spark), and demand forecasting, Orbitalytics implements a controlled, reproducible, physics-informed synthetic data generation module. All synthetic records are explicitly tagged with data_origin='synthetic' and is_synthetic=True, ensuring strict transparency, provenance traceability, and zero confounding with authentic historical observations."
+  }
+}

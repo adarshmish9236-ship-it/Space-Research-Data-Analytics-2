@@ -1,0 +1,12 @@
+{
+  "dataset_name": "space_missions",
+  "input_records": 1500,
+  "accepted_records": 1500,
+  "rejected_records": 0,
+  "rejection_rate_pct": 0.0,
+  "completeness_score": 100.0,
+  "uniqueness_score": 100.0,
+  "validity_score": 100.0,
+  "overall_quality_score": 100.0,
+  "rejection_summary": {}
+}

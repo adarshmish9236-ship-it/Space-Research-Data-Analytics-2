@@ -1,0 +1,176 @@
+{
+  "dataset_name": "space_missions",
+  "row_count": 1500,
+  "column_count": 14,
+  "memory_usage_kb": 357.02,
+  "columns": {
+    "mission_id": {
+      "dtype": "str",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "unique_count": 1500,
+      "top_5_values": {
+        "MSN-2010-1000": 1,
+        "MSN-2011-1001": 1,
+        "MSN-2012-1002": 1,
+        "MSN-2013-1003": 1,
+        "MSN-2014-1004": 1
+      }
+    },
+    "mission_name": {
+      "dtype": "str",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "unique_count": 1500,
+      "top_5_values": {
+        "Earth Discovery 1": 1,
+        "Earth Discovery 2": 1,
+        "Earth Discovery 3": 1,
+        "Human Discovery 4": 1,
+        "Human Discovery 5": 1
+      }
+    },
+    "agency_id": {
+      "dtype": "str",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "unique_count": 7,
+      "top_5_values": {
+        "AGY-003": 232,
+        "AGY-006": 226,
+        "AGY-001": 220,
+        "AGY-005": 211,
+        "AGY-007": 209
+      }
+    },
+    "agency_name": {
+      "dtype": "str",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "unique_count": 7,
+      "top_5_values": {
+        "Indian Space Research Organisation": 232,
+        "State Space Corporation Roscosmos": 226,
+        "National Aeronautics and Space Administration": 220,
+        "China National Space Administration": 211,
+        "Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab)": 209
+      }
+    },
+    "mission_type": {
+      "dtype": "str",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "unique_count": 7,
+      "top_5_values": {
+        "Human Spaceflight": 232,
+        "Planetary Exploration": 218,
+        "Earth Observation": 217,
+        "Deep Space Astrophysics": 216,
+        "Technology Demonstration": 208
+      }
+    },
+    "launch_date": {
+      "dtype": "str",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "unique_count": 1337,
+      "min_date": "2010-01-03",
+      "max_date": "2026-09-29",
+      "span_days": 6113
+    },
+    "year": {
+      "dtype": "int64",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "unique_count": 17,
+      "min": 2010.0,
+      "max": 2026.0,
+      "mean": 2017.857,
+      "std": 4.908,
+      "median": 2018.0,
+      "skewness": 0.02
+    },
+    "quarter": {
+      "dtype": "str",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "unique_count": 4,
+      "top_5_values": {
+        "Q2": 387,
+        "Q4": 385,
+        "Q1": 367,
+        "Q3": 361
+      }
+    },
+    "budget_million_usd": {
+      "dtype": "float64",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "unique_count": 1495,
+      "min": 56.69,
+      "max": 3199.71,
+      "mean": 1624.096,
+      "std": 881.58,
+      "median": 1613.1950000000002,
+      "skewness": 0.004
+    },
+    "payload_mass_kg": {
+      "dtype": "float64",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "unique_count": 1496,
+      "min": 162.4,
+      "max": 18492.2,
+      "mean": 9263.72,
+      "std": 5215.886,
+      "median": 9289.55,
+      "skewness": 0.007
+    },
+    "status": {
+      "dtype": "str",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "unique_count": 6,
+      "top_5_values": {
+        "Successful": 671,
+        "Operational": 380,
+        "Completed": 183,
+        "In-Flight": 138,
+        "Retired": 77
+      }
+    },
+    "crew_size": {
+      "dtype": "int64",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "unique_count": 5,
+      "min": 0.0,
+      "max": 6.0,
+      "mean": 0.347,
+      "std": 1.178,
+      "median": 0.0,
+      "skewness": 3.575
+    },
+    "duration_days": {
+      "dtype": "int64",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "unique_count": 1207,
+      "min": 34.0,
+      "max": 3647.0,
+      "mean": 1891.129,
+      "std": 1025.146,
+      "median": 1948.5,
+      "skewness": -0.097
+    },
+    "data_origin": {
+      "dtype": "str",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "unique_count": 1,
+      "top_5_values": {
+        "synthetic": 1500
+      }
+    }
+  }
+}

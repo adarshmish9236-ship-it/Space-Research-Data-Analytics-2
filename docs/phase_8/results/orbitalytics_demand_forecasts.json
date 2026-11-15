@@ -1,0 +1,2916 @@
+{
+  "pipeline": "ORBITALYTICS Phase 8 Advanced Demand Forecasting",
+  "generated_at": "2026-11-14T21:31:55.549164",
+  "forecast_horizon_quarters": 4,
+  "total_series_modeled": 17,
+  "total_pipeline_duration_seconds": 104.25,
+  "series": [
+    {
+      "target_domain": "equipment_demand",
+      "series_id": "eq_aggregate_all_components",
+      "series_name": "Total Equipment Demand",
+      "unit": "Units",
+      "historical_observations": 67,
+      "historical_period_start": "2010Q1",
+      "historical_period_end": "2026Q3",
+      "champion_model": "SARIMA(1,1,1)x(1,0,0)[4]",
+      "champion_metrics": {
+        "mae": 16.8,
+        "rmse": 20.22,
+        "wape_pct": 0.45,
+        "mape_pct": 0.47,
+        "bias_pct": 0.15,
+        "r2": 0.9977,
+        "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+        "eval_observations": 24
+      },
+      "all_model_evaluations": [
+        {
+          "model": "SARIMA(1,1,1)x(1,0,0)[4]",
+          "mae": 16.8,
+          "rmse": 20.22,
+          "wape_pct": 0.45,
+          "mape_pct": 0.47,
+          "bias_pct": 0.15,
+          "r2": 0.9977,
+          "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Linear_Regression_Baseline",
+          "mae": 106.89,
+          "rmse": 135.73,
+          "wape_pct": 2.88,
+          "mape_pct": 2.87,
+          "bias_pct": -2.61,
+          "r2": 0.8945,
+          "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+          "eval_observations": 24
+        },
+        {
+          "model": "ARIMA(1,1,1)",
+          "mae": 191.07,
+          "rmse": 206.37,
+          "wape_pct": 5.16,
+          "mape_pct": 5.13,
+          "bias_pct": -5.16,
+          "r2": 0.756,
+          "bias_assessment": "MODERATE_UNDERFORECAST (Potential Supply Chain Strain)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Gradient_Boosting_Regressor",
+          "mae": 215.53,
+          "rmse": 225.02,
+          "wape_pct": 5.82,
+          "mape_pct": 5.9,
+          "bias_pct": -5.82,
+          "r2": 0.71,
+          "bias_assessment": "MODERATE_UNDERFORECAST (Potential Supply Chain Strain)",
+          "eval_observations": 24
+        },
+        {
+          "model": "XGBoost_Regressor",
+          "mae": 234.48,
+          "rmse": 243.49,
+          "wape_pct": 6.33,
+          "mape_pct": 6.38,
+          "bias_pct": -6.33,
+          "r2": 0.6604,
+          "bias_assessment": "MODERATE_UNDERFORECAST (Potential Supply Chain Strain)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Naive_Baseline",
+          "mae": 243.71,
+          "rmse": 253.17,
+          "wape_pct": 6.58,
+          "mape_pct": 6.59,
+          "bias_pct": -6.58,
+          "r2": 0.6329,
+          "bias_assessment": "MODERATE_UNDERFORECAST (Potential Supply Chain Strain)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Simple_Exponential_Smoothing",
+          "mae": 243.71,
+          "rmse": 253.17,
+          "wape_pct": 6.58,
+          "mape_pct": 6.59,
+          "bias_pct": -6.58,
+          "r2": 0.6329,
+          "bias_assessment": "MODERATE_UNDERFORECAST (Potential Supply Chain Strain)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Holt_Winters_Additive_s4",
+          "mae": 243.71,
+          "rmse": 253.17,
+          "wape_pct": 6.58,
+          "mape_pct": 6.59,
+          "bias_pct": -6.58,
+          "r2": 0.6329,
+          "bias_assessment": "MODERATE_UNDERFORECAST (Potential Supply Chain Strain)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Random_Forest_Regressor",
+          "mae": 245.32,
+          "rmse": 253.18,
+          "wape_pct": 6.62,
+          "mape_pct": 6.67,
+          "bias_pct": -6.62,
+          "r2": 0.6328,
+          "bias_assessment": "MODERATE_UNDERFORECAST (Potential Supply Chain Strain)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Seasonal_Naive_Baseline",
+          "mae": 249.21,
+          "rmse": 250.23,
+          "wape_pct": 6.73,
+          "mape_pct": 6.78,
+          "bias_pct": -6.73,
+          "r2": 0.6413,
+          "bias_assessment": "MODERATE_UNDERFORECAST (Potential Supply Chain Strain)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Moving_Average_k4",
+          "mae": 249.21,
+          "rmse": 257.8,
+          "wape_pct": 6.73,
+          "mape_pct": 6.75,
+          "bias_pct": -6.73,
+          "r2": 0.6193,
+          "bias_assessment": "MODERATE_UNDERFORECAST (Potential Supply Chain Strain)",
+          "eval_observations": 24
+        }
+      ],
+      "future_forecasts": [
+        {
+          "period": "2026Q4",
+          "forecast": 4401.0,
+          "lower_95": 4356.9,
+          "upper_95": 4445.1
+        },
+        {
+          "period": "2027Q1",
+          "forecast": 4633.7,
+          "lower_95": 4589.0,
+          "upper_95": 4678.4
+        },
+        {
+          "period": "2027Q2",
+          "forecast": 4671.5,
+          "lower_95": 4626.0,
+          "upper_95": 4716.9
+        },
+        {
+          "period": "2027Q3",
+          "forecast": 4527.6,
+          "lower_95": 4481.4,
+          "upper_95": 4573.7
+        }
+      ],
+      "feature_importances": {},
+      "execution_seconds": 6.17
+    },
+    {
+      "target_domain": "equipment_demand",
+      "series_id": "eq_cryogenic_tanks",
+      "series_name": "Cryogenic Tanks",
+      "unit": "Units",
+      "historical_observations": 67,
+      "historical_period_start": "2010Q1",
+      "historical_period_end": "2026Q3",
+      "champion_model": "SARIMA(1,1,1)x(1,0,0)[4]",
+      "champion_metrics": {
+        "mae": 6.43,
+        "rmse": 8.15,
+        "wape_pct": 1.46,
+        "mape_pct": 1.5,
+        "bias_pct": 0.3,
+        "r2": 0.976,
+        "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+        "eval_observations": 24
+      },
+      "all_model_evaluations": [
+        {
+          "model": "SARIMA(1,1,1)x(1,0,0)[4]",
+          "mae": 6.43,
+          "rmse": 8.15,
+          "wape_pct": 1.46,
+          "mape_pct": 1.5,
+          "bias_pct": 0.3,
+          "r2": 0.976,
+          "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Linear_Regression_Baseline",
+          "mae": 15.73,
+          "rmse": 19.63,
+          "wape_pct": 3.57,
+          "mape_pct": 3.56,
+          "bias_pct": -3.24,
+          "r2": 0.861,
+          "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Gradient_Boosting_Regressor",
+          "mae": 26.79,
+          "rmse": 28.59,
+          "wape_pct": 6.08,
+          "mape_pct": 6.2,
+          "bias_pct": -6.07,
+          "r2": 0.705,
+          "bias_assessment": "MODERATE_UNDERFORECAST (Potential Supply Chain Strain)",
+          "eval_observations": 24
+        },
+        {
+          "model": "ARIMA(1,1,1)",
+          "mae": 27.53,
+          "rmse": 29.65,
+          "wape_pct": 6.25,
+          "mape_pct": 6.22,
+          "bias_pct": -6.25,
+          "r2": 0.6827,
+          "bias_assessment": "MODERATE_UNDERFORECAST (Potential Supply Chain Strain)",
+          "eval_observations": 24
+        },
+        {
+          "model": "XGBoost_Regressor",
+          "mae": 29.06,
+          "rmse": 30.88,
+          "wape_pct": 6.6,
+          "mape_pct": 6.7,
+          "bias_pct": -6.6,
+          "r2": 0.6558,
+          "bias_assessment": "MODERATE_UNDERFORECAST (Potential Supply Chain Strain)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Naive_Baseline",
+          "mae": 31.21,
+          "rmse": 32.95,
+          "wape_pct": 7.09,
+          "mape_pct": 7.12,
+          "bias_pct": -7.09,
+          "r2": 0.6081,
+          "bias_assessment": "MODERATE_UNDERFORECAST (Potential Supply Chain Strain)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Simple_Exponential_Smoothing",
+          "mae": 31.21,
+          "rmse": 32.95,
+          "wape_pct": 7.09,
+          "mape_pct": 7.12,
+          "bias_pct": -7.09,
+          "r2": 0.6081,
+          "bias_assessment": "MODERATE_UNDERFORECAST (Potential Supply Chain Strain)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Holt_Winters_Additive_s4",
+          "mae": 31.21,
+          "rmse": 32.95,
+          "wape_pct": 7.09,
+          "mape_pct": 7.12,
+          "bias_pct": -7.09,
+          "r2": 0.6081,
+          "bias_assessment": "MODERATE_UNDERFORECAST (Potential Supply Chain Strain)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Random_Forest_Regressor",
+          "mae": 31.29,
+          "rmse": 32.79,
+          "wape_pct": 7.11,
+          "mape_pct": 7.17,
+          "bias_pct": -7.11,
+          "r2": 0.612,
+          "bias_assessment": "MODERATE_UNDERFORECAST (Potential Supply Chain Strain)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Seasonal_Naive_Baseline",
+          "mae": 31.46,
+          "rmse": 32.38,
+          "wape_pct": 7.15,
+          "mape_pct": 7.23,
+          "bias_pct": -7.15,
+          "r2": 0.6215,
+          "bias_assessment": "MODERATE_UNDERFORECAST (Potential Supply Chain Strain)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Moving_Average_k4",
+          "mae": 31.46,
+          "rmse": 33.04,
+          "wape_pct": 7.15,
+          "mape_pct": 7.2,
+          "bias_pct": -7.15,
+          "r2": 0.6061,
+          "bias_assessment": "MODERATE_UNDERFORECAST (Potential Supply Chain Strain)",
+          "eval_observations": 24
+        }
+      ],
+      "future_forecasts": [
+        {
+          "period": "2026Q4",
+          "forecast": 525.4,
+          "lower_95": 509.6,
+          "upper_95": 541.3
+        },
+        {
+          "period": "2027Q1",
+          "forecast": 559.2,
+          "lower_95": 543.4,
+          "upper_95": 575.1
+        },
+        {
+          "period": "2027Q2",
+          "forecast": 564.3,
+          "lower_95": 548.5,
+          "upper_95": 580.2
+        },
+        {
+          "period": "2027Q3",
+          "forecast": 535.7,
+          "lower_95": 519.8,
+          "upper_95": 551.5
+        }
+      ],
+      "feature_importances": {},
+      "execution_seconds": 5.93
+    },
+    {
+      "target_domain": "equipment_demand",
+      "series_id": "eq_high-efficiency_solar_arrays",
+      "series_name": "High-Efficiency Solar Arrays",
+      "unit": "Units",
+      "historical_observations": 67,
+      "historical_period_start": "2010Q1",
+      "historical_period_end": "2026Q3",
+      "champion_model": "SARIMA(1,1,1)x(1,0,0)[4]",
+      "champion_metrics": {
+        "mae": 7.21,
+        "rmse": 9.27,
+        "wape_pct": 1.63,
+        "mape_pct": 1.65,
+        "bias_pct": 0.26,
+        "r2": 0.9683,
+        "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+        "eval_observations": 24
+      },
+      "all_model_evaluations": [
+        {
+          "model": "SARIMA(1,1,1)x(1,0,0)[4]",
+          "mae": 7.21,
+          "rmse": 9.27,
+          "wape_pct": 1.63,
+          "mape_pct": 1.65,
+          "bias_pct": 0.26,
+          "r2": 0.9683,
+          "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Linear_Regression_Baseline",
+          "mae": 14.95,
+          "rmse": 18.46,
+          "wape_pct": 3.38,
+          "mape_pct": 3.36,
+          "bias_pct": -2.8,
+          "r2": 0.8744,
+          "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Gradient_Boosting_Regressor",
+          "mae": 26.94,
+          "rmse": 29.57,
+          "wape_pct": 6.08,
+          "mape_pct": 6.14,
+          "bias_pct": -6.08,
+          "r2": 0.6778,
+          "bias_assessment": "MODERATE_UNDERFORECAST (Potential Supply Chain Strain)",
+          "eval_observations": 24
+        },
+        {
+          "model": "XGBoost_Regressor",
+          "mae": 29.16,
+          "rmse": 31.28,
+          "wape_pct": 6.58,
+          "mape_pct": 6.6,
+          "bias_pct": -6.58,
+          "r2": 0.6396,
+          "bias_assessment": "MODERATE_UNDERFORECAST (Potential Supply Chain Strain)",
+          "eval_observations": 24
+        },
+        {
+          "model": "ARIMA(1,1,1)",
+          "mae": 29.69,
+          "rmse": 32.53,
+          "wape_pct": 6.71,
+          "mape_pct": 6.64,
+          "bias_pct": -6.71,
+          "r2": 0.61,
+          "bias_assessment": "MODERATE_UNDERFORECAST (Potential Supply Chain Strain)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Naive_Baseline",
+          "mae": 30.17,
+          "rmse": 32.48,
+          "wape_pct": 6.81,
+          "mape_pct": 6.76,
+          "bias_pct": -6.81,
+          "r2": 0.6113,
+          "bias_assessment": "MODERATE_UNDERFORECAST (Potential Supply Chain Strain)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Random_Forest_Regressor",
+          "mae": 31.25,
+          "rmse": 32.94,
+          "wape_pct": 7.06,
+          "mape_pct": 7.08,
+          "bias_pct": -7.06,
+          "r2": 0.6003,
+          "bias_assessment": "MODERATE_UNDERFORECAST (Potential Supply Chain Strain)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Seasonal_Naive_Baseline",
+          "mae": 31.46,
+          "rmse": 32.58,
+          "wape_pct": 7.1,
+          "mape_pct": 7.13,
+          "bias_pct": -7.1,
+          "r2": 0.6088,
+          "bias_assessment": "MODERATE_UNDERFORECAST (Potential Supply Chain Strain)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Moving_Average_k4",
+          "mae": 31.46,
+          "rmse": 33.26,
+          "wape_pct": 7.1,
+          "mape_pct": 7.09,
+          "bias_pct": -7.1,
+          "r2": 0.5923,
+          "bias_assessment": "MODERATE_UNDERFORECAST (Potential Supply Chain Strain)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Simple_Exponential_Smoothing",
+          "mae": 31.57,
+          "rmse": 33.6,
+          "wape_pct": 7.13,
+          "mape_pct": 7.1,
+          "bias_pct": -7.13,
+          "r2": 0.5841,
+          "bias_assessment": "MODERATE_UNDERFORECAST (Potential Supply Chain Strain)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Holt_Winters_Additive_s4",
+          "mae": 31.57,
+          "rmse": 33.6,
+          "wape_pct": 7.13,
+          "mape_pct": 7.1,
+          "bias_pct": -7.13,
+          "r2": 0.5841,
+          "bias_assessment": "MODERATE_UNDERFORECAST (Potential Supply Chain Strain)",
+          "eval_observations": 24
+        }
+      ],
+      "future_forecasts": [
+        {
+          "period": "2026Q4",
+          "forecast": 535.8,
+          "lower_95": 520.4,
+          "upper_95": 551.3
+        },
+        {
+          "period": "2027Q1",
+          "forecast": 562.4,
+          "lower_95": 546.9,
+          "upper_95": 577.8
+        },
+        {
+          "period": "2027Q2",
+          "forecast": 566.4,
+          "lower_95": 551.0,
+          "upper_95": 581.9
+        },
+        {
+          "period": "2027Q3",
+          "forecast": 538.8,
+          "lower_95": 523.4,
+          "upper_95": 554.3
+        }
+      ],
+      "feature_importances": {},
+      "execution_seconds": 6.09
+    },
+    {
+      "target_domain": "equipment_demand",
+      "series_id": "eq_ion_propulsion_engines",
+      "series_name": "Ion Propulsion Engines",
+      "unit": "Units",
+      "historical_observations": 67,
+      "historical_period_start": "2010Q1",
+      "historical_period_end": "2026Q3",
+      "champion_model": "SARIMA(1,1,1)x(1,0,0)[4]",
+      "champion_metrics": {
+        "mae": 7.87,
+        "rmse": 11.74,
+        "wape_pct": 1.79,
+        "mape_pct": 1.81,
+        "bias_pct": -0.24,
+        "r2": 0.9501,
+        "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+        "eval_observations": 24
+      },
+      "all_model_evaluations": [
+        {
+          "model": "SARIMA(1,1,1)x(1,0,0)[4]",
+          "mae": 7.87,
+          "rmse": 11.74,
+          "wape_pct": 1.79,
+          "mape_pct": 1.81,
+          "bias_pct": -0.24,
+          "r2": 0.9501,
+          "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Linear_Regression_Baseline",
+          "mae": 14.98,
+          "rmse": 17.43,
+          "wape_pct": 3.4,
+          "mape_pct": 3.38,
+          "bias_pct": -2.71,
+          "r2": 0.89,
+          "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+          "eval_observations": 24
+        },
+        {
+          "model": "ARIMA(1,1,1)",
+          "mae": 25.4,
+          "rmse": 30.48,
+          "wape_pct": 5.76,
+          "mape_pct": 5.77,
+          "bias_pct": -5.52,
+          "r2": 0.6635,
+          "bias_assessment": "MODERATE_UNDERFORECAST (Potential Supply Chain Strain)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Gradient_Boosting_Regressor",
+          "mae": 27.47,
+          "rmse": 29.74,
+          "wape_pct": 6.23,
+          "mape_pct": 6.23,
+          "bias_pct": -6.23,
+          "r2": 0.6797,
+          "bias_assessment": "MODERATE_UNDERFORECAST (Potential Supply Chain Strain)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Naive_Baseline",
+          "mae": 29.04,
+          "rmse": 31.87,
+          "wape_pct": 6.59,
+          "mape_pct": 6.55,
+          "bias_pct": -6.59,
+          "r2": 0.6323,
+          "bias_assessment": "MODERATE_UNDERFORECAST (Potential Supply Chain Strain)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Simple_Exponential_Smoothing",
+          "mae": 29.04,
+          "rmse": 31.87,
+          "wape_pct": 6.59,
+          "mape_pct": 6.55,
+          "bias_pct": -6.59,
+          "r2": 0.6323,
+          "bias_assessment": "MODERATE_UNDERFORECAST (Potential Supply Chain Strain)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Holt_Winters_Additive_s4",
+          "mae": 29.04,
+          "rmse": 31.87,
+          "wape_pct": 6.59,
+          "mape_pct": 6.55,
+          "bias_pct": -6.59,
+          "r2": 0.6323,
+          "bias_assessment": "MODERATE_UNDERFORECAST (Potential Supply Chain Strain)",
+          "eval_observations": 24
+        },
+        {
+          "model": "XGBoost_Regressor",
+          "mae": 30.05,
+          "rmse": 32.13,
+          "wape_pct": 6.82,
+          "mape_pct": 6.8,
+          "bias_pct": -6.82,
+          "r2": 0.6262,
+          "bias_assessment": "MODERATE_UNDERFORECAST (Potential Supply Chain Strain)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Seasonal_Naive_Baseline",
+          "mae": 31.17,
+          "rmse": 32.34,
+          "wape_pct": 7.07,
+          "mape_pct": 7.07,
+          "bias_pct": -7.07,
+          "r2": 0.6213,
+          "bias_assessment": "MODERATE_UNDERFORECAST (Potential Supply Chain Strain)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Moving_Average_k4",
+          "mae": 31.17,
+          "rmse": 33.02,
+          "wape_pct": 7.07,
+          "mape_pct": 7.04,
+          "bias_pct": -7.07,
+          "r2": 0.6052,
+          "bias_assessment": "MODERATE_UNDERFORECAST (Potential Supply Chain Strain)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Random_Forest_Regressor",
+          "mae": 31.2,
+          "rmse": 33.05,
+          "wape_pct": 7.08,
+          "mape_pct": 7.06,
+          "bias_pct": -7.08,
+          "r2": 0.6045,
+          "bias_assessment": "MODERATE_UNDERFORECAST (Potential Supply Chain Strain)",
+          "eval_observations": 24
+        }
+      ],
+      "future_forecasts": [
+        {
+          "period": "2026Q4",
+          "forecast": 533.4,
+          "lower_95": 519.5,
+          "upper_95": 547.4
+        },
+        {
+          "period": "2027Q1",
+          "forecast": 557.9,
+          "lower_95": 543.9,
+          "upper_95": 571.9
+        },
+        {
+          "period": "2027Q2",
+          "forecast": 571.2,
+          "lower_95": 557.2,
+          "upper_95": 585.2
+        },
+        {
+          "period": "2027Q3",
+          "forecast": 546.6,
+          "lower_95": 532.6,
+          "upper_95": 560.6
+        }
+      ],
+      "feature_importances": {},
+      "execution_seconds": 6.05
+    },
+    {
+      "target_domain": "equipment_demand",
+      "series_id": "eq_optical_inter-satellite_links",
+      "series_name": "Optical Inter-Satellite Links",
+      "unit": "Units",
+      "historical_observations": 67,
+      "historical_period_start": "2010Q1",
+      "historical_period_end": "2026Q3",
+      "champion_model": "SARIMA(1,1,1)x(1,0,0)[4]",
+      "champion_metrics": {
+        "mae": 4.4,
+        "rmse": 5.92,
+        "wape_pct": 0.88,
+        "mape_pct": 0.88,
+        "bias_pct": 0.25,
+        "r2": 0.9868,
+        "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+        "eval_observations": 24
+      },
+      "all_model_evaluations": [
+        {
+          "model": "SARIMA(1,1,1)x(1,0,0)[4]",
+          "mae": 4.4,
+          "rmse": 5.92,
+          "wape_pct": 0.88,
+          "mape_pct": 0.88,
+          "bias_pct": 0.25,
+          "r2": 0.9868,
+          "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Linear_Regression_Baseline",
+          "mae": 11.42,
+          "rmse": 14.86,
+          "wape_pct": 2.28,
+          "mape_pct": 2.26,
+          "bias_pct": -1.9,
+          "r2": 0.9167,
+          "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+          "eval_observations": 24
+        },
+        {
+          "model": "ARIMA(1,1,1)",
+          "mae": 26.6,
+          "rmse": 28.43,
+          "wape_pct": 5.32,
+          "mape_pct": 5.25,
+          "bias_pct": -5.32,
+          "r2": 0.6952,
+          "bias_assessment": "MODERATE_UNDERFORECAST (Potential Supply Chain Strain)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Gradient_Boosting_Regressor",
+          "mae": 27.5,
+          "rmse": 28.45,
+          "wape_pct": 5.5,
+          "mape_pct": 5.54,
+          "bias_pct": -5.5,
+          "r2": 0.6947,
+          "bias_assessment": "MODERATE_UNDERFORECAST (Potential Supply Chain Strain)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Naive_Baseline",
+          "mae": 28.04,
+          "rmse": 29.77,
+          "wape_pct": 5.6,
+          "mape_pct": 5.56,
+          "bias_pct": -5.6,
+          "r2": 0.6657,
+          "bias_assessment": "MODERATE_UNDERFORECAST (Potential Supply Chain Strain)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Simple_Exponential_Smoothing",
+          "mae": 28.04,
+          "rmse": 29.77,
+          "wape_pct": 5.6,
+          "mape_pct": 5.56,
+          "bias_pct": -5.6,
+          "r2": 0.6657,
+          "bias_assessment": "MODERATE_UNDERFORECAST (Potential Supply Chain Strain)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Holt_Winters_Additive_s4",
+          "mae": 28.04,
+          "rmse": 29.77,
+          "wape_pct": 5.6,
+          "mape_pct": 5.56,
+          "bias_pct": -5.6,
+          "r2": 0.6657,
+          "bias_assessment": "MODERATE_UNDERFORECAST (Potential Supply Chain Strain)",
+          "eval_observations": 24
+        },
+        {
+          "model": "XGBoost_Regressor",
+          "mae": 29.98,
+          "rmse": 30.82,
+          "wape_pct": 5.99,
+          "mape_pct": 6.0,
+          "bias_pct": -5.99,
+          "r2": 0.6417,
+          "bias_assessment": "MODERATE_UNDERFORECAST (Potential Supply Chain Strain)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Random_Forest_Regressor",
+          "mae": 30.42,
+          "rmse": 31.49,
+          "wape_pct": 6.08,
+          "mape_pct": 6.11,
+          "bias_pct": -6.08,
+          "r2": 0.626,
+          "bias_assessment": "MODERATE_UNDERFORECAST (Potential Supply Chain Strain)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Seasonal_Naive_Baseline",
+          "mae": 30.5,
+          "rmse": 30.96,
+          "wape_pct": 6.1,
+          "mape_pct": 6.12,
+          "bias_pct": -6.1,
+          "r2": 0.6385,
+          "bias_assessment": "MODERATE_UNDERFORECAST (Potential Supply Chain Strain)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Moving_Average_k4",
+          "mae": 30.5,
+          "rmse": 31.78,
+          "wape_pct": 6.1,
+          "mape_pct": 6.1,
+          "bias_pct": -6.1,
+          "r2": 0.6192,
+          "bias_assessment": "MODERATE_UNDERFORECAST (Potential Supply Chain Strain)",
+          "eval_observations": 24
+        }
+      ],
+      "future_forecasts": [
+        {
+          "period": "2026Q4",
+          "forecast": 580.0,
+          "lower_95": 568.5,
+          "upper_95": 591.4
+        },
+        {
+          "period": "2027Q1",
+          "forecast": 613.7,
+          "lower_95": 602.3,
+          "upper_95": 625.1
+        },
+        {
+          "period": "2027Q2",
+          "forecast": 620.8,
+          "lower_95": 609.4,
+          "upper_95": 632.2
+        },
+        {
+          "period": "2027Q3",
+          "forecast": 611.6,
+          "lower_95": 600.2,
+          "upper_95": 623.0
+        }
+      ],
+      "feature_importances": {},
+      "execution_seconds": 6.37
+    },
+    {
+      "target_domain": "equipment_demand",
+      "series_id": "eq_radiation-hardened_rad-750_cpus",
+      "series_name": "Radiation-Hardened Rad-750 CPUs",
+      "unit": "Units",
+      "historical_observations": 67,
+      "historical_period_start": "2010Q1",
+      "historical_period_end": "2026Q3",
+      "champion_model": "SARIMA(1,1,1)x(1,0,0)[4]",
+      "champion_metrics": {
+        "mae": 5.11,
+        "rmse": 6.37,
+        "wape_pct": 1.02,
+        "mape_pct": 1.02,
+        "bias_pct": 0.08,
+        "r2": 0.985,
+        "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+        "eval_observations": 24
+      },
+      "all_model_evaluations": [
+        {
+          "model": "SARIMA(1,1,1)x(1,0,0)[4]",
+          "mae": 5.11,
+          "rmse": 6.37,
+          "wape_pct": 1.02,
+          "mape_pct": 1.02,
+          "bias_pct": 0.08,
+          "r2": 0.985,
+          "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Linear_Regression_Baseline",
+          "mae": 16.27,
+          "rmse": 19.76,
+          "wape_pct": 3.23,
+          "mape_pct": 3.23,
+          "bias_pct": -2.62,
+          "r2": 0.8555,
+          "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Gradient_Boosting_Regressor",
+          "mae": 26.95,
+          "rmse": 29.22,
+          "wape_pct": 5.36,
+          "mape_pct": 5.5,
+          "bias_pct": -5.36,
+          "r2": 0.684,
+          "bias_assessment": "MODERATE_UNDERFORECAST (Potential Supply Chain Strain)",
+          "eval_observations": 24
+        },
+        {
+          "model": "XGBoost_Regressor",
+          "mae": 28.51,
+          "rmse": 30.42,
+          "wape_pct": 5.67,
+          "mape_pct": 5.72,
+          "bias_pct": -5.67,
+          "r2": 0.6575,
+          "bias_assessment": "MODERATE_UNDERFORECAST (Potential Supply Chain Strain)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Random_Forest_Regressor",
+          "mae": 30.1,
+          "rmse": 31.85,
+          "wape_pct": 5.98,
+          "mape_pct": 6.07,
+          "bias_pct": -5.98,
+          "r2": 0.6246,
+          "bias_assessment": "MODERATE_UNDERFORECAST (Potential Supply Chain Strain)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Seasonal_Naive_Baseline",
+          "mae": 31.5,
+          "rmse": 32.0,
+          "wape_pct": 6.26,
+          "mape_pct": 6.35,
+          "bias_pct": -6.26,
+          "r2": 0.621,
+          "bias_assessment": "MODERATE_UNDERFORECAST (Potential Supply Chain Strain)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Moving_Average_k4",
+          "mae": 31.5,
+          "rmse": 33.18,
+          "wape_pct": 6.26,
+          "mape_pct": 6.32,
+          "bias_pct": -6.26,
+          "r2": 0.5924,
+          "bias_assessment": "MODERATE_UNDERFORECAST (Potential Supply Chain Strain)",
+          "eval_observations": 24
+        },
+        {
+          "model": "ARIMA(1,1,1)",
+          "mae": 31.77,
+          "rmse": 34.44,
+          "wape_pct": 6.32,
+          "mape_pct": 6.41,
+          "bias_pct": -6.29,
+          "r2": 0.5611,
+          "bias_assessment": "MODERATE_UNDERFORECAST (Potential Supply Chain Strain)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Naive_Baseline",
+          "mae": 34.29,
+          "rmse": 36.35,
+          "wape_pct": 6.82,
+          "mape_pct": 6.91,
+          "bias_pct": -6.82,
+          "r2": 0.5109,
+          "bias_assessment": "MODERATE_UNDERFORECAST (Potential Supply Chain Strain)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Simple_Exponential_Smoothing",
+          "mae": 35.39,
+          "rmse": 37.14,
+          "wape_pct": 7.04,
+          "mape_pct": 7.11,
+          "bias_pct": -7.04,
+          "r2": 0.4894,
+          "bias_assessment": "MODERATE_UNDERFORECAST (Potential Supply Chain Strain)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Holt_Winters_Additive_s4",
+          "mae": 35.39,
+          "rmse": 37.14,
+          "wape_pct": 7.04,
+          "mape_pct": 7.11,
+          "bias_pct": -7.04,
+          "r2": 0.4894,
+          "bias_assessment": "MODERATE_UNDERFORECAST (Potential Supply Chain Strain)",
+          "eval_observations": 24
+        }
+      ],
+      "future_forecasts": [
+        {
+          "period": "2026Q4",
+          "forecast": 592.6,
+          "lower_95": 580.0,
+          "upper_95": 605.2
+        },
+        {
+          "period": "2027Q1",
+          "forecast": 615.0,
+          "lower_95": 602.4,
+          "upper_95": 627.6
+        },
+        {
+          "period": "2027Q2",
+          "forecast": 621.1,
+          "lower_95": 608.5,
+          "upper_95": 633.8
+        },
+        {
+          "period": "2027Q3",
+          "forecast": 595.7,
+          "lower_95": 583.0,
+          "upper_95": 608.3
+        }
+      ],
+      "feature_importances": {},
+      "execution_seconds": 6.06
+    },
+    {
+      "target_domain": "equipment_demand",
+      "series_id": "eq_reaction_wheels",
+      "series_name": "Reaction Wheels",
+      "unit": "Units",
+      "historical_observations": 67,
+      "historical_period_start": "2010Q1",
+      "historical_period_end": "2026Q3",
+      "champion_model": "SARIMA(1,1,1)x(1,0,0)[4]",
+      "champion_metrics": {
+        "mae": 5.76,
+        "rmse": 6.74,
+        "wape_pct": 1.31,
+        "mape_pct": 1.29,
+        "bias_pct": 0.17,
+        "r2": 0.984,
+        "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+        "eval_observations": 24
+      },
+      "all_model_evaluations": [
+        {
+          "model": "SARIMA(1,1,1)x(1,0,0)[4]",
+          "mae": 5.76,
+          "rmse": 6.74,
+          "wape_pct": 1.31,
+          "mape_pct": 1.29,
+          "bias_pct": 0.17,
+          "r2": 0.984,
+          "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Linear_Regression_Baseline",
+          "mae": 13.21,
+          "rmse": 16.85,
+          "wape_pct": 3.0,
+          "mape_pct": 2.97,
+          "bias_pct": -2.89,
+          "r2": 0.9002,
+          "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+          "eval_observations": 24
+        },
+        {
+          "model": "ARIMA(1,1,1)",
+          "mae": 24.08,
+          "rmse": 26.01,
+          "wape_pct": 5.47,
+          "mape_pct": 5.42,
+          "bias_pct": -5.4,
+          "r2": 0.7622,
+          "bias_assessment": "MODERATE_UNDERFORECAST (Potential Supply Chain Strain)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Gradient_Boosting_Regressor",
+          "mae": 27.64,
+          "rmse": 28.58,
+          "wape_pct": 6.28,
+          "mape_pct": 6.35,
+          "bias_pct": -6.28,
+          "r2": 0.7129,
+          "bias_assessment": "MODERATE_UNDERFORECAST (Potential Supply Chain Strain)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Naive_Baseline",
+          "mae": 29.46,
+          "rmse": 30.65,
+          "wape_pct": 6.7,
+          "mape_pct": 6.72,
+          "bias_pct": -6.7,
+          "r2": 0.6698,
+          "bias_assessment": "MODERATE_UNDERFORECAST (Potential Supply Chain Strain)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Simple_Exponential_Smoothing",
+          "mae": 29.46,
+          "rmse": 30.65,
+          "wape_pct": 6.7,
+          "mape_pct": 6.72,
+          "bias_pct": -6.7,
+          "r2": 0.6698,
+          "bias_assessment": "MODERATE_UNDERFORECAST (Potential Supply Chain Strain)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Holt_Winters_Additive_s4",
+          "mae": 29.46,
+          "rmse": 30.65,
+          "wape_pct": 6.7,
+          "mape_pct": 6.72,
+          "bias_pct": -6.7,
+          "r2": 0.6698,
+          "bias_assessment": "MODERATE_UNDERFORECAST (Potential Supply Chain Strain)",
+          "eval_observations": 24
+        },
+        {
+          "model": "XGBoost_Regressor",
+          "mae": 30.59,
+          "rmse": 31.58,
+          "wape_pct": 6.95,
+          "mape_pct": 6.99,
+          "bias_pct": -6.95,
+          "r2": 0.6495,
+          "bias_assessment": "MODERATE_UNDERFORECAST (Potential Supply Chain Strain)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Random_Forest_Regressor",
+          "mae": 30.89,
+          "rmse": 31.87,
+          "wape_pct": 7.02,
+          "mape_pct": 7.08,
+          "bias_pct": -7.02,
+          "r2": 0.6432,
+          "bias_assessment": "MODERATE_UNDERFORECAST (Potential Supply Chain Strain)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Seasonal_Naive_Baseline",
+          "mae": 31.62,
+          "rmse": 32.28,
+          "wape_pct": 7.19,
+          "mape_pct": 7.24,
+          "bias_pct": -7.19,
+          "r2": 0.6338,
+          "bias_assessment": "MODERATE_UNDERFORECAST (Potential Supply Chain Strain)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Moving_Average_k4",
+          "mae": 31.62,
+          "rmse": 32.57,
+          "wape_pct": 7.19,
+          "mape_pct": 7.22,
+          "bias_pct": -7.19,
+          "r2": 0.6272,
+          "bias_assessment": "MODERATE_UNDERFORECAST (Potential Supply Chain Strain)",
+          "eval_observations": 24
+        }
+      ],
+      "future_forecasts": [
+        {
+          "period": "2026Q4",
+          "forecast": 529.9,
+          "lower_95": 518.2,
+          "upper_95": 541.6
+        },
+        {
+          "period": "2027Q1",
+          "forecast": 552.2,
+          "lower_95": 540.4,
+          "upper_95": 564.0
+        },
+        {
+          "period": "2027Q2",
+          "forecast": 561.6,
+          "lower_95": 549.8,
+          "upper_95": 573.4
+        },
+        {
+          "period": "2027Q3",
+          "forecast": 548.3,
+          "lower_95": 536.5,
+          "upper_95": 560.1
+        }
+      ],
+      "feature_importances": {},
+      "execution_seconds": 6.24
+    },
+    {
+      "target_domain": "equipment_demand",
+      "series_id": "eq_sar_radar_antennas",
+      "series_name": "SAR Radar Antennas",
+      "unit": "Units",
+      "historical_observations": 67,
+      "historical_period_start": "2010Q1",
+      "historical_period_end": "2026Q3",
+      "champion_model": "SARIMA(1,1,1)x(1,0,0)[4]",
+      "champion_metrics": {
+        "mae": 8.16,
+        "rmse": 9.49,
+        "wape_pct": 1.63,
+        "mape_pct": 1.67,
+        "bias_pct": 0.04,
+        "r2": 0.9668,
+        "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+        "eval_observations": 24
+      },
+      "all_model_evaluations": [
+        {
+          "model": "SARIMA(1,1,1)x(1,0,0)[4]",
+          "mae": 8.16,
+          "rmse": 9.49,
+          "wape_pct": 1.63,
+          "mape_pct": 1.67,
+          "bias_pct": 0.04,
+          "r2": 0.9668,
+          "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Linear_Regression_Baseline",
+          "mae": 14.23,
+          "rmse": 17.65,
+          "wape_pct": 2.85,
+          "mape_pct": 2.83,
+          "bias_pct": -2.51,
+          "r2": 0.8852,
+          "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Gradient_Boosting_Regressor",
+          "mae": 25.79,
+          "rmse": 27.29,
+          "wape_pct": 5.16,
+          "mape_pct": 5.22,
+          "bias_pct": -5.11,
+          "r2": 0.7256,
+          "bias_assessment": "MODERATE_UNDERFORECAST (Potential Supply Chain Strain)",
+          "eval_observations": 24
+        },
+        {
+          "model": "ARIMA(1,1,1)",
+          "mae": 27.81,
+          "rmse": 31.29,
+          "wape_pct": 5.56,
+          "mape_pct": 5.39,
+          "bias_pct": -5.56,
+          "r2": 0.6393,
+          "bias_assessment": "MODERATE_UNDERFORECAST (Potential Supply Chain Strain)",
+          "eval_observations": 24
+        },
+        {
+          "model": "XGBoost_Regressor",
+          "mae": 29.13,
+          "rmse": 30.58,
+          "wape_pct": 5.83,
+          "mape_pct": 5.86,
+          "bias_pct": -5.83,
+          "r2": 0.6555,
+          "bias_assessment": "MODERATE_UNDERFORECAST (Potential Supply Chain Strain)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Random_Forest_Regressor",
+          "mae": 30.17,
+          "rmse": 31.47,
+          "wape_pct": 6.04,
+          "mape_pct": 6.08,
+          "bias_pct": -6.04,
+          "r2": 0.6351,
+          "bias_assessment": "MODERATE_UNDERFORECAST (Potential Supply Chain Strain)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Seasonal_Naive_Baseline",
+          "mae": 30.58,
+          "rmse": 31.61,
+          "wape_pct": 6.12,
+          "mape_pct": 6.14,
+          "bias_pct": -6.12,
+          "r2": 0.6319,
+          "bias_assessment": "MODERATE_UNDERFORECAST (Potential Supply Chain Strain)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Moving_Average_k4",
+          "mae": 30.58,
+          "rmse": 32.0,
+          "wape_pct": 6.12,
+          "mape_pct": 6.12,
+          "bias_pct": -6.12,
+          "r2": 0.6226,
+          "bias_assessment": "MODERATE_UNDERFORECAST (Potential Supply Chain Strain)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Naive_Baseline",
+          "mae": 31.0,
+          "rmse": 32.91,
+          "wape_pct": 6.2,
+          "mape_pct": 6.14,
+          "bias_pct": -6.2,
+          "r2": 0.601,
+          "bias_assessment": "MODERATE_UNDERFORECAST (Potential Supply Chain Strain)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Simple_Exponential_Smoothing",
+          "mae": 31.0,
+          "rmse": 32.91,
+          "wape_pct": 6.2,
+          "mape_pct": 6.14,
+          "bias_pct": -6.2,
+          "r2": 0.601,
+          "bias_assessment": "MODERATE_UNDERFORECAST (Potential Supply Chain Strain)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Holt_Winters_Additive_s4",
+          "mae": 31.0,
+          "rmse": 32.91,
+          "wape_pct": 6.2,
+          "mape_pct": 6.14,
+          "bias_pct": -6.2,
+          "r2": 0.601,
+          "bias_assessment": "MODERATE_UNDERFORECAST (Potential Supply Chain Strain)",
+          "eval_observations": 24
+        }
+      ],
+      "future_forecasts": [
+        {
+          "period": "2026Q4",
+          "forecast": 588.2,
+          "lower_95": 572.0,
+          "upper_95": 604.4
+        },
+        {
+          "period": "2027Q1",
+          "forecast": 619.4,
+          "lower_95": 602.8,
+          "upper_95": 636.0
+        },
+        {
+          "period": "2027Q2",
+          "forecast": 608.7,
+          "lower_95": 592.1,
+          "upper_95": 625.4
+        },
+        {
+          "period": "2027Q3",
+          "forecast": 610.7,
+          "lower_95": 594.1,
+          "upper_95": 627.3
+        }
+      ],
+      "feature_importances": {},
+      "execution_seconds": 6.35
+    },
+    {
+      "target_domain": "equipment_demand",
+      "series_id": "eq_star_trackers",
+      "series_name": "Star Trackers",
+      "unit": "Units",
+      "historical_observations": 67,
+      "historical_period_start": "2010Q1",
+      "historical_period_end": "2026Q3",
+      "champion_model": "SARIMA(1,1,1)x(1,0,0)[4]",
+      "champion_metrics": {
+        "mae": 6.97,
+        "rmse": 8.72,
+        "wape_pct": 1.59,
+        "mape_pct": 1.66,
+        "bias_pct": -0.01,
+        "r2": 0.9734,
+        "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+        "eval_observations": 24
+      },
+      "all_model_evaluations": [
+        {
+          "model": "SARIMA(1,1,1)x(1,0,0)[4]",
+          "mae": 6.97,
+          "rmse": 8.72,
+          "wape_pct": 1.59,
+          "mape_pct": 1.66,
+          "bias_pct": -0.01,
+          "r2": 0.9734,
+          "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Linear_Regression_Baseline",
+          "mae": 13.98,
+          "rmse": 17.36,
+          "wape_pct": 3.19,
+          "mape_pct": 3.18,
+          "bias_pct": -2.28,
+          "r2": 0.8945,
+          "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Gradient_Boosting_Regressor",
+          "mae": 25.97,
+          "rmse": 28.15,
+          "wape_pct": 5.92,
+          "mape_pct": 5.98,
+          "bias_pct": -5.92,
+          "r2": 0.7227,
+          "bias_assessment": "MODERATE_UNDERFORECAST (Potential Supply Chain Strain)",
+          "eval_observations": 24
+        },
+        {
+          "model": "ARIMA(1,1,1)",
+          "mae": 27.85,
+          "rmse": 31.15,
+          "wape_pct": 6.35,
+          "mape_pct": 6.39,
+          "bias_pct": -6.21,
+          "r2": 0.6605,
+          "bias_assessment": "MODERATE_UNDERFORECAST (Potential Supply Chain Strain)",
+          "eval_observations": 24
+        },
+        {
+          "model": "XGBoost_Regressor",
+          "mae": 28.27,
+          "rmse": 30.05,
+          "wape_pct": 6.45,
+          "mape_pct": 6.44,
+          "bias_pct": -6.45,
+          "r2": 0.6841,
+          "bias_assessment": "MODERATE_UNDERFORECAST (Potential Supply Chain Strain)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Random_Forest_Regressor",
+          "mae": 29.43,
+          "rmse": 31.49,
+          "wape_pct": 6.71,
+          "mape_pct": 6.76,
+          "bias_pct": -6.71,
+          "r2": 0.6531,
+          "bias_assessment": "MODERATE_UNDERFORECAST (Potential Supply Chain Strain)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Naive_Baseline",
+          "mae": 30.5,
+          "rmse": 32.76,
+          "wape_pct": 6.96,
+          "mape_pct": 7.0,
+          "bias_pct": -6.96,
+          "r2": 0.6244,
+          "bias_assessment": "MODERATE_UNDERFORECAST (Potential Supply Chain Strain)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Seasonal_Naive_Baseline",
+          "mae": 30.92,
+          "rmse": 31.94,
+          "wape_pct": 7.05,
+          "mape_pct": 7.1,
+          "bias_pct": -7.05,
+          "r2": 0.643,
+          "bias_assessment": "MODERATE_UNDERFORECAST (Potential Supply Chain Strain)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Moving_Average_k4",
+          "mae": 30.92,
+          "rmse": 32.9,
+          "wape_pct": 7.05,
+          "mape_pct": 7.06,
+          "bias_pct": -7.05,
+          "r2": 0.6212,
+          "bias_assessment": "MODERATE_UNDERFORECAST (Potential Supply Chain Strain)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Simple_Exponential_Smoothing",
+          "mae": 32.59,
+          "rmse": 34.44,
+          "wape_pct": 7.44,
+          "mape_pct": 7.48,
+          "bias_pct": -7.44,
+          "r2": 0.585,
+          "bias_assessment": "MODERATE_UNDERFORECAST (Potential Supply Chain Strain)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Holt_Winters_Additive_s4",
+          "mae": 32.59,
+          "rmse": 34.44,
+          "wape_pct": 7.44,
+          "mape_pct": 7.48,
+          "bias_pct": -7.44,
+          "r2": 0.585,
+          "bias_assessment": "MODERATE_UNDERFORECAST (Potential Supply Chain Strain)",
+          "eval_observations": 24
+        }
+      ],
+      "future_forecasts": [
+        {
+          "period": "2026Q4",
+          "forecast": 520.6,
+          "lower_95": 505.1,
+          "upper_95": 536.1
+        },
+        {
+          "period": "2027Q1",
+          "forecast": 555.2,
+          "lower_95": 539.4,
+          "upper_95": 571.0
+        },
+        {
+          "period": "2027Q2",
+          "forecast": 558.3,
+          "lower_95": 542.5,
+          "upper_95": 574.1
+        },
+        {
+          "period": "2027Q3",
+          "forecast": 540.9,
+          "lower_95": 525.1,
+          "upper_95": 556.7
+        }
+      ],
+      "feature_importances": {},
+      "execution_seconds": 7.26
+    },
+    {
+      "target_domain": "resource_consumption",
+      "series_id": "rc_aggregate_all_resources",
+      "series_name": "Total Resource Consumption",
+      "unit": "Units/Kg/Tbps/kW",
+      "historical_observations": 67,
+      "historical_period_start": "2010Q1",
+      "historical_period_end": "2026Q3",
+      "champion_model": "SARIMA(1,1,1)x(1,0,0)[4]",
+      "champion_metrics": {
+        "mae": 29.81,
+        "rmse": 34.78,
+        "wape_pct": 0.5,
+        "mape_pct": 0.5,
+        "bias_pct": 0.17,
+        "r2": 0.9963,
+        "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+        "eval_observations": 24
+      },
+      "all_model_evaluations": [
+        {
+          "model": "SARIMA(1,1,1)x(1,0,0)[4]",
+          "mae": 29.81,
+          "rmse": 34.78,
+          "wape_pct": 0.5,
+          "mape_pct": 0.5,
+          "bias_pct": 0.17,
+          "r2": 0.9963,
+          "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Gradient_Boosting_Regressor",
+          "mae": 153.03,
+          "rmse": 197.59,
+          "wape_pct": 2.59,
+          "mape_pct": 2.52,
+          "bias_pct": -1.57,
+          "r2": 0.8794,
+          "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Linear_Regression_Baseline",
+          "mae": 161.09,
+          "rmse": 178.42,
+          "wape_pct": 2.73,
+          "mape_pct": 2.73,
+          "bias_pct": -1.05,
+          "r2": 0.9017,
+          "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Naive_Baseline",
+          "mae": 190.71,
+          "rmse": 228.99,
+          "wape_pct": 3.23,
+          "mape_pct": 3.19,
+          "bias_pct": -0.76,
+          "r2": 0.8381,
+          "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Simple_Exponential_Smoothing",
+          "mae": 190.71,
+          "rmse": 228.99,
+          "wape_pct": 3.23,
+          "mape_pct": 3.19,
+          "bias_pct": -0.76,
+          "r2": 0.8381,
+          "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Holt_Winters_Additive_s4",
+          "mae": 190.71,
+          "rmse": 228.99,
+          "wape_pct": 3.23,
+          "mape_pct": 3.19,
+          "bias_pct": -0.76,
+          "r2": 0.8381,
+          "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+          "eval_observations": 24
+        },
+        {
+          "model": "XGBoost_Regressor",
+          "mae": 200.92,
+          "rmse": 254.58,
+          "wape_pct": 3.4,
+          "mape_pct": 3.31,
+          "bias_pct": -2.75,
+          "r2": 0.7998,
+          "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Random_Forest_Regressor",
+          "mae": 238.42,
+          "rmse": 291.36,
+          "wape_pct": 4.03,
+          "mape_pct": 3.96,
+          "bias_pct": -4.02,
+          "r2": 0.7378,
+          "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+          "eval_observations": 24
+        },
+        {
+          "model": "ARIMA(1,1,1)",
+          "mae": 281.14,
+          "rmse": 318.65,
+          "wape_pct": 4.76,
+          "mape_pct": 4.76,
+          "bias_pct": 2.23,
+          "r2": 0.6864,
+          "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Seasonal_Naive_Baseline",
+          "mae": 323.47,
+          "rmse": 325.0,
+          "wape_pct": 5.47,
+          "mape_pct": 5.52,
+          "bias_pct": -5.47,
+          "r2": 0.6738,
+          "bias_assessment": "MODERATE_UNDERFORECAST (Potential Supply Chain Strain)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Moving_Average_k4",
+          "mae": 323.47,
+          "rmse": 376.83,
+          "wape_pct": 5.47,
+          "mape_pct": 5.41,
+          "bias_pct": -5.47,
+          "r2": 0.5614,
+          "bias_assessment": "MODERATE_UNDERFORECAST (Potential Supply Chain Strain)",
+          "eval_observations": 24
+        }
+      ],
+      "future_forecasts": [
+        {
+          "period": "2026Q4",
+          "forecast": 7048.3,
+          "lower_95": 6988.7,
+          "upper_95": 7107.9
+        },
+        {
+          "period": "2027Q1",
+          "forecast": 7083.8,
+          "lower_95": 7023.6,
+          "upper_95": 7143.9
+        },
+        {
+          "period": "2027Q2",
+          "forecast": 6845.5,
+          "lower_95": 6785.3,
+          "upper_95": 6905.6
+        },
+        {
+          "period": "2027Q3",
+          "forecast": 7003.8,
+          "lower_95": 6943.7,
+          "upper_95": 7064.0
+        }
+      ],
+      "feature_importances": {},
+      "execution_seconds": 6.24
+    },
+    {
+      "target_domain": "resource_consumption",
+      "series_id": "rc_cryogenic_liquid_oxygen_lox",
+      "series_name": "Cryogenic Liquid Oxygen (LOX)",
+      "unit": "Units/Kg/Tbps/kW",
+      "historical_observations": 67,
+      "historical_period_start": "2010Q1",
+      "historical_period_end": "2026Q3",
+      "champion_model": "SARIMA(1,1,1)x(1,0,0)[4]",
+      "champion_metrics": {
+        "mae": 11.83,
+        "rmse": 14.93,
+        "wape_pct": 1.11,
+        "mape_pct": 1.11,
+        "bias_pct": 0.39,
+        "r2": 0.9659,
+        "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+        "eval_observations": 24
+      },
+      "all_model_evaluations": [
+        {
+          "model": "SARIMA(1,1,1)x(1,0,0)[4]",
+          "mae": 11.83,
+          "rmse": 14.93,
+          "wape_pct": 1.11,
+          "mape_pct": 1.11,
+          "bias_pct": 0.39,
+          "r2": 0.9659,
+          "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Linear_Regression_Baseline",
+          "mae": 22.43,
+          "rmse": 26.75,
+          "wape_pct": 2.11,
+          "mape_pct": 2.12,
+          "bias_pct": -1.11,
+          "r2": 0.8905,
+          "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Gradient_Boosting_Regressor",
+          "mae": 24.51,
+          "rmse": 30.07,
+          "wape_pct": 2.31,
+          "mape_pct": 2.3,
+          "bias_pct": -1.56,
+          "r2": 0.8616,
+          "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Naive_Baseline",
+          "mae": 26.8,
+          "rmse": 31.63,
+          "wape_pct": 2.52,
+          "mape_pct": 2.51,
+          "bias_pct": -0.54,
+          "r2": 0.8469,
+          "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+          "eval_observations": 24
+        },
+        {
+          "model": "XGBoost_Regressor",
+          "mae": 29.05,
+          "rmse": 36.59,
+          "wape_pct": 2.73,
+          "mape_pct": 2.69,
+          "bias_pct": -2.44,
+          "r2": 0.7951,
+          "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Simple_Exponential_Smoothing",
+          "mae": 29.55,
+          "rmse": 36.28,
+          "wape_pct": 2.78,
+          "mape_pct": 2.76,
+          "bias_pct": -1.81,
+          "r2": 0.7986,
+          "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Holt_Winters_Additive_s4",
+          "mae": 29.55,
+          "rmse": 36.28,
+          "wape_pct": 2.78,
+          "mape_pct": 2.76,
+          "bias_pct": -1.81,
+          "r2": 0.7986,
+          "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+          "eval_observations": 24
+        },
+        {
+          "model": "ARIMA(1,1,1)",
+          "mae": 31.85,
+          "rmse": 36.95,
+          "wape_pct": 3.0,
+          "mape_pct": 3.0,
+          "bias_pct": 0.47,
+          "r2": 0.791,
+          "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Random_Forest_Regressor",
+          "mae": 37.51,
+          "rmse": 44.49,
+          "wape_pct": 3.53,
+          "mape_pct": 3.49,
+          "bias_pct": -3.42,
+          "r2": 0.6971,
+          "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Seasonal_Naive_Baseline",
+          "mae": 44.65,
+          "rmse": 46.61,
+          "wape_pct": 4.2,
+          "mape_pct": 4.24,
+          "bias_pct": -4.2,
+          "r2": 0.6676,
+          "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Moving_Average_k4",
+          "mae": 44.87,
+          "rmse": 52.85,
+          "wape_pct": 4.22,
+          "mape_pct": 4.2,
+          "bias_pct": -4.2,
+          "r2": 0.5726,
+          "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+          "eval_observations": 24
+        }
+      ],
+      "future_forecasts": [
+        {
+          "period": "2026Q4",
+          "forecast": 1217.5,
+          "lower_95": 1190.7,
+          "upper_95": 1244.3
+        },
+        {
+          "period": "2027Q1",
+          "forecast": 1225.1,
+          "lower_95": 1198.3,
+          "upper_95": 1252.0
+        },
+        {
+          "period": "2027Q2",
+          "forecast": 1201.9,
+          "lower_95": 1175.1,
+          "upper_95": 1228.8
+        },
+        {
+          "period": "2027Q3",
+          "forecast": 1203.8,
+          "lower_95": 1176.9,
+          "upper_95": 1230.6
+        }
+      ],
+      "feature_importances": {},
+      "execution_seconds": 5.79
+    },
+    {
+      "target_domain": "resource_consumption",
+      "series_id": "rc_deep_space_telemetry_tbps",
+      "series_name": "Deep Space Telemetry (Tbps)",
+      "unit": "Units/Kg/Tbps/kW",
+      "historical_observations": 67,
+      "historical_period_start": "2010Q1",
+      "historical_period_end": "2026Q3",
+      "champion_model": "SARIMA(1,1,1)x(1,0,0)[4]",
+      "champion_metrics": {
+        "mae": 8.99,
+        "rmse": 10.65,
+        "wape_pct": 1.19,
+        "mape_pct": 1.2,
+        "bias_pct": 0.07,
+        "r2": 0.9813,
+        "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+        "eval_observations": 24
+      },
+      "all_model_evaluations": [
+        {
+          "model": "SARIMA(1,1,1)x(1,0,0)[4]",
+          "mae": 8.99,
+          "rmse": 10.65,
+          "wape_pct": 1.19,
+          "mape_pct": 1.2,
+          "bias_pct": 0.07,
+          "r2": 0.9813,
+          "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Gradient_Boosting_Regressor",
+          "mae": 21.49,
+          "rmse": 28.93,
+          "wape_pct": 2.83,
+          "mape_pct": 2.75,
+          "bias_pct": -2.34,
+          "r2": 0.8618,
+          "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Linear_Regression_Baseline",
+          "mae": 22.02,
+          "rmse": 23.61,
+          "wape_pct": 2.9,
+          "mape_pct": 2.92,
+          "bias_pct": -0.59,
+          "r2": 0.908,
+          "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Naive_Baseline",
+          "mae": 26.8,
+          "rmse": 32.46,
+          "wape_pct": 3.53,
+          "mape_pct": 3.5,
+          "bias_pct": -0.97,
+          "r2": 0.826,
+          "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Simple_Exponential_Smoothing",
+          "mae": 26.77,
+          "rmse": 33.49,
+          "wape_pct": 3.53,
+          "mape_pct": 3.47,
+          "bias_pct": -1.66,
+          "r2": 0.8148,
+          "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Holt_Winters_Additive_s4",
+          "mae": 26.77,
+          "rmse": 33.49,
+          "wape_pct": 3.53,
+          "mape_pct": 3.47,
+          "bias_pct": -1.66,
+          "r2": 0.8148,
+          "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+          "eval_observations": 24
+        },
+        {
+          "model": "ARIMA(1,1,1)",
+          "mae": 28.24,
+          "rmse": 31.88,
+          "wape_pct": 3.72,
+          "mape_pct": 3.81,
+          "bias_pct": 0.51,
+          "r2": 0.8323,
+          "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+          "eval_observations": 24
+        },
+        {
+          "model": "XGBoost_Regressor",
+          "mae": 29.04,
+          "rmse": 36.04,
+          "wape_pct": 3.83,
+          "mape_pct": 3.72,
+          "bias_pct": -3.17,
+          "r2": 0.7856,
+          "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Random_Forest_Regressor",
+          "mae": 36.11,
+          "rmse": 43.31,
+          "wape_pct": 4.76,
+          "mape_pct": 4.72,
+          "bias_pct": -4.76,
+          "r2": 0.6903,
+          "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Seasonal_Naive_Baseline",
+          "mae": 45.48,
+          "rmse": 46.49,
+          "wape_pct": 6.0,
+          "mape_pct": 6.08,
+          "bias_pct": -6.0,
+          "r2": 0.6432,
+          "bias_assessment": "MODERATE_UNDERFORECAST (Potential Supply Chain Strain)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Moving_Average_k4",
+          "mae": 45.48,
+          "rmse": 52.56,
+          "wape_pct": 6.0,
+          "mape_pct": 5.95,
+          "bias_pct": -6.0,
+          "r2": 0.5439,
+          "bias_assessment": "MODERATE_UNDERFORECAST (Potential Supply Chain Strain)",
+          "eval_observations": 24
+        }
+      ],
+      "future_forecasts": [
+        {
+          "period": "2026Q4",
+          "forecast": 915.9,
+          "lower_95": 894.4,
+          "upper_95": 937.4
+        },
+        {
+          "period": "2027Q1",
+          "forecast": 917.7,
+          "lower_95": 896.0,
+          "upper_95": 939.4
+        },
+        {
+          "period": "2027Q2",
+          "forecast": 886.7,
+          "lower_95": 864.9,
+          "upper_95": 908.4
+        },
+        {
+          "period": "2027Q3",
+          "forecast": 896.2,
+          "lower_95": 874.4,
+          "upper_95": 917.9
+        }
+      ],
+      "feature_importances": {},
+      "execution_seconds": 5.92
+    },
+    {
+      "target_domain": "resource_consumption",
+      "series_id": "rc_hypergolic_hydrazine",
+      "series_name": "Hypergolic Hydrazine",
+      "unit": "Units/Kg/Tbps/kW",
+      "historical_observations": 67,
+      "historical_period_start": "2010Q1",
+      "historical_period_end": "2026Q3",
+      "champion_model": "SARIMA(1,1,1)x(1,0,0)[4]",
+      "champion_metrics": {
+        "mae": 15.24,
+        "rmse": 18.76,
+        "wape_pct": 2.01,
+        "mape_pct": 2.09,
+        "bias_pct": 0.18,
+        "r2": 0.947,
+        "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+        "eval_observations": 24
+      },
+      "all_model_evaluations": [
+        {
+          "model": "SARIMA(1,1,1)x(1,0,0)[4]",
+          "mae": 15.24,
+          "rmse": 18.76,
+          "wape_pct": 2.01,
+          "mape_pct": 2.09,
+          "bias_pct": 0.18,
+          "r2": 0.947,
+          "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Linear_Regression_Baseline",
+          "mae": 25.23,
+          "rmse": 29.1,
+          "wape_pct": 3.33,
+          "mape_pct": 3.28,
+          "bias_pct": -1.46,
+          "r2": 0.8724,
+          "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Gradient_Boosting_Regressor",
+          "mae": 26.71,
+          "rmse": 33.21,
+          "wape_pct": 3.52,
+          "mape_pct": 3.42,
+          "bias_pct": -2.69,
+          "r2": 0.8338,
+          "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Naive_Baseline",
+          "mae": 27.59,
+          "rmse": 33.46,
+          "wape_pct": 3.64,
+          "mape_pct": 3.6,
+          "bias_pct": -0.45,
+          "r2": 0.8313,
+          "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+          "eval_observations": 24
+        },
+        {
+          "model": "XGBoost_Regressor",
+          "mae": 31.57,
+          "rmse": 38.48,
+          "wape_pct": 4.16,
+          "mape_pct": 4.05,
+          "bias_pct": -3.36,
+          "r2": 0.7769,
+          "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Simple_Exponential_Smoothing",
+          "mae": 31.75,
+          "rmse": 40.53,
+          "wape_pct": 4.18,
+          "mape_pct": 4.05,
+          "bias_pct": -3.22,
+          "r2": 0.7525,
+          "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Holt_Winters_Additive_s4",
+          "mae": 31.75,
+          "rmse": 40.53,
+          "wape_pct": 4.18,
+          "mape_pct": 4.05,
+          "bias_pct": -3.22,
+          "r2": 0.7525,
+          "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+          "eval_observations": 24
+        },
+        {
+          "model": "ARIMA(1,1,1)",
+          "mae": 31.79,
+          "rmse": 37.79,
+          "wape_pct": 4.19,
+          "mape_pct": 4.15,
+          "bias_pct": -0.71,
+          "r2": 0.7849,
+          "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Random_Forest_Regressor",
+          "mae": 34.83,
+          "rmse": 43.03,
+          "wape_pct": 4.59,
+          "mape_pct": 4.47,
+          "bias_pct": -4.3,
+          "r2": 0.721,
+          "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Seasonal_Naive_Baseline",
+          "mae": 46.03,
+          "rmse": 49.71,
+          "wape_pct": 6.07,
+          "mape_pct": 6.1,
+          "bias_pct": -6.07,
+          "r2": 0.6277,
+          "bias_assessment": "MODERATE_UNDERFORECAST (Potential Supply Chain Strain)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Moving_Average_k4",
+          "mae": 47.18,
+          "rmse": 55.4,
+          "wape_pct": 6.22,
+          "mape_pct": 6.12,
+          "bias_pct": -6.07,
+          "r2": 0.5376,
+          "bias_assessment": "MODERATE_UNDERFORECAST (Potential Supply Chain Strain)",
+          "eval_observations": 24
+        }
+      ],
+      "future_forecasts": [
+        {
+          "period": "2026Q4",
+          "forecast": 925.3,
+          "lower_95": 893.9,
+          "upper_95": 956.7
+        },
+        {
+          "period": "2027Q1",
+          "forecast": 935.5,
+          "lower_95": 902.3,
+          "upper_95": 968.8
+        },
+        {
+          "period": "2027Q2",
+          "forecast": 882.0,
+          "lower_95": 848.4,
+          "upper_95": 915.6
+        },
+        {
+          "period": "2027Q3",
+          "forecast": 927.9,
+          "lower_95": 894.2,
+          "upper_95": 961.5
+        }
+      ],
+      "feature_importances": {},
+      "execution_seconds": 5.75
+    },
+    {
+      "target_domain": "resource_consumption",
+      "series_id": "rc_liquid_hydrogen_lh2",
+      "series_name": "Liquid Hydrogen (LH2)",
+      "unit": "Units/Kg/Tbps/kW",
+      "historical_observations": 67,
+      "historical_period_start": "2010Q1",
+      "historical_period_end": "2026Q3",
+      "champion_model": "SARIMA(1,1,1)x(1,0,0)[4]",
+      "champion_metrics": {
+        "mae": 10.28,
+        "rmse": 12.07,
+        "wape_pct": 1.36,
+        "mape_pct": 1.38,
+        "bias_pct": -0.0,
+        "r2": 0.978,
+        "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+        "eval_observations": 24
+      },
+      "all_model_evaluations": [
+        {
+          "model": "SARIMA(1,1,1)x(1,0,0)[4]",
+          "mae": 10.28,
+          "rmse": 12.07,
+          "wape_pct": 1.36,
+          "mape_pct": 1.38,
+          "bias_pct": -0.0,
+          "r2": 0.978,
+          "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Linear_Regression_Baseline",
+          "mae": 23.12,
+          "rmse": 26.36,
+          "wape_pct": 3.05,
+          "mape_pct": 3.08,
+          "bias_pct": -1.11,
+          "r2": 0.8953,
+          "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Gradient_Boosting_Regressor",
+          "mae": 25.54,
+          "rmse": 33.83,
+          "wape_pct": 3.37,
+          "mape_pct": 3.32,
+          "bias_pct": -2.9,
+          "r2": 0.8276,
+          "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Naive_Baseline",
+          "mae": 28.26,
+          "rmse": 34.05,
+          "wape_pct": 3.73,
+          "mape_pct": 3.71,
+          "bias_pct": -1.15,
+          "r2": 0.8254,
+          "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Simple_Exponential_Smoothing",
+          "mae": 30.51,
+          "rmse": 38.03,
+          "wape_pct": 4.02,
+          "mape_pct": 3.97,
+          "bias_pct": -2.9,
+          "r2": 0.7821,
+          "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Holt_Winters_Additive_s4",
+          "mae": 30.51,
+          "rmse": 38.03,
+          "wape_pct": 4.02,
+          "mape_pct": 3.97,
+          "bias_pct": -2.9,
+          "r2": 0.7821,
+          "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+          "eval_observations": 24
+        },
+        {
+          "model": "XGBoost_Regressor",
+          "mae": 30.8,
+          "rmse": 38.71,
+          "wape_pct": 4.06,
+          "mape_pct": 4.01,
+          "bias_pct": -3.4,
+          "r2": 0.7743,
+          "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+          "eval_observations": 24
+        },
+        {
+          "model": "ARIMA(1,1,1)",
+          "mae": 31.54,
+          "rmse": 36.0,
+          "wape_pct": 4.16,
+          "mape_pct": 4.16,
+          "bias_pct": -0.28,
+          "r2": 0.8048,
+          "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Random_Forest_Regressor",
+          "mae": 37.51,
+          "rmse": 45.36,
+          "wape_pct": 4.95,
+          "mape_pct": 4.88,
+          "bias_pct": -4.95,
+          "r2": 0.6901,
+          "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Seasonal_Naive_Baseline",
+          "mae": 46.31,
+          "rmse": 47.74,
+          "wape_pct": 6.11,
+          "mape_pct": 6.18,
+          "bias_pct": -6.11,
+          "r2": 0.6567,
+          "bias_assessment": "MODERATE_UNDERFORECAST (Potential Supply Chain Strain)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Moving_Average_k4",
+          "mae": 46.31,
+          "rmse": 54.53,
+          "wape_pct": 6.11,
+          "mape_pct": 6.05,
+          "bias_pct": -6.11,
+          "r2": 0.5521,
+          "bias_assessment": "MODERATE_UNDERFORECAST (Potential Supply Chain Strain)",
+          "eval_observations": 24
+        }
+      ],
+      "future_forecasts": [
+        {
+          "period": "2026Q4",
+          "forecast": 920.0,
+          "lower_95": 893.4,
+          "upper_95": 946.7
+        },
+        {
+          "period": "2027Q1",
+          "forecast": 914.4,
+          "lower_95": 887.4,
+          "upper_95": 941.5
+        },
+        {
+          "period": "2027Q2",
+          "forecast": 888.8,
+          "lower_95": 861.8,
+          "upper_95": 915.9
+        },
+        {
+          "period": "2027Q3",
+          "forecast": 914.4,
+          "lower_95": 887.3,
+          "upper_95": 941.4
+        }
+      ],
+      "feature_importances": {},
+      "execution_seconds": 6.09
+    },
+    {
+      "target_domain": "resource_consumption",
+      "series_id": "rc_rp-1_rocket_fuel",
+      "series_name": "RP-1 Rocket Fuel",
+      "unit": "Units/Kg/Tbps/kW",
+      "historical_observations": 67,
+      "historical_period_start": "2010Q1",
+      "historical_period_end": "2026Q3",
+      "champion_model": "SARIMA(1,1,1)x(1,0,0)[4]",
+      "champion_metrics": {
+        "mae": 10.36,
+        "rmse": 12.4,
+        "wape_pct": 0.98,
+        "mape_pct": 1.0,
+        "bias_pct": -0.15,
+        "r2": 0.9756,
+        "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+        "eval_observations": 24
+      },
+      "all_model_evaluations": [
+        {
+          "model": "SARIMA(1,1,1)x(1,0,0)[4]",
+          "mae": 10.36,
+          "rmse": 12.4,
+          "wape_pct": 0.98,
+          "mape_pct": 1.0,
+          "bias_pct": -0.15,
+          "r2": 0.9756,
+          "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Linear_Regression_Baseline",
+          "mae": 23.7,
+          "rmse": 27.02,
+          "wape_pct": 2.24,
+          "mape_pct": 2.24,
+          "bias_pct": -0.87,
+          "r2": 0.8841,
+          "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Gradient_Boosting_Regressor",
+          "mae": 24.63,
+          "rmse": 30.11,
+          "wape_pct": 2.32,
+          "mape_pct": 2.29,
+          "bias_pct": -1.09,
+          "r2": 0.8561,
+          "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+          "eval_observations": 24
+        },
+        {
+          "model": "XGBoost_Regressor",
+          "mae": 29.94,
+          "rmse": 37.04,
+          "wape_pct": 2.82,
+          "mape_pct": 2.79,
+          "bias_pct": -2.31,
+          "r2": 0.7821,
+          "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Naive_Baseline",
+          "mae": 31.12,
+          "rmse": 36.09,
+          "wape_pct": 2.93,
+          "mape_pct": 2.9,
+          "bias_pct": -0.72,
+          "r2": 0.7932,
+          "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Simple_Exponential_Smoothing",
+          "mae": 32.87,
+          "rmse": 41.19,
+          "wape_pct": 3.1,
+          "mape_pct": 3.04,
+          "bias_pct": -2.54,
+          "r2": 0.7306,
+          "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Holt_Winters_Additive_s4",
+          "mae": 32.87,
+          "rmse": 41.19,
+          "wape_pct": 3.1,
+          "mape_pct": 3.04,
+          "bias_pct": -2.54,
+          "r2": 0.7306,
+          "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Random_Forest_Regressor",
+          "mae": 34.08,
+          "rmse": 42.56,
+          "wape_pct": 3.21,
+          "mape_pct": 3.19,
+          "bias_pct": -3.21,
+          "r2": 0.7124,
+          "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+          "eval_observations": 24
+        },
+        {
+          "model": "ARIMA(1,1,1)",
+          "mae": 34.42,
+          "rmse": 38.73,
+          "wape_pct": 3.25,
+          "mape_pct": 3.27,
+          "bias_pct": 0.99,
+          "r2": 0.7618,
+          "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Seasonal_Naive_Baseline",
+          "mae": 46.39,
+          "rmse": 47.78,
+          "wape_pct": 4.37,
+          "mape_pct": 4.42,
+          "bias_pct": -4.37,
+          "r2": 0.6375,
+          "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Moving_Average_k4",
+          "mae": 46.39,
+          "rmse": 54.54,
+          "wape_pct": 4.37,
+          "mape_pct": 4.35,
+          "bias_pct": -4.37,
+          "r2": 0.5276,
+          "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+          "eval_observations": 24
+        }
+      ],
+      "future_forecasts": [
+        {
+          "period": "2026Q4",
+          "forecast": 1211.0,
+          "lower_95": 1185.7,
+          "upper_95": 1236.4
+        },
+        {
+          "period": "2027Q1",
+          "forecast": 1222.2,
+          "lower_95": 1195.9,
+          "upper_95": 1248.6
+        },
+        {
+          "period": "2027Q2",
+          "forecast": 1197.0,
+          "lower_95": 1170.6,
+          "upper_95": 1223.5
+        },
+        {
+          "period": "2027Q3",
+          "forecast": 1209.0,
+          "lower_95": 1182.5,
+          "upper_95": 1235.5
+        }
+      ],
+      "feature_importances": {},
+      "execution_seconds": 6.04
+    },
+    {
+      "target_domain": "resource_consumption",
+      "series_id": "rc_radiation_shielding_alloys",
+      "series_name": "Radiation Shielding Alloys",
+      "unit": "Units/Kg/Tbps/kW",
+      "historical_observations": 67,
+      "historical_period_start": "2010Q1",
+      "historical_period_end": "2026Q3",
+      "champion_model": "SARIMA(1,1,1)x(1,0,0)[4]",
+      "champion_metrics": {
+        "mae": 10.25,
+        "rmse": 12.26,
+        "wape_pct": 1.35,
+        "mape_pct": 1.4,
+        "bias_pct": -0.19,
+        "r2": 0.9796,
+        "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+        "eval_observations": 24
+      },
+      "all_model_evaluations": [
+        {
+          "model": "SARIMA(1,1,1)x(1,0,0)[4]",
+          "mae": 10.25,
+          "rmse": 12.26,
+          "wape_pct": 1.35,
+          "mape_pct": 1.4,
+          "bias_pct": -0.19,
+          "r2": 0.9796,
+          "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Linear_Regression_Baseline",
+          "mae": 23.96,
+          "rmse": 27.44,
+          "wape_pct": 3.17,
+          "mape_pct": 3.15,
+          "bias_pct": -1.23,
+          "r2": 0.8979,
+          "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Gradient_Boosting_Regressor",
+          "mae": 26.79,
+          "rmse": 33.5,
+          "wape_pct": 3.54,
+          "mape_pct": 3.49,
+          "bias_pct": -1.93,
+          "r2": 0.8478,
+          "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+          "eval_observations": 24
+        },
+        {
+          "model": "XGBoost_Regressor",
+          "mae": 31.08,
+          "rmse": 38.32,
+          "wape_pct": 4.11,
+          "mape_pct": 3.98,
+          "bias_pct": -2.96,
+          "r2": 0.8009,
+          "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Naive_Baseline",
+          "mae": 32.6,
+          "rmse": 37.67,
+          "wape_pct": 4.31,
+          "mape_pct": 4.35,
+          "bias_pct": -0.31,
+          "r2": 0.8075,
+          "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Simple_Exponential_Smoothing",
+          "mae": 33.71,
+          "rmse": 41.31,
+          "wape_pct": 4.45,
+          "mape_pct": 4.41,
+          "bias_pct": -2.28,
+          "r2": 0.7686,
+          "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Holt_Winters_Additive_s4",
+          "mae": 33.71,
+          "rmse": 41.31,
+          "wape_pct": 4.45,
+          "mape_pct": 4.41,
+          "bias_pct": -2.28,
+          "r2": 0.7686,
+          "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Random_Forest_Regressor",
+          "mae": 36.08,
+          "rmse": 45.05,
+          "wape_pct": 4.77,
+          "mape_pct": 4.55,
+          "bias_pct": -4.72,
+          "r2": 0.7249,
+          "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+          "eval_observations": 24
+        },
+        {
+          "model": "ARIMA(1,1,1)",
+          "mae": 38.72,
+          "rmse": 41.86,
+          "wape_pct": 5.11,
+          "mape_pct": 5.27,
+          "bias_pct": 1.55,
+          "r2": 0.7624,
+          "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Seasonal_Naive_Baseline",
+          "mae": 47.42,
+          "rmse": 48.9,
+          "wape_pct": 6.26,
+          "mape_pct": 6.28,
+          "bias_pct": -6.26,
+          "r2": 0.6757,
+          "bias_assessment": "MODERATE_UNDERFORECAST (Potential Supply Chain Strain)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Moving_Average_k4",
+          "mae": 47.42,
+          "rmse": 55.85,
+          "wape_pct": 6.26,
+          "mape_pct": 6.12,
+          "bias_pct": -6.26,
+          "r2": 0.577,
+          "bias_assessment": "MODERATE_UNDERFORECAST (Potential Supply Chain Strain)",
+          "eval_observations": 24
+        }
+      ],
+      "future_forecasts": [
+        {
+          "period": "2026Q4",
+          "forecast": 928.8,
+          "lower_95": 905.7,
+          "upper_95": 951.9
+        },
+        {
+          "period": "2027Q1",
+          "forecast": 934.4,
+          "lower_95": 911.3,
+          "upper_95": 957.5
+        },
+        {
+          "period": "2027Q2",
+          "forecast": 896.9,
+          "lower_95": 873.8,
+          "upper_95": 920.0
+        },
+        {
+          "period": "2027Q3",
+          "forecast": 929.9,
+          "lower_95": 906.8,
+          "upper_95": 953.0
+        }
+      ],
+      "feature_importances": {},
+      "execution_seconds": 5.98
+    },
+    {
+      "target_domain": "resource_consumption",
+      "series_id": "rc_solar_power_generation_kw",
+      "series_name": "Solar Power Generation (kW)",
+      "unit": "Units/Kg/Tbps/kW",
+      "historical_observations": 67,
+      "historical_period_start": "2010Q1",
+      "historical_period_end": "2026Q3",
+      "champion_model": "SARIMA(1,1,1)x(1,0,0)[4]",
+      "champion_metrics": {
+        "mae": 14.85,
+        "rmse": 18.29,
+        "wape_pct": 1.96,
+        "mape_pct": 2.11,
+        "bias_pct": -0.2,
+        "r2": 0.9537,
+        "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+        "eval_observations": 24
+      },
+      "all_model_evaluations": [
+        {
+          "model": "SARIMA(1,1,1)x(1,0,0)[4]",
+          "mae": 14.85,
+          "rmse": 18.29,
+          "wape_pct": 1.96,
+          "mape_pct": 2.11,
+          "bias_pct": -0.2,
+          "r2": 0.9537,
+          "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Linear_Regression_Baseline",
+          "mae": 25.4,
+          "rmse": 29.15,
+          "wape_pct": 3.36,
+          "mape_pct": 3.38,
+          "bias_pct": -1.01,
+          "r2": 0.8825,
+          "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Gradient_Boosting_Regressor",
+          "mae": 30.9,
+          "rmse": 38.0,
+          "wape_pct": 4.08,
+          "mape_pct": 4.07,
+          "bias_pct": -3.16,
+          "r2": 0.8002,
+          "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Naive_Baseline",
+          "mae": 31.07,
+          "rmse": 37.96,
+          "wape_pct": 4.11,
+          "mape_pct": 4.05,
+          "bias_pct": -1.26,
+          "r2": 0.8006,
+          "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+          "eval_observations": 24
+        },
+        {
+          "model": "XGBoost_Regressor",
+          "mae": 33.51,
+          "rmse": 41.23,
+          "wape_pct": 4.43,
+          "mape_pct": 4.35,
+          "bias_pct": -3.86,
+          "r2": 0.7648,
+          "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Simple_Exponential_Smoothing",
+          "mae": 33.78,
+          "rmse": 43.37,
+          "wape_pct": 4.47,
+          "mape_pct": 4.35,
+          "bias_pct": -3.67,
+          "r2": 0.7398,
+          "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Holt_Winters_Additive_s4",
+          "mae": 33.78,
+          "rmse": 43.37,
+          "wape_pct": 4.47,
+          "mape_pct": 4.35,
+          "bias_pct": -3.67,
+          "r2": 0.7398,
+          "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+          "eval_observations": 24
+        },
+        {
+          "model": "ARIMA(1,1,1)",
+          "mae": 34.39,
+          "rmse": 38.54,
+          "wape_pct": 4.55,
+          "mape_pct": 4.54,
+          "bias_pct": -0.02,
+          "r2": 0.7945,
+          "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Random_Forest_Regressor",
+          "mae": 42.4,
+          "rmse": 49.02,
+          "wape_pct": 5.6,
+          "mape_pct": 5.5,
+          "bias_pct": -5.29,
+          "r2": 0.6674,
+          "bias_assessment": "MODERATE_UNDERFORECAST (Potential Supply Chain Strain)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Seasonal_Naive_Baseline",
+          "mae": 47.19,
+          "rmse": 50.56,
+          "wape_pct": 6.24,
+          "mape_pct": 6.22,
+          "bias_pct": -6.24,
+          "r2": 0.6463,
+          "bias_assessment": "MODERATE_UNDERFORECAST (Potential Supply Chain Strain)",
+          "eval_observations": 24
+        },
+        {
+          "model": "Moving_Average_k4",
+          "mae": 48.52,
+          "rmse": 56.34,
+          "wape_pct": 6.41,
+          "mape_pct": 6.32,
+          "bias_pct": -6.24,
+          "r2": 0.5608,
+          "bias_assessment": "MODERATE_UNDERFORECAST (Potential Supply Chain Strain)",
+          "eval_observations": 24
+        }
+      ],
+      "future_forecasts": [
+        {
+          "period": "2026Q4",
+          "forecast": 935.0,
+          "lower_95": 904.4,
+          "upper_95": 965.7
+        },
+        {
+          "period": "2027Q1",
+          "forecast": 928.0,
+          "lower_95": 897.4,
+          "upper_95": 958.7
+        },
+        {
+          "period": "2027Q2",
+          "forecast": 887.7,
+          "lower_95": 857.1,
+          "upper_95": 918.4
+        },
+        {
+          "period": "2027Q3",
+          "forecast": 917.4,
+          "lower_95": 886.7,
+          "upper_95": 948.0
+        }
+      ],
+      "feature_importances": {},
+      "execution_seconds": 5.85
+    }
+  ]
+}

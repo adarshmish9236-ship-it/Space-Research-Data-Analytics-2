@@ -1,0 +1,155 @@
+{
+  "dataset_name": "research_investment_future_projects",
+  "row_count": 160,
+  "column_count": 12,
+  "memory_usage_kb": 40.81,
+  "columns": {
+    "project_id": {
+      "dtype": "str",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "unique_count": 160,
+      "top_5_values": {
+        "PRJ-2029-200": 1,
+        "PRJ-2026-201": 1,
+        "PRJ-2035-202": 1,
+        "PRJ-2027-203": 1,
+        "PRJ-2032-204": 1
+      }
+    },
+    "project_title": {
+      "dtype": "str",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "unique_count": 20,
+      "top_5_values": {
+        "Lunar Gateway Orbital Habitation Node Phase 4": 14,
+        "Lunar Gateway Orbital Habitation Node Phase 3": 13,
+        "NextGen Artemis Lunar Base Phase 1": 11,
+        "Mars Sample Return Logistics Phase 1": 11,
+        "Mars Sample Return Logistics Phase 2": 10
+      }
+    },
+    "agency_id": {
+      "dtype": "str",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "unique_count": 7,
+      "top_5_values": {
+        "AGY-005": 30,
+        "AGY-003": 27,
+        "AGY-007": 22,
+        "AGY-001": 22,
+        "AGY-002": 21
+      }
+    },
+    "lead_agency": {
+      "dtype": "str",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "unique_count": 7,
+      "top_5_values": {
+        "China National Space Administration": 30,
+        "Indian Space Research Organisation": 27,
+        "Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab)": 22,
+        "National Aeronautics and Space Administration": 22,
+        "European Space Agency": 21
+      }
+    },
+    "country": {
+      "dtype": "str",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "unique_count": 6,
+      "top_5_values": {
+        "United States": 44,
+        "China": 30,
+        "India": 27,
+        "Europe": 21,
+        "Russia": 19
+      }
+    },
+    "research_theme": {
+      "dtype": "str",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "unique_count": 5,
+      "top_5_values": {
+        "Orbital Infrastructure": 38,
+        "Planetary Science": 34,
+        "Advanced Communications": 32,
+        "Deep Space Exploration": 31,
+        "Astrophysics": 25
+      }
+    },
+    "target_commencement_year": {
+      "dtype": "int64",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "unique_count": 11,
+      "min": 2025.0,
+      "max": 2035.0,
+      "mean": 2030.438,
+      "std": 3.146,
+      "median": 2031.0,
+      "skewness": -0.184
+    },
+    "estimated_investment_million_usd": {
+      "dtype": "float64",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "unique_count": 160,
+      "min": 752.1,
+      "max": 18211.3,
+      "mean": 9902.008,
+      "std": 5066.01,
+      "median": 10639.5,
+      "skewness": -0.22
+    },
+    "priority_tier": {
+      "dtype": "str",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "unique_count": 4,
+      "top_5_values": {
+        "Critical Strategic": 44,
+        "High Priority": 40,
+        "Scientific Discovery": 39,
+        "Exploratory": 37
+      }
+    },
+    "technology_readiness_level": {
+      "dtype": "int64",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "unique_count": 6,
+      "min": 3.0,
+      "max": 8.0,
+      "mean": 5.744,
+      "std": 1.771,
+      "median": 6.0,
+      "skewness": -0.114
+    },
+    "project_status": {
+      "dtype": "str",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "unique_count": 4,
+      "top_5_values": {
+        "Funded - Phase A": 45,
+        "Proposed": 42,
+        "Approved": 38,
+        "Phase B Development": 35
+      }
+    },
+    "data_origin": {
+      "dtype": "str",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "unique_count": 1,
+      "top_5_values": {
+        "synthetic": 160
+      }
+    }
+  }
+}

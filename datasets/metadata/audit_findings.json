@@ -1,0 +1,92 @@
+[
+  {
+    "dataset": "agency_research_expenditures.csv",
+    "rows": 1414,
+    "columns": 8,
+    "null_cells": 0,
+    "duplicate_rows": 0,
+    "has_data_origin_tag": false,
+    "detected_origin": "unspecified (synthetic generator origin)",
+    "status": "VALID_LEGACY_RAW"
+  },
+  {
+    "dataset": "equipment_component_demand.csv",
+    "rows": 1616,
+    "columns": 9,
+    "null_cells": 0,
+    "duplicate_rows": 0,
+    "has_data_origin_tag": false,
+    "detected_origin": "unspecified (synthetic generator origin)",
+    "status": "VALID_LEGACY_RAW"
+  },
+  {
+    "dataset": "launch_activities.csv",
+    "rows": 1200,
+    "columns": 10,
+    "null_cells": 0,
+    "duplicate_rows": 0,
+    "has_data_origin_tag": false,
+    "detected_origin": "unspecified (synthetic generator origin)",
+    "status": "VALID_LEGACY_RAW"
+  },
+  {
+    "dataset": "research_investment_future_projects.csv",
+    "rows": 150,
+    "columns": 7,
+    "null_cells": 0,
+    "duplicate_rows": 0,
+    "has_data_origin_tag": false,
+    "detected_origin": "unspecified (synthetic generator origin)",
+    "status": "VALID_LEGACY_RAW"
+  },
+  {
+    "dataset": "resource_consumption.csv",
+    "rows": 1414,
+    "columns": 7,
+    "null_cells": 0,
+    "duplicate_rows": 0,
+    "has_data_origin_tag": false,
+    "detected_origin": "unspecified (synthetic generator origin)",
+    "status": "VALID_LEGACY_RAW"
+  },
+  {
+    "dataset": "satellite_manufacturing_requirements.csv",
+    "rows": 600,
+    "columns": 8,
+    "null_cells": 0,
+    "duplicate_rows": 0,
+    "has_data_origin_tag": false,
+    "detected_origin": "unspecified (synthetic generator origin)",
+    "status": "VALID_LEGACY_RAW"
+  },
+  {
+    "dataset": "satellites_orbital.csv",
+    "rows": 2400,
+    "columns": 12,
+    "null_cells": 0,
+    "duplicate_rows": 0,
+    "has_data_origin_tag": false,
+    "detected_origin": "unspecified (synthetic generator origin)",
+    "status": "VALID_LEGACY_RAW"
+  },
+  {
+    "dataset": "space_infrastructure_requirements.csv",
+    "rows": 1010,
+    "columns": 7,
+    "null_cells": 0,
+    "duplicate_rows": 0,
+    "has_data_origin_tag": false,
+    "detected_origin": "unspecified (synthetic generator origin)",
+    "status": "VALID_LEGACY_RAW"
+  },
+  {
+    "dataset": "space_missions.csv",
+    "rows": 1500,
+    "columns": 12,
+    "null_cells": 0,
+    "duplicate_rows": 0,
+    "has_data_origin_tag": false,
+    "detected_origin": "unspecified (synthetic generator origin)",
+    "status": "VALID_LEGACY_RAW"
+  }
+]

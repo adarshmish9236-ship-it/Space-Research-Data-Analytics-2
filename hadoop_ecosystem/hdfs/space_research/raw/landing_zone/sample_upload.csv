@@ -1,0 +1,13 @@
+srn,name,motherName,fatherName,branch,batchYear,collegeCode,semester,sgpa,cgpa,totalCredits,resultStatus,courseCode,courseName,credits,internalMarks,externalMarks,totalMarks,gradePoint,letterGrade
+2AI0011RV2,Riya Mehta,Sunita Mehta,Ramesh Mehta,Artificial Intelligence & Machine Learning,2022,RVCE,1,9.8,9.8,22,PASS,22MAT11,Calculus and Linear Algebra,4,49,95,144,10,O
+1RV22AI001,Riya Mehta,Sunita Mehta,Ramesh Mehta,Artificial Intelligence & Machine Learning,2022,RVCE,1,9.8,9.8,22,PASS,22AIL12,Python for Machine Learning,4,48,92,140,10,O
+1RV22AI001,Riya Mehta,Sunita Mehta,Ramesh Mehta,Artificial Intelligence & Machine Learning,2022,RVCE,1,9.8,9.8,22,PASS,22PHY12,Engineering Physics,4,46,88,134,9,A+
+1RV22AI001,Riya Mehta,Sunita Mehta,Ramesh Mehta,Artificial Intelligence & Machine Learning,2022,RVCE,1,9.8,9.8,22,PASS,22CPS13,Problem Solving with C,3,47,90,137,10,O
+1RV22AI001,Riya Mehta,Sunita Mehta,Ramesh Mehta,Artificial Intelligence & Machine Learning,2022,RVCE,1,9.8,9.8,22,PASS,22EGH14,Engineering Graphics,3,45,86,131,9,A+
+1RV22AI001,Riya Mehta,Sunita Mehta,Ramesh Mehta,Artificial Intelligence & Machine Learning,2022,RVCE,1,9.8,9.8,22,PASS,22EVN15,Environmental Studies,1,40,78,118,9,A+
+1MS22CS010,Vikram Rao,Anitha Rao,Suresh Rao,Computer Science & Engineering,2022,MSRIT,1,7.5,7.5,22,PASS,22MAT11,Calculus and Linear Algebra,4,34,62,96,7,B+
+1MS22CS010,Vikram Rao,Anitha Rao,Suresh Rao,Computer Science & Engineering,2022,MSRIT,1,7.5,7.5,22,PASS,22CPS13,Problem Solving with C,3,36,68,104,8,A
+1MS22CS010,Vikram Rao,Anitha Rao,Suresh Rao,Computer Science & Engineering,2022,MSRIT,1,7.5,7.5,22,PASS,22PHY12,Engineering Physics,4,30,55,85,7,B+
+1MS22CS010,Vikram Rao,Anitha Rao,Suresh Rao,Computer Science & Engineering,2022,MSRIT,1,7.5,7.5,22,PASS,22ELN14,Basic Electronics,3,28,50,78,6,B
+1MS22CS010,Vikram Rao,Anitha Rao,Suresh Rao,Computer Science & Engineering,2022,MSRIT,1,7.5,7.5,22,PASS,22EGH14,Engineering Graphics,4,32,60,92,7,B+
+1MS22CS010,Vikram Rao,Anitha Rao,Suresh Rao,Computer Science & Engineering,2022,MSRIT,1,7.5,7.5,22,PASS,22EVN15,Environmental Studies,1,35,65,100,8,A

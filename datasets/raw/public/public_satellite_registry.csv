@@ -1,0 +1,5 @@
+satellite_id,norad_id,cospar_id,satellite_name,operator_agency,country,orbit_type,altitude_km,inclination_deg,launch_year,operational_status,data_origin,source
+SAT-PUB-001,20580,1990-037B,HST (Hubble Space Telescope),NASA,United States,LEO (Low Earth Orbit),540.0,28.47,1990,Active,real,NASA NSSDC / Celestrak
+SAT-PUB-002,25544,1998-067A,ISS (International Space Station),NASA / Roscosmos / ESA / JAXA / CSA,Multinational,LEO (Low Earth Orbit),420.0,51.64,1998,Active,real,NASA Open Data / Space-Track
+SAT-PUB-003,39086,2013-009A,SARAL (AltiKa Oceanographic),ISRO / CNES,India / France,SSO (Sun-Synchronous),781.0,98.54,2013,Active,real,ISRO / CNES Earth Observation Portal
+SAT-PUB-004,40053,2014-016A,Sentinel-1A (Copernicus Radar),ESA,Europe,SSO (Sun-Synchronous),693.0,98.18,2014,Active,real,ESA Copernicus Open Access Hub

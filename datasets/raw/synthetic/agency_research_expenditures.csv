@@ -1,0 +1,1415 @@
+expenditure_id,date,year,month,quarter,agency_id,agency_name,country,rd_expenditure_million_usd,infrastructure_expenditure_million_usd,mission_operations_million_usd,total_monthly_expenditure_million_usd,currency,data_origin
+EXP-2010-00001,2010-01-01,2010,1,Q1,AGY-001,National Aeronautics and Space Administration,United States,173.41,101.15,86.7,361.26,USD,synthetic
+EXP-2010-00002,2010-01-01,2010,1,Q1,AGY-002,European Space Agency,Europe,82.44,48.09,41.22,171.75,USD,synthetic
+EXP-2010-00003,2010-01-01,2010,1,Q1,AGY-003,Indian Space Research Organisation,India,41.61,24.27,20.8,86.68,USD,synthetic
+EXP-2010-00004,2010-01-01,2010,1,Q1,AGY-004,Japan Aerospace Exploration Agency,Japan,44.65,26.05,22.33,93.03,USD,synthetic
+EXP-2010-00005,2010-01-01,2010,1,Q1,AGY-005,China National Space Administration,China,88.87,51.84,44.43,185.14,USD,synthetic
+EXP-2010-00006,2010-01-01,2010,1,Q1,AGY-006,State Space Corporation Roscosmos,Russia,43.63,25.45,21.82,90.9,USD,synthetic
+EXP-2010-00007,2010-01-01,2010,1,Q1,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,41.27,24.08,20.64,85.99,USD,synthetic
+EXP-2010-00008,2010-02-01,2010,2,Q1,AGY-001,National Aeronautics and Space Administration,United States,164.13,95.75,82.07,341.95,USD,synthetic
+EXP-2010-00009,2010-02-01,2010,2,Q1,AGY-002,European Space Agency,Europe,88.46,51.6,44.23,184.29,USD,synthetic
+EXP-2010-00010,2010-02-01,2010,2,Q1,AGY-003,Indian Space Research Organisation,India,42.3,24.67,21.15,88.12,USD,synthetic
+EXP-2010-00011,2010-02-01,2010,2,Q1,AGY-004,Japan Aerospace Exploration Agency,Japan,41.37,24.13,20.68,86.18,USD,synthetic
+EXP-2010-00012,2010-02-01,2010,2,Q1,AGY-005,China National Space Administration,China,85.75,50.02,42.87,178.64,USD,synthetic
+EXP-2010-00013,2010-02-01,2010,2,Q1,AGY-006,State Space Corporation Roscosmos,Russia,42.95,25.06,21.48,89.49,USD,synthetic
+EXP-2010-00014,2010-02-01,2010,2,Q1,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,40.3,23.51,20.15,83.96,USD,synthetic
+EXP-2010-00015,2010-03-01,2010,3,Q1,AGY-001,National Aeronautics and Space Administration,United States,176.2,102.78,88.1,367.08,USD,synthetic
+EXP-2010-00016,2010-03-01,2010,3,Q1,AGY-002,European Space Agency,Europe,90.04,52.52,45.02,187.58,USD,synthetic
+EXP-2010-00017,2010-03-01,2010,3,Q1,AGY-003,Indian Space Research Organisation,India,46.5,27.12,23.25,96.87,USD,synthetic
+EXP-2010-00018,2010-03-01,2010,3,Q1,AGY-004,Japan Aerospace Exploration Agency,Japan,44.62,26.03,22.31,92.96,USD,synthetic
+EXP-2010-00019,2010-03-01,2010,3,Q1,AGY-005,China National Space Administration,China,86.65,50.55,43.32,180.52,USD,synthetic
+EXP-2010-00020,2010-03-01,2010,3,Q1,AGY-006,State Space Corporation Roscosmos,Russia,47.77,27.86,23.88,99.51,USD,synthetic
+EXP-2010-00021,2010-03-01,2010,3,Q1,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,43.93,25.63,21.97,91.53,USD,synthetic
+EXP-2010-00022,2010-04-01,2010,4,Q2,AGY-001,National Aeronautics and Space Administration,United States,181.52,105.89,90.76,378.17,USD,synthetic
+EXP-2010-00023,2010-04-01,2010,4,Q2,AGY-002,European Space Agency,Europe,88.64,51.71,44.32,184.67,USD,synthetic
+EXP-2010-00024,2010-04-01,2010,4,Q2,AGY-003,Indian Space Research Organisation,India,46.18,26.94,23.09,96.21,USD,synthetic
+EXP-2010-00025,2010-04-01,2010,4,Q2,AGY-004,Japan Aerospace Exploration Agency,Japan,46.37,27.05,23.18,96.6,USD,synthetic
+EXP-2010-00026,2010-04-01,2010,4,Q2,AGY-005,China National Space Administration,China,86.16,50.26,43.08,179.5,USD,synthetic
+EXP-2010-00027,2010-04-01,2010,4,Q2,AGY-006,State Space Corporation Roscosmos,Russia,47.83,27.9,23.91,99.64,USD,synthetic
+EXP-2010-00028,2010-04-01,2010,4,Q2,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,48.1,28.06,24.05,100.21,USD,synthetic
+EXP-2010-00029,2010-05-01,2010,5,Q2,AGY-001,National Aeronautics and Space Administration,United States,175.53,102.39,87.77,365.69,USD,synthetic
+EXP-2010-00030,2010-05-01,2010,5,Q2,AGY-002,European Space Agency,Europe,96.0,56.0,48.0,200.0,USD,synthetic
+EXP-2010-00031,2010-05-01,2010,5,Q2,AGY-003,Indian Space Research Organisation,India,43.36,25.29,21.68,90.33,USD,synthetic
+EXP-2010-00032,2010-05-01,2010,5,Q2,AGY-004,Japan Aerospace Exploration Agency,Japan,45.6,26.6,22.8,95.0,USD,synthetic
+EXP-2010-00033,2010-05-01,2010,5,Q2,AGY-005,China National Space Administration,China,86.17,50.27,43.08,179.52,USD,synthetic
+EXP-2010-00034,2010-05-01,2010,5,Q2,AGY-006,State Space Corporation Roscosmos,Russia,47.68,27.81,23.84,99.33,USD,synthetic
+EXP-2010-00035,2010-05-01,2010,5,Q2,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,45.97,26.81,22.98,95.76,USD,synthetic
+EXP-2010-00036,2010-06-01,2010,6,Q2,AGY-001,National Aeronautics and Space Administration,United States,184.86,107.83,92.43,385.12,USD,synthetic
+EXP-2010-00037,2010-06-01,2010,6,Q2,AGY-002,European Space Agency,Europe,96.52,56.31,48.26,201.09,USD,synthetic
+EXP-2010-00038,2010-06-01,2010,6,Q2,AGY-003,Indian Space Research Organisation,India,43.23,25.22,21.62,90.07,USD,synthetic
+EXP-2010-00039,2010-06-01,2010,6,Q2,AGY-004,Japan Aerospace Exploration Agency,Japan,47.5,27.71,23.75,98.96,USD,synthetic
+EXP-2010-00040,2010-06-01,2010,6,Q2,AGY-005,China National Space Administration,China,95.22,55.54,47.61,198.37,USD,synthetic
+EXP-2010-00041,2010-06-01,2010,6,Q2,AGY-006,State Space Corporation Roscosmos,Russia,45.56,26.58,22.78,94.92,USD,synthetic
+EXP-2010-00042,2010-06-01,2010,6,Q2,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,48.15,28.09,24.08,100.32,USD,synthetic
+EXP-2010-00043,2010-07-01,2010,7,Q3,AGY-001,National Aeronautics and Space Administration,United States,188.34,109.86,94.17,392.37,USD,synthetic
+EXP-2010-00044,2010-07-01,2010,7,Q3,AGY-002,European Space Agency,Europe,90.67,52.89,45.34,188.9,USD,synthetic
+EXP-2010-00045,2010-07-01,2010,7,Q3,AGY-003,Indian Space Research Organisation,India,42.93,25.05,21.47,89.45,USD,synthetic
+EXP-2010-00046,2010-07-01,2010,7,Q3,AGY-004,Japan Aerospace Exploration Agency,Japan,47.85,27.91,23.92,99.68,USD,synthetic
+EXP-2010-00047,2010-07-01,2010,7,Q3,AGY-005,China National Space Administration,China,86.83,50.65,43.42,180.9,USD,synthetic
+EXP-2010-00048,2010-07-01,2010,7,Q3,AGY-006,State Space Corporation Roscosmos,Russia,43.59,25.43,21.8,90.82,USD,synthetic
+EXP-2010-00049,2010-07-01,2010,7,Q3,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,45.21,26.37,22.61,94.19,USD,synthetic
+EXP-2010-00050,2010-08-01,2010,8,Q3,AGY-001,National Aeronautics and Space Administration,United States,192.86,112.5,96.43,401.79,USD,synthetic
+EXP-2010-00051,2010-08-01,2010,8,Q3,AGY-002,European Space Agency,Europe,94.41,55.07,47.21,196.69,USD,synthetic
+EXP-2010-00052,2010-08-01,2010,8,Q3,AGY-003,Indian Space Research Organisation,India,47.73,27.84,23.87,99.44,USD,synthetic
+EXP-2010-00053,2010-08-01,2010,8,Q3,AGY-004,Japan Aerospace Exploration Agency,Japan,43.01,25.09,21.5,89.6,USD,synthetic
+EXP-2010-00054,2010-08-01,2010,8,Q3,AGY-005,China National Space Administration,China,86.57,50.5,43.28,180.35,USD,synthetic
+EXP-2010-00055,2010-08-01,2010,8,Q3,AGY-006,State Space Corporation Roscosmos,Russia,47.1,27.47,23.55,98.12,USD,synthetic
+EXP-2010-00056,2010-08-01,2010,8,Q3,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,46.83,27.32,23.42,97.57,USD,synthetic
+EXP-2010-00057,2010-09-01,2010,9,Q3,AGY-001,National Aeronautics and Space Administration,United States,184.37,107.55,92.19,384.11,USD,synthetic
+EXP-2010-00058,2010-09-01,2010,9,Q3,AGY-002,European Space Agency,Europe,95.61,55.77,47.81,199.19,USD,synthetic
+EXP-2010-00059,2010-09-01,2010,9,Q3,AGY-003,Indian Space Research Organisation,India,45.92,26.79,22.96,95.67,USD,synthetic
+EXP-2010-00060,2010-09-01,2010,9,Q3,AGY-004,Japan Aerospace Exploration Agency,Japan,48.11,28.06,24.06,100.23,USD,synthetic
+EXP-2010-00061,2010-09-01,2010,9,Q3,AGY-005,China National Space Administration,China,86.2,50.28,43.1,179.58,USD,synthetic
+EXP-2010-00062,2010-09-01,2010,9,Q3,AGY-006,State Space Corporation Roscosmos,Russia,47.56,27.74,23.78,99.08,USD,synthetic
+EXP-2010-00063,2010-09-01,2010,9,Q3,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,45.88,26.76,22.94,95.58,USD,synthetic
+EXP-2010-00064,2010-10-01,2010,10,Q4,AGY-001,National Aeronautics and Space Administration,United States,186.58,108.84,93.29,388.71,USD,synthetic
+EXP-2010-00065,2010-10-01,2010,10,Q4,AGY-002,European Space Agency,Europe,94.82,55.31,47.41,197.54,USD,synthetic
+EXP-2010-00066,2010-10-01,2010,10,Q4,AGY-003,Indian Space Research Organisation,India,43.07,25.12,21.53,89.72,USD,synthetic
+EXP-2010-00067,2010-10-01,2010,10,Q4,AGY-004,Japan Aerospace Exploration Agency,Japan,48.02,28.01,24.01,100.04,USD,synthetic
+EXP-2010-00068,2010-10-01,2010,10,Q4,AGY-005,China National Space Administration,China,89.32,52.1,44.66,186.08,USD,synthetic
+EXP-2010-00069,2010-10-01,2010,10,Q4,AGY-006,State Space Corporation Roscosmos,Russia,45.84,26.74,22.92,95.5,USD,synthetic
+EXP-2010-00070,2010-10-01,2010,10,Q4,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,48.15,28.09,24.07,100.31,USD,synthetic
+EXP-2010-00071,2010-11-01,2010,11,Q4,AGY-001,National Aeronautics and Space Administration,United States,212.62,124.03,106.31,442.96,USD,synthetic
+EXP-2010-00072,2010-11-01,2010,11,Q4,AGY-002,European Space Agency,Europe,104.89,61.19,52.45,218.53,USD,synthetic
+EXP-2010-00073,2010-11-01,2010,11,Q4,AGY-003,Indian Space Research Organisation,India,54.43,31.75,27.22,113.4,USD,synthetic
+EXP-2010-00074,2010-11-01,2010,11,Q4,AGY-004,Japan Aerospace Exploration Agency,Japan,53.55,31.24,26.78,111.57,USD,synthetic
+EXP-2010-00075,2010-11-01,2010,11,Q4,AGY-005,China National Space Administration,China,108.16,63.1,54.08,225.34,USD,synthetic
+EXP-2010-00076,2010-11-01,2010,11,Q4,AGY-006,State Space Corporation Roscosmos,Russia,53.29,31.09,26.65,111.03,USD,synthetic
+EXP-2010-00077,2010-11-01,2010,11,Q4,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,50.96,29.73,25.48,106.17,USD,synthetic
+EXP-2010-00078,2010-12-01,2010,12,Q4,AGY-001,National Aeronautics and Space Administration,United States,201.86,117.75,100.93,420.54,USD,synthetic
+EXP-2010-00079,2010-12-01,2010,12,Q4,AGY-002,European Space Agency,Europe,99.5,58.04,49.75,207.29,USD,synthetic
+EXP-2010-00080,2010-12-01,2010,12,Q4,AGY-003,Indian Space Research Organisation,India,50.34,29.37,25.17,104.88,USD,synthetic
+EXP-2010-00081,2010-12-01,2010,12,Q4,AGY-004,Japan Aerospace Exploration Agency,Japan,49.95,29.14,24.98,104.07,USD,synthetic
+EXP-2010-00082,2010-12-01,2010,12,Q4,AGY-005,China National Space Administration,China,108.58,63.34,54.29,226.21,USD,synthetic
+EXP-2010-00083,2010-12-01,2010,12,Q4,AGY-006,State Space Corporation Roscosmos,Russia,50.44,29.42,25.22,105.08,USD,synthetic
+EXP-2010-00084,2010-12-01,2010,12,Q4,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,49.38,28.81,24.69,102.88,USD,synthetic
+EXP-2011-00085,2011-01-01,2011,1,Q1,AGY-001,National Aeronautics and Space Administration,United States,185.92,108.45,92.96,387.33,USD,synthetic
+EXP-2011-00086,2011-01-01,2011,1,Q1,AGY-002,European Space Agency,Europe,86.48,50.44,43.24,180.16,USD,synthetic
+EXP-2011-00087,2011-01-01,2011,1,Q1,AGY-003,Indian Space Research Organisation,India,43.76,25.53,21.88,91.17,USD,synthetic
+EXP-2011-00088,2011-01-01,2011,1,Q1,AGY-004,Japan Aerospace Exploration Agency,Japan,45.37,26.47,22.69,94.53,USD,synthetic
+EXP-2011-00089,2011-01-01,2011,1,Q1,AGY-005,China National Space Administration,China,93.45,54.51,46.72,194.68,USD,synthetic
+EXP-2011-00090,2011-01-01,2011,1,Q1,AGY-006,State Space Corporation Roscosmos,Russia,42.81,24.97,21.41,89.19,USD,synthetic
+EXP-2011-00091,2011-01-01,2011,1,Q1,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,45.27,26.41,22.63,94.31,USD,synthetic
+EXP-2011-00092,2011-02-01,2011,2,Q1,AGY-001,National Aeronautics and Space Administration,United States,188.99,110.24,94.49,393.72,USD,synthetic
+EXP-2011-00093,2011-02-01,2011,2,Q1,AGY-002,European Space Agency,Europe,88.71,51.75,44.36,184.82,USD,synthetic
+EXP-2011-00094,2011-02-01,2011,2,Q1,AGY-003,Indian Space Research Organisation,India,46.9,27.36,23.45,97.71,USD,synthetic
+EXP-2011-00095,2011-02-01,2011,2,Q1,AGY-004,Japan Aerospace Exploration Agency,Japan,47.79,27.88,23.9,99.57,USD,synthetic
+EXP-2011-00096,2011-02-01,2011,2,Q1,AGY-005,China National Space Administration,China,86.98,50.74,43.49,181.21,USD,synthetic
+EXP-2011-00097,2011-02-01,2011,2,Q1,AGY-006,State Space Corporation Roscosmos,Russia,44.62,26.03,22.31,92.96,USD,synthetic
+EXP-2011-00098,2011-02-01,2011,2,Q1,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,45.73,26.68,22.87,95.28,USD,synthetic
+EXP-2011-00099,2011-03-01,2011,3,Q1,AGY-001,National Aeronautics and Space Administration,United States,188.76,110.11,94.38,393.25,USD,synthetic
+EXP-2011-00100,2011-03-01,2011,3,Q1,AGY-002,European Space Agency,Europe,96.08,56.05,48.04,200.17,USD,synthetic
+EXP-2011-00101,2011-03-01,2011,3,Q1,AGY-003,Indian Space Research Organisation,India,47.45,27.68,23.72,98.85,USD,synthetic
+EXP-2011-00102,2011-03-01,2011,3,Q1,AGY-004,Japan Aerospace Exploration Agency,Japan,46.38,27.05,23.19,96.62,USD,synthetic
+EXP-2011-00103,2011-03-01,2011,3,Q1,AGY-005,China National Space Administration,China,91.7,53.49,45.85,191.04,USD,synthetic
+EXP-2011-00104,2011-03-01,2011,3,Q1,AGY-006,State Space Corporation Roscosmos,Russia,46.14,26.91,23.07,96.12,USD,synthetic
+EXP-2011-00105,2011-03-01,2011,3,Q1,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,49.89,29.1,24.94,103.93,USD,synthetic
+EXP-2011-00106,2011-04-01,2011,4,Q2,AGY-001,National Aeronautics and Space Administration,United States,191.41,111.65,95.7,398.76,USD,synthetic
+EXP-2011-00107,2011-04-01,2011,4,Q2,AGY-002,European Space Agency,Europe,97.07,56.62,48.54,202.23,USD,synthetic
+EXP-2011-00108,2011-04-01,2011,4,Q2,AGY-003,Indian Space Research Organisation,India,46.82,27.31,23.41,97.54,USD,synthetic
+EXP-2011-00109,2011-04-01,2011,4,Q2,AGY-004,Japan Aerospace Exploration Agency,Japan,50.33,29.36,25.16,104.85,USD,synthetic
+EXP-2011-00110,2011-04-01,2011,4,Q2,AGY-005,China National Space Administration,China,98.42,57.41,49.21,205.04,USD,synthetic
+EXP-2011-00111,2011-04-01,2011,4,Q2,AGY-006,State Space Corporation Roscosmos,Russia,50.73,29.59,25.36,105.68,USD,synthetic
+EXP-2011-00112,2011-04-01,2011,4,Q2,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,49.92,29.12,24.96,104.0,USD,synthetic
+EXP-2011-00113,2011-05-01,2011,5,Q2,AGY-001,National Aeronautics and Space Administration,United States,198.81,115.97,99.41,414.19,USD,synthetic
+EXP-2011-00114,2011-05-01,2011,5,Q2,AGY-002,European Space Agency,Europe,95.16,55.51,47.58,198.25,USD,synthetic
+EXP-2011-00115,2011-05-01,2011,5,Q2,AGY-003,Indian Space Research Organisation,India,45.62,26.61,22.81,95.04,USD,synthetic
+EXP-2011-00116,2011-05-01,2011,5,Q2,AGY-004,Japan Aerospace Exploration Agency,Japan,48.78,28.45,24.39,101.62,USD,synthetic
+EXP-2011-00117,2011-05-01,2011,5,Q2,AGY-005,China National Space Administration,China,93.04,54.27,46.52,193.83,USD,synthetic
+EXP-2011-00118,2011-05-01,2011,5,Q2,AGY-006,State Space Corporation Roscosmos,Russia,46.91,27.37,23.46,97.74,USD,synthetic
+EXP-2011-00119,2011-05-01,2011,5,Q2,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,50.83,29.65,25.41,105.89,USD,synthetic
+EXP-2011-00120,2011-06-01,2011,6,Q2,AGY-001,National Aeronautics and Space Administration,United States,198.23,115.63,99.12,412.98,USD,synthetic
+EXP-2011-00121,2011-06-01,2011,6,Q2,AGY-002,European Space Agency,Europe,101.52,59.22,50.76,211.5,USD,synthetic
+EXP-2011-00122,2011-06-01,2011,6,Q2,AGY-003,Indian Space Research Organisation,India,46.13,26.91,23.06,96.1,USD,synthetic
+EXP-2011-00123,2011-06-01,2011,6,Q2,AGY-004,Japan Aerospace Exploration Agency,Japan,48.63,28.37,24.32,101.32,USD,synthetic
+EXP-2011-00124,2011-06-01,2011,6,Q2,AGY-005,China National Space Administration,China,98.58,57.5,49.29,205.37,USD,synthetic
+EXP-2011-00125,2011-06-01,2011,6,Q2,AGY-006,State Space Corporation Roscosmos,Russia,45.63,26.62,22.82,95.07,USD,synthetic
+EXP-2011-00126,2011-06-01,2011,6,Q2,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,45.9,26.77,22.95,95.62,USD,synthetic
+EXP-2011-00127,2011-07-01,2011,7,Q3,AGY-001,National Aeronautics and Space Administration,United States,204.63,119.37,102.32,426.32,USD,synthetic
+EXP-2011-00128,2011-07-01,2011,7,Q3,AGY-002,European Space Agency,Europe,93.41,54.49,46.7,194.6,USD,synthetic
+EXP-2011-00129,2011-07-01,2011,7,Q3,AGY-003,Indian Space Research Organisation,India,51.28,29.91,25.64,106.83,USD,synthetic
+EXP-2011-00130,2011-07-01,2011,7,Q3,AGY-004,Japan Aerospace Exploration Agency,Japan,50.11,29.23,25.05,104.39,USD,synthetic
+EXP-2011-00131,2011-07-01,2011,7,Q3,AGY-005,China National Space Administration,China,92.8,54.13,46.4,193.33,USD,synthetic
+EXP-2011-00132,2011-07-01,2011,7,Q3,AGY-006,State Space Corporation Roscosmos,Russia,50.29,29.34,25.15,104.78,USD,synthetic
+EXP-2011-00133,2011-07-01,2011,7,Q3,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,48.64,28.37,24.32,101.33,USD,synthetic
+EXP-2011-00134,2011-08-01,2011,8,Q3,AGY-001,National Aeronautics and Space Administration,United States,193.75,113.02,96.87,403.64,USD,synthetic
+EXP-2011-00135,2011-08-01,2011,8,Q3,AGY-002,European Space Agency,Europe,98.04,57.19,49.02,204.25,USD,synthetic
+EXP-2011-00136,2011-08-01,2011,8,Q3,AGY-003,Indian Space Research Organisation,India,46.27,26.99,23.14,96.4,USD,synthetic
+EXP-2011-00137,2011-08-01,2011,8,Q3,AGY-004,Japan Aerospace Exploration Agency,Japan,47.83,27.9,23.91,99.64,USD,synthetic
+EXP-2011-00138,2011-08-01,2011,8,Q3,AGY-005,China National Space Administration,China,94.35,55.04,47.18,196.57,USD,synthetic
+EXP-2011-00139,2011-08-01,2011,8,Q3,AGY-006,State Space Corporation Roscosmos,Russia,46.25,26.98,23.13,96.36,USD,synthetic
+EXP-2011-00140,2011-08-01,2011,8,Q3,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,48.56,28.33,24.28,101.17,USD,synthetic
+EXP-2011-00141,2011-09-01,2011,9,Q3,AGY-001,National Aeronautics and Space Administration,United States,192.07,112.04,96.03,400.14,USD,synthetic
+EXP-2011-00142,2011-09-01,2011,9,Q3,AGY-002,European Space Agency,Europe,94.3,55.01,47.15,196.46,USD,synthetic
+EXP-2011-00143,2011-09-01,2011,9,Q3,AGY-003,Indian Space Research Organisation,India,49.35,28.79,24.68,102.82,USD,synthetic
+EXP-2011-00144,2011-09-01,2011,9,Q3,AGY-004,Japan Aerospace Exploration Agency,Japan,48.58,28.34,24.29,101.21,USD,synthetic
+EXP-2011-00145,2011-09-01,2011,9,Q3,AGY-005,China National Space Administration,China,93.26,54.4,46.63,194.29,USD,synthetic
+EXP-2011-00146,2011-09-01,2011,9,Q3,AGY-006,State Space Corporation Roscosmos,Russia,49.19,28.7,24.6,102.49,USD,synthetic
+EXP-2011-00147,2011-09-01,2011,9,Q3,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,48.48,28.28,24.24,101.0,USD,synthetic
+EXP-2011-00148,2011-10-01,2011,10,Q4,AGY-001,National Aeronautics and Space Administration,United States,198.67,115.89,99.33,413.89,USD,synthetic
+EXP-2011-00149,2011-10-01,2011,10,Q4,AGY-002,European Space Agency,Europe,96.51,56.3,48.26,201.07,USD,synthetic
+EXP-2011-00150,2011-10-01,2011,10,Q4,AGY-003,Indian Space Research Organisation,India,46.09,26.88,23.04,96.01,USD,synthetic
+EXP-2011-00151,2011-10-01,2011,10,Q4,AGY-004,Japan Aerospace Exploration Agency,Japan,47.71,27.83,23.86,99.4,USD,synthetic
+EXP-2011-00152,2011-10-01,2011,10,Q4,AGY-005,China National Space Administration,China,92.48,53.95,46.24,192.67,USD,synthetic
+EXP-2011-00153,2011-10-01,2011,10,Q4,AGY-006,State Space Corporation Roscosmos,Russia,49.95,29.14,24.97,104.06,USD,synthetic
+EXP-2011-00154,2011-10-01,2011,10,Q4,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,45.79,26.71,22.89,95.39,USD,synthetic
+EXP-2011-00155,2011-11-01,2011,11,Q4,AGY-001,National Aeronautics and Space Administration,United States,233.21,136.04,116.6,485.85,USD,synthetic
+EXP-2011-00156,2011-11-01,2011,11,Q4,AGY-002,European Space Agency,Europe,111.7,65.16,55.85,232.71,USD,synthetic
+EXP-2011-00157,2011-11-01,2011,11,Q4,AGY-003,Indian Space Research Organisation,India,57.48,33.53,28.74,119.75,USD,synthetic
+EXP-2011-00158,2011-11-01,2011,11,Q4,AGY-004,Japan Aerospace Exploration Agency,Japan,58.56,34.16,29.28,122.0,USD,synthetic
+EXP-2011-00159,2011-11-01,2011,11,Q4,AGY-005,China National Space Administration,China,108.88,63.51,54.44,226.83,USD,synthetic
+EXP-2011-00160,2011-11-01,2011,11,Q4,AGY-006,State Space Corporation Roscosmos,Russia,55.49,32.37,27.75,115.61,USD,synthetic
+EXP-2011-00161,2011-11-01,2011,11,Q4,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,57.18,33.36,28.59,119.13,USD,synthetic
+EXP-2011-00162,2011-12-01,2011,12,Q4,AGY-001,National Aeronautics and Space Administration,United States,213.39,124.48,106.7,444.57,USD,synthetic
+EXP-2011-00163,2011-12-01,2011,12,Q4,AGY-002,European Space Agency,Europe,109.13,63.66,54.56,227.35,USD,synthetic
+EXP-2011-00164,2011-12-01,2011,12,Q4,AGY-003,Indian Space Research Organisation,India,54.21,31.62,27.11,112.94,USD,synthetic
+EXP-2011-00165,2011-12-01,2011,12,Q4,AGY-004,Japan Aerospace Exploration Agency,Japan,56.2,32.78,28.1,117.08,USD,synthetic
+EXP-2011-00166,2011-12-01,2011,12,Q4,AGY-005,China National Space Administration,China,107.72,62.84,53.86,224.42,USD,synthetic
+EXP-2011-00167,2011-12-01,2011,12,Q4,AGY-006,State Space Corporation Roscosmos,Russia,55.93,32.62,27.96,116.51,USD,synthetic
+EXP-2011-00168,2011-12-01,2011,12,Q4,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,58.01,33.84,29.01,120.86,USD,synthetic
+EXP-2012-00169,2012-01-01,2012,1,Q1,AGY-001,National Aeronautics and Space Administration,United States,184.23,107.47,92.12,383.82,USD,synthetic
+EXP-2012-00170,2012-01-01,2012,1,Q1,AGY-002,European Space Agency,Europe,100.49,58.62,50.24,209.35,USD,synthetic
+EXP-2012-00171,2012-01-01,2012,1,Q1,AGY-003,Indian Space Research Organisation,India,47.63,27.78,23.81,99.22,USD,synthetic
+EXP-2012-00172,2012-01-01,2012,1,Q1,AGY-004,Japan Aerospace Exploration Agency,Japan,45.76,26.69,22.88,95.33,USD,synthetic
+EXP-2012-00173,2012-01-01,2012,1,Q1,AGY-005,China National Space Administration,China,91.52,53.39,45.76,190.67,USD,synthetic
+EXP-2012-00174,2012-01-01,2012,1,Q1,AGY-006,State Space Corporation Roscosmos,Russia,46.46,27.1,23.23,96.79,USD,synthetic
+EXP-2012-00175,2012-01-01,2012,1,Q1,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,50.1,29.22,25.05,104.37,USD,synthetic
+EXP-2012-00176,2012-02-01,2012,2,Q1,AGY-001,National Aeronautics and Space Administration,United States,202.21,117.95,101.1,421.26,USD,synthetic
+EXP-2012-00177,2012-02-01,2012,2,Q1,AGY-002,European Space Agency,Europe,100.7,58.74,50.35,209.79,USD,synthetic
+EXP-2012-00178,2012-02-01,2012,2,Q1,AGY-003,Indian Space Research Organisation,India,48.84,28.49,24.42,101.75,USD,synthetic
+EXP-2012-00179,2012-02-01,2012,2,Q1,AGY-004,Japan Aerospace Exploration Agency,Japan,47.47,27.69,23.73,98.89,USD,synthetic
+EXP-2012-00180,2012-02-01,2012,2,Q1,AGY-005,China National Space Administration,China,92.1,53.72,46.05,191.87,USD,synthetic
+EXP-2012-00181,2012-02-01,2012,2,Q1,AGY-006,State Space Corporation Roscosmos,Russia,47.97,27.98,23.99,99.94,USD,synthetic
+EXP-2012-00182,2012-02-01,2012,2,Q1,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,45.37,26.47,22.69,94.53,USD,synthetic
+EXP-2012-00183,2012-03-01,2012,3,Q1,AGY-001,National Aeronautics and Space Administration,United States,199.32,116.27,99.66,415.25,USD,synthetic
+EXP-2012-00184,2012-03-01,2012,3,Q1,AGY-002,European Space Agency,Europe,107.39,62.65,53.7,223.74,USD,synthetic
+EXP-2012-00185,2012-03-01,2012,3,Q1,AGY-003,Indian Space Research Organisation,India,53.57,31.25,26.79,111.61,USD,synthetic
+EXP-2012-00186,2012-03-01,2012,3,Q1,AGY-004,Japan Aerospace Exploration Agency,Japan,54.14,31.58,27.07,112.79,USD,synthetic
+EXP-2012-00187,2012-03-01,2012,3,Q1,AGY-005,China National Space Administration,China,98.27,57.32,49.13,204.72,USD,synthetic
+EXP-2012-00188,2012-03-01,2012,3,Q1,AGY-006,State Space Corporation Roscosmos,Russia,49.8,29.05,24.9,103.75,USD,synthetic
+EXP-2012-00189,2012-03-01,2012,3,Q1,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,53.11,30.98,26.56,110.65,USD,synthetic
+EXP-2012-00190,2012-04-01,2012,4,Q2,AGY-001,National Aeronautics and Space Administration,United States,211.59,123.43,105.8,440.82,USD,synthetic
+EXP-2012-00191,2012-04-01,2012,4,Q2,AGY-002,European Space Agency,Europe,106.0,61.83,53.0,220.83,USD,synthetic
+EXP-2012-00192,2012-04-01,2012,4,Q2,AGY-003,Indian Space Research Organisation,India,48.61,28.36,24.31,101.28,USD,synthetic
+EXP-2012-00193,2012-04-01,2012,4,Q2,AGY-004,Japan Aerospace Exploration Agency,Japan,51.83,30.24,25.92,107.99,USD,synthetic
+EXP-2012-00194,2012-04-01,2012,4,Q2,AGY-005,China National Space Administration,China,107.08,62.46,53.54,223.08,USD,synthetic
+EXP-2012-00195,2012-04-01,2012,4,Q2,AGY-006,State Space Corporation Roscosmos,Russia,49.43,28.83,24.71,102.97,USD,synthetic
+EXP-2012-00196,2012-04-01,2012,4,Q2,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,52.98,30.9,26.49,110.37,USD,synthetic
+EXP-2012-00197,2012-05-01,2012,5,Q2,AGY-001,National Aeronautics and Space Administration,United States,214.49,125.12,107.24,446.85,USD,synthetic
+EXP-2012-00198,2012-05-01,2012,5,Q2,AGY-002,European Space Agency,Europe,106.24,61.98,53.12,221.34,USD,synthetic
+EXP-2012-00199,2012-05-01,2012,5,Q2,AGY-003,Indian Space Research Organisation,India,50.72,29.58,25.36,105.66,USD,synthetic
+EXP-2012-00200,2012-05-01,2012,5,Q2,AGY-004,Japan Aerospace Exploration Agency,Japan,49.68,28.98,24.84,103.5,USD,synthetic
+EXP-2012-00201,2012-05-01,2012,5,Q2,AGY-005,China National Space Administration,China,106.3,62.01,53.15,221.46,USD,synthetic
+EXP-2012-00202,2012-05-01,2012,5,Q2,AGY-006,State Space Corporation Roscosmos,Russia,48.45,28.26,24.22,100.93,USD,synthetic
+EXP-2012-00203,2012-05-01,2012,5,Q2,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,49.11,28.65,24.56,102.32,USD,synthetic
+EXP-2012-00204,2012-06-01,2012,6,Q2,AGY-001,National Aeronautics and Space Administration,United States,195.62,114.11,97.81,407.54,USD,synthetic
+EXP-2012-00205,2012-06-01,2012,6,Q2,AGY-002,European Space Agency,Europe,98.3,57.34,49.15,204.79,USD,synthetic
+EXP-2012-00206,2012-06-01,2012,6,Q2,AGY-003,Indian Space Research Organisation,India,51.45,30.01,25.73,107.19,USD,synthetic
+EXP-2012-00207,2012-06-01,2012,6,Q2,AGY-004,Japan Aerospace Exploration Agency,Japan,48.56,28.33,24.28,101.17,USD,synthetic
+EXP-2012-00208,2012-06-01,2012,6,Q2,AGY-005,China National Space Administration,China,108.65,63.38,54.32,226.35,USD,synthetic
+EXP-2012-00209,2012-06-01,2012,6,Q2,AGY-006,State Space Corporation Roscosmos,Russia,50.59,29.51,25.29,105.39,USD,synthetic
+EXP-2012-00210,2012-06-01,2012,6,Q2,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,49.33,28.78,24.67,102.78,USD,synthetic
+EXP-2012-00211,2012-07-01,2012,7,Q3,AGY-001,National Aeronautics and Space Administration,United States,203.19,118.53,101.59,423.31,USD,synthetic
+EXP-2012-00212,2012-07-01,2012,7,Q3,AGY-002,European Space Agency,Europe,98.85,57.66,49.43,205.94,USD,synthetic
+EXP-2012-00213,2012-07-01,2012,7,Q3,AGY-003,Indian Space Research Organisation,India,49.58,28.92,24.79,103.29,USD,synthetic
+EXP-2012-00214,2012-07-01,2012,7,Q3,AGY-004,Japan Aerospace Exploration Agency,Japan,50.34,29.36,25.17,104.87,USD,synthetic
+EXP-2012-00215,2012-07-01,2012,7,Q3,AGY-005,China National Space Administration,China,105.21,61.37,52.61,219.19,USD,synthetic
+EXP-2012-00216,2012-07-01,2012,7,Q3,AGY-006,State Space Corporation Roscosmos,Russia,49.49,28.87,24.74,103.1,USD,synthetic
+EXP-2012-00217,2012-07-01,2012,7,Q3,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,51.38,29.97,25.69,107.04,USD,synthetic
+EXP-2012-00218,2012-08-01,2012,8,Q3,AGY-001,National Aeronautics and Space Administration,United States,199.5,116.37,99.75,415.62,USD,synthetic
+EXP-2012-00219,2012-08-01,2012,8,Q3,AGY-002,European Space Agency,Europe,102.04,59.52,51.02,212.58,USD,synthetic
+EXP-2012-00220,2012-08-01,2012,8,Q3,AGY-003,Indian Space Research Organisation,India,49.62,28.95,24.81,103.38,USD,synthetic
+EXP-2012-00221,2012-08-01,2012,8,Q3,AGY-004,Japan Aerospace Exploration Agency,Japan,52.21,30.45,26.1,108.76,USD,synthetic
+EXP-2012-00222,2012-08-01,2012,8,Q3,AGY-005,China National Space Administration,China,98.35,57.37,49.18,204.9,USD,synthetic
+EXP-2012-00223,2012-08-01,2012,8,Q3,AGY-006,State Space Corporation Roscosmos,Russia,49.45,28.85,24.73,103.03,USD,synthetic
+EXP-2012-00224,2012-08-01,2012,8,Q3,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,49.27,28.74,24.64,102.65,USD,synthetic
+EXP-2012-00225,2012-09-01,2012,9,Q3,AGY-001,National Aeronautics and Space Administration,United States,201.33,117.44,100.67,419.44,USD,synthetic
+EXP-2012-00226,2012-09-01,2012,9,Q3,AGY-002,European Space Agency,Europe,104.43,60.92,52.22,217.57,USD,synthetic
+EXP-2012-00227,2012-09-01,2012,9,Q3,AGY-003,Indian Space Research Organisation,India,49.1,28.64,24.55,102.29,USD,synthetic
+EXP-2012-00228,2012-09-01,2012,9,Q3,AGY-004,Japan Aerospace Exploration Agency,Japan,51.85,30.25,25.92,108.02,USD,synthetic
+EXP-2012-00229,2012-09-01,2012,9,Q3,AGY-005,China National Space Administration,China,101.58,59.25,50.79,211.62,USD,synthetic
+EXP-2012-00230,2012-09-01,2012,9,Q3,AGY-006,State Space Corporation Roscosmos,Russia,48.18,28.11,24.09,100.38,USD,synthetic
+EXP-2012-00231,2012-09-01,2012,9,Q3,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,49.77,29.03,24.88,103.68,USD,synthetic
+EXP-2012-00232,2012-10-01,2012,10,Q4,AGY-001,National Aeronautics and Space Administration,United States,210.68,122.9,105.34,438.92,USD,synthetic
+EXP-2012-00233,2012-10-01,2012,10,Q4,AGY-002,European Space Agency,Europe,107.76,62.86,53.88,224.5,USD,synthetic
+EXP-2012-00234,2012-10-01,2012,10,Q4,AGY-003,Indian Space Research Organisation,India,49.14,28.66,24.57,102.37,USD,synthetic
+EXP-2012-00235,2012-10-01,2012,10,Q4,AGY-004,Japan Aerospace Exploration Agency,Japan,52.37,30.55,26.19,109.11,USD,synthetic
+EXP-2012-00236,2012-10-01,2012,10,Q4,AGY-005,China National Space Administration,China,106.66,62.22,53.33,222.21,USD,synthetic
+EXP-2012-00237,2012-10-01,2012,10,Q4,AGY-006,State Space Corporation Roscosmos,Russia,51.01,29.76,25.51,106.28,USD,synthetic
+EXP-2012-00238,2012-10-01,2012,10,Q4,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,51.6,30.1,25.8,107.5,USD,synthetic
+EXP-2012-00239,2012-11-01,2012,11,Q4,AGY-001,National Aeronautics and Space Administration,United States,229.77,134.03,114.89,478.69,USD,synthetic
+EXP-2012-00240,2012-11-01,2012,11,Q4,AGY-002,European Space Agency,Europe,122.44,71.42,61.22,255.08,USD,synthetic
+EXP-2012-00241,2012-11-01,2012,11,Q4,AGY-003,Indian Space Research Organisation,India,59.58,34.76,29.79,124.13,USD,synthetic
+EXP-2012-00242,2012-11-01,2012,11,Q4,AGY-004,Japan Aerospace Exploration Agency,Japan,60.34,35.2,30.17,125.71,USD,synthetic
+EXP-2012-00243,2012-11-01,2012,11,Q4,AGY-005,China National Space Administration,China,122.09,71.22,61.04,254.35,USD,synthetic
+EXP-2012-00244,2012-11-01,2012,11,Q4,AGY-006,State Space Corporation Roscosmos,Russia,57.76,33.69,28.88,120.33,USD,synthetic
+EXP-2012-00245,2012-11-01,2012,11,Q4,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,60.81,35.47,30.41,126.69,USD,synthetic
+EXP-2012-00246,2012-12-01,2012,12,Q4,AGY-001,National Aeronautics and Space Administration,United States,244.24,142.47,122.12,508.83,USD,synthetic
+EXP-2012-00247,2012-12-01,2012,12,Q4,AGY-002,European Space Agency,Europe,122.73,71.59,61.37,255.69,USD,synthetic
+EXP-2012-00248,2012-12-01,2012,12,Q4,AGY-003,Indian Space Research Organisation,India,58.99,34.41,29.49,122.89,USD,synthetic
+EXP-2012-00249,2012-12-01,2012,12,Q4,AGY-004,Japan Aerospace Exploration Agency,Japan,61.72,36.01,30.86,128.59,USD,synthetic
+EXP-2012-00250,2012-12-01,2012,12,Q4,AGY-005,China National Space Administration,China,117.95,68.81,58.98,245.74,USD,synthetic
+EXP-2012-00251,2012-12-01,2012,12,Q4,AGY-006,State Space Corporation Roscosmos,Russia,59.24,34.56,29.62,123.42,USD,synthetic
+EXP-2012-00252,2012-12-01,2012,12,Q4,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,60.37,35.21,30.18,125.76,USD,synthetic
+EXP-2013-00253,2013-01-01,2013,1,Q1,AGY-001,National Aeronautics and Space Administration,United States,214.87,125.34,107.44,447.65,USD,synthetic
+EXP-2013-00254,2013-01-01,2013,1,Q1,AGY-002,European Space Agency,Europe,107.38,62.64,53.69,223.71,USD,synthetic
+EXP-2013-00255,2013-01-01,2013,1,Q1,AGY-003,Indian Space Research Organisation,India,49.78,29.04,24.89,103.71,USD,synthetic
+EXP-2013-00256,2013-01-01,2013,1,Q1,AGY-004,Japan Aerospace Exploration Agency,Japan,53.13,30.99,26.57,110.69,USD,synthetic
+EXP-2013-00257,2013-01-01,2013,1,Q1,AGY-005,China National Space Administration,China,104.89,61.19,52.45,218.53,USD,synthetic
+EXP-2013-00258,2013-01-01,2013,1,Q1,AGY-006,State Space Corporation Roscosmos,Russia,48.77,28.45,24.39,101.61,USD,synthetic
+EXP-2013-00259,2013-01-01,2013,1,Q1,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,53.85,31.41,26.93,112.19,USD,synthetic
+EXP-2013-00260,2013-02-01,2013,2,Q1,AGY-001,National Aeronautics and Space Administration,United States,200.8,117.14,100.4,418.34,USD,synthetic
+EXP-2013-00261,2013-02-01,2013,2,Q1,AGY-002,European Space Agency,Europe,106.81,62.31,53.41,222.53,USD,synthetic
+EXP-2013-00262,2013-02-01,2013,2,Q1,AGY-003,Indian Space Research Organisation,India,49.29,28.75,24.65,102.69,USD,synthetic
+EXP-2013-00263,2013-02-01,2013,2,Q1,AGY-004,Japan Aerospace Exploration Agency,Japan,48.15,28.09,24.08,100.32,USD,synthetic
+EXP-2013-00264,2013-02-01,2013,2,Q1,AGY-005,China National Space Administration,China,103.48,60.36,51.74,215.58,USD,synthetic
+EXP-2013-00265,2013-02-01,2013,2,Q1,AGY-006,State Space Corporation Roscosmos,Russia,52.77,30.78,26.39,109.94,USD,synthetic
+EXP-2013-00266,2013-02-01,2013,2,Q1,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,51.55,30.07,25.78,107.4,USD,synthetic
+EXP-2013-00267,2013-03-01,2013,3,Q1,AGY-001,National Aeronautics and Space Administration,United States,206.35,120.37,103.18,429.9,USD,synthetic
+EXP-2013-00268,2013-03-01,2013,3,Q1,AGY-002,European Space Agency,Europe,105.24,61.39,52.62,219.25,USD,synthetic
+EXP-2013-00269,2013-03-01,2013,3,Q1,AGY-003,Indian Space Research Organisation,India,54.47,31.77,27.23,113.47,USD,synthetic
+EXP-2013-00270,2013-03-01,2013,3,Q1,AGY-004,Japan Aerospace Exploration Agency,Japan,52.95,30.89,26.48,110.32,USD,synthetic
+EXP-2013-00271,2013-03-01,2013,3,Q1,AGY-005,China National Space Administration,China,105.76,61.69,52.88,220.33,USD,synthetic
+EXP-2013-00272,2013-03-01,2013,3,Q1,AGY-006,State Space Corporation Roscosmos,Russia,53.99,31.5,27.0,112.49,USD,synthetic
+EXP-2013-00273,2013-03-01,2013,3,Q1,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,57.29,33.42,28.64,119.35,USD,synthetic
+EXP-2013-00274,2013-04-01,2013,4,Q2,AGY-001,National Aeronautics and Space Administration,United States,215.8,125.88,107.9,449.58,USD,synthetic
+EXP-2013-00275,2013-04-01,2013,4,Q2,AGY-002,European Space Agency,Europe,111.0,64.75,55.5,231.25,USD,synthetic
+EXP-2013-00276,2013-04-01,2013,4,Q2,AGY-003,Indian Space Research Organisation,India,51.81,30.22,25.9,107.93,USD,synthetic
+EXP-2013-00277,2013-04-01,2013,4,Q2,AGY-004,Japan Aerospace Exploration Agency,Japan,51.61,30.11,25.81,107.53,USD,synthetic
+EXP-2013-00278,2013-04-01,2013,4,Q2,AGY-005,China National Space Administration,China,112.64,65.7,56.32,234.66,USD,synthetic
+EXP-2013-00279,2013-04-01,2013,4,Q2,AGY-006,State Space Corporation Roscosmos,Russia,51.8,30.22,25.9,107.92,USD,synthetic
+EXP-2013-00280,2013-04-01,2013,4,Q2,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,54.48,31.78,27.24,113.5,USD,synthetic
+EXP-2013-00281,2013-05-01,2013,5,Q2,AGY-001,National Aeronautics and Space Administration,United States,208.86,121.84,104.43,435.13,USD,synthetic
+EXP-2013-00282,2013-05-01,2013,5,Q2,AGY-002,European Space Agency,Europe,111.83,65.23,55.91,232.97,USD,synthetic
+EXP-2013-00283,2013-05-01,2013,5,Q2,AGY-003,Indian Space Research Organisation,India,54.3,31.67,27.15,113.12,USD,synthetic
+EXP-2013-00284,2013-05-01,2013,5,Q2,AGY-004,Japan Aerospace Exploration Agency,Japan,51.05,29.78,25.53,106.36,USD,synthetic
+EXP-2013-00285,2013-05-01,2013,5,Q2,AGY-005,China National Space Administration,China,110.88,64.68,55.44,231.0,USD,synthetic
+EXP-2013-00286,2013-05-01,2013,5,Q2,AGY-006,State Space Corporation Roscosmos,Russia,52.33,30.53,26.17,109.03,USD,synthetic
+EXP-2013-00287,2013-05-01,2013,5,Q2,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,53.23,31.05,26.61,110.89,USD,synthetic
+EXP-2013-00288,2013-06-01,2013,6,Q2,AGY-001,National Aeronautics and Space Administration,United States,217.74,127.01,108.87,453.62,USD,synthetic
+EXP-2013-00289,2013-06-01,2013,6,Q2,AGY-002,European Space Agency,Europe,107.48,62.69,53.74,223.91,USD,synthetic
+EXP-2013-00290,2013-06-01,2013,6,Q2,AGY-003,Indian Space Research Organisation,India,52.55,30.65,26.27,109.47,USD,synthetic
+EXP-2013-00291,2013-06-01,2013,6,Q2,AGY-004,Japan Aerospace Exploration Agency,Japan,56.43,32.92,28.22,117.57,USD,synthetic
+EXP-2013-00292,2013-06-01,2013,6,Q2,AGY-005,China National Space Administration,China,103.27,60.24,51.64,215.15,USD,synthetic
+EXP-2013-00293,2013-06-01,2013,6,Q2,AGY-006,State Space Corporation Roscosmos,Russia,51.93,30.29,25.96,108.18,USD,synthetic
+EXP-2013-00294,2013-06-01,2013,6,Q2,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,55.6,32.43,27.8,115.83,USD,synthetic
+EXP-2013-00295,2013-07-01,2013,7,Q3,AGY-001,National Aeronautics and Space Administration,United States,224.89,131.18,112.44,468.51,USD,synthetic
+EXP-2013-00296,2013-07-01,2013,7,Q3,AGY-002,European Space Agency,Europe,113.37,66.13,56.69,236.19,USD,synthetic
+EXP-2013-00297,2013-07-01,2013,7,Q3,AGY-003,Indian Space Research Organisation,India,55.71,32.5,27.85,116.06,USD,synthetic
+EXP-2013-00298,2013-07-01,2013,7,Q3,AGY-004,Japan Aerospace Exploration Agency,Japan,52.53,30.64,26.27,109.44,USD,synthetic
+EXP-2013-00299,2013-07-01,2013,7,Q3,AGY-005,China National Space Administration,China,106.84,62.32,53.42,222.58,USD,synthetic
+EXP-2013-00300,2013-07-01,2013,7,Q3,AGY-006,State Space Corporation Roscosmos,Russia,51.21,29.87,25.61,106.69,USD,synthetic
+EXP-2013-00301,2013-07-01,2013,7,Q3,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,55.33,32.28,27.67,115.28,USD,synthetic
+EXP-2013-00302,2013-08-01,2013,8,Q3,AGY-001,National Aeronautics and Space Administration,United States,217.71,127.0,108.86,453.57,USD,synthetic
+EXP-2013-00303,2013-08-01,2013,8,Q3,AGY-002,European Space Agency,Europe,104.92,61.2,52.46,218.58,USD,synthetic
+EXP-2013-00304,2013-08-01,2013,8,Q3,AGY-003,Indian Space Research Organisation,India,52.44,30.59,26.22,109.25,USD,synthetic
+EXP-2013-00305,2013-08-01,2013,8,Q3,AGY-004,Japan Aerospace Exploration Agency,Japan,51.82,30.23,25.91,107.96,USD,synthetic
+EXP-2013-00306,2013-08-01,2013,8,Q3,AGY-005,China National Space Administration,China,105.15,61.34,52.58,219.07,USD,synthetic
+EXP-2013-00307,2013-08-01,2013,8,Q3,AGY-006,State Space Corporation Roscosmos,Russia,56.61,33.02,28.3,117.93,USD,synthetic
+EXP-2013-00308,2013-08-01,2013,8,Q3,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,56.02,32.68,28.01,116.71,USD,synthetic
+EXP-2013-00309,2013-09-01,2013,9,Q3,AGY-001,National Aeronautics and Space Administration,United States,209.21,122.04,104.61,435.86,USD,synthetic
+EXP-2013-00310,2013-09-01,2013,9,Q3,AGY-002,European Space Agency,Europe,107.47,62.69,53.74,223.9,USD,synthetic
+EXP-2013-00311,2013-09-01,2013,9,Q3,AGY-003,Indian Space Research Organisation,India,56.39,32.89,28.2,117.48,USD,synthetic
+EXP-2013-00312,2013-09-01,2013,9,Q3,AGY-004,Japan Aerospace Exploration Agency,Japan,56.08,32.71,28.04,116.83,USD,synthetic
+EXP-2013-00313,2013-09-01,2013,9,Q3,AGY-005,China National Space Administration,China,111.87,65.26,55.93,233.06,USD,synthetic
+EXP-2013-00314,2013-09-01,2013,9,Q3,AGY-006,State Space Corporation Roscosmos,Russia,54.26,31.65,27.13,113.04,USD,synthetic
+EXP-2013-00315,2013-09-01,2013,9,Q3,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,53.79,31.37,26.89,112.05,USD,synthetic
+EXP-2013-00316,2013-10-01,2013,10,Q4,AGY-001,National Aeronautics and Space Administration,United States,222.7,129.91,111.35,463.96,USD,synthetic
+EXP-2013-00317,2013-10-01,2013,10,Q4,AGY-002,European Space Agency,Europe,106.51,62.13,53.25,221.89,USD,synthetic
+EXP-2013-00318,2013-10-01,2013,10,Q4,AGY-003,Indian Space Research Organisation,India,55.78,32.54,27.89,116.21,USD,synthetic
+EXP-2013-00319,2013-10-01,2013,10,Q4,AGY-004,Japan Aerospace Exploration Agency,Japan,51.56,30.08,25.78,107.42,USD,synthetic
+EXP-2013-00320,2013-10-01,2013,10,Q4,AGY-005,China National Space Administration,China,109.56,63.91,54.78,228.25,USD,synthetic
+EXP-2013-00321,2013-10-01,2013,10,Q4,AGY-006,State Space Corporation Roscosmos,Russia,50.85,29.66,25.42,105.93,USD,synthetic
+EXP-2013-00322,2013-10-01,2013,10,Q4,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,53.12,30.99,26.56,110.67,USD,synthetic
+EXP-2013-00323,2013-11-01,2013,11,Q4,AGY-001,National Aeronautics and Space Administration,United States,259.62,151.44,129.81,540.87,USD,synthetic
+EXP-2013-00324,2013-11-01,2013,11,Q4,AGY-002,European Space Agency,Europe,128.53,74.97,64.26,267.76,USD,synthetic
+EXP-2013-00325,2013-11-01,2013,11,Q4,AGY-003,Indian Space Research Organisation,India,64.89,37.85,32.45,135.19,USD,synthetic
+EXP-2013-00326,2013-11-01,2013,11,Q4,AGY-004,Japan Aerospace Exploration Agency,Japan,60.74,35.43,30.37,126.54,USD,synthetic
+EXP-2013-00327,2013-11-01,2013,11,Q4,AGY-005,China National Space Administration,China,120.33,70.19,60.16,250.68,USD,synthetic
+EXP-2013-00328,2013-11-01,2013,11,Q4,AGY-006,State Space Corporation Roscosmos,Russia,60.69,35.4,30.34,126.43,USD,synthetic
+EXP-2013-00329,2013-11-01,2013,11,Q4,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,61.13,35.66,30.56,127.35,USD,synthetic
+EXP-2013-00330,2013-12-01,2013,12,Q4,AGY-001,National Aeronautics and Space Administration,United States,240.64,140.37,120.32,501.33,USD,synthetic
+EXP-2013-00331,2013-12-01,2013,12,Q4,AGY-002,European Space Agency,Europe,129.88,75.76,64.94,270.58,USD,synthetic
+EXP-2013-00332,2013-12-01,2013,12,Q4,AGY-003,Indian Space Research Organisation,India,63.66,37.13,31.83,132.62,USD,synthetic
+EXP-2013-00333,2013-12-01,2013,12,Q4,AGY-004,Japan Aerospace Exploration Agency,Japan,64.81,37.8,32.4,135.01,USD,synthetic
+EXP-2013-00334,2013-12-01,2013,12,Q4,AGY-005,China National Space Administration,China,131.63,76.78,65.81,274.22,USD,synthetic
+EXP-2013-00335,2013-12-01,2013,12,Q4,AGY-006,State Space Corporation Roscosmos,Russia,61.72,36.0,30.86,128.58,USD,synthetic
+EXP-2013-00336,2013-12-01,2013,12,Q4,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,63.74,37.18,31.87,132.79,USD,synthetic
+EXP-2014-00337,2014-01-01,2014,1,Q1,AGY-001,National Aeronautics and Space Administration,United States,222.09,129.55,111.04,462.68,USD,synthetic
+EXP-2014-00338,2014-01-01,2014,1,Q1,AGY-002,European Space Agency,Europe,110.51,64.47,55.26,230.24,USD,synthetic
+EXP-2014-00339,2014-01-01,2014,1,Q1,AGY-003,Indian Space Research Organisation,India,51.23,29.88,25.61,106.72,USD,synthetic
+EXP-2014-00340,2014-01-01,2014,1,Q1,AGY-004,Japan Aerospace Exploration Agency,Japan,55.38,32.31,27.69,115.38,USD,synthetic
+EXP-2014-00341,2014-01-01,2014,1,Q1,AGY-005,China National Space Administration,China,102.96,60.06,51.48,214.5,USD,synthetic
+EXP-2014-00342,2014-01-01,2014,1,Q1,AGY-006,State Space Corporation Roscosmos,Russia,55.76,32.53,27.88,116.17,USD,synthetic
+EXP-2014-00343,2014-01-01,2014,1,Q1,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,55.18,32.19,27.59,114.96,USD,synthetic
+EXP-2014-00344,2014-02-01,2014,2,Q1,AGY-001,National Aeronautics and Space Administration,United States,205.52,119.89,102.76,428.17,USD,synthetic
+EXP-2014-00345,2014-02-01,2014,2,Q1,AGY-002,European Space Agency,Europe,110.66,64.55,55.33,230.54,USD,synthetic
+EXP-2014-00346,2014-02-01,2014,2,Q1,AGY-003,Indian Space Research Organisation,India,53.74,31.35,26.87,111.96,USD,synthetic
+EXP-2014-00347,2014-02-01,2014,2,Q1,AGY-004,Japan Aerospace Exploration Agency,Japan,53.95,31.47,26.98,112.4,USD,synthetic
+EXP-2014-00348,2014-02-01,2014,2,Q1,AGY-005,China National Space Administration,China,105.56,61.57,52.78,219.91,USD,synthetic
+EXP-2014-00349,2014-02-01,2014,2,Q1,AGY-006,State Space Corporation Roscosmos,Russia,51.23,29.89,25.62,106.74,USD,synthetic
+EXP-2014-00350,2014-02-01,2014,2,Q1,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,55.5,32.37,27.75,115.62,USD,synthetic
+EXP-2014-00351,2014-03-01,2014,3,Q1,AGY-001,National Aeronautics and Space Administration,United States,224.7,131.08,112.35,468.13,USD,synthetic
+EXP-2014-00352,2014-03-01,2014,3,Q1,AGY-002,European Space Agency,Europe,107.6,62.77,53.8,224.17,USD,synthetic
+EXP-2014-00353,2014-03-01,2014,3,Q1,AGY-003,Indian Space Research Organisation,India,54.11,31.56,27.06,112.73,USD,synthetic
+EXP-2014-00354,2014-03-01,2014,3,Q1,AGY-004,Japan Aerospace Exploration Agency,Japan,57.33,33.44,28.67,119.44,USD,synthetic
+EXP-2014-00355,2014-03-01,2014,3,Q1,AGY-005,China National Space Administration,China,113.02,65.93,56.51,235.46,USD,synthetic
+EXP-2014-00356,2014-03-01,2014,3,Q1,AGY-006,State Space Corporation Roscosmos,Russia,58.93,34.37,29.46,122.76,USD,synthetic
+EXP-2014-00357,2014-03-01,2014,3,Q1,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,59.07,34.46,29.54,123.07,USD,synthetic
+EXP-2014-00358,2014-04-01,2014,4,Q2,AGY-001,National Aeronautics and Space Administration,United States,215.33,125.61,107.66,448.6,USD,synthetic
+EXP-2014-00359,2014-04-01,2014,4,Q2,AGY-002,European Space Agency,Europe,111.16,64.84,55.58,231.58,USD,synthetic
+EXP-2014-00360,2014-04-01,2014,4,Q2,AGY-003,Indian Space Research Organisation,India,59.7,34.83,29.85,124.38,USD,synthetic
+EXP-2014-00361,2014-04-01,2014,4,Q2,AGY-004,Japan Aerospace Exploration Agency,Japan,56.92,33.21,28.46,118.59,USD,synthetic
+EXP-2014-00362,2014-04-01,2014,4,Q2,AGY-005,China National Space Administration,China,113.97,66.48,56.99,237.44,USD,synthetic
+EXP-2014-00363,2014-04-01,2014,4,Q2,AGY-006,State Space Corporation Roscosmos,Russia,54.85,32.0,27.43,114.28,USD,synthetic
+EXP-2014-00364,2014-04-01,2014,4,Q2,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,54.04,31.52,27.02,112.58,USD,synthetic
+EXP-2014-00365,2014-05-01,2014,5,Q2,AGY-001,National Aeronautics and Space Administration,United States,230.32,134.36,115.16,479.84,USD,synthetic
+EXP-2014-00366,2014-05-01,2014,5,Q2,AGY-002,European Space Agency,Europe,118.49,69.12,59.25,246.86,USD,synthetic
+EXP-2014-00367,2014-05-01,2014,5,Q2,AGY-003,Indian Space Research Organisation,India,56.55,32.99,28.27,117.81,USD,synthetic
+EXP-2014-00368,2014-05-01,2014,5,Q2,AGY-004,Japan Aerospace Exploration Agency,Japan,56.3,32.84,28.15,117.29,USD,synthetic
+EXP-2014-00369,2014-05-01,2014,5,Q2,AGY-005,China National Space Administration,China,119.58,69.75,59.79,249.12,USD,synthetic
+EXP-2014-00370,2014-05-01,2014,5,Q2,AGY-006,State Space Corporation Roscosmos,Russia,55.11,32.15,27.55,114.81,USD,synthetic
+EXP-2014-00371,2014-05-01,2014,5,Q2,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,57.63,33.62,28.82,120.07,USD,synthetic
+EXP-2014-00372,2014-06-01,2014,6,Q2,AGY-001,National Aeronautics and Space Administration,United States,226.82,132.31,113.41,472.54,USD,synthetic
+EXP-2014-00373,2014-06-01,2014,6,Q2,AGY-002,European Space Agency,Europe,111.41,64.99,55.7,232.1,USD,synthetic
+EXP-2014-00374,2014-06-01,2014,6,Q2,AGY-003,Indian Space Research Organisation,India,54.4,31.73,27.2,113.33,USD,synthetic
+EXP-2014-00375,2014-06-01,2014,6,Q2,AGY-004,Japan Aerospace Exploration Agency,Japan,59.49,34.7,29.75,123.94,USD,synthetic
+EXP-2014-00376,2014-06-01,2014,6,Q2,AGY-005,China National Space Administration,China,110.9,64.69,55.45,231.04,USD,synthetic
+EXP-2014-00377,2014-06-01,2014,6,Q2,AGY-006,State Space Corporation Roscosmos,Russia,57.13,33.32,28.56,119.01,USD,synthetic
+EXP-2014-00378,2014-06-01,2014,6,Q2,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,59.64,34.79,29.82,124.25,USD,synthetic
+EXP-2014-00379,2014-07-01,2014,7,Q3,AGY-001,National Aeronautics and Space Administration,United States,227.25,132.56,113.62,473.43,USD,synthetic
+EXP-2014-00380,2014-07-01,2014,7,Q3,AGY-002,European Space Agency,Europe,113.38,66.14,56.69,236.21,USD,synthetic
+EXP-2014-00381,2014-07-01,2014,7,Q3,AGY-003,Indian Space Research Organisation,India,58.5,34.13,29.25,121.88,USD,synthetic
+EXP-2014-00382,2014-07-01,2014,7,Q3,AGY-004,Japan Aerospace Exploration Agency,Japan,57.37,33.47,28.68,119.52,USD,synthetic
+EXP-2014-00383,2014-07-01,2014,7,Q3,AGY-005,China National Space Administration,China,114.66,66.88,57.33,238.87,USD,synthetic
+EXP-2014-00384,2014-07-01,2014,7,Q3,AGY-006,State Space Corporation Roscosmos,Russia,55.83,32.56,27.91,116.3,USD,synthetic
+EXP-2014-00385,2014-07-01,2014,7,Q3,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,58.61,34.19,29.3,122.1,USD,synthetic
+EXP-2014-00386,2014-08-01,2014,8,Q3,AGY-001,National Aeronautics and Space Administration,United States,223.6,130.43,111.8,465.83,USD,synthetic
+EXP-2014-00387,2014-08-01,2014,8,Q3,AGY-002,European Space Agency,Europe,112.43,65.59,56.22,234.24,USD,synthetic
+EXP-2014-00388,2014-08-01,2014,8,Q3,AGY-003,Indian Space Research Organisation,India,56.66,33.05,28.33,118.04,USD,synthetic
+EXP-2014-00389,2014-08-01,2014,8,Q3,AGY-004,Japan Aerospace Exploration Agency,Japan,57.0,33.25,28.5,118.75,USD,synthetic
+EXP-2014-00390,2014-08-01,2014,8,Q3,AGY-005,China National Space Administration,China,107.91,62.95,53.96,224.82,USD,synthetic
+EXP-2014-00391,2014-08-01,2014,8,Q3,AGY-006,State Space Corporation Roscosmos,Russia,55.5,32.37,27.75,115.62,USD,synthetic
+EXP-2014-00392,2014-08-01,2014,8,Q3,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,56.46,32.94,28.23,117.63,USD,synthetic
+EXP-2014-00393,2014-09-01,2014,9,Q3,AGY-001,National Aeronautics and Space Administration,United States,239.17,139.52,119.59,498.28,USD,synthetic
+EXP-2014-00394,2014-09-01,2014,9,Q3,AGY-002,European Space Agency,Europe,118.43,69.09,59.22,246.74,USD,synthetic
+EXP-2014-00395,2014-09-01,2014,9,Q3,AGY-003,Indian Space Research Organisation,India,57.48,33.53,28.74,119.75,USD,synthetic
+EXP-2014-00396,2014-09-01,2014,9,Q3,AGY-004,Japan Aerospace Exploration Agency,Japan,59.74,34.85,29.87,124.46,USD,synthetic
+EXP-2014-00397,2014-09-01,2014,9,Q3,AGY-005,China National Space Administration,China,115.77,67.53,57.88,241.18,USD,synthetic
+EXP-2014-00398,2014-09-01,2014,9,Q3,AGY-006,State Space Corporation Roscosmos,Russia,58.97,34.4,29.49,122.86,USD,synthetic
+EXP-2014-00399,2014-09-01,2014,9,Q3,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,57.56,33.57,28.78,119.91,USD,synthetic
+EXP-2014-00400,2014-10-01,2014,10,Q4,AGY-001,National Aeronautics and Space Administration,United States,221.14,129.0,110.57,460.71,USD,synthetic
+EXP-2014-00401,2014-10-01,2014,10,Q4,AGY-002,European Space Agency,Europe,115.83,67.57,57.92,241.32,USD,synthetic
+EXP-2014-00402,2014-10-01,2014,10,Q4,AGY-003,Indian Space Research Organisation,India,57.56,33.58,28.78,119.92,USD,synthetic
+EXP-2014-00403,2014-10-01,2014,10,Q4,AGY-004,Japan Aerospace Exploration Agency,Japan,60.01,35.01,30.01,125.03,USD,synthetic
+EXP-2014-00404,2014-10-01,2014,10,Q4,AGY-005,China National Space Administration,China,119.67,69.81,59.83,249.31,USD,synthetic
+EXP-2014-00405,2014-10-01,2014,10,Q4,AGY-006,State Space Corporation Roscosmos,Russia,59.16,34.51,29.58,123.25,USD,synthetic
+EXP-2014-00406,2014-10-01,2014,10,Q4,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,54.33,31.69,27.16,113.18,USD,synthetic
+EXP-2014-00407,2014-11-01,2014,11,Q4,AGY-001,National Aeronautics and Space Administration,United States,247.4,144.32,123.7,515.42,USD,synthetic
+EXP-2014-00408,2014-11-01,2014,11,Q4,AGY-002,European Space Agency,Europe,124.34,72.53,62.17,259.04,USD,synthetic
+EXP-2014-00409,2014-11-01,2014,11,Q4,AGY-003,Indian Space Research Organisation,India,64.22,37.46,32.11,133.79,USD,synthetic
+EXP-2014-00410,2014-11-01,2014,11,Q4,AGY-004,Japan Aerospace Exploration Agency,Japan,63.31,36.93,31.65,131.89,USD,synthetic
+EXP-2014-00411,2014-11-01,2014,11,Q4,AGY-005,China National Space Administration,China,127.45,74.35,63.73,265.53,USD,synthetic
+EXP-2014-00412,2014-11-01,2014,11,Q4,AGY-006,State Space Corporation Roscosmos,Russia,63.34,36.95,31.67,131.96,USD,synthetic
+EXP-2014-00413,2014-11-01,2014,11,Q4,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,64.69,37.73,32.34,134.76,USD,synthetic
+EXP-2014-00414,2014-12-01,2014,12,Q4,AGY-001,National Aeronautics and Space Administration,United States,260.99,152.25,130.5,543.74,USD,synthetic
+EXP-2014-00415,2014-12-01,2014,12,Q4,AGY-002,European Space Agency,Europe,124.67,72.72,62.33,259.72,USD,synthetic
+EXP-2014-00416,2014-12-01,2014,12,Q4,AGY-003,Indian Space Research Organisation,India,62.89,36.69,31.45,131.03,USD,synthetic
+EXP-2014-00417,2014-12-01,2014,12,Q4,AGY-004,Japan Aerospace Exploration Agency,Japan,67.28,39.24,33.64,140.16,USD,synthetic
+EXP-2014-00418,2014-12-01,2014,12,Q4,AGY-005,China National Space Administration,China,131.36,76.63,65.68,273.67,USD,synthetic
+EXP-2014-00419,2014-12-01,2014,12,Q4,AGY-006,State Space Corporation Roscosmos,Russia,68.33,39.86,34.16,142.35,USD,synthetic
+EXP-2014-00420,2014-12-01,2014,12,Q4,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,69.13,40.32,34.56,144.01,USD,synthetic
+EXP-2015-00421,2015-01-01,2015,1,Q1,AGY-001,National Aeronautics and Space Administration,United States,212.41,123.91,106.21,442.53,USD,synthetic
+EXP-2015-00422,2015-01-01,2015,1,Q1,AGY-002,European Space Agency,Europe,118.9,69.36,59.45,247.71,USD,synthetic
+EXP-2015-00423,2015-01-01,2015,1,Q1,AGY-003,Indian Space Research Organisation,India,58.57,34.17,29.29,122.03,USD,synthetic
+EXP-2015-00424,2015-01-01,2015,1,Q1,AGY-004,Japan Aerospace Exploration Agency,Japan,53.28,31.08,26.64,111.0,USD,synthetic
+EXP-2015-00425,2015-01-01,2015,1,Q1,AGY-005,China National Space Administration,China,116.34,67.86,58.17,242.37,USD,synthetic
+EXP-2015-00426,2015-01-01,2015,1,Q1,AGY-006,State Space Corporation Roscosmos,Russia,58.76,34.28,29.38,122.42,USD,synthetic
+EXP-2015-00427,2015-01-01,2015,1,Q1,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,59.28,34.58,29.64,123.5,USD,synthetic
+EXP-2015-00428,2015-02-01,2015,2,Q1,AGY-001,National Aeronautics and Space Administration,United States,233.28,136.08,116.64,486.0,USD,synthetic
+EXP-2015-00429,2015-02-01,2015,2,Q1,AGY-002,European Space Agency,Europe,112.46,65.6,56.23,234.29,USD,synthetic
+EXP-2015-00430,2015-02-01,2015,2,Q1,AGY-003,Indian Space Research Organisation,India,53.69,31.32,26.85,111.86,USD,synthetic
+EXP-2015-00431,2015-02-01,2015,2,Q1,AGY-004,Japan Aerospace Exploration Agency,Japan,53.51,31.21,26.75,111.47,USD,synthetic
+EXP-2015-00432,2015-02-01,2015,2,Q1,AGY-005,China National Space Administration,China,113.2,66.03,56.6,235.83,USD,synthetic
+EXP-2015-00433,2015-02-01,2015,2,Q1,AGY-006,State Space Corporation Roscosmos,Russia,55.31,32.27,27.66,115.24,USD,synthetic
+EXP-2015-00434,2015-02-01,2015,2,Q1,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,57.84,33.74,28.92,120.5,USD,synthetic
+EXP-2015-00435,2015-03-01,2015,3,Q1,AGY-001,National Aeronautics and Space Administration,United States,229.91,134.12,114.96,478.99,USD,synthetic
+EXP-2015-00436,2015-03-01,2015,3,Q1,AGY-002,European Space Agency,Europe,123.7,72.16,61.85,257.71,USD,synthetic
+EXP-2015-00437,2015-03-01,2015,3,Q1,AGY-003,Indian Space Research Organisation,India,57.45,33.51,28.72,119.68,USD,synthetic
+EXP-2015-00438,2015-03-01,2015,3,Q1,AGY-004,Japan Aerospace Exploration Agency,Japan,58.9,34.36,29.45,122.71,USD,synthetic
+EXP-2015-00439,2015-03-01,2015,3,Q1,AGY-005,China National Space Administration,China,114.68,66.89,57.34,238.91,USD,synthetic
+EXP-2015-00440,2015-03-01,2015,3,Q1,AGY-006,State Space Corporation Roscosmos,Russia,58.77,34.28,29.38,122.43,USD,synthetic
+EXP-2015-00441,2015-03-01,2015,3,Q1,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,62.95,36.72,31.48,131.15,USD,synthetic
+EXP-2015-00442,2015-04-01,2015,4,Q2,AGY-001,National Aeronautics and Space Administration,United States,230.56,134.49,115.28,480.33,USD,synthetic
+EXP-2015-00443,2015-04-01,2015,4,Q2,AGY-002,European Space Agency,Europe,112.35,65.54,56.17,234.06,USD,synthetic
+EXP-2015-00444,2015-04-01,2015,4,Q2,AGY-003,Indian Space Research Organisation,India,58.77,34.28,29.38,122.43,USD,synthetic
+EXP-2015-00445,2015-04-01,2015,4,Q2,AGY-004,Japan Aerospace Exploration Agency,Japan,57.73,33.67,28.86,120.26,USD,synthetic
+EXP-2015-00446,2015-04-01,2015,4,Q2,AGY-005,China National Space Administration,China,112.4,65.57,56.2,234.17,USD,synthetic
+EXP-2015-00447,2015-04-01,2015,4,Q2,AGY-006,State Space Corporation Roscosmos,Russia,56.77,33.11,28.38,118.26,USD,synthetic
+EXP-2015-00448,2015-04-01,2015,4,Q2,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,61.91,36.11,30.95,128.97,USD,synthetic
+EXP-2015-00449,2015-05-01,2015,5,Q2,AGY-001,National Aeronautics and Space Administration,United States,229.65,133.96,114.82,478.43,USD,synthetic
+EXP-2015-00450,2015-05-01,2015,5,Q2,AGY-002,European Space Agency,Europe,112.46,65.6,56.23,234.29,USD,synthetic
+EXP-2015-00451,2015-05-01,2015,5,Q2,AGY-003,Indian Space Research Organisation,India,59.67,34.81,29.83,124.31,USD,synthetic
+EXP-2015-00452,2015-05-01,2015,5,Q2,AGY-004,Japan Aerospace Exploration Agency,Japan,57.47,33.52,28.74,119.73,USD,synthetic
+EXP-2015-00453,2015-05-01,2015,5,Q2,AGY-005,China National Space Administration,China,122.01,71.17,61.0,254.18,USD,synthetic
+EXP-2015-00454,2015-05-01,2015,5,Q2,AGY-006,State Space Corporation Roscosmos,Russia,58.32,34.02,29.16,121.5,USD,synthetic
+EXP-2015-00455,2015-05-01,2015,5,Q2,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,59.02,34.43,29.51,122.96,USD,synthetic
+EXP-2015-00456,2015-06-01,2015,6,Q2,AGY-001,National Aeronautics and Space Administration,United States,229.06,133.62,114.53,477.21,USD,synthetic
+EXP-2015-00457,2015-06-01,2015,6,Q2,AGY-002,European Space Agency,Europe,115.64,67.46,57.82,240.92,USD,synthetic
+EXP-2015-00458,2015-06-01,2015,6,Q2,AGY-003,Indian Space Research Organisation,India,60.04,35.02,30.02,125.08,USD,synthetic
+EXP-2015-00459,2015-06-01,2015,6,Q2,AGY-004,Japan Aerospace Exploration Agency,Japan,58.94,34.38,29.47,122.79,USD,synthetic
+EXP-2015-00460,2015-06-01,2015,6,Q2,AGY-005,China National Space Administration,China,113.96,66.48,56.98,237.42,USD,synthetic
+EXP-2015-00461,2015-06-01,2015,6,Q2,AGY-006,State Space Corporation Roscosmos,Russia,58.55,34.16,29.28,121.99,USD,synthetic
+EXP-2015-00462,2015-06-01,2015,6,Q2,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,62.96,36.73,31.48,131.17,USD,synthetic
+EXP-2015-00463,2015-07-01,2015,7,Q3,AGY-001,National Aeronautics and Space Administration,United States,247.06,144.12,123.53,514.71,USD,synthetic
+EXP-2015-00464,2015-07-01,2015,7,Q3,AGY-002,European Space Agency,Europe,114.61,66.85,57.3,238.76,USD,synthetic
+EXP-2015-00465,2015-07-01,2015,7,Q3,AGY-003,Indian Space Research Organisation,India,56.49,32.95,28.24,117.68,USD,synthetic
+EXP-2015-00466,2015-07-01,2015,7,Q3,AGY-004,Japan Aerospace Exploration Agency,Japan,56.81,33.14,28.4,118.35,USD,synthetic
+EXP-2015-00467,2015-07-01,2015,7,Q3,AGY-005,China National Space Administration,China,115.0,67.08,57.5,239.58,USD,synthetic
+EXP-2015-00468,2015-07-01,2015,7,Q3,AGY-006,State Space Corporation Roscosmos,Russia,60.41,35.24,30.21,125.86,USD,synthetic
+EXP-2015-00469,2015-07-01,2015,7,Q3,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,61.99,36.16,30.99,129.14,USD,synthetic
+EXP-2015-00470,2015-08-01,2015,8,Q3,AGY-001,National Aeronautics and Space Administration,United States,241.81,141.06,120.91,503.78,USD,synthetic
+EXP-2015-00471,2015-08-01,2015,8,Q3,AGY-002,European Space Agency,Europe,118.93,69.37,59.46,247.76,USD,synthetic
+EXP-2015-00472,2015-08-01,2015,8,Q3,AGY-003,Indian Space Research Organisation,India,57.07,33.29,28.54,118.9,USD,synthetic
+EXP-2015-00473,2015-08-01,2015,8,Q3,AGY-004,Japan Aerospace Exploration Agency,Japan,57.7,33.66,28.85,120.21,USD,synthetic
+EXP-2015-00474,2015-08-01,2015,8,Q3,AGY-005,China National Space Administration,China,126.13,73.57,63.06,262.76,USD,synthetic
+EXP-2015-00475,2015-08-01,2015,8,Q3,AGY-006,State Space Corporation Roscosmos,Russia,61.59,35.93,30.79,128.31,USD,synthetic
+EXP-2015-00476,2015-08-01,2015,8,Q3,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,60.31,35.18,30.15,125.64,USD,synthetic
+EXP-2015-00477,2015-09-01,2015,9,Q3,AGY-001,National Aeronautics and Space Administration,United States,235.15,137.17,117.57,489.89,USD,synthetic
+EXP-2015-00478,2015-09-01,2015,9,Q3,AGY-002,European Space Agency,Europe,115.3,67.26,57.65,240.21,USD,synthetic
+EXP-2015-00479,2015-09-01,2015,9,Q3,AGY-003,Indian Space Research Organisation,India,58.34,34.03,29.17,121.54,USD,synthetic
+EXP-2015-00480,2015-09-01,2015,9,Q3,AGY-004,Japan Aerospace Exploration Agency,Japan,56.77,33.12,28.39,118.28,USD,synthetic
+EXP-2015-00481,2015-09-01,2015,9,Q3,AGY-005,China National Space Administration,China,126.28,73.66,63.14,263.08,USD,synthetic
+EXP-2015-00482,2015-09-01,2015,9,Q3,AGY-006,State Space Corporation Roscosmos,Russia,56.54,32.98,28.27,117.79,USD,synthetic
+EXP-2015-00483,2015-09-01,2015,9,Q3,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,59.55,34.74,29.78,124.07,USD,synthetic
+EXP-2015-00484,2015-10-01,2015,10,Q4,AGY-001,National Aeronautics and Space Administration,United States,243.18,141.86,121.59,506.63,USD,synthetic
+EXP-2015-00485,2015-10-01,2015,10,Q4,AGY-002,European Space Agency,Europe,122.74,71.6,61.37,255.71,USD,synthetic
+EXP-2015-00486,2015-10-01,2015,10,Q4,AGY-003,Indian Space Research Organisation,India,56.42,32.91,28.21,117.54,USD,synthetic
+EXP-2015-00487,2015-10-01,2015,10,Q4,AGY-004,Japan Aerospace Exploration Agency,Japan,57.72,33.67,28.86,120.25,USD,synthetic
+EXP-2015-00488,2015-10-01,2015,10,Q4,AGY-005,China National Space Administration,China,124.93,72.87,62.46,260.26,USD,synthetic
+EXP-2015-00489,2015-10-01,2015,10,Q4,AGY-006,State Space Corporation Roscosmos,Russia,61.24,35.73,30.62,127.59,USD,synthetic
+EXP-2015-00490,2015-10-01,2015,10,Q4,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,57.45,33.51,28.73,119.69,USD,synthetic
+EXP-2015-00491,2015-11-01,2015,11,Q4,AGY-001,National Aeronautics and Space Administration,United States,262.96,153.39,131.48,547.83,USD,synthetic
+EXP-2015-00492,2015-11-01,2015,11,Q4,AGY-002,European Space Agency,Europe,130.38,76.05,65.19,271.62,USD,synthetic
+EXP-2015-00493,2015-11-01,2015,11,Q4,AGY-003,Indian Space Research Organisation,India,69.46,40.52,34.73,144.71,USD,synthetic
+EXP-2015-00494,2015-11-01,2015,11,Q4,AGY-004,Japan Aerospace Exploration Agency,Japan,70.14,40.91,35.07,146.12,USD,synthetic
+EXP-2015-00495,2015-11-01,2015,11,Q4,AGY-005,China National Space Administration,China,131.37,76.63,65.68,273.68,USD,synthetic
+EXP-2015-00496,2015-11-01,2015,11,Q4,AGY-006,State Space Corporation Roscosmos,Russia,72.54,42.32,36.27,151.13,USD,synthetic
+EXP-2015-00497,2015-11-01,2015,11,Q4,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,67.79,39.54,33.89,141.22,USD,synthetic
+EXP-2015-00498,2015-12-01,2015,12,Q4,AGY-001,National Aeronautics and Space Administration,United States,265.47,154.86,132.73,553.06,USD,synthetic
+EXP-2015-00499,2015-12-01,2015,12,Q4,AGY-002,European Space Agency,Europe,134.19,78.28,67.1,279.57,USD,synthetic
+EXP-2015-00500,2015-12-01,2015,12,Q4,AGY-003,Indian Space Research Organisation,India,67.95,39.64,33.97,141.56,USD,synthetic
+EXP-2015-00501,2015-12-01,2015,12,Q4,AGY-004,Japan Aerospace Exploration Agency,Japan,71.36,41.62,35.68,148.66,USD,synthetic
+EXP-2015-00502,2015-12-01,2015,12,Q4,AGY-005,China National Space Administration,China,137.61,80.28,68.81,286.7,USD,synthetic
+EXP-2015-00503,2015-12-01,2015,12,Q4,AGY-006,State Space Corporation Roscosmos,Russia,72.37,42.21,36.18,150.76,USD,synthetic
+EXP-2015-00504,2015-12-01,2015,12,Q4,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,68.07,39.71,34.03,141.81,USD,synthetic
+EXP-2016-00505,2016-01-01,2016,1,Q1,AGY-001,National Aeronautics and Space Administration,United States,247.06,144.12,123.53,514.71,USD,synthetic
+EXP-2016-00506,2016-01-01,2016,1,Q1,AGY-002,European Space Agency,Europe,117.37,68.47,58.69,244.53,USD,synthetic
+EXP-2016-00507,2016-01-01,2016,1,Q1,AGY-003,Indian Space Research Organisation,India,58.63,34.2,29.31,122.14,USD,synthetic
+EXP-2016-00508,2016-01-01,2016,1,Q1,AGY-004,Japan Aerospace Exploration Agency,Japan,55.57,32.42,27.78,115.77,USD,synthetic
+EXP-2016-00509,2016-01-01,2016,1,Q1,AGY-005,China National Space Administration,China,122.05,71.2,61.03,254.28,USD,synthetic
+EXP-2016-00510,2016-01-01,2016,1,Q1,AGY-006,State Space Corporation Roscosmos,Russia,58.2,33.95,29.1,121.25,USD,synthetic
+EXP-2016-00511,2016-01-01,2016,1,Q1,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,58.62,34.19,29.31,122.12,USD,synthetic
+EXP-2016-00512,2016-02-01,2016,2,Q1,AGY-001,National Aeronautics and Space Administration,United States,228.12,133.07,114.06,475.25,USD,synthetic
+EXP-2016-00513,2016-02-01,2016,2,Q1,AGY-002,European Space Agency,Europe,111.12,64.82,55.56,231.5,USD,synthetic
+EXP-2016-00514,2016-02-01,2016,2,Q1,AGY-003,Indian Space Research Organisation,India,60.24,35.14,30.12,125.5,USD,synthetic
+EXP-2016-00515,2016-02-01,2016,2,Q1,AGY-004,Japan Aerospace Exploration Agency,Japan,56.12,32.74,28.06,116.92,USD,synthetic
+EXP-2016-00516,2016-02-01,2016,2,Q1,AGY-005,China National Space Administration,China,111.75,65.19,55.87,232.81,USD,synthetic
+EXP-2016-00517,2016-02-01,2016,2,Q1,AGY-006,State Space Corporation Roscosmos,Russia,59.98,34.99,29.99,124.96,USD,synthetic
+EXP-2016-00518,2016-02-01,2016,2,Q1,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,58.74,34.26,29.37,122.37,USD,synthetic
+EXP-2016-00519,2016-03-01,2016,3,Q1,AGY-001,National Aeronautics and Space Administration,United States,248.95,145.22,124.47,518.64,USD,synthetic
+EXP-2016-00520,2016-03-01,2016,3,Q1,AGY-002,European Space Agency,Europe,129.12,75.32,64.56,269.0,USD,synthetic
+EXP-2016-00521,2016-03-01,2016,3,Q1,AGY-003,Indian Space Research Organisation,India,60.33,35.19,30.17,125.69,USD,synthetic
+EXP-2016-00522,2016-03-01,2016,3,Q1,AGY-004,Japan Aerospace Exploration Agency,Japan,61.86,36.08,30.93,128.87,USD,synthetic
+EXP-2016-00523,2016-03-01,2016,3,Q1,AGY-005,China National Space Administration,China,124.45,72.59,62.22,259.26,USD,synthetic
+EXP-2016-00524,2016-03-01,2016,3,Q1,AGY-006,State Space Corporation Roscosmos,Russia,63.18,36.85,31.59,131.62,USD,synthetic
+EXP-2016-00525,2016-03-01,2016,3,Q1,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,60.49,35.28,30.24,126.01,USD,synthetic
+EXP-2016-00526,2016-04-01,2016,4,Q2,AGY-001,National Aeronautics and Space Administration,United States,252.0,147.0,126.0,525.0,USD,synthetic
+EXP-2016-00527,2016-04-01,2016,4,Q2,AGY-002,European Space Agency,Europe,128.74,75.1,64.37,268.21,USD,synthetic
+EXP-2016-00528,2016-04-01,2016,4,Q2,AGY-003,Indian Space Research Organisation,India,64.9,37.86,32.45,135.21,USD,synthetic
+EXP-2016-00529,2016-04-01,2016,4,Q2,AGY-004,Japan Aerospace Exploration Agency,Japan,60.31,35.18,30.16,125.65,USD,synthetic
+EXP-2016-00530,2016-04-01,2016,4,Q2,AGY-005,China National Space Administration,China,132.21,77.12,66.1,275.43,USD,synthetic
+EXP-2016-00531,2016-04-01,2016,4,Q2,AGY-006,State Space Corporation Roscosmos,Russia,61.5,35.87,30.75,128.12,USD,synthetic
+EXP-2016-00532,2016-04-01,2016,4,Q2,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,65.54,38.23,32.77,136.54,USD,synthetic
+EXP-2016-00533,2016-05-01,2016,5,Q2,AGY-001,National Aeronautics and Space Administration,United States,245.52,143.22,122.76,511.5,USD,synthetic
+EXP-2016-00534,2016-05-01,2016,5,Q2,AGY-002,European Space Agency,Europe,125.7,73.33,62.85,261.88,USD,synthetic
+EXP-2016-00535,2016-05-01,2016,5,Q2,AGY-003,Indian Space Research Organisation,India,59.31,34.6,29.65,123.56,USD,synthetic
+EXP-2016-00536,2016-05-01,2016,5,Q2,AGY-004,Japan Aerospace Exploration Agency,Japan,64.97,37.9,32.49,135.36,USD,synthetic
+EXP-2016-00537,2016-05-01,2016,5,Q2,AGY-005,China National Space Administration,China,131.04,76.44,65.52,273.0,USD,synthetic
+EXP-2016-00538,2016-05-01,2016,5,Q2,AGY-006,State Space Corporation Roscosmos,Russia,60.8,35.47,30.4,126.67,USD,synthetic
+EXP-2016-00539,2016-05-01,2016,5,Q2,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,65.7,38.32,32.85,136.87,USD,synthetic
+EXP-2016-00540,2016-06-01,2016,6,Q2,AGY-001,National Aeronautics and Space Administration,United States,245.07,142.96,122.54,510.57,USD,synthetic
+EXP-2016-00541,2016-06-01,2016,6,Q2,AGY-002,European Space Agency,Europe,122.66,71.55,61.33,255.54,USD,synthetic
+EXP-2016-00542,2016-06-01,2016,6,Q2,AGY-003,Indian Space Research Organisation,India,65.52,38.22,32.76,136.5,USD,synthetic
+EXP-2016-00543,2016-06-01,2016,6,Q2,AGY-004,Japan Aerospace Exploration Agency,Japan,62.05,36.2,31.03,129.28,USD,synthetic
+EXP-2016-00544,2016-06-01,2016,6,Q2,AGY-005,China National Space Administration,China,123.22,71.88,61.61,256.71,USD,synthetic
+EXP-2016-00545,2016-06-01,2016,6,Q2,AGY-006,State Space Corporation Roscosmos,Russia,65.13,37.99,32.57,135.69,USD,synthetic
+EXP-2016-00546,2016-06-01,2016,6,Q2,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,60.5,35.29,30.25,126.04,USD,synthetic
+EXP-2016-00547,2016-07-01,2016,7,Q3,AGY-001,National Aeronautics and Space Administration,United States,235.38,137.3,117.69,490.37,USD,synthetic
+EXP-2016-00548,2016-07-01,2016,7,Q3,AGY-002,European Space Agency,Europe,123.8,72.22,61.9,257.92,USD,synthetic
+EXP-2016-00549,2016-07-01,2016,7,Q3,AGY-003,Indian Space Research Organisation,India,62.74,36.6,31.37,130.71,USD,synthetic
+EXP-2016-00550,2016-07-01,2016,7,Q3,AGY-004,Japan Aerospace Exploration Agency,Japan,60.48,35.28,30.24,126.0,USD,synthetic
+EXP-2016-00551,2016-07-01,2016,7,Q3,AGY-005,China National Space Administration,China,122.04,71.19,61.02,254.25,USD,synthetic
+EXP-2016-00552,2016-07-01,2016,7,Q3,AGY-006,State Space Corporation Roscosmos,Russia,59.39,34.64,29.69,123.72,USD,synthetic
+EXP-2016-00553,2016-07-01,2016,7,Q3,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,65.38,38.14,32.69,136.21,USD,synthetic
+EXP-2016-00554,2016-08-01,2016,8,Q3,AGY-001,National Aeronautics and Space Administration,United States,248.43,144.92,124.22,517.57,USD,synthetic
+EXP-2016-00555,2016-08-01,2016,8,Q3,AGY-002,European Space Agency,Europe,127.56,74.41,63.78,265.75,USD,synthetic
+EXP-2016-00556,2016-08-01,2016,8,Q3,AGY-003,Indian Space Research Organisation,India,59.91,34.95,29.96,124.82,USD,synthetic
+EXP-2016-00557,2016-08-01,2016,8,Q3,AGY-004,Japan Aerospace Exploration Agency,Japan,60.87,35.51,30.43,126.81,USD,synthetic
+EXP-2016-00558,2016-08-01,2016,8,Q3,AGY-005,China National Space Administration,China,132.15,77.09,66.07,275.31,USD,synthetic
+EXP-2016-00559,2016-08-01,2016,8,Q3,AGY-006,State Space Corporation Roscosmos,Russia,64.57,37.67,32.28,134.52,USD,synthetic
+EXP-2016-00560,2016-08-01,2016,8,Q3,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,64.45,37.6,32.23,134.28,USD,synthetic
+EXP-2016-00561,2016-09-01,2016,9,Q3,AGY-001,National Aeronautics and Space Administration,United States,257.44,150.17,128.72,536.33,USD,synthetic
+EXP-2016-00562,2016-09-01,2016,9,Q3,AGY-002,European Space Agency,Europe,129.86,75.75,64.93,270.54,USD,synthetic
+EXP-2016-00563,2016-09-01,2016,9,Q3,AGY-003,Indian Space Research Organisation,India,64.96,37.9,32.48,135.34,USD,synthetic
+EXP-2016-00564,2016-09-01,2016,9,Q3,AGY-004,Japan Aerospace Exploration Agency,Japan,59.67,34.8,29.83,124.3,USD,synthetic
+EXP-2016-00565,2016-09-01,2016,9,Q3,AGY-005,China National Space Administration,China,121.08,70.63,60.54,252.25,USD,synthetic
+EXP-2016-00566,2016-09-01,2016,9,Q3,AGY-006,State Space Corporation Roscosmos,Russia,60.24,35.14,30.12,125.5,USD,synthetic
+EXP-2016-00567,2016-09-01,2016,9,Q3,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,61.74,36.02,30.87,128.63,USD,synthetic
+EXP-2016-00568,2016-10-01,2016,10,Q4,AGY-001,National Aeronautics and Space Administration,United States,261.78,152.7,130.89,545.37,USD,synthetic
+EXP-2016-00569,2016-10-01,2016,10,Q4,AGY-002,European Space Agency,Europe,131.42,76.66,65.71,273.79,USD,synthetic
+EXP-2016-00570,2016-10-01,2016,10,Q4,AGY-003,Indian Space Research Organisation,India,62.59,36.51,31.29,130.39,USD,synthetic
+EXP-2016-00571,2016-10-01,2016,10,Q4,AGY-004,Japan Aerospace Exploration Agency,Japan,63.86,37.25,31.93,133.04,USD,synthetic
+EXP-2016-00572,2016-10-01,2016,10,Q4,AGY-005,China National Space Administration,China,125.17,73.02,62.59,260.78,USD,synthetic
+EXP-2016-00573,2016-10-01,2016,10,Q4,AGY-006,State Space Corporation Roscosmos,Russia,64.42,37.58,32.21,134.21,USD,synthetic
+EXP-2016-00574,2016-10-01,2016,10,Q4,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,61.44,35.84,30.72,128.0,USD,synthetic
+EXP-2016-00575,2016-11-01,2016,11,Q4,AGY-001,National Aeronautics and Space Administration,United States,275.48,160.7,137.74,573.92,USD,synthetic
+EXP-2016-00576,2016-11-01,2016,11,Q4,AGY-002,European Space Agency,Europe,144.27,84.16,72.13,300.56,USD,synthetic
+EXP-2016-00577,2016-11-01,2016,11,Q4,AGY-003,Indian Space Research Organisation,India,74.46,43.43,37.23,155.12,USD,synthetic
+EXP-2016-00578,2016-11-01,2016,11,Q4,AGY-004,Japan Aerospace Exploration Agency,Japan,68.65,40.04,34.32,143.01,USD,synthetic
+EXP-2016-00579,2016-11-01,2016,11,Q4,AGY-005,China National Space Administration,China,137.69,80.32,68.85,286.86,USD,synthetic
+EXP-2016-00580,2016-11-01,2016,11,Q4,AGY-006,State Space Corporation Roscosmos,Russia,68.19,39.78,34.09,142.06,USD,synthetic
+EXP-2016-00581,2016-11-01,2016,11,Q4,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,73.99,43.16,36.99,154.14,USD,synthetic
+EXP-2016-00582,2016-12-01,2016,12,Q4,AGY-001,National Aeronautics and Space Administration,United States,293.92,171.45,146.96,612.33,USD,synthetic
+EXP-2016-00583,2016-12-01,2016,12,Q4,AGY-002,European Space Agency,Europe,138.11,80.56,69.05,287.72,USD,synthetic
+EXP-2016-00584,2016-12-01,2016,12,Q4,AGY-003,Indian Space Research Organisation,India,73.35,42.79,36.68,152.82,USD,synthetic
+EXP-2016-00585,2016-12-01,2016,12,Q4,AGY-004,Japan Aerospace Exploration Agency,Japan,69.4,40.49,34.7,144.59,USD,synthetic
+EXP-2016-00586,2016-12-01,2016,12,Q4,AGY-005,China National Space Administration,China,138.11,80.56,69.06,287.73,USD,synthetic
+EXP-2016-00587,2016-12-01,2016,12,Q4,AGY-006,State Space Corporation Roscosmos,Russia,69.86,40.75,34.93,145.54,USD,synthetic
+EXP-2016-00588,2016-12-01,2016,12,Q4,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,68.61,40.03,34.31,142.95,USD,synthetic
+EXP-2017-00589,2017-01-01,2017,1,Q1,AGY-001,National Aeronautics and Space Administration,United States,257.8,150.38,128.9,537.08,USD,synthetic
+EXP-2017-00590,2017-01-01,2017,1,Q1,AGY-002,European Space Agency,Europe,129.95,75.8,64.98,270.73,USD,synthetic
+EXP-2017-00591,2017-01-01,2017,1,Q1,AGY-003,Indian Space Research Organisation,India,63.95,37.3,31.97,133.22,USD,synthetic
+EXP-2017-00592,2017-01-01,2017,1,Q1,AGY-004,Japan Aerospace Exploration Agency,Japan,62.95,36.72,31.48,131.15,USD,synthetic
+EXP-2017-00593,2017-01-01,2017,1,Q1,AGY-005,China National Space Administration,China,127.99,74.66,64.0,266.65,USD,synthetic
+EXP-2017-00594,2017-01-01,2017,1,Q1,AGY-006,State Space Corporation Roscosmos,Russia,61.86,36.09,30.93,128.88,USD,synthetic
+EXP-2017-00595,2017-01-01,2017,1,Q1,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,60.22,35.13,30.11,125.46,USD,synthetic
+EXP-2017-00596,2017-02-01,2017,2,Q1,AGY-001,National Aeronautics and Space Administration,United States,246.56,143.82,123.28,513.66,USD,synthetic
+EXP-2017-00597,2017-02-01,2017,2,Q1,AGY-002,European Space Agency,Europe,126.8,73.97,63.4,264.17,USD,synthetic
+EXP-2017-00598,2017-02-01,2017,2,Q1,AGY-003,Indian Space Research Organisation,India,58.56,34.16,29.28,122.0,USD,synthetic
+EXP-2017-00599,2017-02-01,2017,2,Q1,AGY-004,Japan Aerospace Exploration Agency,Japan,63.08,36.79,31.54,131.41,USD,synthetic
+EXP-2017-00600,2017-02-01,2017,2,Q1,AGY-005,China National Space Administration,China,126.23,73.63,63.11,262.97,USD,synthetic
+EXP-2017-00601,2017-02-01,2017,2,Q1,AGY-006,State Space Corporation Roscosmos,Russia,60.44,35.26,30.22,125.92,USD,synthetic
+EXP-2017-00602,2017-02-01,2017,2,Q1,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,64.75,37.77,32.37,134.89,USD,synthetic
+EXP-2017-00603,2017-03-01,2017,3,Q1,AGY-001,National Aeronautics and Space Administration,United States,248.58,145.0,124.29,517.87,USD,synthetic
+EXP-2017-00604,2017-03-01,2017,3,Q1,AGY-002,European Space Agency,Europe,132.64,77.37,66.32,276.33,USD,synthetic
+EXP-2017-00605,2017-03-01,2017,3,Q1,AGY-003,Indian Space Research Organisation,India,64.03,37.35,32.02,133.4,USD,synthetic
+EXP-2017-00606,2017-03-01,2017,3,Q1,AGY-004,Japan Aerospace Exploration Agency,Japan,65.37,38.13,32.68,136.18,USD,synthetic
+EXP-2017-00607,2017-03-01,2017,3,Q1,AGY-005,China National Space Administration,China,126.37,73.71,63.18,263.26,USD,synthetic
+EXP-2017-00608,2017-03-01,2017,3,Q1,AGY-006,State Space Corporation Roscosmos,Russia,62.81,36.64,31.41,130.86,USD,synthetic
+EXP-2017-00609,2017-03-01,2017,3,Q1,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,66.19,38.61,33.09,137.89,USD,synthetic
+EXP-2017-00610,2017-04-01,2017,4,Q2,AGY-001,National Aeronautics and Space Administration,United States,250.16,145.93,125.08,521.17,USD,synthetic
+EXP-2017-00611,2017-04-01,2017,4,Q2,AGY-002,European Space Agency,Europe,126.04,73.52,63.02,262.58,USD,synthetic
+EXP-2017-00612,2017-04-01,2017,4,Q2,AGY-003,Indian Space Research Organisation,India,68.61,40.02,34.31,142.94,USD,synthetic
+EXP-2017-00613,2017-04-01,2017,4,Q2,AGY-004,Japan Aerospace Exploration Agency,Japan,64.68,37.73,32.34,134.75,USD,synthetic
+EXP-2017-00614,2017-04-01,2017,4,Q2,AGY-005,China National Space Administration,China,137.71,80.33,68.86,286.9,USD,synthetic
+EXP-2017-00615,2017-04-01,2017,4,Q2,AGY-006,State Space Corporation Roscosmos,Russia,66.73,38.93,33.36,139.02,USD,synthetic
+EXP-2017-00616,2017-04-01,2017,4,Q2,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,66.03,38.52,33.02,137.57,USD,synthetic
+EXP-2017-00617,2017-05-01,2017,5,Q2,AGY-001,National Aeronautics and Space Administration,United States,258.73,150.92,129.36,539.01,USD,synthetic
+EXP-2017-00618,2017-05-01,2017,5,Q2,AGY-002,European Space Agency,Europe,134.76,78.61,67.38,280.75,USD,synthetic
+EXP-2017-00619,2017-05-01,2017,5,Q2,AGY-003,Indian Space Research Organisation,India,67.2,39.2,33.6,140.0,USD,synthetic
+EXP-2017-00620,2017-05-01,2017,5,Q2,AGY-004,Japan Aerospace Exploration Agency,Japan,68.12,39.74,34.06,141.92,USD,synthetic
+EXP-2017-00621,2017-05-01,2017,5,Q2,AGY-005,China National Space Administration,China,130.98,76.41,65.49,272.88,USD,synthetic
+EXP-2017-00622,2017-05-01,2017,5,Q2,AGY-006,State Space Corporation Roscosmos,Russia,68.87,40.17,34.43,143.47,USD,synthetic
+EXP-2017-00623,2017-05-01,2017,5,Q2,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,61.91,36.12,30.96,128.99,USD,synthetic
+EXP-2017-00624,2017-06-01,2017,6,Q2,AGY-001,National Aeronautics and Space Administration,United States,266.48,155.45,133.24,555.17,USD,synthetic
+EXP-2017-00625,2017-06-01,2017,6,Q2,AGY-002,European Space Agency,Europe,138.3,80.67,69.15,288.12,USD,synthetic
+EXP-2017-00626,2017-06-01,2017,6,Q2,AGY-003,Indian Space Research Organisation,India,65.57,38.25,32.79,136.61,USD,synthetic
+EXP-2017-00627,2017-06-01,2017,6,Q2,AGY-004,Japan Aerospace Exploration Agency,Japan,65.86,38.42,32.93,137.21,USD,synthetic
+EXP-2017-00628,2017-06-01,2017,6,Q2,AGY-005,China National Space Administration,China,133.13,77.66,66.57,277.36,USD,synthetic
+EXP-2017-00629,2017-06-01,2017,6,Q2,AGY-006,State Space Corporation Roscosmos,Russia,68.05,39.7,34.03,141.78,USD,synthetic
+EXP-2017-00630,2017-06-01,2017,6,Q2,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,68.15,39.75,34.07,141.97,USD,synthetic
+EXP-2017-00631,2017-07-01,2017,7,Q3,AGY-001,National Aeronautics and Space Administration,United States,268.62,156.7,134.31,559.63,USD,synthetic
+EXP-2017-00632,2017-07-01,2017,7,Q3,AGY-002,European Space Agency,Europe,137.35,80.12,68.68,286.15,USD,synthetic
+EXP-2017-00633,2017-07-01,2017,7,Q3,AGY-003,Indian Space Research Organisation,India,62.61,36.52,31.31,130.44,USD,synthetic
+EXP-2017-00634,2017-07-01,2017,7,Q3,AGY-004,Japan Aerospace Exploration Agency,Japan,63.31,36.93,31.66,131.9,USD,synthetic
+EXP-2017-00635,2017-07-01,2017,7,Q3,AGY-005,China National Space Administration,China,131.92,76.95,65.96,274.83,USD,synthetic
+EXP-2017-00636,2017-07-01,2017,7,Q3,AGY-006,State Space Corporation Roscosmos,Russia,68.54,39.98,34.27,142.79,USD,synthetic
+EXP-2017-00637,2017-07-01,2017,7,Q3,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,62.04,36.19,31.02,129.25,USD,synthetic
+EXP-2017-00638,2017-08-01,2017,8,Q3,AGY-001,National Aeronautics and Space Administration,United States,277.04,161.61,138.52,577.17,USD,synthetic
+EXP-2017-00639,2017-08-01,2017,8,Q3,AGY-002,European Space Agency,Europe,125.45,73.18,62.73,261.36,USD,synthetic
+EXP-2017-00640,2017-08-01,2017,8,Q3,AGY-003,Indian Space Research Organisation,India,64.39,37.56,32.19,134.14,USD,synthetic
+EXP-2017-00641,2017-08-01,2017,8,Q3,AGY-004,Japan Aerospace Exploration Agency,Japan,67.42,39.33,33.71,140.46,USD,synthetic
+EXP-2017-00642,2017-08-01,2017,8,Q3,AGY-005,China National Space Administration,China,125.99,73.49,63.0,262.48,USD,synthetic
+EXP-2017-00643,2017-08-01,2017,8,Q3,AGY-006,State Space Corporation Roscosmos,Russia,63.45,37.02,31.73,132.2,USD,synthetic
+EXP-2017-00644,2017-08-01,2017,8,Q3,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,68.79,40.13,34.39,143.31,USD,synthetic
+EXP-2017-00645,2017-09-01,2017,9,Q3,AGY-001,National Aeronautics and Space Administration,United States,272.16,158.76,136.08,567.0,USD,synthetic
+EXP-2017-00646,2017-09-01,2017,9,Q3,AGY-002,European Space Agency,Europe,129.73,75.68,64.87,270.28,USD,synthetic
+EXP-2017-00647,2017-09-01,2017,9,Q3,AGY-003,Indian Space Research Organisation,India,61.99,36.16,31.0,129.15,USD,synthetic
+EXP-2017-00648,2017-09-01,2017,9,Q3,AGY-004,Japan Aerospace Exploration Agency,Japan,63.82,37.23,31.91,132.96,USD,synthetic
+EXP-2017-00649,2017-09-01,2017,9,Q3,AGY-005,China National Space Administration,China,123.63,72.12,61.82,257.57,USD,synthetic
+EXP-2017-00650,2017-09-01,2017,9,Q3,AGY-006,State Space Corporation Roscosmos,Russia,66.49,38.79,33.25,138.53,USD,synthetic
+EXP-2017-00651,2017-09-01,2017,9,Q3,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,67.97,39.65,33.99,141.61,USD,synthetic
+EXP-2017-00652,2017-10-01,2017,10,Q4,AGY-001,National Aeronautics and Space Administration,United States,247.36,144.29,123.68,515.33,USD,synthetic
+EXP-2017-00653,2017-10-01,2017,10,Q4,AGY-002,European Space Agency,Europe,137.82,80.4,68.91,287.13,USD,synthetic
+EXP-2017-00654,2017-10-01,2017,10,Q4,AGY-003,Indian Space Research Organisation,India,67.19,39.19,33.59,139.97,USD,synthetic
+EXP-2017-00655,2017-10-01,2017,10,Q4,AGY-004,Japan Aerospace Exploration Agency,Japan,66.71,38.92,33.36,138.99,USD,synthetic
+EXP-2017-00656,2017-10-01,2017,10,Q4,AGY-005,China National Space Administration,China,125.98,73.49,62.99,262.46,USD,synthetic
+EXP-2017-00657,2017-10-01,2017,10,Q4,AGY-006,State Space Corporation Roscosmos,Russia,62.0,36.16,31.0,129.16,USD,synthetic
+EXP-2017-00658,2017-10-01,2017,10,Q4,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,64.46,37.6,32.23,134.29,USD,synthetic
+EXP-2017-00659,2017-11-01,2017,11,Q4,AGY-001,National Aeronautics and Space Administration,United States,300.43,175.25,150.21,625.89,USD,synthetic
+EXP-2017-00660,2017-11-01,2017,11,Q4,AGY-002,European Space Agency,Europe,143.52,83.72,71.76,299.0,USD,synthetic
+EXP-2017-00661,2017-11-01,2017,11,Q4,AGY-003,Indian Space Research Organisation,India,73.97,43.15,36.99,154.11,USD,synthetic
+EXP-2017-00662,2017-11-01,2017,11,Q4,AGY-004,Japan Aerospace Exploration Agency,Japan,76.53,44.64,38.27,159.44,USD,synthetic
+EXP-2017-00663,2017-11-01,2017,11,Q4,AGY-005,China National Space Administration,China,149.45,87.18,74.73,311.36,USD,synthetic
+EXP-2017-00664,2017-11-01,2017,11,Q4,AGY-006,State Space Corporation Roscosmos,Russia,78.2,45.62,39.1,162.92,USD,synthetic
+EXP-2017-00665,2017-11-01,2017,11,Q4,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,79.51,46.38,39.75,165.64,USD,synthetic
+EXP-2017-00666,2017-12-01,2017,12,Q4,AGY-001,National Aeronautics and Space Administration,United States,314.19,183.28,157.1,654.57,USD,synthetic
+EXP-2017-00667,2017-12-01,2017,12,Q4,AGY-002,European Space Agency,Europe,149.96,87.48,74.98,312.42,USD,synthetic
+EXP-2017-00668,2017-12-01,2017,12,Q4,AGY-003,Indian Space Research Organisation,India,70.76,41.28,35.38,147.42,USD,synthetic
+EXP-2017-00669,2017-12-01,2017,12,Q4,AGY-004,Japan Aerospace Exploration Agency,Japan,78.69,45.9,39.34,163.93,USD,synthetic
+EXP-2017-00670,2017-12-01,2017,12,Q4,AGY-005,China National Space Administration,China,144.68,84.4,72.34,301.42,USD,synthetic
+EXP-2017-00671,2017-12-01,2017,12,Q4,AGY-006,State Space Corporation Roscosmos,Russia,70.75,41.27,35.37,147.39,USD,synthetic
+EXP-2017-00672,2017-12-01,2017,12,Q4,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,79.16,46.18,39.58,164.92,USD,synthetic
+EXP-2018-00673,2018-01-01,2018,1,Q1,AGY-001,National Aeronautics and Space Administration,United States,267.33,155.94,133.67,556.94,USD,synthetic
+EXP-2018-00674,2018-01-01,2018,1,Q1,AGY-002,European Space Agency,Europe,128.0,74.67,64.0,266.67,USD,synthetic
+EXP-2018-00675,2018-01-01,2018,1,Q1,AGY-003,Indian Space Research Organisation,India,66.41,38.74,33.2,138.35,USD,synthetic
+EXP-2018-00676,2018-01-01,2018,1,Q1,AGY-004,Japan Aerospace Exploration Agency,Japan,63.5,37.04,31.75,132.29,USD,synthetic
+EXP-2018-00677,2018-01-01,2018,1,Q1,AGY-005,China National Space Administration,China,128.71,75.08,64.35,268.14,USD,synthetic
+EXP-2018-00678,2018-01-01,2018,1,Q1,AGY-006,State Space Corporation Roscosmos,Russia,62.39,36.39,31.19,129.97,USD,synthetic
+EXP-2018-00679,2018-01-01,2018,1,Q1,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,67.64,39.46,33.82,140.92,USD,synthetic
+EXP-2018-00680,2018-02-01,2018,2,Q1,AGY-001,National Aeronautics and Space Administration,United States,256.36,149.55,128.18,534.09,USD,synthetic
+EXP-2018-00681,2018-02-01,2018,2,Q1,AGY-002,European Space Agency,Europe,125.35,73.12,62.67,261.14,USD,synthetic
+EXP-2018-00682,2018-02-01,2018,2,Q1,AGY-003,Indian Space Research Organisation,India,60.43,35.25,30.22,125.9,USD,synthetic
+EXP-2018-00683,2018-02-01,2018,2,Q1,AGY-004,Japan Aerospace Exploration Agency,Japan,66.82,38.98,33.41,139.21,USD,synthetic
+EXP-2018-00684,2018-02-01,2018,2,Q1,AGY-005,China National Space Administration,China,135.7,79.16,67.85,282.71,USD,synthetic
+EXP-2018-00685,2018-02-01,2018,2,Q1,AGY-006,State Space Corporation Roscosmos,Russia,61.42,35.83,30.71,127.96,USD,synthetic
+EXP-2018-00686,2018-02-01,2018,2,Q1,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,60.99,35.58,30.49,127.06,USD,synthetic
+EXP-2018-00687,2018-03-01,2018,3,Q1,AGY-001,National Aeronautics and Space Administration,United States,283.04,165.1,141.52,589.66,USD,synthetic
+EXP-2018-00688,2018-03-01,2018,3,Q1,AGY-002,European Space Agency,Europe,142.8,83.3,71.4,297.5,USD,synthetic
+EXP-2018-00689,2018-03-01,2018,3,Q1,AGY-003,Indian Space Research Organisation,India,65.47,38.19,32.74,136.4,USD,synthetic
+EXP-2018-00690,2018-03-01,2018,3,Q1,AGY-004,Japan Aerospace Exploration Agency,Japan,71.94,41.97,35.97,149.88,USD,synthetic
+EXP-2018-00691,2018-03-01,2018,3,Q1,AGY-005,China National Space Administration,China,137.08,79.96,68.54,285.58,USD,synthetic
+EXP-2018-00692,2018-03-01,2018,3,Q1,AGY-006,State Space Corporation Roscosmos,Russia,67.57,39.42,33.79,140.78,USD,synthetic
+EXP-2018-00693,2018-03-01,2018,3,Q1,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,64.76,37.77,32.38,134.91,USD,synthetic
+EXP-2018-00694,2018-04-01,2018,4,Q2,AGY-001,National Aeronautics and Space Administration,United States,269.26,157.07,134.63,560.96,USD,synthetic
+EXP-2018-00695,2018-04-01,2018,4,Q2,AGY-002,European Space Agency,Europe,136.09,79.39,68.05,283.53,USD,synthetic
+EXP-2018-00696,2018-04-01,2018,4,Q2,AGY-003,Indian Space Research Organisation,India,65.22,38.04,32.61,135.87,USD,synthetic
+EXP-2018-00697,2018-04-01,2018,4,Q2,AGY-004,Japan Aerospace Exploration Agency,Japan,65.83,38.4,32.91,137.14,USD,synthetic
+EXP-2018-00698,2018-04-01,2018,4,Q2,AGY-005,China National Space Administration,China,140.87,82.17,70.43,293.47,USD,synthetic
+EXP-2018-00699,2018-04-01,2018,4,Q2,AGY-006,State Space Corporation Roscosmos,Russia,70.43,41.09,35.22,146.74,USD,synthetic
+EXP-2018-00700,2018-04-01,2018,4,Q2,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,67.78,39.54,33.89,141.21,USD,synthetic
+EXP-2018-00701,2018-05-01,2018,5,Q2,AGY-001,National Aeronautics and Space Administration,United States,274.34,160.03,137.17,571.54,USD,synthetic
+EXP-2018-00702,2018-05-01,2018,5,Q2,AGY-002,European Space Agency,Europe,141.28,82.42,70.64,294.34,USD,synthetic
+EXP-2018-00703,2018-05-01,2018,5,Q2,AGY-003,Indian Space Research Organisation,India,70.09,40.88,35.04,146.01,USD,synthetic
+EXP-2018-00704,2018-05-01,2018,5,Q2,AGY-004,Japan Aerospace Exploration Agency,Japan,66.89,39.02,33.45,139.36,USD,synthetic
+EXP-2018-00705,2018-05-01,2018,5,Q2,AGY-005,China National Space Administration,China,140.11,81.73,70.06,291.9,USD,synthetic
+EXP-2018-00706,2018-05-01,2018,5,Q2,AGY-006,State Space Corporation Roscosmos,Russia,64.46,37.6,32.23,134.29,USD,synthetic
+EXP-2018-00707,2018-05-01,2018,5,Q2,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,71.43,41.67,35.72,148.82,USD,synthetic
+EXP-2018-00708,2018-06-01,2018,6,Q2,AGY-001,National Aeronautics and Space Administration,United States,276.48,161.28,138.24,576.0,USD,synthetic
+EXP-2018-00709,2018-06-01,2018,6,Q2,AGY-002,European Space Agency,Europe,139.81,81.56,69.9,291.27,USD,synthetic
+EXP-2018-00710,2018-06-01,2018,6,Q2,AGY-003,Indian Space Research Organisation,India,70.78,41.29,35.39,147.46,USD,synthetic
+EXP-2018-00711,2018-06-01,2018,6,Q2,AGY-004,Japan Aerospace Exploration Agency,Japan,70.26,40.98,35.13,146.37,USD,synthetic
+EXP-2018-00712,2018-06-01,2018,6,Q2,AGY-005,China National Space Administration,China,143.01,83.42,71.5,297.93,USD,synthetic
+EXP-2018-00713,2018-06-01,2018,6,Q2,AGY-006,State Space Corporation Roscosmos,Russia,70.47,41.11,35.24,146.82,USD,synthetic
+EXP-2018-00714,2018-06-01,2018,6,Q2,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,69.2,40.36,34.6,144.16,USD,synthetic
+EXP-2018-00715,2018-07-01,2018,7,Q3,AGY-001,National Aeronautics and Space Administration,United States,258.15,150.59,129.08,537.82,USD,synthetic
+EXP-2018-00716,2018-07-01,2018,7,Q3,AGY-002,European Space Agency,Europe,138.8,80.97,69.4,289.17,USD,synthetic
+EXP-2018-00717,2018-07-01,2018,7,Q3,AGY-003,Indian Space Research Organisation,India,71.58,41.75,35.79,149.12,USD,synthetic
+EXP-2018-00718,2018-07-01,2018,7,Q3,AGY-004,Japan Aerospace Exploration Agency,Japan,64.88,37.84,32.44,135.16,USD,synthetic
+EXP-2018-00719,2018-07-01,2018,7,Q3,AGY-005,China National Space Administration,China,144.54,84.31,72.27,301.12,USD,synthetic
+EXP-2018-00720,2018-07-01,2018,7,Q3,AGY-006,State Space Corporation Roscosmos,Russia,68.62,40.03,34.31,142.96,USD,synthetic
+EXP-2018-00721,2018-07-01,2018,7,Q3,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,70.47,41.11,35.23,146.81,USD,synthetic
+EXP-2018-00722,2018-08-01,2018,8,Q3,AGY-001,National Aeronautics and Space Administration,United States,258.45,150.76,129.22,538.43,USD,synthetic
+EXP-2018-00723,2018-08-01,2018,8,Q3,AGY-002,European Space Agency,Europe,138.14,80.58,69.07,287.79,USD,synthetic
+EXP-2018-00724,2018-08-01,2018,8,Q3,AGY-003,Indian Space Research Organisation,India,65.61,38.27,32.81,136.69,USD,synthetic
+EXP-2018-00725,2018-08-01,2018,8,Q3,AGY-004,Japan Aerospace Exploration Agency,Japan,67.55,39.41,33.78,140.74,USD,synthetic
+EXP-2018-00726,2018-08-01,2018,8,Q3,AGY-005,China National Space Administration,China,138.89,81.02,69.44,289.35,USD,synthetic
+EXP-2018-00727,2018-08-01,2018,8,Q3,AGY-006,State Space Corporation Roscosmos,Russia,67.39,39.31,33.69,140.39,USD,synthetic
+EXP-2018-00728,2018-08-01,2018,8,Q3,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,71.37,41.63,35.68,148.68,USD,synthetic
+EXP-2018-00729,2018-09-01,2018,9,Q3,AGY-001,National Aeronautics and Space Administration,United States,285.6,166.6,142.8,595.0,USD,synthetic
+EXP-2018-00730,2018-09-01,2018,9,Q3,AGY-002,European Space Agency,Europe,130.15,75.92,65.08,271.15,USD,synthetic
+EXP-2018-00731,2018-09-01,2018,9,Q3,AGY-003,Indian Space Research Organisation,India,72.27,42.16,36.13,150.56,USD,synthetic
+EXP-2018-00732,2018-09-01,2018,9,Q3,AGY-004,Japan Aerospace Exploration Agency,Japan,68.41,39.91,34.2,142.52,USD,synthetic
+EXP-2018-00733,2018-09-01,2018,9,Q3,AGY-005,China National Space Administration,China,139.53,81.39,69.76,290.68,USD,synthetic
+EXP-2018-00734,2018-09-01,2018,9,Q3,AGY-006,State Space Corporation Roscosmos,Russia,69.56,40.58,34.78,144.92,USD,synthetic
+EXP-2018-00735,2018-09-01,2018,9,Q3,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,64.25,37.48,32.12,133.85,USD,synthetic
+EXP-2018-00736,2018-10-01,2018,10,Q4,AGY-001,National Aeronautics and Space Administration,United States,263.24,153.56,131.62,548.42,USD,synthetic
+EXP-2018-00737,2018-10-01,2018,10,Q4,AGY-002,European Space Agency,Europe,137.63,80.29,68.82,286.74,USD,synthetic
+EXP-2018-00738,2018-10-01,2018,10,Q4,AGY-003,Indian Space Research Organisation,India,69.01,40.26,34.51,143.78,USD,synthetic
+EXP-2018-00739,2018-10-01,2018,10,Q4,AGY-004,Japan Aerospace Exploration Agency,Japan,68.69,40.07,34.35,143.11,USD,synthetic
+EXP-2018-00740,2018-10-01,2018,10,Q4,AGY-005,China National Space Administration,China,138.89,81.02,69.44,289.35,USD,synthetic
+EXP-2018-00741,2018-10-01,2018,10,Q4,AGY-006,State Space Corporation Roscosmos,Russia,64.24,37.47,32.12,133.83,USD,synthetic
+EXP-2018-00742,2018-10-01,2018,10,Q4,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,69.72,40.67,34.86,145.25,USD,synthetic
+EXP-2018-00743,2018-11-01,2018,11,Q4,AGY-001,National Aeronautics and Space Administration,United States,304.08,177.38,152.04,633.5,USD,synthetic
+EXP-2018-00744,2018-11-01,2018,11,Q4,AGY-002,European Space Agency,Europe,166.12,96.9,83.06,346.08,USD,synthetic
+EXP-2018-00745,2018-11-01,2018,11,Q4,AGY-003,Indian Space Research Organisation,India,76.68,44.73,38.34,159.75,USD,synthetic
+EXP-2018-00746,2018-11-01,2018,11,Q4,AGY-004,Japan Aerospace Exploration Agency,Japan,75.47,44.02,37.73,157.22,USD,synthetic
+EXP-2018-00747,2018-11-01,2018,11,Q4,AGY-005,China National Space Administration,China,148.67,86.72,74.33,309.72,USD,synthetic
+EXP-2018-00748,2018-11-01,2018,11,Q4,AGY-006,State Space Corporation Roscosmos,Russia,83.14,48.5,41.57,173.21,USD,synthetic
+EXP-2018-00749,2018-11-01,2018,11,Q4,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,83.03,48.43,41.51,172.97,USD,synthetic
+EXP-2018-00750,2018-12-01,2018,12,Q4,AGY-001,National Aeronautics and Space Administration,United States,313.69,182.98,156.84,653.51,USD,synthetic
+EXP-2018-00751,2018-12-01,2018,12,Q4,AGY-002,European Space Agency,Europe,147.5,86.04,73.75,307.29,USD,synthetic
+EXP-2018-00752,2018-12-01,2018,12,Q4,AGY-003,Indian Space Research Organisation,India,75.87,44.26,37.94,158.07,USD,synthetic
+EXP-2018-00753,2018-12-01,2018,12,Q4,AGY-004,Japan Aerospace Exploration Agency,Japan,82.5,48.12,41.25,171.87,USD,synthetic
+EXP-2018-00754,2018-12-01,2018,12,Q4,AGY-005,China National Space Administration,China,148.9,86.86,74.45,310.21,USD,synthetic
+EXP-2018-00755,2018-12-01,2018,12,Q4,AGY-006,State Space Corporation Roscosmos,Russia,83.03,48.43,41.51,172.97,USD,synthetic
+EXP-2018-00756,2018-12-01,2018,12,Q4,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,79.57,46.41,39.78,165.76,USD,synthetic
+EXP-2019-00757,2019-01-01,2019,1,Q1,AGY-001,National Aeronautics and Space Administration,United States,268.78,156.79,134.39,559.96,USD,synthetic
+EXP-2019-00758,2019-01-01,2019,1,Q1,AGY-002,European Space Agency,Europe,133.4,77.82,66.7,277.92,USD,synthetic
+EXP-2019-00759,2019-01-01,2019,1,Q1,AGY-003,Indian Space Research Organisation,India,67.93,39.62,33.96,141.51,USD,synthetic
+EXP-2019-00760,2019-01-01,2019,1,Q1,AGY-004,Japan Aerospace Exploration Agency,Japan,67.69,39.49,33.85,141.03,USD,synthetic
+EXP-2019-00761,2019-01-01,2019,1,Q1,AGY-005,China National Space Administration,China,129.52,75.55,64.76,269.83,USD,synthetic
+EXP-2019-00762,2019-01-01,2019,1,Q1,AGY-006,State Space Corporation Roscosmos,Russia,63.66,37.13,31.83,132.62,USD,synthetic
+EXP-2019-00763,2019-01-01,2019,1,Q1,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,63.1,36.81,31.55,131.46,USD,synthetic
+EXP-2019-00764,2019-02-01,2019,2,Q1,AGY-001,National Aeronautics and Space Administration,United States,279.35,162.95,139.68,581.98,USD,synthetic
+EXP-2019-00765,2019-02-01,2019,2,Q1,AGY-002,European Space Agency,Europe,131.69,76.82,65.85,274.36,USD,synthetic
+EXP-2019-00766,2019-02-01,2019,2,Q1,AGY-003,Indian Space Research Organisation,India,69.97,40.82,34.98,145.77,USD,synthetic
+EXP-2019-00767,2019-02-01,2019,2,Q1,AGY-004,Japan Aerospace Exploration Agency,Japan,67.84,39.57,33.92,141.33,USD,synthetic
+EXP-2019-00768,2019-02-01,2019,2,Q1,AGY-005,China National Space Administration,China,134.26,78.32,67.13,279.71,USD,synthetic
+EXP-2019-00769,2019-02-01,2019,2,Q1,AGY-006,State Space Corporation Roscosmos,Russia,68.7,40.08,34.35,143.13,USD,synthetic
+EXP-2019-00770,2019-02-01,2019,2,Q1,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,66.79,38.96,33.4,139.15,USD,synthetic
+EXP-2019-00771,2019-03-01,2019,3,Q1,AGY-001,National Aeronautics and Space Administration,United States,274.13,159.91,137.07,571.11,USD,synthetic
+EXP-2019-00772,2019-03-01,2019,3,Q1,AGY-002,European Space Agency,Europe,146.09,85.22,73.05,304.36,USD,synthetic
+EXP-2019-00773,2019-03-01,2019,3,Q1,AGY-003,Indian Space Research Organisation,India,72.75,42.44,36.38,151.57,USD,synthetic
+EXP-2019-00774,2019-03-01,2019,3,Q1,AGY-004,Japan Aerospace Exploration Agency,Japan,71.86,41.92,35.93,149.71,USD,synthetic
+EXP-2019-00775,2019-03-01,2019,3,Q1,AGY-005,China National Space Administration,China,137.75,80.35,68.87,286.97,USD,synthetic
+EXP-2019-00776,2019-03-01,2019,3,Q1,AGY-006,State Space Corporation Roscosmos,Russia,73.34,42.78,36.67,152.79,USD,synthetic
+EXP-2019-00777,2019-03-01,2019,3,Q1,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,72.45,42.26,36.22,150.93,USD,synthetic
+EXP-2019-00778,2019-04-01,2019,4,Q2,AGY-001,National Aeronautics and Space Administration,United States,286.3,167.01,143.15,596.46,USD,synthetic
+EXP-2019-00779,2019-04-01,2019,4,Q2,AGY-002,European Space Agency,Europe,146.43,85.42,73.22,305.07,USD,synthetic
+EXP-2019-00780,2019-04-01,2019,4,Q2,AGY-003,Indian Space Research Organisation,India,69.68,40.65,34.84,145.17,USD,synthetic
+EXP-2019-00781,2019-04-01,2019,4,Q2,AGY-004,Japan Aerospace Exploration Agency,Japan,71.82,41.9,35.91,149.63,USD,synthetic
+EXP-2019-00782,2019-04-01,2019,4,Q2,AGY-005,China National Space Administration,China,138.25,80.65,69.12,288.02,USD,synthetic
+EXP-2019-00783,2019-04-01,2019,4,Q2,AGY-006,State Space Corporation Roscosmos,Russia,73.76,43.03,36.88,153.67,USD,synthetic
+EXP-2019-00784,2019-04-01,2019,4,Q2,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,70.52,41.14,35.26,146.92,USD,synthetic
+EXP-2019-00785,2019-05-01,2019,5,Q2,AGY-001,National Aeronautics and Space Administration,United States,285.48,166.53,142.74,594.75,USD,synthetic
+EXP-2019-00786,2019-05-01,2019,5,Q2,AGY-002,European Space Agency,Europe,142.7,83.24,71.35,297.29,USD,synthetic
+EXP-2019-00787,2019-05-01,2019,5,Q2,AGY-003,Indian Space Research Organisation,India,72.48,42.28,36.24,151.0,USD,synthetic
+EXP-2019-00788,2019-05-01,2019,5,Q2,AGY-004,Japan Aerospace Exploration Agency,Japan,72.72,42.42,36.36,151.5,USD,synthetic
+EXP-2019-00789,2019-05-01,2019,5,Q2,AGY-005,China National Space Administration,China,142.67,83.22,71.33,297.22,USD,synthetic
+EXP-2019-00790,2019-05-01,2019,5,Q2,AGY-006,State Space Corporation Roscosmos,Russia,68.91,40.2,34.45,143.56,USD,synthetic
+EXP-2019-00791,2019-05-01,2019,5,Q2,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,67.8,39.55,33.9,141.25,USD,synthetic
+EXP-2019-00792,2019-06-01,2019,6,Q2,AGY-001,National Aeronautics and Space Administration,United States,286.39,167.06,143.2,596.65,USD,synthetic
+EXP-2019-00793,2019-06-01,2019,6,Q2,AGY-002,European Space Agency,Europe,143.54,83.73,71.77,299.04,USD,synthetic
+EXP-2019-00794,2019-06-01,2019,6,Q2,AGY-003,Indian Space Research Organisation,India,67.45,39.35,33.73,140.53,USD,synthetic
+EXP-2019-00795,2019-06-01,2019,6,Q2,AGY-004,Japan Aerospace Exploration Agency,Japan,74.07,43.21,37.04,154.32,USD,synthetic
+EXP-2019-00796,2019-06-01,2019,6,Q2,AGY-005,China National Space Administration,China,142.25,82.98,71.12,296.35,USD,synthetic
+EXP-2019-00797,2019-06-01,2019,6,Q2,AGY-006,State Space Corporation Roscosmos,Russia,70.43,41.08,35.21,146.72,USD,synthetic
+EXP-2019-00798,2019-06-01,2019,6,Q2,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,68.58,40.0,34.29,142.87,USD,synthetic
+EXP-2019-00799,2019-07-01,2019,7,Q3,AGY-001,National Aeronautics and Space Administration,United States,273.57,159.58,136.79,569.94,USD,synthetic
+EXP-2019-00800,2019-07-01,2019,7,Q3,AGY-002,European Space Agency,Europe,143.78,83.87,71.89,299.54,USD,synthetic
+EXP-2019-00801,2019-07-01,2019,7,Q3,AGY-003,Indian Space Research Organisation,India,71.63,41.78,35.82,149.23,USD,synthetic
+EXP-2019-00802,2019-07-01,2019,7,Q3,AGY-004,Japan Aerospace Exploration Agency,Japan,69.0,40.25,34.5,143.75,USD,synthetic
+EXP-2019-00803,2019-07-01,2019,7,Q3,AGY-005,China National Space Administration,China,133.65,77.96,66.83,278.44,USD,synthetic
+EXP-2019-00804,2019-07-01,2019,7,Q3,AGY-006,State Space Corporation Roscosmos,Russia,74.23,43.3,37.11,154.64,USD,synthetic
+EXP-2019-00805,2019-07-01,2019,7,Q3,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,67.71,39.5,33.85,141.06,USD,synthetic
+EXP-2019-00806,2019-08-01,2019,8,Q3,AGY-001,National Aeronautics and Space Administration,United States,274.92,160.37,137.46,572.75,USD,synthetic
+EXP-2019-00807,2019-08-01,2019,8,Q3,AGY-002,European Space Agency,Europe,135.22,78.88,67.61,281.71,USD,synthetic
+EXP-2019-00808,2019-08-01,2019,8,Q3,AGY-003,Indian Space Research Organisation,India,70.4,41.07,35.2,146.67,USD,synthetic
+EXP-2019-00809,2019-08-01,2019,8,Q3,AGY-004,Japan Aerospace Exploration Agency,Japan,67.1,39.14,33.55,139.79,USD,synthetic
+EXP-2019-00810,2019-08-01,2019,8,Q3,AGY-005,China National Space Administration,China,137.32,80.1,68.66,286.08,USD,synthetic
+EXP-2019-00811,2019-08-01,2019,8,Q3,AGY-006,State Space Corporation Roscosmos,Russia,75.0,43.75,37.5,156.25,USD,synthetic
+EXP-2019-00812,2019-08-01,2019,8,Q3,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,70.63,41.2,35.31,147.14,USD,synthetic
+EXP-2019-00813,2019-09-01,2019,9,Q3,AGY-001,National Aeronautics and Space Administration,United States,286.85,167.33,143.42,597.6,USD,synthetic
+EXP-2019-00814,2019-09-01,2019,9,Q3,AGY-002,European Space Agency,Europe,145.26,84.74,72.63,302.63,USD,synthetic
+EXP-2019-00815,2019-09-01,2019,9,Q3,AGY-003,Indian Space Research Organisation,India,73.34,42.78,36.67,152.79,USD,synthetic
+EXP-2019-00816,2019-09-01,2019,9,Q3,AGY-004,Japan Aerospace Exploration Agency,Japan,75.12,43.82,37.56,156.5,USD,synthetic
+EXP-2019-00817,2019-09-01,2019,9,Q3,AGY-005,China National Space Administration,China,145.03,84.6,72.52,302.15,USD,synthetic
+EXP-2019-00818,2019-09-01,2019,9,Q3,AGY-006,State Space Corporation Roscosmos,Russia,71.05,41.45,35.53,148.03,USD,synthetic
+EXP-2019-00819,2019-09-01,2019,9,Q3,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,67.57,39.41,33.78,140.76,USD,synthetic
+EXP-2019-00820,2019-10-01,2019,10,Q4,AGY-001,National Aeronautics and Space Administration,United States,298.45,174.1,149.22,621.77,USD,synthetic
+EXP-2019-00821,2019-10-01,2019,10,Q4,AGY-002,European Space Agency,Europe,139.33,81.28,69.66,290.27,USD,synthetic
+EXP-2019-00822,2019-10-01,2019,10,Q4,AGY-003,Indian Space Research Organisation,India,72.78,42.45,36.39,151.62,USD,synthetic
+EXP-2019-00823,2019-10-01,2019,10,Q4,AGY-004,Japan Aerospace Exploration Agency,Japan,73.69,42.99,36.85,153.53,USD,synthetic
+EXP-2019-00824,2019-10-01,2019,10,Q4,AGY-005,China National Space Administration,China,136.96,79.89,68.48,285.33,USD,synthetic
+EXP-2019-00825,2019-10-01,2019,10,Q4,AGY-006,State Space Corporation Roscosmos,Russia,67.64,39.46,33.82,140.92,USD,synthetic
+EXP-2019-00826,2019-10-01,2019,10,Q4,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,68.53,39.97,34.26,142.76,USD,synthetic
+EXP-2019-00827,2019-11-01,2019,11,Q4,AGY-001,National Aeronautics and Space Administration,United States,310.2,180.95,155.1,646.25,USD,synthetic
+EXP-2019-00828,2019-11-01,2019,11,Q4,AGY-002,European Space Agency,Europe,163.13,95.16,81.56,339.85,USD,synthetic
+EXP-2019-00829,2019-11-01,2019,11,Q4,AGY-003,Indian Space Research Organisation,India,86.51,50.46,43.26,180.23,USD,synthetic
+EXP-2019-00830,2019-11-01,2019,11,Q4,AGY-004,Japan Aerospace Exploration Agency,Japan,85.11,49.65,42.56,177.32,USD,synthetic
+EXP-2019-00831,2019-11-01,2019,11,Q4,AGY-005,China National Space Administration,China,170.62,99.53,85.31,355.46,USD,synthetic
+EXP-2019-00832,2019-11-01,2019,11,Q4,AGY-006,State Space Corporation Roscosmos,Russia,84.84,49.49,42.42,176.75,USD,synthetic
+EXP-2019-00833,2019-11-01,2019,11,Q4,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,79.31,46.27,39.66,165.24,USD,synthetic
+EXP-2019-00834,2019-12-01,2019,12,Q4,AGY-001,National Aeronautics and Space Administration,United States,340.59,198.68,170.29,709.56,USD,synthetic
+EXP-2019-00835,2019-12-01,2019,12,Q4,AGY-002,European Space Agency,Europe,169.87,99.09,84.93,353.89,USD,synthetic
+EXP-2019-00836,2019-12-01,2019,12,Q4,AGY-003,Indian Space Research Organisation,India,83.66,48.8,41.83,174.29,USD,synthetic
+EXP-2019-00837,2019-12-01,2019,12,Q4,AGY-004,Japan Aerospace Exploration Agency,Japan,78.01,45.51,39.0,162.52,USD,synthetic
+EXP-2019-00838,2019-12-01,2019,12,Q4,AGY-005,China National Space Administration,China,161.67,94.31,80.83,336.81,USD,synthetic
+EXP-2019-00839,2019-12-01,2019,12,Q4,AGY-006,State Space Corporation Roscosmos,Russia,85.08,49.63,42.54,177.25,USD,synthetic
+EXP-2019-00840,2019-12-01,2019,12,Q4,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,82.38,48.06,41.19,171.63,USD,synthetic
+EXP-2020-00841,2020-01-01,2020,1,Q1,AGY-001,National Aeronautics and Space Administration,United States,262.38,153.06,131.19,546.63,USD,synthetic
+EXP-2020-00842,2020-01-01,2020,1,Q1,AGY-002,European Space Agency,Europe,146.91,85.7,73.45,306.06,USD,synthetic
+EXP-2020-00843,2020-01-01,2020,1,Q1,AGY-003,Indian Space Research Organisation,India,72.78,42.46,36.39,151.63,USD,synthetic
+EXP-2020-00844,2020-01-01,2020,1,Q1,AGY-004,Japan Aerospace Exploration Agency,Japan,71.63,41.78,35.81,149.22,USD,synthetic
+EXP-2020-00845,2020-01-01,2020,1,Q1,AGY-005,China National Space Administration,China,142.18,82.94,71.09,296.21,USD,synthetic
+EXP-2020-00846,2020-01-01,2020,1,Q1,AGY-006,State Space Corporation Roscosmos,Russia,66.64,38.88,33.32,138.84,USD,synthetic
+EXP-2020-00847,2020-01-01,2020,1,Q1,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,66.72,38.92,33.36,139.0,USD,synthetic
+EXP-2020-00848,2020-02-01,2020,2,Q1,AGY-001,National Aeronautics and Space Administration,United States,266.67,155.56,133.34,555.57,USD,synthetic
+EXP-2020-00849,2020-02-01,2020,2,Q1,AGY-002,European Space Agency,Europe,136.56,79.66,68.28,284.5,USD,synthetic
+EXP-2020-00850,2020-02-01,2020,2,Q1,AGY-003,Indian Space Research Organisation,India,72.18,42.11,36.09,150.38,USD,synthetic
+EXP-2020-00851,2020-02-01,2020,2,Q1,AGY-004,Japan Aerospace Exploration Agency,Japan,72.46,42.27,36.23,150.96,USD,synthetic
+EXP-2020-00852,2020-02-01,2020,2,Q1,AGY-005,China National Space Administration,China,143.2,83.53,71.6,298.33,USD,synthetic
+EXP-2020-00853,2020-02-01,2020,2,Q1,AGY-006,State Space Corporation Roscosmos,Russia,71.87,41.92,35.93,149.72,USD,synthetic
+EXP-2020-00854,2020-02-01,2020,2,Q1,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,66.43,38.75,33.22,138.4,USD,synthetic
+EXP-2020-00855,2020-03-01,2020,3,Q1,AGY-001,National Aeronautics and Space Administration,United States,306.81,178.97,153.4,639.18,USD,synthetic
+EXP-2020-00856,2020-03-01,2020,3,Q1,AGY-002,European Space Agency,Europe,153.84,89.74,76.92,320.5,USD,synthetic
+EXP-2020-00857,2020-03-01,2020,3,Q1,AGY-003,Indian Space Research Organisation,India,73.92,43.12,36.96,154.0,USD,synthetic
+EXP-2020-00858,2020-03-01,2020,3,Q1,AGY-004,Japan Aerospace Exploration Agency,Japan,75.13,43.82,37.56,156.51,USD,synthetic
+EXP-2020-00859,2020-03-01,2020,3,Q1,AGY-005,China National Space Administration,China,154.23,89.97,77.11,321.31,USD,synthetic
+EXP-2020-00860,2020-03-01,2020,3,Q1,AGY-006,State Space Corporation Roscosmos,Russia,71.25,41.56,35.62,148.43,USD,synthetic
+EXP-2020-00861,2020-03-01,2020,3,Q1,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,78.28,45.66,39.14,163.08,USD,synthetic
+EXP-2020-00862,2020-04-01,2020,4,Q2,AGY-001,National Aeronautics and Space Administration,United States,284.32,165.85,142.16,592.33,USD,synthetic
+EXP-2020-00863,2020-04-01,2020,4,Q2,AGY-002,European Space Agency,Europe,141.5,82.54,70.75,294.79,USD,synthetic
+EXP-2020-00864,2020-04-01,2020,4,Q2,AGY-003,Indian Space Research Organisation,India,73.64,42.96,36.82,153.42,USD,synthetic
+EXP-2020-00865,2020-04-01,2020,4,Q2,AGY-004,Japan Aerospace Exploration Agency,Japan,69.82,40.73,34.91,145.46,USD,synthetic
+EXP-2020-00866,2020-04-01,2020,4,Q2,AGY-005,China National Space Administration,China,140.51,81.96,70.25,292.72,USD,synthetic
+EXP-2020-00867,2020-04-01,2020,4,Q2,AGY-006,State Space Corporation Roscosmos,Russia,76.82,44.81,38.41,160.04,USD,synthetic
+EXP-2020-00868,2020-04-01,2020,4,Q2,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,72.32,42.19,36.16,150.67,USD,synthetic
+EXP-2020-00869,2020-05-01,2020,5,Q2,AGY-001,National Aeronautics and Space Administration,United States,299.67,174.81,149.83,624.31,USD,synthetic
+EXP-2020-00870,2020-05-01,2020,5,Q2,AGY-002,European Space Agency,Europe,154.34,90.03,77.17,321.54,USD,synthetic
+EXP-2020-00871,2020-05-01,2020,5,Q2,AGY-003,Indian Space Research Organisation,India,75.48,44.03,37.74,157.25,USD,synthetic
+EXP-2020-00872,2020-05-01,2020,5,Q2,AGY-004,Japan Aerospace Exploration Agency,Japan,71.21,41.54,35.6,148.35,USD,synthetic
+EXP-2020-00873,2020-05-01,2020,5,Q2,AGY-005,China National Space Administration,China,147.59,86.09,73.79,307.47,USD,synthetic
+EXP-2020-00874,2020-05-01,2020,5,Q2,AGY-006,State Space Corporation Roscosmos,Russia,75.18,43.86,37.59,156.63,USD,synthetic
+EXP-2020-00875,2020-05-01,2020,5,Q2,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,71.46,41.68,35.73,148.87,USD,synthetic
+EXP-2020-00876,2020-06-01,2020,6,Q2,AGY-001,National Aeronautics and Space Administration,United States,303.82,177.23,151.91,632.96,USD,synthetic
+EXP-2020-00877,2020-06-01,2020,6,Q2,AGY-002,European Space Agency,Europe,148.76,86.78,74.38,309.92,USD,synthetic
+EXP-2020-00878,2020-06-01,2020,6,Q2,AGY-003,Indian Space Research Organisation,India,77.03,44.94,38.52,160.49,USD,synthetic
+EXP-2020-00879,2020-06-01,2020,6,Q2,AGY-004,Japan Aerospace Exploration Agency,Japan,73.33,42.77,36.66,152.76,USD,synthetic
+EXP-2020-00880,2020-06-01,2020,6,Q2,AGY-005,China National Space Administration,China,150.67,87.89,75.34,313.9,USD,synthetic
+EXP-2020-00881,2020-06-01,2020,6,Q2,AGY-006,State Space Corporation Roscosmos,Russia,76.55,44.65,38.28,159.48,USD,synthetic
+EXP-2020-00882,2020-06-01,2020,6,Q2,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,76.65,44.71,38.32,159.68,USD,synthetic
+EXP-2020-00883,2020-07-01,2020,7,Q3,AGY-001,National Aeronautics and Space Administration,United States,312.17,182.1,156.08,650.35,USD,synthetic
+EXP-2020-00884,2020-07-01,2020,7,Q3,AGY-002,European Space Agency,Europe,151.28,88.25,75.64,315.17,USD,synthetic
+EXP-2020-00885,2020-07-01,2020,7,Q3,AGY-003,Indian Space Research Organisation,India,69.66,40.63,34.83,145.12,USD,synthetic
+EXP-2020-00886,2020-07-01,2020,7,Q3,AGY-004,Japan Aerospace Exploration Agency,Japan,73.9,43.11,36.95,153.96,USD,synthetic
+EXP-2020-00887,2020-07-01,2020,7,Q3,AGY-005,China National Space Administration,China,149.88,87.43,74.94,312.25,USD,synthetic
+EXP-2020-00888,2020-07-01,2020,7,Q3,AGY-006,State Space Corporation Roscosmos,Russia,71.83,41.9,35.92,149.65,USD,synthetic
+EXP-2020-00889,2020-07-01,2020,7,Q3,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,70.89,41.35,35.44,147.68,USD,synthetic
+EXP-2020-00890,2020-08-01,2020,8,Q3,AGY-001,National Aeronautics and Space Administration,United States,309.93,180.79,154.97,645.69,USD,synthetic
+EXP-2020-00891,2020-08-01,2020,8,Q3,AGY-002,European Space Agency,Europe,154.86,90.34,77.43,322.63,USD,synthetic
+EXP-2020-00892,2020-08-01,2020,8,Q3,AGY-003,Indian Space Research Organisation,India,72.81,42.48,36.41,151.7,USD,synthetic
+EXP-2020-00893,2020-08-01,2020,8,Q3,AGY-004,Japan Aerospace Exploration Agency,Japan,70.8,41.3,35.4,147.5,USD,synthetic
+EXP-2020-00894,2020-08-01,2020,8,Q3,AGY-005,China National Space Administration,China,149.62,87.28,74.81,311.71,USD,synthetic
+EXP-2020-00895,2020-08-01,2020,8,Q3,AGY-006,State Space Corporation Roscosmos,Russia,74.53,43.48,37.27,155.28,USD,synthetic
+EXP-2020-00896,2020-08-01,2020,8,Q3,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,71.42,41.66,35.71,148.79,USD,synthetic
+EXP-2020-00897,2020-09-01,2020,9,Q3,AGY-001,National Aeronautics and Space Administration,United States,291.46,170.02,145.73,607.21,USD,synthetic
+EXP-2020-00898,2020-09-01,2020,9,Q3,AGY-002,European Space Agency,Europe,148.87,86.84,74.44,310.15,USD,synthetic
+EXP-2020-00899,2020-09-01,2020,9,Q3,AGY-003,Indian Space Research Organisation,India,75.04,43.78,37.52,156.34,USD,synthetic
+EXP-2020-00900,2020-09-01,2020,9,Q3,AGY-004,Japan Aerospace Exploration Agency,Japan,74.87,43.67,37.43,155.97,USD,synthetic
+EXP-2020-00901,2020-09-01,2020,9,Q3,AGY-005,China National Space Administration,China,143.64,83.79,71.82,299.25,USD,synthetic
+EXP-2020-00902,2020-09-01,2020,9,Q3,AGY-006,State Space Corporation Roscosmos,Russia,71.07,41.46,35.53,148.06,USD,synthetic
+EXP-2020-00903,2020-09-01,2020,9,Q3,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,69.49,40.53,34.74,144.76,USD,synthetic
+EXP-2020-00904,2020-10-01,2020,10,Q4,AGY-001,National Aeronautics and Space Administration,United States,291.74,170.18,145.87,607.79,USD,synthetic
+EXP-2020-00905,2020-10-01,2020,10,Q4,AGY-002,European Space Agency,Europe,149.52,87.22,74.76,311.5,USD,synthetic
+EXP-2020-00906,2020-10-01,2020,10,Q4,AGY-003,Indian Space Research Organisation,India,73.13,42.66,36.56,152.35,USD,synthetic
+EXP-2020-00907,2020-10-01,2020,10,Q4,AGY-004,Japan Aerospace Exploration Agency,Japan,73.46,42.85,36.73,153.04,USD,synthetic
+EXP-2020-00908,2020-10-01,2020,10,Q4,AGY-005,China National Space Administration,China,142.43,83.08,71.21,296.72,USD,synthetic
+EXP-2020-00909,2020-10-01,2020,10,Q4,AGY-006,State Space Corporation Roscosmos,Russia,72.9,42.53,36.45,151.88,USD,synthetic
+EXP-2020-00910,2020-10-01,2020,10,Q4,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,77.11,44.98,38.55,160.64,USD,synthetic
+EXP-2020-00911,2020-11-01,2020,11,Q4,AGY-001,National Aeronautics and Space Administration,United States,345.46,201.52,172.73,719.71,USD,synthetic
+EXP-2020-00912,2020-11-01,2020,11,Q4,AGY-002,European Space Agency,Europe,179.37,104.63,89.68,373.68,USD,synthetic
+EXP-2020-00913,2020-11-01,2020,11,Q4,AGY-003,Indian Space Research Organisation,India,85.34,49.78,42.67,177.79,USD,synthetic
+EXP-2020-00914,2020-11-01,2020,11,Q4,AGY-004,Japan Aerospace Exploration Agency,Japan,89.25,52.06,44.62,185.93,USD,synthetic
+EXP-2020-00915,2020-11-01,2020,11,Q4,AGY-005,China National Space Administration,China,178.12,103.91,89.06,371.09,USD,synthetic
+EXP-2020-00916,2020-11-01,2020,11,Q4,AGY-006,State Space Corporation Roscosmos,Russia,83.88,48.93,41.94,174.75,USD,synthetic
+EXP-2020-00917,2020-11-01,2020,11,Q4,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,84.11,49.06,42.05,175.22,USD,synthetic
+EXP-2020-00918,2020-12-01,2020,12,Q4,AGY-001,National Aeronautics and Space Administration,United States,352.72,205.76,176.36,734.84,USD,synthetic
+EXP-2020-00919,2020-12-01,2020,12,Q4,AGY-002,European Space Agency,Europe,164.43,95.92,82.21,342.56,USD,synthetic
+EXP-2020-00920,2020-12-01,2020,12,Q4,AGY-003,Indian Space Research Organisation,India,87.38,50.97,43.69,182.04,USD,synthetic
+EXP-2020-00921,2020-12-01,2020,12,Q4,AGY-004,Japan Aerospace Exploration Agency,Japan,81.23,47.39,40.62,169.24,USD,synthetic
+EXP-2020-00922,2020-12-01,2020,12,Q4,AGY-005,China National Space Administration,China,168.24,98.14,84.12,350.5,USD,synthetic
+EXP-2020-00923,2020-12-01,2020,12,Q4,AGY-006,State Space Corporation Roscosmos,Russia,85.18,49.69,42.59,177.46,USD,synthetic
+EXP-2020-00924,2020-12-01,2020,12,Q4,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,81.1,47.31,40.55,168.96,USD,synthetic
+EXP-2021-00925,2021-01-01,2021,1,Q1,AGY-001,National Aeronautics and Space Administration,United States,294.52,171.8,147.26,613.58,USD,synthetic
+EXP-2021-00926,2021-01-01,2021,1,Q1,AGY-002,European Space Agency,Europe,138.94,81.05,69.47,289.46,USD,synthetic
+EXP-2021-00927,2021-01-01,2021,1,Q1,AGY-003,Indian Space Research Organisation,India,71.9,41.94,35.95,149.79,USD,synthetic
+EXP-2021-00928,2021-01-01,2021,1,Q1,AGY-004,Japan Aerospace Exploration Agency,Japan,72.44,42.25,36.22,150.91,USD,synthetic
+EXP-2021-00929,2021-01-01,2021,1,Q1,AGY-005,China National Space Administration,China,146.29,85.33,73.14,304.76,USD,synthetic
+EXP-2021-00930,2021-01-01,2021,1,Q1,AGY-006,State Space Corporation Roscosmos,Russia,70.68,41.23,35.34,147.25,USD,synthetic
+EXP-2021-00931,2021-01-01,2021,1,Q1,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,71.06,41.45,35.53,148.04,USD,synthetic
+EXP-2021-00932,2021-02-01,2021,2,Q1,AGY-001,National Aeronautics and Space Administration,United States,292.34,170.53,146.17,609.04,USD,synthetic
+EXP-2021-00933,2021-02-01,2021,2,Q1,AGY-002,European Space Agency,Europe,152.65,89.04,76.32,318.01,USD,synthetic
+EXP-2021-00934,2021-02-01,2021,2,Q1,AGY-003,Indian Space Research Organisation,India,73.95,43.14,36.97,154.06,USD,synthetic
+EXP-2021-00935,2021-02-01,2021,2,Q1,AGY-004,Japan Aerospace Exploration Agency,Japan,74.08,43.21,37.04,154.33,USD,synthetic
+EXP-2021-00936,2021-02-01,2021,2,Q1,AGY-005,China National Space Administration,China,141.9,82.78,70.95,295.63,USD,synthetic
+EXP-2021-00937,2021-02-01,2021,2,Q1,AGY-006,State Space Corporation Roscosmos,Russia,69.95,40.81,34.98,145.74,USD,synthetic
+EXP-2021-00938,2021-02-01,2021,2,Q1,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,74.17,43.27,37.09,154.53,USD,synthetic
+EXP-2021-00939,2021-03-01,2021,3,Q1,AGY-001,National Aeronautics and Space Administration,United States,314.25,183.31,157.13,654.69,USD,synthetic
+EXP-2021-00940,2021-03-01,2021,3,Q1,AGY-002,European Space Agency,Europe,146.65,85.54,73.32,305.51,USD,synthetic
+EXP-2021-00941,2021-03-01,2021,3,Q1,AGY-003,Indian Space Research Organisation,India,72.77,42.45,36.38,151.6,USD,synthetic
+EXP-2021-00942,2021-03-01,2021,3,Q1,AGY-004,Japan Aerospace Exploration Agency,Japan,72.8,42.47,36.4,151.67,USD,synthetic
+EXP-2021-00943,2021-03-01,2021,3,Q1,AGY-005,China National Space Administration,China,158.58,92.5,79.29,330.37,USD,synthetic
+EXP-2021-00944,2021-03-01,2021,3,Q1,AGY-006,State Space Corporation Roscosmos,Russia,79.9,46.61,39.95,166.46,USD,synthetic
+EXP-2021-00945,2021-03-01,2021,3,Q1,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,79.09,46.13,39.54,164.76,USD,synthetic
+EXP-2021-00946,2021-04-01,2021,4,Q2,AGY-001,National Aeronautics and Space Administration,United States,306.87,179.01,153.44,639.32,USD,synthetic
+EXP-2021-00947,2021-04-01,2021,4,Q2,AGY-002,European Space Agency,Europe,147.58,86.09,73.79,307.46,USD,synthetic
+EXP-2021-00948,2021-04-01,2021,4,Q2,AGY-003,Indian Space Research Organisation,India,74.26,43.32,37.13,154.71,USD,synthetic
+EXP-2021-00949,2021-04-01,2021,4,Q2,AGY-004,Japan Aerospace Exploration Agency,Japan,75.4,43.98,37.7,157.08,USD,synthetic
+EXP-2021-00950,2021-04-01,2021,4,Q2,AGY-005,China National Space Administration,China,145.77,85.03,72.89,303.69,USD,synthetic
+EXP-2021-00951,2021-04-01,2021,4,Q2,AGY-006,State Space Corporation Roscosmos,Russia,78.44,45.76,39.22,163.42,USD,synthetic
+EXP-2021-00952,2021-04-01,2021,4,Q2,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,75.03,43.77,37.52,156.32,USD,synthetic
+EXP-2021-00953,2021-05-01,2021,5,Q2,AGY-001,National Aeronautics and Space Administration,United States,290.91,169.7,145.45,606.06,USD,synthetic
+EXP-2021-00954,2021-05-01,2021,5,Q2,AGY-002,European Space Agency,Europe,153.97,89.82,76.99,320.78,USD,synthetic
+EXP-2021-00955,2021-05-01,2021,5,Q2,AGY-003,Indian Space Research Organisation,India,76.97,44.9,38.48,160.35,USD,synthetic
+EXP-2021-00956,2021-05-01,2021,5,Q2,AGY-004,Japan Aerospace Exploration Agency,Japan,72.81,42.47,36.4,151.68,USD,synthetic
+EXP-2021-00957,2021-05-01,2021,5,Q2,AGY-005,China National Space Administration,China,146.89,85.69,73.45,306.03,USD,synthetic
+EXP-2021-00958,2021-05-01,2021,5,Q2,AGY-006,State Space Corporation Roscosmos,Russia,78.3,45.67,39.15,163.12,USD,synthetic
+EXP-2021-00959,2021-05-01,2021,5,Q2,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,76.08,44.38,38.04,158.5,USD,synthetic
+EXP-2021-00960,2021-06-01,2021,6,Q2,AGY-001,National Aeronautics and Space Administration,United States,312.19,182.11,156.1,650.4,USD,synthetic
+EXP-2021-00961,2021-06-01,2021,6,Q2,AGY-002,European Space Agency,Europe,147.93,86.29,73.97,308.19,USD,synthetic
+EXP-2021-00962,2021-06-01,2021,6,Q2,AGY-003,Indian Space Research Organisation,India,74.41,43.4,37.2,155.01,USD,synthetic
+EXP-2021-00963,2021-06-01,2021,6,Q2,AGY-004,Japan Aerospace Exploration Agency,Japan,80.02,46.68,40.01,166.71,USD,synthetic
+EXP-2021-00964,2021-06-01,2021,6,Q2,AGY-005,China National Space Administration,China,151.94,88.63,75.97,316.54,USD,synthetic
+EXP-2021-00965,2021-06-01,2021,6,Q2,AGY-006,State Space Corporation Roscosmos,Russia,74.01,43.17,37.0,154.18,USD,synthetic
+EXP-2021-00966,2021-06-01,2021,6,Q2,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,77.24,45.06,38.62,160.92,USD,synthetic
+EXP-2021-00967,2021-07-01,2021,7,Q3,AGY-001,National Aeronautics and Space Administration,United States,319.83,186.57,159.91,666.31,USD,synthetic
+EXP-2021-00968,2021-07-01,2021,7,Q3,AGY-002,European Space Agency,Europe,155.05,90.45,77.53,323.03,USD,synthetic
+EXP-2021-00969,2021-07-01,2021,7,Q3,AGY-003,Indian Space Research Organisation,India,73.43,42.84,36.72,152.99,USD,synthetic
+EXP-2021-00970,2021-07-01,2021,7,Q3,AGY-004,Japan Aerospace Exploration Agency,Japan,75.42,44.0,37.71,157.13,USD,synthetic
+EXP-2021-00971,2021-07-01,2021,7,Q3,AGY-005,China National Space Administration,China,160.35,93.54,80.18,334.07,USD,synthetic
+EXP-2021-00972,2021-07-01,2021,7,Q3,AGY-006,State Space Corporation Roscosmos,Russia,75.44,44.01,37.72,157.17,USD,synthetic
+EXP-2021-00973,2021-07-01,2021,7,Q3,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,80.3,46.84,40.15,167.29,USD,synthetic
+EXP-2021-00974,2021-08-01,2021,8,Q3,AGY-001,National Aeronautics and Space Administration,United States,306.46,178.77,153.23,638.46,USD,synthetic
+EXP-2021-00975,2021-08-01,2021,8,Q3,AGY-002,European Space Agency,Europe,154.94,90.38,77.47,322.79,USD,synthetic
+EXP-2021-00976,2021-08-01,2021,8,Q3,AGY-003,Indian Space Research Organisation,India,73.14,42.66,36.57,152.37,USD,synthetic
+EXP-2021-00977,2021-08-01,2021,8,Q3,AGY-004,Japan Aerospace Exploration Agency,Japan,77.97,45.48,38.98,162.43,USD,synthetic
+EXP-2021-00978,2021-08-01,2021,8,Q3,AGY-005,China National Space Administration,China,158.72,92.58,79.36,330.66,USD,synthetic
+EXP-2021-00979,2021-08-01,2021,8,Q3,AGY-006,State Space Corporation Roscosmos,Russia,73.69,42.99,36.85,153.53,USD,synthetic
+EXP-2021-00980,2021-08-01,2021,8,Q3,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,78.41,45.74,39.21,163.36,USD,synthetic
+EXP-2021-00981,2021-09-01,2021,9,Q3,AGY-001,National Aeronautics and Space Administration,United States,324.74,189.43,162.37,676.54,USD,synthetic
+EXP-2021-00982,2021-09-01,2021,9,Q3,AGY-002,European Space Agency,Europe,148.31,86.52,74.16,308.99,USD,synthetic
+EXP-2021-00983,2021-09-01,2021,9,Q3,AGY-003,Indian Space Research Organisation,India,74.24,43.31,37.12,154.67,USD,synthetic
+EXP-2021-00984,2021-09-01,2021,9,Q3,AGY-004,Japan Aerospace Exploration Agency,Japan,72.1,42.06,36.05,150.21,USD,synthetic
+EXP-2021-00985,2021-09-01,2021,9,Q3,AGY-005,China National Space Administration,China,148.08,86.38,74.04,308.5,USD,synthetic
+EXP-2021-00986,2021-09-01,2021,9,Q3,AGY-006,State Space Corporation Roscosmos,Russia,74.37,43.38,37.19,154.94,USD,synthetic
+EXP-2021-00987,2021-09-01,2021,9,Q3,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,78.92,46.04,39.46,164.42,USD,synthetic
+EXP-2021-00988,2021-10-01,2021,10,Q4,AGY-001,National Aeronautics and Space Administration,United States,316.74,184.77,158.37,659.88,USD,synthetic
+EXP-2021-00989,2021-10-01,2021,10,Q4,AGY-002,European Space Agency,Europe,145.83,85.07,72.92,303.82,USD,synthetic
+EXP-2021-00990,2021-10-01,2021,10,Q4,AGY-003,Indian Space Research Organisation,India,72.81,42.47,36.4,151.68,USD,synthetic
+EXP-2021-00991,2021-10-01,2021,10,Q4,AGY-004,Japan Aerospace Exploration Agency,Japan,74.09,43.22,37.05,154.36,USD,synthetic
+EXP-2021-00992,2021-10-01,2021,10,Q4,AGY-005,China National Space Administration,China,149.88,87.43,74.94,312.25,USD,synthetic
+EXP-2021-00993,2021-10-01,2021,10,Q4,AGY-006,State Space Corporation Roscosmos,Russia,74.24,43.31,37.12,154.67,USD,synthetic
+EXP-2021-00994,2021-10-01,2021,10,Q4,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,76.06,44.37,38.03,158.46,USD,synthetic
+EXP-2021-00995,2021-11-01,2021,11,Q4,AGY-001,National Aeronautics and Space Administration,United States,357.1,208.31,178.55,743.96,USD,synthetic
+EXP-2021-00996,2021-11-01,2021,11,Q4,AGY-002,European Space Agency,Europe,186.2,108.62,93.1,387.92,USD,synthetic
+EXP-2021-00997,2021-11-01,2021,11,Q4,AGY-003,Indian Space Research Organisation,India,90.52,52.8,45.26,188.58,USD,synthetic
+EXP-2021-00998,2021-11-01,2021,11,Q4,AGY-004,Japan Aerospace Exploration Agency,Japan,91.38,53.31,45.69,190.38,USD,synthetic
+EXP-2021-00999,2021-11-01,2021,11,Q4,AGY-005,China National Space Administration,China,169.86,99.08,84.93,353.87,USD,synthetic
+EXP-2021-01000,2021-11-01,2021,11,Q4,AGY-006,State Space Corporation Roscosmos,Russia,92.27,53.82,46.13,192.22,USD,synthetic
+EXP-2021-01001,2021-11-01,2021,11,Q4,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,88.55,51.66,44.28,184.49,USD,synthetic
+EXP-2021-01002,2021-12-01,2021,12,Q4,AGY-001,National Aeronautics and Space Administration,United States,338.69,197.57,169.34,705.6,USD,synthetic
+EXP-2021-01003,2021-12-01,2021,12,Q4,AGY-002,European Space Agency,Europe,172.62,100.7,86.31,359.63,USD,synthetic
+EXP-2021-01004,2021-12-01,2021,12,Q4,AGY-003,Indian Space Research Organisation,India,83.98,48.99,41.99,174.96,USD,synthetic
+EXP-2021-01005,2021-12-01,2021,12,Q4,AGY-004,Japan Aerospace Exploration Agency,Japan,88.75,51.77,44.38,184.9,USD,synthetic
+EXP-2021-01006,2021-12-01,2021,12,Q4,AGY-005,China National Space Administration,China,179.89,104.93,89.94,374.76,USD,synthetic
+EXP-2021-01007,2021-12-01,2021,12,Q4,AGY-006,State Space Corporation Roscosmos,Russia,86.82,50.64,43.41,180.87,USD,synthetic
+EXP-2021-01008,2021-12-01,2021,12,Q4,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,88.68,51.73,44.34,184.75,USD,synthetic
+EXP-2022-01009,2022-01-01,2022,1,Q1,AGY-001,National Aeronautics and Space Administration,United States,309.8,180.71,154.9,645.41,USD,synthetic
+EXP-2022-01010,2022-01-01,2022,1,Q1,AGY-002,European Space Agency,Europe,157.88,92.1,78.94,328.92,USD,synthetic
+EXP-2022-01011,2022-01-01,2022,1,Q1,AGY-003,Indian Space Research Organisation,India,76.3,44.51,38.15,158.96,USD,synthetic
+EXP-2022-01012,2022-01-01,2022,1,Q1,AGY-004,Japan Aerospace Exploration Agency,Japan,74.77,43.61,37.38,155.76,USD,synthetic
+EXP-2022-01013,2022-01-01,2022,1,Q1,AGY-005,China National Space Administration,China,146.46,85.44,73.23,305.13,USD,synthetic
+EXP-2022-01014,2022-01-01,2022,1,Q1,AGY-006,State Space Corporation Roscosmos,Russia,77.58,45.26,38.79,161.63,USD,synthetic
+EXP-2022-01015,2022-01-01,2022,1,Q1,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,77.25,45.06,38.62,160.93,USD,synthetic
+EXP-2022-01016,2022-02-01,2022,2,Q1,AGY-001,National Aeronautics and Space Administration,United States,297.94,173.8,148.97,620.71,USD,synthetic
+EXP-2022-01017,2022-02-01,2022,2,Q1,AGY-002,European Space Agency,Europe,148.91,86.87,74.46,310.24,USD,synthetic
+EXP-2022-01018,2022-02-01,2022,2,Q1,AGY-003,Indian Space Research Organisation,India,76.64,44.71,38.32,159.67,USD,synthetic
+EXP-2022-01019,2022-02-01,2022,2,Q1,AGY-004,Japan Aerospace Exploration Agency,Japan,74.09,43.22,37.04,154.35,USD,synthetic
+EXP-2022-01020,2022-02-01,2022,2,Q1,AGY-005,China National Space Administration,China,142.3,83.01,71.15,296.46,USD,synthetic
+EXP-2022-01021,2022-02-01,2022,2,Q1,AGY-006,State Space Corporation Roscosmos,Russia,71.78,41.87,35.89,149.54,USD,synthetic
+EXP-2022-01022,2022-02-01,2022,2,Q1,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,74.0,43.17,37.0,154.17,USD,synthetic
+EXP-2022-01023,2022-03-01,2022,3,Q1,AGY-001,National Aeronautics and Space Administration,United States,319.49,186.37,159.74,665.6,USD,synthetic
+EXP-2022-01024,2022-03-01,2022,3,Q1,AGY-002,European Space Agency,Europe,153.96,89.81,76.98,320.75,USD,synthetic
+EXP-2022-01025,2022-03-01,2022,3,Q1,AGY-003,Indian Space Research Organisation,India,75.51,44.05,37.75,157.31,USD,synthetic
+EXP-2022-01026,2022-03-01,2022,3,Q1,AGY-004,Japan Aerospace Exploration Agency,Japan,80.73,47.09,40.36,168.18,USD,synthetic
+EXP-2022-01027,2022-03-01,2022,3,Q1,AGY-005,China National Space Administration,China,160.87,93.84,80.43,335.14,USD,synthetic
+EXP-2022-01028,2022-03-01,2022,3,Q1,AGY-006,State Space Corporation Roscosmos,Russia,83.97,48.98,41.98,174.93,USD,synthetic
+EXP-2022-01029,2022-03-01,2022,3,Q1,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,82.41,48.07,41.21,171.69,USD,synthetic
+EXP-2022-01030,2022-04-01,2022,4,Q2,AGY-001,National Aeronautics and Space Administration,United States,329.05,191.95,164.52,685.52,USD,synthetic
+EXP-2022-01031,2022-04-01,2022,4,Q2,AGY-002,European Space Agency,Europe,154.64,90.21,77.32,322.17,USD,synthetic
+EXP-2022-01032,2022-04-01,2022,4,Q2,AGY-003,Indian Space Research Organisation,India,79.21,46.2,39.6,165.01,USD,synthetic
+EXP-2022-01033,2022-04-01,2022,4,Q2,AGY-004,Japan Aerospace Exploration Agency,Japan,82.31,48.01,41.15,171.47,USD,synthetic
+EXP-2022-01034,2022-04-01,2022,4,Q2,AGY-005,China National Space Administration,China,154.19,89.94,77.1,321.23,USD,synthetic
+EXP-2022-01035,2022-04-01,2022,4,Q2,AGY-006,State Space Corporation Roscosmos,Russia,83.61,48.77,41.81,174.19,USD,synthetic
+EXP-2022-01036,2022-04-01,2022,4,Q2,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,76.61,44.69,38.31,159.61,USD,synthetic
+EXP-2022-01037,2022-05-01,2022,5,Q2,AGY-001,National Aeronautics and Space Administration,United States,317.04,184.94,158.52,660.5,USD,synthetic
+EXP-2022-01038,2022-05-01,2022,5,Q2,AGY-002,European Space Agency,Europe,156.58,91.34,78.29,326.21,USD,synthetic
+EXP-2022-01039,2022-05-01,2022,5,Q2,AGY-003,Indian Space Research Organisation,India,77.12,44.99,38.56,160.67,USD,synthetic
+EXP-2022-01040,2022-05-01,2022,5,Q2,AGY-004,Japan Aerospace Exploration Agency,Japan,78.73,45.93,39.37,164.03,USD,synthetic
+EXP-2022-01041,2022-05-01,2022,5,Q2,AGY-005,China National Space Administration,China,161.7,94.32,80.85,336.87,USD,synthetic
+EXP-2022-01042,2022-05-01,2022,5,Q2,AGY-006,State Space Corporation Roscosmos,Russia,83.91,48.95,41.95,174.81,USD,synthetic
+EXP-2022-01043,2022-05-01,2022,5,Q2,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,81.36,47.46,40.68,169.5,USD,synthetic
+EXP-2022-01044,2022-06-01,2022,6,Q2,AGY-001,National Aeronautics and Space Administration,United States,311.84,181.91,155.92,649.67,USD,synthetic
+EXP-2022-01045,2022-06-01,2022,6,Q2,AGY-002,European Space Agency,Europe,161.78,94.37,80.89,337.04,USD,synthetic
+EXP-2022-01046,2022-06-01,2022,6,Q2,AGY-003,Indian Space Research Organisation,India,80.79,47.13,40.4,168.32,USD,synthetic
+EXP-2022-01047,2022-06-01,2022,6,Q2,AGY-004,Japan Aerospace Exploration Agency,Japan,75.64,44.12,37.82,157.58,USD,synthetic
+EXP-2022-01048,2022-06-01,2022,6,Q2,AGY-005,China National Space Administration,China,166.9,97.36,83.45,347.71,USD,synthetic
+EXP-2022-01049,2022-06-01,2022,6,Q2,AGY-006,State Space Corporation Roscosmos,Russia,77.25,45.06,38.62,160.93,USD,synthetic
+EXP-2022-01050,2022-06-01,2022,6,Q2,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,83.95,48.97,41.97,174.89,USD,synthetic
+EXP-2022-01051,2022-07-01,2022,7,Q3,AGY-001,National Aeronautics and Space Administration,United States,334.21,194.95,167.1,696.26,USD,synthetic
+EXP-2022-01052,2022-07-01,2022,7,Q3,AGY-002,European Space Agency,Europe,163.2,95.2,81.6,340.0,USD,synthetic
+EXP-2022-01053,2022-07-01,2022,7,Q3,AGY-003,Indian Space Research Organisation,India,79.81,46.56,39.91,166.28,USD,synthetic
+EXP-2022-01054,2022-07-01,2022,7,Q3,AGY-004,Japan Aerospace Exploration Agency,Japan,76.37,44.55,38.19,159.11,USD,synthetic
+EXP-2022-01055,2022-07-01,2022,7,Q3,AGY-005,China National Space Administration,China,155.86,90.92,77.93,324.71,USD,synthetic
+EXP-2022-01056,2022-07-01,2022,7,Q3,AGY-006,State Space Corporation Roscosmos,Russia,75.53,44.06,37.76,157.35,USD,synthetic
+EXP-2022-01057,2022-07-01,2022,7,Q3,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,78.44,45.76,39.22,163.42,USD,synthetic
+EXP-2022-01058,2022-08-01,2022,8,Q3,AGY-001,National Aeronautics and Space Administration,United States,320.74,187.1,160.37,668.21,USD,synthetic
+EXP-2022-01059,2022-08-01,2022,8,Q3,AGY-002,European Space Agency,Europe,150.36,87.71,75.18,313.25,USD,synthetic
+EXP-2022-01060,2022-08-01,2022,8,Q3,AGY-003,Indian Space Research Organisation,India,82.6,48.18,41.3,172.08,USD,synthetic
+EXP-2022-01061,2022-08-01,2022,8,Q3,AGY-004,Japan Aerospace Exploration Agency,Japan,75.65,44.13,37.82,157.6,USD,synthetic
+EXP-2022-01062,2022-08-01,2022,8,Q3,AGY-005,China National Space Administration,China,155.89,90.94,77.94,324.77,USD,synthetic
+EXP-2022-01063,2022-08-01,2022,8,Q3,AGY-006,State Space Corporation Roscosmos,Russia,82.1,47.89,41.05,171.04,USD,synthetic
+EXP-2022-01064,2022-08-01,2022,8,Q3,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,83.56,48.74,41.78,174.08,USD,synthetic
+EXP-2022-01065,2022-09-01,2022,9,Q3,AGY-001,National Aeronautics and Space Administration,United States,335.9,195.94,167.95,699.79,USD,synthetic
+EXP-2022-01066,2022-09-01,2022,9,Q3,AGY-002,European Space Agency,Europe,163.31,95.26,81.66,340.23,USD,synthetic
+EXP-2022-01067,2022-09-01,2022,9,Q3,AGY-003,Indian Space Research Organisation,India,82.37,48.05,41.19,171.61,USD,synthetic
+EXP-2022-01068,2022-09-01,2022,9,Q3,AGY-004,Japan Aerospace Exploration Agency,Japan,78.51,45.8,39.25,163.56,USD,synthetic
+EXP-2022-01069,2022-09-01,2022,9,Q3,AGY-005,China National Space Administration,China,151.68,88.48,75.84,316.0,USD,synthetic
+EXP-2022-01070,2022-09-01,2022,9,Q3,AGY-006,State Space Corporation Roscosmos,Russia,76.94,44.88,38.47,160.29,USD,synthetic
+EXP-2022-01071,2022-09-01,2022,9,Q3,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,79.1,46.14,39.55,164.79,USD,synthetic
+EXP-2022-01072,2022-10-01,2022,10,Q4,AGY-001,National Aeronautics and Space Administration,United States,305.89,178.44,152.95,637.28,USD,synthetic
+EXP-2022-01073,2022-10-01,2022,10,Q4,AGY-002,European Space Agency,Europe,153.35,89.46,76.68,319.49,USD,synthetic
+EXP-2022-01074,2022-10-01,2022,10,Q4,AGY-003,Indian Space Research Organisation,India,80.6,47.01,40.3,167.91,USD,synthetic
+EXP-2022-01075,2022-10-01,2022,10,Q4,AGY-004,Japan Aerospace Exploration Agency,Japan,80.86,47.17,40.43,168.46,USD,synthetic
+EXP-2022-01076,2022-10-01,2022,10,Q4,AGY-005,China National Space Administration,China,160.25,93.48,80.12,333.85,USD,synthetic
+EXP-2022-01077,2022-10-01,2022,10,Q4,AGY-006,State Space Corporation Roscosmos,Russia,82.62,48.19,41.31,172.12,USD,synthetic
+EXP-2022-01078,2022-10-01,2022,10,Q4,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,75.35,43.95,37.67,156.97,USD,synthetic
+EXP-2022-01079,2022-11-01,2022,11,Q4,AGY-001,National Aeronautics and Space Administration,United States,387.75,226.19,193.88,807.82,USD,synthetic
+EXP-2022-01080,2022-11-01,2022,11,Q4,AGY-002,European Space Agency,Europe,187.24,109.22,93.62,390.08,USD,synthetic
+EXP-2022-01081,2022-11-01,2022,11,Q4,AGY-003,Indian Space Research Organisation,India,87.49,51.04,43.75,182.28,USD,synthetic
+EXP-2022-01082,2022-11-01,2022,11,Q4,AGY-004,Japan Aerospace Exploration Agency,Japan,93.12,54.32,46.56,194.0,USD,synthetic
+EXP-2022-01083,2022-11-01,2022,11,Q4,AGY-005,China National Space Administration,China,176.36,102.88,88.18,367.42,USD,synthetic
+EXP-2022-01084,2022-11-01,2022,11,Q4,AGY-006,State Space Corporation Roscosmos,Russia,95.36,55.63,47.68,198.67,USD,synthetic
+EXP-2022-01085,2022-11-01,2022,11,Q4,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,89.02,51.93,44.51,185.46,USD,synthetic
+EXP-2022-01086,2022-12-01,2022,12,Q4,AGY-001,National Aeronautics and Space Administration,United States,355.43,207.33,177.72,740.48,USD,synthetic
+EXP-2022-01087,2022-12-01,2022,12,Q4,AGY-002,European Space Agency,Europe,181.52,105.89,90.76,378.17,USD,synthetic
+EXP-2022-01088,2022-12-01,2022,12,Q4,AGY-003,Indian Space Research Organisation,India,86.65,50.54,43.32,180.51,USD,synthetic
+EXP-2022-01089,2022-12-01,2022,12,Q4,AGY-004,Japan Aerospace Exploration Agency,Japan,90.61,52.86,45.31,188.78,USD,synthetic
+EXP-2022-01090,2022-12-01,2022,12,Q4,AGY-005,China National Space Administration,China,190.65,111.22,95.33,397.2,USD,synthetic
+EXP-2022-01091,2022-12-01,2022,12,Q4,AGY-006,State Space Corporation Roscosmos,Russia,85.99,50.16,42.99,179.14,USD,synthetic
+EXP-2022-01092,2022-12-01,2022,12,Q4,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,96.9,56.53,48.45,201.88,USD,synthetic
+EXP-2023-01093,2023-01-01,2023,1,Q1,AGY-001,National Aeronautics and Space Administration,United States,310.96,181.39,155.48,647.83,USD,synthetic
+EXP-2023-01094,2023-01-01,2023,1,Q1,AGY-002,European Space Agency,Europe,164.0,95.67,82.0,341.67,USD,synthetic
+EXP-2023-01095,2023-01-01,2023,1,Q1,AGY-003,Indian Space Research Organisation,India,77.53,45.23,38.77,161.53,USD,synthetic
+EXP-2023-01096,2023-01-01,2023,1,Q1,AGY-004,Japan Aerospace Exploration Agency,Japan,75.18,43.86,37.59,156.63,USD,synthetic
+EXP-2023-01097,2023-01-01,2023,1,Q1,AGY-005,China National Space Administration,China,157.29,91.75,78.65,327.69,USD,synthetic
+EXP-2023-01098,2023-01-01,2023,1,Q1,AGY-006,State Space Corporation Roscosmos,Russia,78.48,45.78,39.24,163.5,USD,synthetic
+EXP-2023-01099,2023-01-01,2023,1,Q1,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,79.91,46.61,39.95,166.47,USD,synthetic
+EXP-2023-01100,2023-02-01,2023,2,Q1,AGY-001,National Aeronautics and Space Administration,United States,309.55,180.57,154.77,644.89,USD,synthetic
+EXP-2023-01101,2023-02-01,2023,2,Q1,AGY-002,European Space Agency,Europe,148.2,86.45,74.1,308.75,USD,synthetic
+EXP-2023-01102,2023-02-01,2023,2,Q1,AGY-003,Indian Space Research Organisation,India,73.99,43.16,37.0,154.15,USD,synthetic
+EXP-2023-01103,2023-02-01,2023,2,Q1,AGY-004,Japan Aerospace Exploration Agency,Japan,77.65,45.3,38.83,161.78,USD,synthetic
+EXP-2023-01104,2023-02-01,2023,2,Q1,AGY-005,China National Space Administration,China,156.83,91.48,78.42,326.73,USD,synthetic
+EXP-2023-01105,2023-02-01,2023,2,Q1,AGY-006,State Space Corporation Roscosmos,Russia,79.4,46.32,39.7,165.42,USD,synthetic
+EXP-2023-01106,2023-02-01,2023,2,Q1,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,73.72,43.0,36.86,153.58,USD,synthetic
+EXP-2023-01107,2023-03-01,2023,3,Q1,AGY-001,National Aeronautics and Space Administration,United States,324.32,189.18,162.16,675.66,USD,synthetic
+EXP-2023-01108,2023-03-01,2023,3,Q1,AGY-002,European Space Agency,Europe,168.37,98.21,84.18,350.76,USD,synthetic
+EXP-2023-01109,2023-03-01,2023,3,Q1,AGY-003,Indian Space Research Organisation,India,85.58,49.92,42.79,178.29,USD,synthetic
+EXP-2023-01110,2023-03-01,2023,3,Q1,AGY-004,Japan Aerospace Exploration Agency,Japan,83.38,48.64,41.69,173.71,USD,synthetic
+EXP-2023-01111,2023-03-01,2023,3,Q1,AGY-005,China National Space Administration,China,173.11,100.98,86.56,360.65,USD,synthetic
+EXP-2023-01112,2023-03-01,2023,3,Q1,AGY-006,State Space Corporation Roscosmos,Russia,85.99,50.16,43.0,179.15,USD,synthetic
+EXP-2023-01113,2023-03-01,2023,3,Q1,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,82.78,48.29,41.39,172.46,USD,synthetic
+EXP-2023-01114,2023-04-01,2023,4,Q2,AGY-001,National Aeronautics and Space Administration,United States,333.44,194.51,166.72,694.67,USD,synthetic
+EXP-2023-01115,2023-04-01,2023,4,Q2,AGY-002,European Space Agency,Europe,159.99,93.33,79.99,333.31,USD,synthetic
+EXP-2023-01116,2023-04-01,2023,4,Q2,AGY-003,Indian Space Research Organisation,India,77.67,45.31,38.83,161.81,USD,synthetic
+EXP-2023-01117,2023-04-01,2023,4,Q2,AGY-004,Japan Aerospace Exploration Agency,Japan,83.04,48.44,41.52,173.0,USD,synthetic
+EXP-2023-01118,2023-04-01,2023,4,Q2,AGY-005,China National Space Administration,China,167.43,97.66,83.71,348.8,USD,synthetic
+EXP-2023-01119,2023-04-01,2023,4,Q2,AGY-006,State Space Corporation Roscosmos,Russia,80.99,47.24,40.49,168.72,USD,synthetic
+EXP-2023-01120,2023-04-01,2023,4,Q2,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,81.02,47.26,40.51,168.79,USD,synthetic
+EXP-2023-01121,2023-05-01,2023,5,Q2,AGY-001,National Aeronautics and Space Administration,United States,333.44,194.51,166.72,694.67,USD,synthetic
+EXP-2023-01122,2023-05-01,2023,5,Q2,AGY-002,European Space Agency,Europe,166.26,96.99,83.13,346.38,USD,synthetic
+EXP-2023-01123,2023-05-01,2023,5,Q2,AGY-003,Indian Space Research Organisation,India,77.42,45.16,38.71,161.29,USD,synthetic
+EXP-2023-01124,2023-05-01,2023,5,Q2,AGY-004,Japan Aerospace Exploration Agency,Japan,84.31,49.18,42.15,175.64,USD,synthetic
+EXP-2023-01125,2023-05-01,2023,5,Q2,AGY-005,China National Space Administration,China,164.37,95.88,82.19,342.44,USD,synthetic
+EXP-2023-01126,2023-05-01,2023,5,Q2,AGY-006,State Space Corporation Roscosmos,Russia,80.7,47.07,40.35,168.12,USD,synthetic
+EXP-2023-01127,2023-05-01,2023,5,Q2,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,79.96,46.65,39.98,166.59,USD,synthetic
+EXP-2023-01128,2023-06-01,2023,6,Q2,AGY-001,National Aeronautics and Space Administration,United States,346.0,201.84,173.0,720.84,USD,synthetic
+EXP-2023-01129,2023-06-01,2023,6,Q2,AGY-002,European Space Agency,Europe,163.88,95.6,81.94,341.42,USD,synthetic
+EXP-2023-01130,2023-06-01,2023,6,Q2,AGY-003,Indian Space Research Organisation,India,84.92,49.54,42.46,176.92,USD,synthetic
+EXP-2023-01131,2023-06-01,2023,6,Q2,AGY-004,Japan Aerospace Exploration Agency,Japan,84.19,49.11,42.1,175.4,USD,synthetic
+EXP-2023-01132,2023-06-01,2023,6,Q2,AGY-005,China National Space Administration,China,165.63,96.62,82.82,345.07,USD,synthetic
+EXP-2023-01133,2023-06-01,2023,6,Q2,AGY-006,State Space Corporation Roscosmos,Russia,83.04,48.44,41.52,173.0,USD,synthetic
+EXP-2023-01134,2023-06-01,2023,6,Q2,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,80.15,46.76,40.08,166.99,USD,synthetic
+EXP-2023-01135,2023-07-01,2023,7,Q3,AGY-001,National Aeronautics and Space Administration,United States,316.33,184.52,158.16,659.01,USD,synthetic
+EXP-2023-01136,2023-07-01,2023,7,Q3,AGY-002,European Space Agency,Europe,174.58,101.84,87.29,363.71,USD,synthetic
+EXP-2023-01137,2023-07-01,2023,7,Q3,AGY-003,Indian Space Research Organisation,India,83.55,48.74,41.77,174.06,USD,synthetic
+EXP-2023-01138,2023-07-01,2023,7,Q3,AGY-004,Japan Aerospace Exploration Agency,Japan,84.99,49.58,42.5,177.07,USD,synthetic
+EXP-2023-01139,2023-07-01,2023,7,Q3,AGY-005,China National Space Administration,China,165.92,96.79,82.96,345.67,USD,synthetic
+EXP-2023-01140,2023-07-01,2023,7,Q3,AGY-006,State Space Corporation Roscosmos,Russia,79.9,46.61,39.95,166.46,USD,synthetic
+EXP-2023-01141,2023-07-01,2023,7,Q3,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,85.28,49.75,42.64,177.67,USD,synthetic
+EXP-2023-01142,2023-08-01,2023,8,Q3,AGY-001,National Aeronautics and Space Administration,United States,332.76,194.11,166.38,693.25,USD,synthetic
+EXP-2023-01143,2023-08-01,2023,8,Q3,AGY-002,European Space Agency,Europe,171.68,100.15,85.84,357.67,USD,synthetic
+EXP-2023-01144,2023-08-01,2023,8,Q3,AGY-003,Indian Space Research Organisation,India,79.33,46.27,39.66,165.26,USD,synthetic
+EXP-2023-01145,2023-08-01,2023,8,Q3,AGY-004,Japan Aerospace Exploration Agency,Japan,78.06,45.53,39.03,162.62,USD,synthetic
+EXP-2023-01146,2023-08-01,2023,8,Q3,AGY-005,China National Space Administration,China,168.6,98.35,84.3,351.25,USD,synthetic
+EXP-2023-01147,2023-08-01,2023,8,Q3,AGY-006,State Space Corporation Roscosmos,Russia,85.48,49.86,42.74,178.08,USD,synthetic
+EXP-2023-01148,2023-08-01,2023,8,Q3,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,87.14,50.83,43.57,181.54,USD,synthetic
+EXP-2023-01149,2023-09-01,2023,9,Q3,AGY-001,National Aeronautics and Space Administration,United States,311.32,181.6,155.66,648.58,USD,synthetic
+EXP-2023-01150,2023-09-01,2023,9,Q3,AGY-002,European Space Agency,Europe,172.05,100.36,86.02,358.43,USD,synthetic
+EXP-2023-01151,2023-09-01,2023,9,Q3,AGY-003,Indian Space Research Organisation,India,81.0,47.25,40.5,168.75,USD,synthetic
+EXP-2023-01152,2023-09-01,2023,9,Q3,AGY-004,Japan Aerospace Exploration Agency,Japan,87.14,50.83,43.57,181.54,USD,synthetic
+EXP-2023-01153,2023-09-01,2023,9,Q3,AGY-005,China National Space Administration,China,173.4,101.15,86.7,361.25,USD,synthetic
+EXP-2023-01154,2023-09-01,2023,9,Q3,AGY-006,State Space Corporation Roscosmos,Russia,78.46,45.77,39.23,163.46,USD,synthetic
+EXP-2023-01155,2023-09-01,2023,9,Q3,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,81.66,47.63,40.83,170.12,USD,synthetic
+EXP-2023-01156,2023-10-01,2023,10,Q4,AGY-001,National Aeronautics and Space Administration,United States,344.89,201.18,172.44,718.51,USD,synthetic
+EXP-2023-01157,2023-10-01,2023,10,Q4,AGY-002,European Space Agency,Europe,162.0,94.5,81.0,337.5,USD,synthetic
+EXP-2023-01158,2023-10-01,2023,10,Q4,AGY-003,Indian Space Research Organisation,India,81.31,47.43,40.66,169.4,USD,synthetic
+EXP-2023-01159,2023-10-01,2023,10,Q4,AGY-004,Japan Aerospace Exploration Agency,Japan,80.65,47.04,40.32,168.01,USD,synthetic
+EXP-2023-01160,2023-10-01,2023,10,Q4,AGY-005,China National Space Administration,China,170.41,99.41,85.21,355.03,USD,synthetic
+EXP-2023-01161,2023-10-01,2023,10,Q4,AGY-006,State Space Corporation Roscosmos,Russia,79.64,46.46,39.82,165.92,USD,synthetic
+EXP-2023-01162,2023-10-01,2023,10,Q4,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,84.06,49.03,42.03,175.12,USD,synthetic
+EXP-2023-01163,2023-11-01,2023,11,Q4,AGY-001,National Aeronautics and Space Administration,United States,385.89,225.1,192.95,803.94,USD,synthetic
+EXP-2023-01164,2023-11-01,2023,11,Q4,AGY-002,European Space Agency,Europe,179.68,104.81,89.84,374.33,USD,synthetic
+EXP-2023-01165,2023-11-01,2023,11,Q4,AGY-003,Indian Space Research Organisation,India,93.54,54.56,46.77,194.87,USD,synthetic
+EXP-2023-01166,2023-11-01,2023,11,Q4,AGY-004,Japan Aerospace Exploration Agency,Japan,91.43,53.33,45.71,190.47,USD,synthetic
+EXP-2023-01167,2023-11-01,2023,11,Q4,AGY-005,China National Space Administration,China,188.6,110.02,94.3,392.92,USD,synthetic
+EXP-2023-01168,2023-11-01,2023,11,Q4,AGY-006,State Space Corporation Roscosmos,Russia,96.9,56.52,48.45,201.87,USD,synthetic
+EXP-2023-01169,2023-11-01,2023,11,Q4,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,99.12,57.82,49.56,206.5,USD,synthetic
+EXP-2023-01170,2023-12-01,2023,12,Q4,AGY-001,National Aeronautics and Space Administration,United States,361.06,210.62,180.53,752.21,USD,synthetic
+EXP-2023-01171,2023-12-01,2023,12,Q4,AGY-002,European Space Agency,Europe,182.06,106.2,91.03,379.29,USD,synthetic
+EXP-2023-01172,2023-12-01,2023,12,Q4,AGY-003,Indian Space Research Organisation,India,93.25,54.39,46.62,194.26,USD,synthetic
+EXP-2023-01173,2023-12-01,2023,12,Q4,AGY-004,Japan Aerospace Exploration Agency,Japan,90.44,52.75,45.22,188.41,USD,synthetic
+EXP-2023-01174,2023-12-01,2023,12,Q4,AGY-005,China National Space Administration,China,193.77,113.03,96.88,403.68,USD,synthetic
+EXP-2023-01175,2023-12-01,2023,12,Q4,AGY-006,State Space Corporation Roscosmos,Russia,97.87,57.09,48.93,203.89,USD,synthetic
+EXP-2023-01176,2023-12-01,2023,12,Q4,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,99.17,57.85,49.58,206.6,USD,synthetic
+EXP-2024-01177,2024-01-01,2024,1,Q1,AGY-001,National Aeronautics and Space Administration,United States,308.62,180.03,154.31,642.96,USD,synthetic
+EXP-2024-01178,2024-01-01,2024,1,Q1,AGY-002,European Space Agency,Europe,160.01,93.34,80.0,333.35,USD,synthetic
+EXP-2024-01179,2024-01-01,2024,1,Q1,AGY-003,Indian Space Research Organisation,India,79.85,46.58,39.93,166.36,USD,synthetic
+EXP-2024-01180,2024-01-01,2024,1,Q1,AGY-004,Japan Aerospace Exploration Agency,Japan,83.88,48.93,41.94,174.75,USD,synthetic
+EXP-2024-01181,2024-01-01,2024,1,Q1,AGY-005,China National Space Administration,China,152.09,88.72,76.05,316.86,USD,synthetic
+EXP-2024-01182,2024-01-01,2024,1,Q1,AGY-006,State Space Corporation Roscosmos,Russia,78.23,45.64,39.12,162.99,USD,synthetic
+EXP-2024-01183,2024-01-01,2024,1,Q1,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,81.13,47.33,40.57,169.03,USD,synthetic
+EXP-2024-01184,2024-02-01,2024,2,Q1,AGY-001,National Aeronautics and Space Administration,United States,306.09,178.55,153.05,637.69,USD,synthetic
+EXP-2024-01185,2024-02-01,2024,2,Q1,AGY-002,European Space Agency,Europe,164.2,95.78,82.1,342.08,USD,synthetic
+EXP-2024-01186,2024-02-01,2024,2,Q1,AGY-003,Indian Space Research Organisation,India,80.21,46.79,40.11,167.11,USD,synthetic
+EXP-2024-01187,2024-02-01,2024,2,Q1,AGY-004,Japan Aerospace Exploration Agency,Japan,78.33,45.69,39.17,163.19,USD,synthetic
+EXP-2024-01188,2024-02-01,2024,2,Q1,AGY-005,China National Space Administration,China,157.07,91.62,78.53,327.22,USD,synthetic
+EXP-2024-01189,2024-02-01,2024,2,Q1,AGY-006,State Space Corporation Roscosmos,Russia,78.65,45.88,39.33,163.86,USD,synthetic
+EXP-2024-01190,2024-02-01,2024,2,Q1,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,78.74,45.93,39.37,164.04,USD,synthetic
+EXP-2024-01191,2024-03-01,2024,3,Q1,AGY-001,National Aeronautics and Space Administration,United States,332.31,193.85,166.15,692.31,USD,synthetic
+EXP-2024-01192,2024-03-01,2024,3,Q1,AGY-002,European Space Agency,Europe,171.6,100.1,85.8,357.5,USD,synthetic
+EXP-2024-01193,2024-03-01,2024,3,Q1,AGY-003,Indian Space Research Organisation,India,80.52,46.97,40.26,167.75,USD,synthetic
+EXP-2024-01194,2024-03-01,2024,3,Q1,AGY-004,Japan Aerospace Exploration Agency,Japan,86.92,50.71,43.46,181.09,USD,synthetic
+EXP-2024-01195,2024-03-01,2024,3,Q1,AGY-005,China National Space Administration,China,170.2,99.28,85.1,354.58,USD,synthetic
+EXP-2024-01196,2024-03-01,2024,3,Q1,AGY-006,State Space Corporation Roscosmos,Russia,83.9,48.94,41.95,174.79,USD,synthetic
+EXP-2024-01197,2024-03-01,2024,3,Q1,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,88.15,51.42,44.08,183.65,USD,synthetic
+EXP-2024-01198,2024-04-01,2024,4,Q2,AGY-001,National Aeronautics and Space Administration,United States,342.26,199.65,171.13,713.04,USD,synthetic
+EXP-2024-01199,2024-04-01,2024,4,Q2,AGY-002,European Space Agency,Europe,169.66,98.97,84.83,353.46,USD,synthetic
+EXP-2024-01200,2024-04-01,2024,4,Q2,AGY-003,Indian Space Research Organisation,India,80.2,46.78,40.1,167.08,USD,synthetic
+EXP-2024-01201,2024-04-01,2024,4,Q2,AGY-004,Japan Aerospace Exploration Agency,Japan,89.87,52.43,44.94,187.24,USD,synthetic
+EXP-2024-01202,2024-04-01,2024,4,Q2,AGY-005,China National Space Administration,China,170.46,99.44,85.23,355.13,USD,synthetic
+EXP-2024-01203,2024-04-01,2024,4,Q2,AGY-006,State Space Corporation Roscosmos,Russia,82.08,47.88,41.04,171.0,USD,synthetic
+EXP-2024-01204,2024-04-01,2024,4,Q2,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,85.14,49.66,42.57,177.37,USD,synthetic
+EXP-2024-01205,2024-05-01,2024,5,Q2,AGY-001,National Aeronautics and Space Administration,United States,329.18,192.02,164.59,685.79,USD,synthetic
+EXP-2024-01206,2024-05-01,2024,5,Q2,AGY-002,European Space Agency,Europe,161.95,94.47,80.98,337.4,USD,synthetic
+EXP-2024-01207,2024-05-01,2024,5,Q2,AGY-003,Indian Space Research Organisation,India,89.65,52.3,44.83,186.78,USD,synthetic
+EXP-2024-01208,2024-05-01,2024,5,Q2,AGY-004,Japan Aerospace Exploration Agency,Japan,89.28,52.08,44.64,186.0,USD,synthetic
+EXP-2024-01209,2024-05-01,2024,5,Q2,AGY-005,China National Space Administration,China,160.57,93.67,80.29,334.53,USD,synthetic
+EXP-2024-01210,2024-05-01,2024,5,Q2,AGY-006,State Space Corporation Roscosmos,Russia,82.38,48.06,41.19,171.63,USD,synthetic
+EXP-2024-01211,2024-05-01,2024,5,Q2,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,82.36,48.04,41.18,171.58,USD,synthetic
+EXP-2024-01212,2024-06-01,2024,6,Q2,AGY-001,National Aeronautics and Space Administration,United States,347.5,202.71,173.75,723.96,USD,synthetic
+EXP-2024-01213,2024-06-01,2024,6,Q2,AGY-002,European Space Agency,Europe,177.88,103.76,88.94,370.58,USD,synthetic
+EXP-2024-01214,2024-06-01,2024,6,Q2,AGY-003,Indian Space Research Organisation,India,88.21,51.45,44.1,183.76,USD,synthetic
+EXP-2024-01215,2024-06-01,2024,6,Q2,AGY-004,Japan Aerospace Exploration Agency,Japan,82.51,48.13,41.25,171.89,USD,synthetic
+EXP-2024-01216,2024-06-01,2024,6,Q2,AGY-005,China National Space Administration,China,175.84,102.58,87.92,366.34,USD,synthetic
+EXP-2024-01217,2024-06-01,2024,6,Q2,AGY-006,State Space Corporation Roscosmos,Russia,86.83,50.65,43.41,180.89,USD,synthetic
+EXP-2024-01218,2024-06-01,2024,6,Q2,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,84.93,49.54,42.47,176.94,USD,synthetic
+EXP-2024-01219,2024-07-01,2024,7,Q3,AGY-001,National Aeronautics and Space Administration,United States,356.0,207.67,178.0,741.67,USD,synthetic
+EXP-2024-01220,2024-07-01,2024,7,Q3,AGY-002,European Space Agency,Europe,163.88,95.59,81.94,341.41,USD,synthetic
+EXP-2024-01221,2024-07-01,2024,7,Q3,AGY-003,Indian Space Research Organisation,India,85.86,50.08,42.93,178.87,USD,synthetic
+EXP-2024-01222,2024-07-01,2024,7,Q3,AGY-004,Japan Aerospace Exploration Agency,Japan,89.52,52.22,44.76,186.5,USD,synthetic
+EXP-2024-01223,2024-07-01,2024,7,Q3,AGY-005,China National Space Administration,China,174.38,101.72,87.19,363.29,USD,synthetic
+EXP-2024-01224,2024-07-01,2024,7,Q3,AGY-006,State Space Corporation Roscosmos,Russia,82.44,48.09,41.22,171.75,USD,synthetic
+EXP-2024-01225,2024-07-01,2024,7,Q3,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,89.79,52.38,44.9,187.07,USD,synthetic
+EXP-2024-01226,2024-08-01,2024,8,Q3,AGY-001,National Aeronautics and Space Administration,United States,334.16,194.93,167.08,696.17,USD,synthetic
+EXP-2024-01227,2024-08-01,2024,8,Q3,AGY-002,European Space Agency,Europe,179.71,104.83,89.86,374.4,USD,synthetic
+EXP-2024-01228,2024-08-01,2024,8,Q3,AGY-003,Indian Space Research Organisation,India,86.52,50.47,43.26,180.25,USD,synthetic
+EXP-2024-01229,2024-08-01,2024,8,Q3,AGY-004,Japan Aerospace Exploration Agency,Japan,89.44,52.17,44.72,186.33,USD,synthetic
+EXP-2024-01230,2024-08-01,2024,8,Q3,AGY-005,China National Space Administration,China,166.22,96.96,83.11,346.29,USD,synthetic
+EXP-2024-01231,2024-08-01,2024,8,Q3,AGY-006,State Space Corporation Roscosmos,Russia,90.13,52.58,45.07,187.78,USD,synthetic
+EXP-2024-01232,2024-08-01,2024,8,Q3,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,80.77,47.12,40.39,168.28,USD,synthetic
+EXP-2024-01233,2024-09-01,2024,9,Q3,AGY-001,National Aeronautics and Space Administration,United States,321.17,187.35,160.58,669.1,USD,synthetic
+EXP-2024-01234,2024-09-01,2024,9,Q3,AGY-002,European Space Agency,Europe,178.5,104.13,89.25,371.88,USD,synthetic
+EXP-2024-01235,2024-09-01,2024,9,Q3,AGY-003,Indian Space Research Organisation,India,88.48,51.61,44.24,184.33,USD,synthetic
+EXP-2024-01236,2024-09-01,2024,9,Q3,AGY-004,Japan Aerospace Exploration Agency,Japan,83.02,48.43,41.51,172.96,USD,synthetic
+EXP-2024-01237,2024-09-01,2024,9,Q3,AGY-005,China National Space Administration,China,177.54,103.56,88.77,369.87,USD,synthetic
+EXP-2024-01238,2024-09-01,2024,9,Q3,AGY-006,State Space Corporation Roscosmos,Russia,83.79,48.88,41.9,174.57,USD,synthetic
+EXP-2024-01239,2024-09-01,2024,9,Q3,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,89.55,52.24,44.77,186.56,USD,synthetic
+EXP-2024-01240,2024-10-01,2024,10,Q4,AGY-001,National Aeronautics and Space Administration,United States,326.69,190.57,163.35,680.61,USD,synthetic
+EXP-2024-01241,2024-10-01,2024,10,Q4,AGY-002,European Space Agency,Europe,164.28,95.83,82.14,342.25,USD,synthetic
+EXP-2024-01242,2024-10-01,2024,10,Q4,AGY-003,Indian Space Research Organisation,India,80.32,46.85,40.16,167.33,USD,synthetic
+EXP-2024-01243,2024-10-01,2024,10,Q4,AGY-004,Japan Aerospace Exploration Agency,Japan,86.94,50.71,43.47,181.12,USD,synthetic
+EXP-2024-01244,2024-10-01,2024,10,Q4,AGY-005,China National Space Administration,China,168.04,98.02,84.02,350.08,USD,synthetic
+EXP-2024-01245,2024-10-01,2024,10,Q4,AGY-006,State Space Corporation Roscosmos,Russia,89.37,52.13,44.68,186.18,USD,synthetic
+EXP-2024-01246,2024-10-01,2024,10,Q4,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,89.95,52.47,44.98,187.4,USD,synthetic
+EXP-2024-01247,2024-11-01,2024,11,Q4,AGY-001,National Aeronautics and Space Administration,United States,369.25,215.39,184.62,769.26,USD,synthetic
+EXP-2024-01248,2024-11-01,2024,11,Q4,AGY-002,European Space Agency,Europe,191.18,111.52,95.59,398.29,USD,synthetic
+EXP-2024-01249,2024-11-01,2024,11,Q4,AGY-003,Indian Space Research Organisation,India,100.83,58.82,50.42,210.07,USD,synthetic
+EXP-2024-01250,2024-11-01,2024,11,Q4,AGY-004,Japan Aerospace Exploration Agency,Japan,100.25,58.48,50.12,208.85,USD,synthetic
+EXP-2024-01251,2024-11-01,2024,11,Q4,AGY-005,China National Space Administration,China,194.63,113.54,97.32,405.49,USD,synthetic
+EXP-2024-01252,2024-11-01,2024,11,Q4,AGY-006,State Space Corporation Roscosmos,Russia,93.78,54.71,46.89,195.38,USD,synthetic
+EXP-2024-01253,2024-11-01,2024,11,Q4,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,98.86,57.67,49.43,205.96,USD,synthetic
+EXP-2024-01254,2024-12-01,2024,12,Q4,AGY-001,National Aeronautics and Space Administration,United States,391.33,228.27,195.66,815.26,USD,synthetic
+EXP-2024-01255,2024-12-01,2024,12,Q4,AGY-002,European Space Agency,Europe,185.94,108.47,92.97,387.38,USD,synthetic
+EXP-2024-01256,2024-12-01,2024,12,Q4,AGY-003,Indian Space Research Organisation,India,102.85,59.99,51.42,214.26,USD,synthetic
+EXP-2024-01257,2024-12-01,2024,12,Q4,AGY-004,Japan Aerospace Exploration Agency,Japan,94.2,54.95,47.1,196.25,USD,synthetic
+EXP-2024-01258,2024-12-01,2024,12,Q4,AGY-005,China National Space Administration,China,195.73,114.18,97.87,407.78,USD,synthetic
+EXP-2024-01259,2024-12-01,2024,12,Q4,AGY-006,State Space Corporation Roscosmos,Russia,102.46,59.77,51.23,213.46,USD,synthetic
+EXP-2024-01260,2024-12-01,2024,12,Q4,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,101.61,59.28,50.81,211.7,USD,synthetic
+EXP-2025-01261,2025-01-01,2025,1,Q1,AGY-001,National Aeronautics and Space Administration,United States,335.9,195.94,167.95,699.79,USD,synthetic
+EXP-2025-01262,2025-01-01,2025,1,Q1,AGY-002,European Space Agency,Europe,166.76,97.28,83.38,347.42,USD,synthetic
+EXP-2025-01263,2025-01-01,2025,1,Q1,AGY-003,Indian Space Research Organisation,India,81.18,47.36,40.59,169.13,USD,synthetic
+EXP-2025-01264,2025-01-01,2025,1,Q1,AGY-004,Japan Aerospace Exploration Agency,Japan,84.33,49.19,42.16,175.68,USD,synthetic
+EXP-2025-01265,2025-01-01,2025,1,Q1,AGY-005,China National Space Administration,China,164.75,96.1,82.37,343.22,USD,synthetic
+EXP-2025-01266,2025-01-01,2025,1,Q1,AGY-006,State Space Corporation Roscosmos,Russia,86.25,50.31,43.12,179.68,USD,synthetic
+EXP-2025-01267,2025-01-01,2025,1,Q1,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,86.04,50.19,43.02,179.25,USD,synthetic
+EXP-2025-01268,2025-02-01,2025,2,Q1,AGY-001,National Aeronautics and Space Administration,United States,346.92,202.37,173.46,722.75,USD,synthetic
+EXP-2025-01269,2025-02-01,2025,2,Q1,AGY-002,European Space Agency,Europe,163.01,95.09,81.5,339.6,USD,synthetic
+EXP-2025-01270,2025-02-01,2025,2,Q1,AGY-003,Indian Space Research Organisation,India,81.09,47.3,40.54,168.93,USD,synthetic
+EXP-2025-01271,2025-02-01,2025,2,Q1,AGY-004,Japan Aerospace Exploration Agency,Japan,78.03,45.52,39.01,162.56,USD,synthetic
+EXP-2025-01272,2025-02-01,2025,2,Q1,AGY-005,China National Space Administration,China,175.25,102.23,87.63,365.11,USD,synthetic
+EXP-2025-01273,2025-02-01,2025,2,Q1,AGY-006,State Space Corporation Roscosmos,Russia,84.77,49.45,42.38,176.6,USD,synthetic
+EXP-2025-01274,2025-02-01,2025,2,Q1,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,81.7,47.66,40.85,170.21,USD,synthetic
+EXP-2025-01275,2025-03-01,2025,3,Q1,AGY-001,National Aeronautics and Space Administration,United States,350.03,204.18,175.01,729.22,USD,synthetic
+EXP-2025-01276,2025-03-01,2025,3,Q1,AGY-002,European Space Agency,Europe,184.24,107.47,92.12,383.83,USD,synthetic
+EXP-2025-01277,2025-03-01,2025,3,Q1,AGY-003,Indian Space Research Organisation,India,92.13,53.74,46.07,191.94,USD,synthetic
+EXP-2025-01278,2025-03-01,2025,3,Q1,AGY-004,Japan Aerospace Exploration Agency,Japan,90.56,52.83,45.28,188.67,USD,synthetic
+EXP-2025-01279,2025-03-01,2025,3,Q1,AGY-005,China National Space Administration,China,181.94,106.13,90.97,379.04,USD,synthetic
+EXP-2025-01280,2025-03-01,2025,3,Q1,AGY-006,State Space Corporation Roscosmos,Russia,88.07,51.37,44.03,183.47,USD,synthetic
+EXP-2025-01281,2025-03-01,2025,3,Q1,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,88.22,51.46,44.11,183.79,USD,synthetic
+EXP-2025-01282,2025-04-01,2025,4,Q2,AGY-001,National Aeronautics and Space Administration,United States,354.58,206.84,177.29,738.71,USD,synthetic
+EXP-2025-01283,2025-04-01,2025,4,Q2,AGY-002,European Space Agency,Europe,183.46,107.02,91.73,382.21,USD,synthetic
+EXP-2025-01284,2025-04-01,2025,4,Q2,AGY-003,Indian Space Research Organisation,India,90.03,52.52,45.01,187.56,USD,synthetic
+EXP-2025-01285,2025-04-01,2025,4,Q2,AGY-004,Japan Aerospace Exploration Agency,Japan,92.09,53.72,46.05,191.86,USD,synthetic
+EXP-2025-01286,2025-04-01,2025,4,Q2,AGY-005,China National Space Administration,China,178.32,104.02,89.16,371.5,USD,synthetic
+EXP-2025-01287,2025-04-01,2025,4,Q2,AGY-006,State Space Corporation Roscosmos,Russia,87.69,51.15,43.85,182.69,USD,synthetic
+EXP-2025-01288,2025-04-01,2025,4,Q2,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,84.21,49.12,42.11,175.44,USD,synthetic
+EXP-2025-01289,2025-05-01,2025,5,Q2,AGY-001,National Aeronautics and Space Administration,United States,352.46,205.6,176.23,734.29,USD,synthetic
+EXP-2025-01290,2025-05-01,2025,5,Q2,AGY-002,European Space Agency,Europe,186.57,108.83,93.28,388.68,USD,synthetic
+EXP-2025-01291,2025-05-01,2025,5,Q2,AGY-003,Indian Space Research Organisation,India,93.06,54.28,46.53,193.87,USD,synthetic
+EXP-2025-01292,2025-05-01,2025,5,Q2,AGY-004,Japan Aerospace Exploration Agency,Japan,86.61,50.53,43.31,180.45,USD,synthetic
+EXP-2025-01293,2025-05-01,2025,5,Q2,AGY-005,China National Space Administration,China,167.16,97.51,83.58,348.25,USD,synthetic
+EXP-2025-01294,2025-05-01,2025,5,Q2,AGY-006,State Space Corporation Roscosmos,Russia,88.17,51.43,44.09,183.69,USD,synthetic
+EXP-2025-01295,2025-05-01,2025,5,Q2,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,83.41,48.65,41.7,173.76,USD,synthetic
+EXP-2025-01296,2025-06-01,2025,6,Q2,AGY-001,National Aeronautics and Space Administration,United States,359.54,209.73,179.77,749.04,USD,synthetic
+EXP-2025-01297,2025-06-01,2025,6,Q2,AGY-002,European Space Agency,Europe,180.06,105.04,90.03,375.13,USD,synthetic
+EXP-2025-01298,2025-06-01,2025,6,Q2,AGY-003,Indian Space Research Organisation,India,84.8,49.47,42.4,176.67,USD,synthetic
+EXP-2025-01299,2025-06-01,2025,6,Q2,AGY-004,Japan Aerospace Exploration Agency,Japan,84.38,49.22,42.19,175.79,USD,synthetic
+EXP-2025-01300,2025-06-01,2025,6,Q2,AGY-005,China National Space Administration,China,177.04,103.27,88.52,368.83,USD,synthetic
+EXP-2025-01301,2025-06-01,2025,6,Q2,AGY-006,State Space Corporation Roscosmos,Russia,89.27,52.07,44.63,185.97,USD,synthetic
+EXP-2025-01302,2025-06-01,2025,6,Q2,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,90.08,52.55,45.04,187.67,USD,synthetic
+EXP-2025-01303,2025-07-01,2025,7,Q3,AGY-001,National Aeronautics and Space Administration,United States,371.86,216.92,185.93,774.71,USD,synthetic
+EXP-2025-01304,2025-07-01,2025,7,Q3,AGY-002,European Space Agency,Europe,167.09,97.47,83.55,348.11,USD,synthetic
+EXP-2025-01305,2025-07-01,2025,7,Q3,AGY-003,Indian Space Research Organisation,India,87.68,51.15,43.84,182.67,USD,synthetic
+EXP-2025-01306,2025-07-01,2025,7,Q3,AGY-004,Japan Aerospace Exploration Agency,Japan,83.37,48.63,41.69,173.69,USD,synthetic
+EXP-2025-01307,2025-07-01,2025,7,Q3,AGY-005,China National Space Administration,China,169.54,98.9,84.77,353.21,USD,synthetic
+EXP-2025-01308,2025-07-01,2025,7,Q3,AGY-006,State Space Corporation Roscosmos,Russia,90.71,52.92,45.36,188.99,USD,synthetic
+EXP-2025-01309,2025-07-01,2025,7,Q3,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,93.08,54.3,46.54,193.92,USD,synthetic
+EXP-2025-01310,2025-08-01,2025,8,Q3,AGY-001,National Aeronautics and Space Administration,United States,358.76,209.28,179.38,747.42,USD,synthetic
+EXP-2025-01311,2025-08-01,2025,8,Q3,AGY-002,European Space Agency,Europe,171.82,100.23,85.91,357.96,USD,synthetic
+EXP-2025-01312,2025-08-01,2025,8,Q3,AGY-003,Indian Space Research Organisation,India,91.55,53.41,45.78,190.74,USD,synthetic
+EXP-2025-01313,2025-08-01,2025,8,Q3,AGY-004,Japan Aerospace Exploration Agency,Japan,83.87,48.92,41.93,174.72,USD,synthetic
+EXP-2025-01314,2025-08-01,2025,8,Q3,AGY-005,China National Space Administration,China,178.84,104.32,89.42,372.58,USD,synthetic
+EXP-2025-01315,2025-08-01,2025,8,Q3,AGY-006,State Space Corporation Roscosmos,Russia,92.18,53.77,46.09,192.04,USD,synthetic
+EXP-2025-01316,2025-08-01,2025,8,Q3,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,88.87,51.84,44.44,185.15,USD,synthetic
+EXP-2025-01317,2025-09-01,2025,9,Q3,AGY-001,National Aeronautics and Space Administration,United States,334.54,195.15,167.27,696.96,USD,synthetic
+EXP-2025-01318,2025-09-01,2025,9,Q3,AGY-002,European Space Agency,Europe,167.59,97.76,83.8,349.15,USD,synthetic
+EXP-2025-01319,2025-09-01,2025,9,Q3,AGY-003,Indian Space Research Organisation,India,91.2,53.2,45.6,190.0,USD,synthetic
+EXP-2025-01320,2025-09-01,2025,9,Q3,AGY-004,Japan Aerospace Exploration Agency,Japan,85.58,49.92,42.79,178.29,USD,synthetic
+EXP-2025-01321,2025-09-01,2025,9,Q3,AGY-005,China National Space Administration,China,167.36,97.62,83.68,348.66,USD,synthetic
+EXP-2025-01322,2025-09-01,2025,9,Q3,AGY-006,State Space Corporation Roscosmos,Russia,84.76,49.45,42.38,176.59,USD,synthetic
+EXP-2025-01323,2025-09-01,2025,9,Q3,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,87.55,51.07,43.77,182.39,USD,synthetic
+EXP-2025-01324,2025-10-01,2025,10,Q4,AGY-001,National Aeronautics and Space Administration,United States,343.67,200.48,171.84,715.99,USD,synthetic
+EXP-2025-01325,2025-10-01,2025,10,Q4,AGY-002,European Space Agency,Europe,183.61,107.11,91.81,382.53,USD,synthetic
+EXP-2025-01326,2025-10-01,2025,10,Q4,AGY-003,Indian Space Research Organisation,India,86.43,50.42,43.22,180.07,USD,synthetic
+EXP-2025-01327,2025-10-01,2025,10,Q4,AGY-004,Japan Aerospace Exploration Agency,Japan,92.29,53.83,46.14,192.26,USD,synthetic
+EXP-2025-01328,2025-10-01,2025,10,Q4,AGY-005,China National Space Administration,China,179.78,104.87,89.89,374.54,USD,synthetic
+EXP-2025-01329,2025-10-01,2025,10,Q4,AGY-006,State Space Corporation Roscosmos,Russia,84.25,49.14,42.12,175.51,USD,synthetic
+EXP-2025-01330,2025-10-01,2025,10,Q4,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,91.73,53.51,45.86,191.1,USD,synthetic
+EXP-2025-01331,2025-11-01,2025,11,Q4,AGY-001,National Aeronautics and Space Administration,United States,429.11,250.31,214.56,893.98,USD,synthetic
+EXP-2025-01332,2025-11-01,2025,11,Q4,AGY-002,European Space Agency,Europe,206.76,120.61,103.38,430.75,USD,synthetic
+EXP-2025-01333,2025-11-01,2025,11,Q4,AGY-003,Indian Space Research Organisation,India,104.07,60.71,52.04,216.82,USD,synthetic
+EXP-2025-01334,2025-11-01,2025,11,Q4,AGY-004,Japan Aerospace Exploration Agency,Japan,101.12,58.98,50.56,210.66,USD,synthetic
+EXP-2025-01335,2025-11-01,2025,11,Q4,AGY-005,China National Space Administration,China,196.55,114.65,98.27,409.47,USD,synthetic
+EXP-2025-01336,2025-11-01,2025,11,Q4,AGY-006,State Space Corporation Roscosmos,Russia,106.73,62.26,53.36,222.35,USD,synthetic
+EXP-2025-01337,2025-11-01,2025,11,Q4,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,97.89,57.1,48.94,203.93,USD,synthetic
+EXP-2025-01338,2025-12-01,2025,12,Q4,AGY-001,National Aeronautics and Space Administration,United States,404.38,235.89,202.19,842.46,USD,synthetic
+EXP-2025-01339,2025-12-01,2025,12,Q4,AGY-002,European Space Agency,Europe,210.72,122.92,105.36,439.0,USD,synthetic
+EXP-2025-01340,2025-12-01,2025,12,Q4,AGY-003,Indian Space Research Organisation,India,106.55,62.15,53.28,221.98,USD,synthetic
+EXP-2025-01341,2025-12-01,2025,12,Q4,AGY-004,Japan Aerospace Exploration Agency,Japan,97.03,56.6,48.51,202.14,USD,synthetic
+EXP-2025-01342,2025-12-01,2025,12,Q4,AGY-005,China National Space Administration,China,193.34,112.78,96.67,402.79,USD,synthetic
+EXP-2025-01343,2025-12-01,2025,12,Q4,AGY-006,State Space Corporation Roscosmos,Russia,105.05,61.28,52.53,218.86,USD,synthetic
+EXP-2025-01344,2025-12-01,2025,12,Q4,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,102.59,59.84,51.29,213.72,USD,synthetic
+EXP-2026-01345,2026-01-01,2026,1,Q1,AGY-001,National Aeronautics and Space Administration,United States,348.21,203.12,174.11,725.44,USD,synthetic
+EXP-2026-01346,2026-01-01,2026,1,Q1,AGY-002,European Space Agency,Europe,176.76,103.11,88.38,368.25,USD,synthetic
+EXP-2026-01347,2026-01-01,2026,1,Q1,AGY-003,Indian Space Research Organisation,India,85.0,49.58,42.5,177.08,USD,synthetic
+EXP-2026-01348,2026-01-01,2026,1,Q1,AGY-004,Japan Aerospace Exploration Agency,Japan,86.99,50.74,43.49,181.22,USD,synthetic
+EXP-2026-01349,2026-01-01,2026,1,Q1,AGY-005,China National Space Administration,China,169.71,99.0,84.85,353.56,USD,synthetic
+EXP-2026-01350,2026-01-01,2026,1,Q1,AGY-006,State Space Corporation Roscosmos,Russia,90.48,52.78,45.24,188.5,USD,synthetic
+EXP-2026-01351,2026-01-01,2026,1,Q1,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,83.15,48.51,41.58,173.24,USD,synthetic
+EXP-2026-01352,2026-02-01,2026,2,Q1,AGY-001,National Aeronautics and Space Administration,United States,348.72,203.42,174.36,726.5,USD,synthetic
+EXP-2026-01353,2026-02-01,2026,2,Q1,AGY-002,European Space Agency,Europe,166.85,97.33,83.43,347.61,USD,synthetic
+EXP-2026-01354,2026-02-01,2026,2,Q1,AGY-003,Indian Space Research Organisation,India,81.34,47.45,40.67,169.46,USD,synthetic
+EXP-2026-01355,2026-02-01,2026,2,Q1,AGY-004,Japan Aerospace Exploration Agency,Japan,84.77,49.45,42.39,176.61,USD,synthetic
+EXP-2026-01356,2026-02-01,2026,2,Q1,AGY-005,China National Space Administration,China,172.66,100.72,86.33,359.71,USD,synthetic
+EXP-2026-01357,2026-02-01,2026,2,Q1,AGY-006,State Space Corporation Roscosmos,Russia,81.66,47.64,40.83,170.13,USD,synthetic
+EXP-2026-01358,2026-02-01,2026,2,Q1,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,80.88,47.18,40.44,168.5,USD,synthetic
+EXP-2026-01359,2026-03-01,2026,3,Q1,AGY-001,National Aeronautics and Space Administration,United States,357.83,208.74,178.92,745.49,USD,synthetic
+EXP-2026-01360,2026-03-01,2026,3,Q1,AGY-002,European Space Agency,Europe,173.1,100.97,86.55,360.62,USD,synthetic
+EXP-2026-01361,2026-03-01,2026,3,Q1,AGY-003,Indian Space Research Organisation,India,88.44,51.59,44.22,184.25,USD,synthetic
+EXP-2026-01362,2026-03-01,2026,3,Q1,AGY-004,Japan Aerospace Exploration Agency,Japan,95.05,55.45,47.53,198.03,USD,synthetic
+EXP-2026-01363,2026-03-01,2026,3,Q1,AGY-005,China National Space Administration,China,179.39,104.64,89.69,373.72,USD,synthetic
+EXP-2026-01364,2026-03-01,2026,3,Q1,AGY-006,State Space Corporation Roscosmos,Russia,88.46,51.6,44.23,184.29,USD,synthetic
+EXP-2026-01365,2026-03-01,2026,3,Q1,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,94.62,55.2,47.31,197.13,USD,synthetic
+EXP-2026-01366,2026-04-01,2026,4,Q2,AGY-001,National Aeronautics and Space Administration,United States,374.11,218.23,187.06,779.4,USD,synthetic
+EXP-2026-01367,2026-04-01,2026,4,Q2,AGY-002,European Space Agency,Europe,176.42,102.91,88.21,367.54,USD,synthetic
+EXP-2026-01368,2026-04-01,2026,4,Q2,AGY-003,Indian Space Research Organisation,India,92.1,53.73,46.05,191.88,USD,synthetic
+EXP-2026-01369,2026-04-01,2026,4,Q2,AGY-004,Japan Aerospace Exploration Agency,Japan,90.13,52.57,45.06,187.76,USD,synthetic
+EXP-2026-01370,2026-04-01,2026,4,Q2,AGY-005,China National Space Administration,China,173.22,101.05,86.61,360.88,USD,synthetic
+EXP-2026-01371,2026-04-01,2026,4,Q2,AGY-006,State Space Corporation Roscosmos,Russia,90.84,52.99,45.42,189.25,USD,synthetic
+EXP-2026-01372,2026-04-01,2026,4,Q2,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,87.42,50.99,43.71,182.12,USD,synthetic
+EXP-2026-01373,2026-05-01,2026,5,Q2,AGY-001,National Aeronautics and Space Administration,United States,360.62,210.36,180.31,751.29,USD,synthetic
+EXP-2026-01374,2026-05-01,2026,5,Q2,AGY-002,European Space Agency,Europe,180.77,105.45,90.38,376.6,USD,synthetic
+EXP-2026-01375,2026-05-01,2026,5,Q2,AGY-003,Indian Space Research Organisation,India,92.21,53.79,46.1,192.1,USD,synthetic
+EXP-2026-01376,2026-05-01,2026,5,Q2,AGY-004,Japan Aerospace Exploration Agency,Japan,88.46,51.6,44.23,184.29,USD,synthetic
+EXP-2026-01377,2026-05-01,2026,5,Q2,AGY-005,China National Space Administration,China,175.96,102.64,87.98,366.58,USD,synthetic
+EXP-2026-01378,2026-05-01,2026,5,Q2,AGY-006,State Space Corporation Roscosmos,Russia,89.62,52.28,44.81,186.71,USD,synthetic
+EXP-2026-01379,2026-05-01,2026,5,Q2,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,86.78,50.62,43.39,180.79,USD,synthetic
+EXP-2026-01380,2026-06-01,2026,6,Q2,AGY-001,National Aeronautics and Space Administration,United States,360.79,210.46,180.4,751.65,USD,synthetic
+EXP-2026-01381,2026-06-01,2026,6,Q2,AGY-002,European Space Agency,Europe,174.21,101.62,87.1,362.93,USD,synthetic
+EXP-2026-01382,2026-06-01,2026,6,Q2,AGY-003,Indian Space Research Organisation,India,86.34,50.36,43.17,179.87,USD,synthetic
+EXP-2026-01383,2026-06-01,2026,6,Q2,AGY-004,Japan Aerospace Exploration Agency,Japan,88.27,51.49,44.14,183.9,USD,synthetic
+EXP-2026-01384,2026-06-01,2026,6,Q2,AGY-005,China National Space Administration,China,176.25,102.81,88.13,367.19,USD,synthetic
+EXP-2026-01385,2026-06-01,2026,6,Q2,AGY-006,State Space Corporation Roscosmos,Russia,94.6,55.18,47.3,197.08,USD,synthetic
+EXP-2026-01386,2026-06-01,2026,6,Q2,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,90.07,52.54,45.04,187.65,USD,synthetic
+EXP-2026-01387,2026-07-01,2026,7,Q3,AGY-001,National Aeronautics and Space Administration,United States,352.82,205.81,176.41,735.04,USD,synthetic
+EXP-2026-01388,2026-07-01,2026,7,Q3,AGY-002,European Space Agency,Europe,179.74,104.85,89.87,374.46,USD,synthetic
+EXP-2026-01389,2026-07-01,2026,7,Q3,AGY-003,Indian Space Research Organisation,India,94.5,55.12,47.25,196.87,USD,synthetic
+EXP-2026-01390,2026-07-01,2026,7,Q3,AGY-004,Japan Aerospace Exploration Agency,Japan,91.45,53.35,45.73,190.53,USD,synthetic
+EXP-2026-01391,2026-07-01,2026,7,Q3,AGY-005,China National Space Administration,China,171.22,99.88,85.61,356.71,USD,synthetic
+EXP-2026-01392,2026-07-01,2026,7,Q3,AGY-006,State Space Corporation Roscosmos,Russia,92.54,53.98,46.27,192.79,USD,synthetic
+EXP-2026-01393,2026-07-01,2026,7,Q3,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,85.4,49.82,42.7,177.92,USD,synthetic
+EXP-2026-01394,2026-08-01,2026,8,Q3,AGY-001,National Aeronautics and Space Administration,United States,354.54,206.82,177.27,738.63,USD,synthetic
+EXP-2026-01395,2026-08-01,2026,8,Q3,AGY-002,European Space Agency,Europe,180.64,105.38,90.32,376.34,USD,synthetic
+EXP-2026-01396,2026-08-01,2026,8,Q3,AGY-003,Indian Space Research Organisation,India,92.14,53.75,46.07,191.96,USD,synthetic
+EXP-2026-01397,2026-08-01,2026,8,Q3,AGY-004,Japan Aerospace Exploration Agency,Japan,91.45,53.34,45.72,190.51,USD,synthetic
+EXP-2026-01398,2026-08-01,2026,8,Q3,AGY-005,China National Space Administration,China,172.75,100.77,86.37,359.89,USD,synthetic
+EXP-2026-01399,2026-08-01,2026,8,Q3,AGY-006,State Space Corporation Roscosmos,Russia,92.33,53.86,46.17,192.36,USD,synthetic
+EXP-2026-01400,2026-08-01,2026,8,Q3,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,93.58,54.59,46.79,194.96,USD,synthetic
+EXP-2026-01401,2026-09-01,2026,9,Q3,AGY-001,National Aeronautics and Space Administration,United States,342.72,199.92,171.36,714.0,USD,synthetic
+EXP-2026-01402,2026-09-01,2026,9,Q3,AGY-002,European Space Agency,Europe,183.0,106.75,91.5,381.25,USD,synthetic
+EXP-2026-01403,2026-09-01,2026,9,Q3,AGY-003,Indian Space Research Organisation,India,94.22,54.96,47.11,196.29,USD,synthetic
+EXP-2026-01404,2026-09-01,2026,9,Q3,AGY-004,Japan Aerospace Exploration Agency,Japan,88.23,51.46,44.11,183.8,USD,synthetic
+EXP-2026-01405,2026-09-01,2026,9,Q3,AGY-005,China National Space Administration,China,184.47,107.61,92.24,384.32,USD,synthetic
+EXP-2026-01406,2026-09-01,2026,9,Q3,AGY-006,State Space Corporation Roscosmos,Russia,85.73,50.01,42.87,178.61,USD,synthetic
+EXP-2026-01407,2026-09-01,2026,9,Q3,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,93.89,54.77,46.94,195.6,USD,synthetic
+EXP-2026-01408,2026-10-01,2026,10,Q4,AGY-001,National Aeronautics and Space Administration,United States,357.4,208.48,178.7,744.58,USD,synthetic
+EXP-2026-01409,2026-10-01,2026,10,Q4,AGY-002,European Space Agency,Europe,171.8,100.22,85.9,357.92,USD,synthetic
+EXP-2026-01410,2026-10-01,2026,10,Q4,AGY-003,Indian Space Research Organisation,India,92.71,54.08,46.36,193.15,USD,synthetic
+EXP-2026-01411,2026-10-01,2026,10,Q4,AGY-004,Japan Aerospace Exploration Agency,Japan,87.88,51.26,43.94,183.08,USD,synthetic
+EXP-2026-01412,2026-10-01,2026,10,Q4,AGY-005,China National Space Administration,China,179.79,104.88,89.89,374.56,USD,synthetic
+EXP-2026-01413,2026-10-01,2026,10,Q4,AGY-006,State Space Corporation Roscosmos,Russia,87.25,50.89,43.62,181.76,USD,synthetic
+EXP-2026-01414,2026-10-01,2026,10,Q4,AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,95.37,55.63,47.69,198.69,USD,synthetic

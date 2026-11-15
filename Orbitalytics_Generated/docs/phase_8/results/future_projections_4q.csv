@@ -1,0 +1,69 @@
+domain,series_name,period,forecast,lower_95,upper_95,champion_model,wape_pct
+equipment_demand,Total Equipment Demand,2026Q4,4401.0,4356.9,4445.1,"SARIMA(1,1,1)x(1,0,0)[4]",0.45
+equipment_demand,Total Equipment Demand,2027Q1,4633.7,4589.0,4678.4,"SARIMA(1,1,1)x(1,0,0)[4]",0.45
+equipment_demand,Total Equipment Demand,2027Q2,4671.5,4626.0,4716.9,"SARIMA(1,1,1)x(1,0,0)[4]",0.45
+equipment_demand,Total Equipment Demand,2027Q3,4527.6,4481.4,4573.7,"SARIMA(1,1,1)x(1,0,0)[4]",0.45
+equipment_demand,Cryogenic Tanks,2026Q4,525.4,509.6,541.3,"SARIMA(1,1,1)x(1,0,0)[4]",1.46
+equipment_demand,Cryogenic Tanks,2027Q1,559.2,543.4,575.1,"SARIMA(1,1,1)x(1,0,0)[4]",1.46
+equipment_demand,Cryogenic Tanks,2027Q2,564.3,548.5,580.2,"SARIMA(1,1,1)x(1,0,0)[4]",1.46
+equipment_demand,Cryogenic Tanks,2027Q3,535.7,519.8,551.5,"SARIMA(1,1,1)x(1,0,0)[4]",1.46
+equipment_demand,High-Efficiency Solar Arrays,2026Q4,535.8,520.4,551.3,"SARIMA(1,1,1)x(1,0,0)[4]",1.63
+equipment_demand,High-Efficiency Solar Arrays,2027Q1,562.4,546.9,577.8,"SARIMA(1,1,1)x(1,0,0)[4]",1.63
+equipment_demand,High-Efficiency Solar Arrays,2027Q2,566.4,551.0,581.9,"SARIMA(1,1,1)x(1,0,0)[4]",1.63
+equipment_demand,High-Efficiency Solar Arrays,2027Q3,538.8,523.4,554.3,"SARIMA(1,1,1)x(1,0,0)[4]",1.63
+equipment_demand,Ion Propulsion Engines,2026Q4,533.4,519.5,547.4,"SARIMA(1,1,1)x(1,0,0)[4]",1.79
+equipment_demand,Ion Propulsion Engines,2027Q1,557.9,543.9,571.9,"SARIMA(1,1,1)x(1,0,0)[4]",1.79
+equipment_demand,Ion Propulsion Engines,2027Q2,571.2,557.2,585.2,"SARIMA(1,1,1)x(1,0,0)[4]",1.79
+equipment_demand,Ion Propulsion Engines,2027Q3,546.6,532.6,560.6,"SARIMA(1,1,1)x(1,0,0)[4]",1.79
+equipment_demand,Optical Inter-Satellite Links,2026Q4,580.0,568.5,591.4,"SARIMA(1,1,1)x(1,0,0)[4]",0.88
+equipment_demand,Optical Inter-Satellite Links,2027Q1,613.7,602.3,625.1,"SARIMA(1,1,1)x(1,0,0)[4]",0.88
+equipment_demand,Optical Inter-Satellite Links,2027Q2,620.8,609.4,632.2,"SARIMA(1,1,1)x(1,0,0)[4]",0.88
+equipment_demand,Optical Inter-Satellite Links,2027Q3,611.6,600.2,623.0,"SARIMA(1,1,1)x(1,0,0)[4]",0.88
+equipment_demand,Radiation-Hardened Rad-750 CPUs,2026Q4,592.6,580.0,605.2,"SARIMA(1,1,1)x(1,0,0)[4]",1.02
+equipment_demand,Radiation-Hardened Rad-750 CPUs,2027Q1,615.0,602.4,627.6,"SARIMA(1,1,1)x(1,0,0)[4]",1.02
+equipment_demand,Radiation-Hardened Rad-750 CPUs,2027Q2,621.1,608.5,633.8,"SARIMA(1,1,1)x(1,0,0)[4]",1.02
+equipment_demand,Radiation-Hardened Rad-750 CPUs,2027Q3,595.7,583.0,608.3,"SARIMA(1,1,1)x(1,0,0)[4]",1.02
+equipment_demand,Reaction Wheels,2026Q4,529.9,518.2,541.6,"SARIMA(1,1,1)x(1,0,0)[4]",1.31
+equipment_demand,Reaction Wheels,2027Q1,552.2,540.4,564.0,"SARIMA(1,1,1)x(1,0,0)[4]",1.31
+equipment_demand,Reaction Wheels,2027Q2,561.6,549.8,573.4,"SARIMA(1,1,1)x(1,0,0)[4]",1.31
+equipment_demand,Reaction Wheels,2027Q3,548.3,536.5,560.1,"SARIMA(1,1,1)x(1,0,0)[4]",1.31
+equipment_demand,SAR Radar Antennas,2026Q4,588.2,572.0,604.4,"SARIMA(1,1,1)x(1,0,0)[4]",1.63
+equipment_demand,SAR Radar Antennas,2027Q1,619.4,602.8,636.0,"SARIMA(1,1,1)x(1,0,0)[4]",1.63
+equipment_demand,SAR Radar Antennas,2027Q2,608.7,592.1,625.4,"SARIMA(1,1,1)x(1,0,0)[4]",1.63
+equipment_demand,SAR Radar Antennas,2027Q3,610.7,594.1,627.3,"SARIMA(1,1,1)x(1,0,0)[4]",1.63
+equipment_demand,Star Trackers,2026Q4,520.6,505.1,536.1,"SARIMA(1,1,1)x(1,0,0)[4]",1.59
+equipment_demand,Star Trackers,2027Q1,555.2,539.4,571.0,"SARIMA(1,1,1)x(1,0,0)[4]",1.59
+equipment_demand,Star Trackers,2027Q2,558.3,542.5,574.1,"SARIMA(1,1,1)x(1,0,0)[4]",1.59
+equipment_demand,Star Trackers,2027Q3,540.9,525.1,556.7,"SARIMA(1,1,1)x(1,0,0)[4]",1.59
+resource_consumption,Total Resource Consumption,2026Q4,7048.3,6988.7,7107.9,"SARIMA(1,1,1)x(1,0,0)[4]",0.5
+resource_consumption,Total Resource Consumption,2027Q1,7083.8,7023.6,7143.9,"SARIMA(1,1,1)x(1,0,0)[4]",0.5
+resource_consumption,Total Resource Consumption,2027Q2,6845.5,6785.3,6905.6,"SARIMA(1,1,1)x(1,0,0)[4]",0.5
+resource_consumption,Total Resource Consumption,2027Q3,7003.8,6943.7,7064.0,"SARIMA(1,1,1)x(1,0,0)[4]",0.5
+resource_consumption,Cryogenic Liquid Oxygen (LOX),2026Q4,1217.5,1190.7,1244.3,"SARIMA(1,1,1)x(1,0,0)[4]",1.11
+resource_consumption,Cryogenic Liquid Oxygen (LOX),2027Q1,1225.1,1198.3,1252.0,"SARIMA(1,1,1)x(1,0,0)[4]",1.11
+resource_consumption,Cryogenic Liquid Oxygen (LOX),2027Q2,1201.9,1175.1,1228.8,"SARIMA(1,1,1)x(1,0,0)[4]",1.11
+resource_consumption,Cryogenic Liquid Oxygen (LOX),2027Q3,1203.8,1176.9,1230.6,"SARIMA(1,1,1)x(1,0,0)[4]",1.11
+resource_consumption,Deep Space Telemetry (Tbps),2026Q4,915.9,894.4,937.4,"SARIMA(1,1,1)x(1,0,0)[4]",1.19
+resource_consumption,Deep Space Telemetry (Tbps),2027Q1,917.7,896.0,939.4,"SARIMA(1,1,1)x(1,0,0)[4]",1.19
+resource_consumption,Deep Space Telemetry (Tbps),2027Q2,886.7,864.9,908.4,"SARIMA(1,1,1)x(1,0,0)[4]",1.19
+resource_consumption,Deep Space Telemetry (Tbps),2027Q3,896.2,874.4,917.9,"SARIMA(1,1,1)x(1,0,0)[4]",1.19
+resource_consumption,Hypergolic Hydrazine,2026Q4,925.3,893.9,956.7,"SARIMA(1,1,1)x(1,0,0)[4]",2.01
+resource_consumption,Hypergolic Hydrazine,2027Q1,935.5,902.3,968.8,"SARIMA(1,1,1)x(1,0,0)[4]",2.01
+resource_consumption,Hypergolic Hydrazine,2027Q2,882.0,848.4,915.6,"SARIMA(1,1,1)x(1,0,0)[4]",2.01
+resource_consumption,Hypergolic Hydrazine,2027Q3,927.9,894.2,961.5,"SARIMA(1,1,1)x(1,0,0)[4]",2.01
+resource_consumption,Liquid Hydrogen (LH2),2026Q4,920.0,893.4,946.7,"SARIMA(1,1,1)x(1,0,0)[4]",1.36
+resource_consumption,Liquid Hydrogen (LH2),2027Q1,914.4,887.4,941.5,"SARIMA(1,1,1)x(1,0,0)[4]",1.36
+resource_consumption,Liquid Hydrogen (LH2),2027Q2,888.8,861.8,915.9,"SARIMA(1,1,1)x(1,0,0)[4]",1.36
+resource_consumption,Liquid Hydrogen (LH2),2027Q3,914.4,887.3,941.4,"SARIMA(1,1,1)x(1,0,0)[4]",1.36
+resource_consumption,RP-1 Rocket Fuel,2026Q4,1211.0,1185.7,1236.4,"SARIMA(1,1,1)x(1,0,0)[4]",0.98
+resource_consumption,RP-1 Rocket Fuel,2027Q1,1222.2,1195.9,1248.6,"SARIMA(1,1,1)x(1,0,0)[4]",0.98
+resource_consumption,RP-1 Rocket Fuel,2027Q2,1197.0,1170.6,1223.5,"SARIMA(1,1,1)x(1,0,0)[4]",0.98
+resource_consumption,RP-1 Rocket Fuel,2027Q3,1209.0,1182.5,1235.5,"SARIMA(1,1,1)x(1,0,0)[4]",0.98
+resource_consumption,Radiation Shielding Alloys,2026Q4,928.8,905.7,951.9,"SARIMA(1,1,1)x(1,0,0)[4]",1.35
+resource_consumption,Radiation Shielding Alloys,2027Q1,934.4,911.3,957.5,"SARIMA(1,1,1)x(1,0,0)[4]",1.35
+resource_consumption,Radiation Shielding Alloys,2027Q2,896.9,873.8,920.0,"SARIMA(1,1,1)x(1,0,0)[4]",1.35
+resource_consumption,Radiation Shielding Alloys,2027Q3,929.9,906.8,953.0,"SARIMA(1,1,1)x(1,0,0)[4]",1.35
+resource_consumption,Solar Power Generation (kW),2026Q4,935.0,904.4,965.7,"SARIMA(1,1,1)x(1,0,0)[4]",1.96
+resource_consumption,Solar Power Generation (kW),2027Q1,928.0,897.4,958.7,"SARIMA(1,1,1)x(1,0,0)[4]",1.96
+resource_consumption,Solar Power Generation (kW),2027Q2,887.7,857.1,918.4,"SARIMA(1,1,1)x(1,0,0)[4]",1.96
+resource_consumption,Solar Power Generation (kW),2027Q3,917.4,886.7,948.0,"SARIMA(1,1,1)x(1,0,0)[4]",1.96

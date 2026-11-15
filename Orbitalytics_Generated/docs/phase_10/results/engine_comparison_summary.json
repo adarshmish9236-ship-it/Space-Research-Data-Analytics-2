@@ -1,0 +1,58 @@
+{
+  "orchestrator_version": "2.0.0",
+  "phase": "Phase 10 \u2014 Big Data Performance Benchmarking",
+  "timestamp": "2026-11-14T22:18:15.933676",
+  "total_trials_evaluated": 75,
+  "engine_summaries": {
+    "Apache_Hive": {
+      "workloads_tested": 15,
+      "mean_cold_time_sec": 17.349,
+      "mean_warm_time_sec": 16.681,
+      "avg_throughput_records_per_sec": 2610,
+      "avg_throughput_mb_per_sec": 0.22,
+      "avg_peak_memory_mb": 835.0,
+      "avg_cpu_time_sec": 40.034,
+      "total_shuffle_bytes": 107648
+    },
+    "Apache_Pig": {
+      "workloads_tested": 15,
+      "mean_cold_time_sec": 18.754,
+      "mean_warm_time_sec": 17.661,
+      "avg_throughput_records_per_sec": 2451,
+      "avg_throughput_mb_per_sec": 0.2,
+      "avg_peak_memory_mb": 768.0,
+      "avg_cpu_time_sec": 38.855,
+      "total_shuffle_bytes": 67280
+    },
+    "Apache_Spark": {
+      "workloads_tested": 15,
+      "mean_cold_time_sec": 0.457,
+      "mean_warm_time_sec": 0.158,
+      "avg_throughput_records_per_sec": 277164,
+      "avg_throughput_mb_per_sec": 22.7,
+      "avg_peak_memory_mb": 450.0,
+      "avg_cpu_time_sec": 0.284,
+      "total_shuffle_bytes": 53824
+    },
+    "Hadoop_MapReduce": {
+      "workloads_tested": 15,
+      "mean_cold_time_sec": 15.7,
+      "mean_warm_time_sec": 15.477,
+      "avg_throughput_records_per_sec": 2768,
+      "avg_throughput_mb_per_sec": 0.23,
+      "avg_peak_memory_mb": 1024.0,
+      "avg_cpu_time_sec": 29.407,
+      "total_shuffle_bytes": 80736
+    },
+    "Local_Pandas": {
+      "workloads_tested": 15,
+      "mean_cold_time_sec": 0.033,
+      "mean_warm_time_sec": 0.017,
+      "avg_throughput_records_per_sec": 2560835,
+      "avg_throughput_mb_per_sec": 200.91,
+      "avg_peak_memory_mb": 15.0,
+      "avg_cpu_time_sec": 0.017,
+      "total_shuffle_bytes": 0
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "profile": "small",
+  "seed": 42,
+  "data_origin": "synthetic",
+  "is_synthetic": true,
+  "counts": {
+    "space_missions": 1500,
+    "satellites_orbital": 2400,
+    "launch_activities": 1200,
+    "equipment_component_demand": 11312,
+    "agency_research_expenditures": 1414,
+    "resource_consumption": 9898,
+    "satellite_manufacturing_requirements": 600,
+    "space_infrastructure_requirements": 1010,
+    "research_investment_future_projects": 160
+  },
+  "total_records": 29494
+}

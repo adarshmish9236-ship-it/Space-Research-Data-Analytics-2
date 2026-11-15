@@ -1,0 +1,47 @@
+{
+  "phase": 8,
+  "component": "Spark_MLlib_Distributed_Training",
+  "timestamp": "2026-11-14T15:52:49.401190",
+  "spark_master": "spark://spark-master:7077",
+  "train_records": 728,
+  "test_records": 168,
+  "feature_count": 16,
+  "features": [
+    "avg_lead_time_days",
+    "annual_units_manufactured",
+    "annual_units_procured",
+    "lag_1_units",
+    "lag_2_units",
+    "lag_3_units",
+    "lag_4_units",
+    "lag_1_value",
+    "rolling_3yr_mean",
+    "rolling_3yr_std",
+    "fulfillment_rate_pct",
+    "prev_yr_mission_count",
+    "prev_yr_launch_count",
+    "prev_yr_satellite_deploy_count",
+    "years_since_start",
+    "is_recent_period"
+  ],
+  "models_evaluated": [
+    {
+      "model_name": "Spark_MLlib_RandomForestRegressor",
+      "train_time_seconds": 12.31,
+      "trees": 50,
+      "max_depth": 5,
+      "test_rmse": 66.94,
+      "test_r2": -0.0991,
+      "test_mae": 53.33
+    },
+    {
+      "model_name": "Spark_MLlib_GBTRegressor",
+      "train_time_seconds": 14.76,
+      "max_iter": 30,
+      "max_depth": 4,
+      "test_rmse": 63.38,
+      "test_r2": 0.0147,
+      "test_mae": 51.75
+    }
+  ]
+}

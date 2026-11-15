@@ -1,0 +1,1415 @@
+date,year,month,agency,country,rd_expenditure_million_usd,infrastructure_expenditure_million_usd,mission_operations_million_usd,total_monthly_expenditure_million_usd,data_source,is_synthetic
+2010-01-01,2010,1,NASA,United States,168.89,98.52,84.44,351.85,Orbitalytics Fiscal & Agency Budget Registry,True
+2010-01-01,2010,1,ESA,Europe,99.05,57.78,49.53,206.36,Orbitalytics Fiscal & Agency Budget Registry,True
+2010-01-01,2010,1,ISRO,India,47.44,27.67,23.72,98.83,Orbitalytics Fiscal & Agency Budget Registry,True
+2010-01-01,2010,1,JAXA,Japan,48.61,28.35,24.3,101.26,Orbitalytics Fiscal & Agency Budget Registry,True
+2010-01-01,2010,1,CNSA,China,91.92,53.62,45.96,191.5,Orbitalytics Fiscal & Agency Budget Registry,True
+2010-01-01,2010,1,Roscosmos,Russia,47.64,27.79,23.82,99.25,Orbitalytics Fiscal & Agency Budget Registry,True
+2010-01-01,2010,1,Commercial (SpaceX / Private),United States,50.54,29.48,25.27,105.29,Orbitalytics Fiscal & Agency Budget Registry,True
+2010-02-01,2010,2,NASA,United States,177.4,103.48,88.7,369.58,Orbitalytics Fiscal & Agency Budget Registry,True
+2010-02-01,2010,2,ESA,Europe,94.42,55.08,47.21,196.71,Orbitalytics Fiscal & Agency Budget Registry,True
+2010-02-01,2010,2,ISRO,India,47.88,27.93,23.94,99.75,Orbitalytics Fiscal & Agency Budget Registry,True
+2010-02-01,2010,2,JAXA,Japan,51.0,29.75,25.5,106.25,Orbitalytics Fiscal & Agency Budget Registry,True
+2010-02-01,2010,2,CNSA,China,90.02,52.51,45.01,187.54,Orbitalytics Fiscal & Agency Budget Registry,True
+2010-02-01,2010,2,Roscosmos,Russia,47.7,27.82,23.85,99.37,Orbitalytics Fiscal & Agency Budget Registry,True
+2010-02-01,2010,2,Commercial (SpaceX / Private),United States,47.92,27.96,23.96,99.84,Orbitalytics Fiscal & Agency Budget Registry,True
+2010-03-01,2010,3,NASA,United States,181.45,105.85,90.72,378.02,Orbitalytics Fiscal & Agency Budget Registry,True
+2010-03-01,2010,3,ESA,Europe,105.77,61.7,52.88,220.35,Orbitalytics Fiscal & Agency Budget Registry,True
+2010-03-01,2010,3,ISRO,India,54.04,31.52,27.02,112.58,Orbitalytics Fiscal & Agency Budget Registry,True
+2010-03-01,2010,3,JAXA,Japan,52.63,30.7,26.32,109.65,Orbitalytics Fiscal & Agency Budget Registry,True
+2010-03-01,2010,3,CNSA,China,100.19,58.44,50.09,208.72,Orbitalytics Fiscal & Agency Budget Registry,True
+2010-03-01,2010,3,Roscosmos,Russia,51.28,29.92,25.64,106.84,Orbitalytics Fiscal & Agency Budget Registry,True
+2010-03-01,2010,3,Commercial (SpaceX / Private),United States,55.22,32.21,27.61,115.04,Orbitalytics Fiscal & Agency Budget Registry,True
+2010-04-01,2010,4,NASA,United States,173.45,101.18,86.72,361.35,Orbitalytics Fiscal & Agency Budget Registry,True
+2010-04-01,2010,4,ESA,Europe,104.56,61.0,52.28,217.84,Orbitalytics Fiscal & Agency Budget Registry,True
+2010-04-01,2010,4,ISRO,India,54.18,31.6,27.09,112.87,Orbitalytics Fiscal & Agency Budget Registry,True
+2010-04-01,2010,4,JAXA,Japan,51.1,29.81,25.55,106.46,Orbitalytics Fiscal & Agency Budget Registry,True
+2010-04-01,2010,4,CNSA,China,102.78,59.95,51.39,214.12,Orbitalytics Fiscal & Agency Budget Registry,True
+2010-04-01,2010,4,Roscosmos,Russia,50.99,29.74,25.5,106.23,Orbitalytics Fiscal & Agency Budget Registry,True
+2010-04-01,2010,4,Commercial (SpaceX / Private),United States,53.97,31.48,26.98,112.43,Orbitalytics Fiscal & Agency Budget Registry,True
+2010-05-01,2010,5,NASA,United States,190.0,110.83,95.0,395.83,Orbitalytics Fiscal & Agency Budget Registry,True
+2010-05-01,2010,5,ESA,Europe,102.69,59.9,51.35,213.94,Orbitalytics Fiscal & Agency Budget Registry,True
+2010-05-01,2010,5,ISRO,India,51.27,29.91,25.64,106.82,Orbitalytics Fiscal & Agency Budget Registry,True
+2010-05-01,2010,5,JAXA,Japan,53.05,30.95,26.53,110.53,Orbitalytics Fiscal & Agency Budget Registry,True
+2010-05-01,2010,5,CNSA,China,96.77,56.45,48.39,201.61,Orbitalytics Fiscal & Agency Budget Registry,True
+2010-05-01,2010,5,Roscosmos,Russia,54.96,32.06,27.48,114.5,Orbitalytics Fiscal & Agency Budget Registry,True
+2010-05-01,2010,5,Commercial (SpaceX / Private),United States,52.31,30.51,26.16,108.98,Orbitalytics Fiscal & Agency Budget Registry,True
+2010-06-01,2010,6,NASA,United States,180.53,105.31,90.27,376.11,Orbitalytics Fiscal & Agency Budget Registry,True
+2010-06-01,2010,6,ESA,Europe,105.16,61.35,52.58,219.09,Orbitalytics Fiscal & Agency Budget Registry,True
+2010-06-01,2010,6,ISRO,India,51.05,29.78,25.52,106.35,Orbitalytics Fiscal & Agency Budget Registry,True
+2010-06-01,2010,6,JAXA,Japan,54.83,31.98,27.41,114.22,Orbitalytics Fiscal & Agency Budget Registry,True
+2010-06-01,2010,6,CNSA,China,96.11,56.06,48.05,200.22,Orbitalytics Fiscal & Agency Budget Registry,True
+2010-06-01,2010,6,Roscosmos,Russia,54.06,31.53,27.03,112.62,Orbitalytics Fiscal & Agency Budget Registry,True
+2010-06-01,2010,6,Commercial (SpaceX / Private),United States,51.81,30.22,25.9,107.93,Orbitalytics Fiscal & Agency Budget Registry,True
+2010-07-01,2010,7,NASA,United States,190.62,111.2,95.31,397.13,Orbitalytics Fiscal & Agency Budget Registry,True
+2010-07-01,2010,7,ESA,Europe,99.75,58.19,49.88,207.82,Orbitalytics Fiscal & Agency Budget Registry,True
+2010-07-01,2010,7,ISRO,India,55.36,32.29,27.68,115.33,Orbitalytics Fiscal & Agency Budget Registry,True
+2010-07-01,2010,7,JAXA,Japan,51.39,29.97,25.69,107.05,Orbitalytics Fiscal & Agency Budget Registry,True
+2010-07-01,2010,7,CNSA,China,96.43,56.25,48.22,200.9,Orbitalytics Fiscal & Agency Budget Registry,True
+2010-07-01,2010,7,Roscosmos,Russia,52.85,30.83,26.43,110.11,Orbitalytics Fiscal & Agency Budget Registry,True
+2010-07-01,2010,7,Commercial (SpaceX / Private),United States,55.42,32.33,27.71,115.46,Orbitalytics Fiscal & Agency Budget Registry,True
+2010-08-01,2010,8,NASA,United States,178.25,103.98,89.13,371.36,Orbitalytics Fiscal & Agency Budget Registry,True
+2010-08-01,2010,8,ESA,Europe,100.62,58.7,50.31,209.63,Orbitalytics Fiscal & Agency Budget Registry,True
+2010-08-01,2010,8,ISRO,India,51.93,30.29,25.97,108.19,Orbitalytics Fiscal & Agency Budget Registry,True
+2010-08-01,2010,8,JAXA,Japan,50.45,29.43,25.22,105.1,Orbitalytics Fiscal & Agency Budget Registry,True
+2010-08-01,2010,8,CNSA,China,98.61,57.52,49.31,205.44,Orbitalytics Fiscal & Agency Budget Registry,True
+2010-08-01,2010,8,Roscosmos,Russia,54.42,31.75,27.21,113.38,Orbitalytics Fiscal & Agency Budget Registry,True
+2010-08-01,2010,8,Commercial (SpaceX / Private),United States,55.38,32.31,27.69,115.38,Orbitalytics Fiscal & Agency Budget Registry,True
+2010-09-01,2010,9,NASA,United States,182.63,106.53,91.31,380.47,Orbitalytics Fiscal & Agency Budget Registry,True
+2010-09-01,2010,9,ESA,Europe,105.65,61.63,52.82,220.1,Orbitalytics Fiscal & Agency Budget Registry,True
+2010-09-01,2010,9,ISRO,India,50.4,29.4,25.2,105.0,Orbitalytics Fiscal & Agency Budget Registry,True
+2010-09-01,2010,9,JAXA,Japan,51.24,29.89,25.62,106.75,Orbitalytics Fiscal & Agency Budget Registry,True
+2010-09-01,2010,9,CNSA,China,102.01,59.51,51.01,212.53,Orbitalytics Fiscal & Agency Budget Registry,True
+2010-09-01,2010,9,Roscosmos,Russia,52.22,30.46,26.11,108.79,Orbitalytics Fiscal & Agency Budget Registry,True
+2010-09-01,2010,9,Commercial (SpaceX / Private),United States,54.95,32.06,27.48,114.49,Orbitalytics Fiscal & Agency Budget Registry,True
+2010-10-01,2010,10,NASA,United States,179.12,104.49,89.56,373.17,Orbitalytics Fiscal & Agency Budget Registry,True
+2010-10-01,2010,10,ESA,Europe,103.78,60.54,51.89,216.21,Orbitalytics Fiscal & Agency Budget Registry,True
+2010-10-01,2010,10,ISRO,India,52.01,30.34,26.01,108.36,Orbitalytics Fiscal & Agency Budget Registry,True
+2010-10-01,2010,10,JAXA,Japan,53.66,31.3,26.83,111.79,Orbitalytics Fiscal & Agency Budget Registry,True
+2010-10-01,2010,10,CNSA,China,97.62,56.95,48.81,203.38,Orbitalytics Fiscal & Agency Budget Registry,True
+2010-10-01,2010,10,Roscosmos,Russia,54.97,32.06,27.48,114.51,Orbitalytics Fiscal & Agency Budget Registry,True
+2010-10-01,2010,10,Commercial (SpaceX / Private),United States,51.41,29.99,25.71,107.11,Orbitalytics Fiscal & Agency Budget Registry,True
+2010-11-01,2010,11,NASA,United States,199.89,116.6,99.95,416.44,Orbitalytics Fiscal & Agency Budget Registry,True
+2010-11-01,2010,11,ESA,Europe,117.36,68.46,58.68,244.5,Orbitalytics Fiscal & Agency Budget Registry,True
+2010-11-01,2010,11,ISRO,India,63.7,37.16,31.85,132.71,Orbitalytics Fiscal & Agency Budget Registry,True
+2010-11-01,2010,11,JAXA,Japan,59.06,34.45,29.53,123.04,Orbitalytics Fiscal & Agency Budget Registry,True
+2010-11-01,2010,11,CNSA,China,120.15,70.09,60.08,250.32,Orbitalytics Fiscal & Agency Budget Registry,True
+2010-11-01,2010,11,Roscosmos,Russia,58.62,34.2,29.31,122.13,Orbitalytics Fiscal & Agency Budget Registry,True
+2010-11-01,2010,11,Commercial (SpaceX / Private),United States,62.36,36.38,31.18,129.92,Orbitalytics Fiscal & Agency Budget Registry,True
+2010-12-01,2010,12,NASA,United States,200.43,116.92,100.22,417.57,Orbitalytics Fiscal & Agency Budget Registry,True
+2010-12-01,2010,12,ESA,Europe,119.56,69.74,59.78,249.08,Orbitalytics Fiscal & Agency Budget Registry,True
+2010-12-01,2010,12,ISRO,India,60.31,35.18,30.15,125.64,Orbitalytics Fiscal & Agency Budget Registry,True
+2010-12-01,2010,12,JAXA,Japan,60.35,35.2,30.17,125.72,Orbitalytics Fiscal & Agency Budget Registry,True
+2010-12-01,2010,12,CNSA,China,114.83,66.98,57.41,239.22,Orbitalytics Fiscal & Agency Budget Registry,True
+2010-12-01,2010,12,Roscosmos,Russia,59.65,34.79,29.82,124.26,Orbitalytics Fiscal & Agency Budget Registry,True
+2010-12-01,2010,12,Commercial (SpaceX / Private),United States,61.67,35.97,30.83,128.47,Orbitalytics Fiscal & Agency Budget Registry,True
+2011-01-01,2011,1,NASA,United States,179.9,104.94,89.95,374.79,Orbitalytics Fiscal & Agency Budget Registry,True
+2011-01-01,2011,1,ESA,Europe,103.58,60.42,51.79,215.79,Orbitalytics Fiscal & Agency Budget Registry,True
+2011-01-01,2011,1,ISRO,India,51.3,29.93,25.65,106.88,Orbitalytics Fiscal & Agency Budget Registry,True
+2011-01-01,2011,1,JAXA,Japan,51.19,29.86,25.59,106.64,Orbitalytics Fiscal & Agency Budget Registry,True
+2011-01-01,2011,1,CNSA,China,105.97,61.81,52.98,220.76,Orbitalytics Fiscal & Agency Budget Registry,True
+2011-01-01,2011,1,Roscosmos,Russia,50.96,29.73,25.48,106.17,Orbitalytics Fiscal & Agency Budget Registry,True
+2011-01-01,2011,1,Commercial (SpaceX / Private),United States,54.93,32.04,27.46,114.43,Orbitalytics Fiscal & Agency Budget Registry,True
+2011-02-01,2011,2,NASA,United States,191.86,111.92,95.93,399.71,Orbitalytics Fiscal & Agency Budget Registry,True
+2011-02-01,2011,2,ESA,Europe,98.94,57.72,49.47,206.13,Orbitalytics Fiscal & Agency Budget Registry,True
+2011-02-01,2011,2,ISRO,India,52.13,30.41,26.07,108.61,Orbitalytics Fiscal & Agency Budget Registry,True
+2011-02-01,2011,2,JAXA,Japan,54.07,31.54,27.04,112.65,Orbitalytics Fiscal & Agency Budget Registry,True
+2011-02-01,2011,2,CNSA,China,105.7,61.66,52.85,220.21,Orbitalytics Fiscal & Agency Budget Registry,True
+2011-02-01,2011,2,Roscosmos,Russia,53.01,30.92,26.51,110.44,Orbitalytics Fiscal & Agency Budget Registry,True
+2011-02-01,2011,2,Commercial (SpaceX / Private),United States,52.66,30.72,26.33,109.71,Orbitalytics Fiscal & Agency Budget Registry,True
+2011-03-01,2011,3,NASA,United States,186.49,108.79,93.25,388.53,Orbitalytics Fiscal & Agency Budget Registry,True
+2011-03-01,2011,3,ESA,Europe,108.19,63.11,54.1,225.4,Orbitalytics Fiscal & Agency Budget Registry,True
+2011-03-01,2011,3,ISRO,India,53.64,31.29,26.82,111.75,Orbitalytics Fiscal & Agency Budget Registry,True
+2011-03-01,2011,3,JAXA,Japan,56.7,33.07,28.35,118.12,Orbitalytics Fiscal & Agency Budget Registry,True
+2011-03-01,2011,3,CNSA,China,103.0,60.08,51.5,214.58,Orbitalytics Fiscal & Agency Budget Registry,True
+2011-03-01,2011,3,Roscosmos,Russia,59.07,34.46,29.54,123.07,Orbitalytics Fiscal & Agency Budget Registry,True
+2011-03-01,2011,3,Commercial (SpaceX / Private),United States,56.5,32.96,28.25,117.71,Orbitalytics Fiscal & Agency Budget Registry,True
+2011-04-01,2011,4,NASA,United States,203.64,118.79,101.82,424.25,Orbitalytics Fiscal & Agency Budget Registry,True
+2011-04-01,2011,4,ESA,Europe,107.15,62.5,53.57,223.22,Orbitalytics Fiscal & Agency Budget Registry,True
+2011-04-01,2011,4,ISRO,India,54.62,31.86,27.31,113.79,Orbitalytics Fiscal & Agency Budget Registry,True
+2011-04-01,2011,4,JAXA,Japan,54.83,31.99,27.42,114.24,Orbitalytics Fiscal & Agency Budget Registry,True
+2011-04-01,2011,4,CNSA,China,110.62,64.53,55.31,230.46,Orbitalytics Fiscal & Agency Budget Registry,True
+2011-04-01,2011,4,Roscosmos,Russia,56.07,32.71,28.04,116.82,Orbitalytics Fiscal & Agency Budget Registry,True
+2011-04-01,2011,4,Commercial (SpaceX / Private),United States,56.72,33.08,28.36,118.16,Orbitalytics Fiscal & Agency Budget Registry,True
+2011-05-01,2011,5,NASA,United States,203.28,118.58,101.64,423.5,Orbitalytics Fiscal & Agency Budget Registry,True
+2011-05-01,2011,5,ESA,Europe,109.31,63.76,54.65,227.72,Orbitalytics Fiscal & Agency Budget Registry,True
+2011-05-01,2011,5,ISRO,India,55.74,32.52,27.87,116.13,Orbitalytics Fiscal & Agency Budget Registry,True
+2011-05-01,2011,5,JAXA,Japan,55.58,32.42,27.79,115.79,Orbitalytics Fiscal & Agency Budget Registry,True
+2011-05-01,2011,5,CNSA,China,111.23,64.88,55.62,231.73,Orbitalytics Fiscal & Agency Budget Registry,True
+2011-05-01,2011,5,Roscosmos,Russia,54.32,31.69,27.16,113.17,Orbitalytics Fiscal & Agency Budget Registry,True
+2011-05-01,2011,5,Commercial (SpaceX / Private),United States,54.19,31.61,27.1,112.9,Orbitalytics Fiscal & Agency Budget Registry,True
+2011-06-01,2011,6,NASA,United States,187.38,109.31,93.69,390.38,Orbitalytics Fiscal & Agency Budget Registry,True
+2011-06-01,2011,6,ESA,Europe,107.01,62.42,53.51,222.94,Orbitalytics Fiscal & Agency Budget Registry,True
+2011-06-01,2011,6,ISRO,India,59.17,34.52,29.58,123.27,Orbitalytics Fiscal & Agency Budget Registry,True
+2011-06-01,2011,6,JAXA,Japan,55.53,32.39,27.77,115.69,Orbitalytics Fiscal & Agency Budget Registry,True
+2011-06-01,2011,6,CNSA,China,106.21,61.95,53.1,221.26,Orbitalytics Fiscal & Agency Budget Registry,True
+2011-06-01,2011,6,Roscosmos,Russia,56.38,32.89,28.19,117.46,Orbitalytics Fiscal & Agency Budget Registry,True
+2011-06-01,2011,6,Commercial (SpaceX / Private),United States,55.62,32.45,27.81,115.88,Orbitalytics Fiscal & Agency Budget Registry,True
+2011-07-01,2011,7,NASA,United States,203.7,118.83,101.85,424.38,Orbitalytics Fiscal & Agency Budget Registry,True
+2011-07-01,2011,7,ESA,Europe,108.98,63.57,54.49,227.04,Orbitalytics Fiscal & Agency Budget Registry,True
+2011-07-01,2011,7,ISRO,India,55.68,32.48,27.84,116.0,Orbitalytics Fiscal & Agency Budget Registry,True
+2011-07-01,2011,7,JAXA,Japan,56.74,33.1,28.37,118.21,Orbitalytics Fiscal & Agency Budget Registry,True
+2011-07-01,2011,7,CNSA,China,107.99,63.0,54.0,224.99,Orbitalytics Fiscal & Agency Budget Registry,True
+2011-07-01,2011,7,Roscosmos,Russia,58.59,34.18,29.29,122.06,Orbitalytics Fiscal & Agency Budget Registry,True
+2011-07-01,2011,7,Commercial (SpaceX / Private),United States,55.08,32.13,27.54,114.75,Orbitalytics Fiscal & Agency Budget Registry,True
+2011-08-01,2011,8,NASA,United States,186.87,109.01,93.43,389.31,Orbitalytics Fiscal & Agency Budget Registry,True
+2011-08-01,2011,8,ESA,Europe,110.59,64.51,55.29,230.39,Orbitalytics Fiscal & Agency Budget Registry,True
+2011-08-01,2011,8,ISRO,India,55.51,32.38,27.75,115.64,Orbitalytics Fiscal & Agency Budget Registry,True
+2011-08-01,2011,8,JAXA,Japan,57.37,33.47,28.68,119.52,Orbitalytics Fiscal & Agency Budget Registry,True
+2011-08-01,2011,8,CNSA,China,108.54,63.32,54.27,226.13,Orbitalytics Fiscal & Agency Budget Registry,True
+2011-08-01,2011,8,Roscosmos,Russia,58.37,34.05,29.18,121.6,Orbitalytics Fiscal & Agency Budget Registry,True
+2011-08-01,2011,8,Commercial (SpaceX / Private),United States,57.51,33.55,28.76,119.82,Orbitalytics Fiscal & Agency Budget Registry,True
+2011-09-01,2011,9,NASA,United States,196.54,114.65,98.27,409.46,Orbitalytics Fiscal & Agency Budget Registry,True
+2011-09-01,2011,9,ESA,Europe,109.33,63.78,54.67,227.78,Orbitalytics Fiscal & Agency Budget Registry,True
+2011-09-01,2011,9,ISRO,India,58.83,34.32,29.42,122.57,Orbitalytics Fiscal & Agency Budget Registry,True
+2011-09-01,2011,9,JAXA,Japan,55.36,32.3,27.68,115.34,Orbitalytics Fiscal & Agency Budget Registry,True
+2011-09-01,2011,9,CNSA,China,106.55,62.15,53.27,221.97,Orbitalytics Fiscal & Agency Budget Registry,True
+2011-09-01,2011,9,Roscosmos,Russia,54.42,31.74,27.21,113.37,Orbitalytics Fiscal & Agency Budget Registry,True
+2011-09-01,2011,9,Commercial (SpaceX / Private),United States,55.82,32.56,27.91,116.29,Orbitalytics Fiscal & Agency Budget Registry,True
+2011-10-01,2011,10,NASA,United States,191.17,111.52,95.59,398.28,Orbitalytics Fiscal & Agency Budget Registry,True
+2011-10-01,2011,10,ESA,Europe,102.54,59.82,51.27,213.63,Orbitalytics Fiscal & Agency Budget Registry,True
+2011-10-01,2011,10,ISRO,India,55.73,32.51,27.86,116.1,Orbitalytics Fiscal & Agency Budget Registry,True
+2011-10-01,2011,10,JAXA,Japan,54.63,31.87,27.31,113.81,Orbitalytics Fiscal & Agency Budget Registry,True
+2011-10-01,2011,10,CNSA,China,109.44,63.84,54.72,228.0,Orbitalytics Fiscal & Agency Budget Registry,True
+2011-10-01,2011,10,Roscosmos,Russia,53.93,31.46,26.96,112.35,Orbitalytics Fiscal & Agency Budget Registry,True
+2011-10-01,2011,10,Commercial (SpaceX / Private),United States,54.06,31.54,27.03,112.63,Orbitalytics Fiscal & Agency Budget Registry,True
+2011-11-01,2011,11,NASA,United States,230.75,134.61,115.38,480.74,Orbitalytics Fiscal & Agency Budget Registry,True
+2011-11-01,2011,11,ESA,Europe,129.39,75.48,64.7,269.57,Orbitalytics Fiscal & Agency Budget Registry,True
+2011-11-01,2011,11,ISRO,India,67.26,39.24,33.63,140.13,Orbitalytics Fiscal & Agency Budget Registry,True
+2011-11-01,2011,11,JAXA,Japan,64.5,37.63,32.25,134.38,Orbitalytics Fiscal & Agency Budget Registry,True
+2011-11-01,2011,11,CNSA,China,129.4,75.48,64.7,269.58,Orbitalytics Fiscal & Agency Budget Registry,True
+2011-11-01,2011,11,Roscosmos,Russia,62.1,36.22,31.05,129.37,Orbitalytics Fiscal & Agency Budget Registry,True
+2011-11-01,2011,11,Commercial (SpaceX / Private),United States,65.4,38.15,32.7,136.25,Orbitalytics Fiscal & Agency Budget Registry,True
+2011-12-01,2011,12,NASA,United States,223.46,130.35,111.73,465.54,Orbitalytics Fiscal & Agency Budget Registry,True
+2011-12-01,2011,12,ESA,Europe,124.06,72.37,62.03,258.46,Orbitalytics Fiscal & Agency Budget Registry,True
+2011-12-01,2011,12,ISRO,India,65.42,38.16,32.71,136.29,Orbitalytics Fiscal & Agency Budget Registry,True
+2011-12-01,2011,12,JAXA,Japan,63.02,36.76,31.51,131.29,Orbitalytics Fiscal & Agency Budget Registry,True
+2011-12-01,2011,12,CNSA,China,127.95,74.64,63.98,266.57,Orbitalytics Fiscal & Agency Budget Registry,True
+2011-12-01,2011,12,Roscosmos,Russia,62.73,36.59,31.36,130.68,Orbitalytics Fiscal & Agency Budget Registry,True
+2011-12-01,2011,12,Commercial (SpaceX / Private),United States,66.81,38.97,33.41,139.19,Orbitalytics Fiscal & Agency Budget Registry,True
+2012-01-01,2012,1,NASA,United States,190.24,110.97,95.12,396.33,Orbitalytics Fiscal & Agency Budget Registry,True
+2012-01-01,2012,1,ESA,Europe,111.6,65.1,55.8,232.5,Orbitalytics Fiscal & Agency Budget Registry,True
+2012-01-01,2012,1,ISRO,India,58.11,33.9,29.06,121.07,Orbitalytics Fiscal & Agency Budget Registry,True
+2012-01-01,2012,1,JAXA,Japan,55.45,32.34,27.72,115.51,Orbitalytics Fiscal & Agency Budget Registry,True
+2012-01-01,2012,1,CNSA,China,109.21,63.71,54.61,227.53,Orbitalytics Fiscal & Agency Budget Registry,True
+2012-01-01,2012,1,Roscosmos,Russia,57.34,33.45,28.67,119.46,Orbitalytics Fiscal & Agency Budget Registry,True
+2012-01-01,2012,1,Commercial (SpaceX / Private),United States,57.08,33.3,28.54,118.92,Orbitalytics Fiscal & Agency Budget Registry,True
+2012-02-01,2012,2,NASA,United States,194.63,113.53,97.31,405.47,Orbitalytics Fiscal & Agency Budget Registry,True
+2012-02-01,2012,2,ESA,Europe,109.66,63.97,54.83,228.46,Orbitalytics Fiscal & Agency Budget Registry,True
+2012-02-01,2012,2,ISRO,India,54.19,31.61,27.1,112.9,Orbitalytics Fiscal & Agency Budget Registry,True
+2012-02-01,2012,2,JAXA,Japan,58.85,34.33,29.43,122.61,Orbitalytics Fiscal & Agency Budget Registry,True
+2012-02-01,2012,2,CNSA,China,106.74,62.27,53.37,222.38,Orbitalytics Fiscal & Agency Budget Registry,True
+2012-02-01,2012,2,Roscosmos,Russia,54.07,31.54,27.03,112.64,Orbitalytics Fiscal & Agency Budget Registry,True
+2012-02-01,2012,2,Commercial (SpaceX / Private),United States,55.13,32.16,27.56,114.85,Orbitalytics Fiscal & Agency Budget Registry,True
+2012-03-01,2012,3,NASA,United States,204.65,119.38,102.33,426.36,Orbitalytics Fiscal & Agency Budget Registry,True
+2012-03-01,2012,3,ESA,Europe,112.45,65.59,56.22,234.26,Orbitalytics Fiscal & Agency Budget Registry,True
+2012-03-01,2012,3,ISRO,India,62.61,36.52,31.31,130.44,Orbitalytics Fiscal & Agency Budget Registry,True
+2012-03-01,2012,3,JAXA,Japan,61.81,36.05,30.9,128.76,Orbitalytics Fiscal & Agency Budget Registry,True
+2012-03-01,2012,3,CNSA,China,113.72,66.34,56.86,236.92,Orbitalytics Fiscal & Agency Budget Registry,True
+2012-03-01,2012,3,Roscosmos,Russia,58.99,34.41,29.5,122.9,Orbitalytics Fiscal & Agency Budget Registry,True
+2012-03-01,2012,3,Commercial (SpaceX / Private),United States,57.89,33.77,28.94,120.6,Orbitalytics Fiscal & Agency Budget Registry,True
+2012-04-01,2012,4,NASA,United States,199.77,116.53,99.89,416.19,Orbitalytics Fiscal & Agency Budget Registry,True
+2012-04-01,2012,4,ESA,Europe,118.48,69.11,59.24,246.83,Orbitalytics Fiscal & Agency Budget Registry,True
+2012-04-01,2012,4,ISRO,India,61.73,36.01,30.86,128.6,Orbitalytics Fiscal & Agency Budget Registry,True
+2012-04-01,2012,4,JAXA,Japan,62.4,36.4,31.2,130.0,Orbitalytics Fiscal & Agency Budget Registry,True
+2012-04-01,2012,4,CNSA,China,117.64,68.63,58.82,245.09,Orbitalytics Fiscal & Agency Budget Registry,True
+2012-04-01,2012,4,Roscosmos,Russia,57.22,33.38,28.61,119.21,Orbitalytics Fiscal & Agency Budget Registry,True
+2012-04-01,2012,4,Commercial (SpaceX / Private),United States,61.04,35.61,30.52,127.17,Orbitalytics Fiscal & Agency Budget Registry,True
+2012-05-01,2012,5,NASA,United States,198.81,115.97,99.4,414.18,Orbitalytics Fiscal & Agency Budget Registry,True
+2012-05-01,2012,5,ESA,Europe,120.11,70.07,60.06,250.24,Orbitalytics Fiscal & Agency Budget Registry,True
+2012-05-01,2012,5,ISRO,India,57.62,33.61,28.81,120.04,Orbitalytics Fiscal & Agency Budget Registry,True
+2012-05-01,2012,5,JAXA,Japan,60.15,35.09,30.07,125.31,Orbitalytics Fiscal & Agency Budget Registry,True
+2012-05-01,2012,5,CNSA,China,110.02,64.18,55.01,229.21,Orbitalytics Fiscal & Agency Budget Registry,True
+2012-05-01,2012,5,Roscosmos,Russia,60.48,35.28,30.24,126.0,Orbitalytics Fiscal & Agency Budget Registry,True
+2012-05-01,2012,5,Commercial (SpaceX / Private),United States,59.64,34.79,29.82,124.25,Orbitalytics Fiscal & Agency Budget Registry,True
+2012-06-01,2012,6,NASA,United States,209.6,122.27,104.8,436.67,Orbitalytics Fiscal & Agency Budget Registry,True
+2012-06-01,2012,6,ESA,Europe,114.91,67.03,57.46,239.4,Orbitalytics Fiscal & Agency Budget Registry,True
+2012-06-01,2012,6,ISRO,India,57.24,33.39,28.62,119.25,Orbitalytics Fiscal & Agency Budget Registry,True
+2012-06-01,2012,6,JAXA,Japan,62.02,36.18,31.01,129.21,Orbitalytics Fiscal & Agency Budget Registry,True
+2012-06-01,2012,6,CNSA,China,115.67,67.47,57.83,240.97,Orbitalytics Fiscal & Agency Budget Registry,True
+2012-06-01,2012,6,Roscosmos,Russia,62.78,36.62,31.39,130.79,Orbitalytics Fiscal & Agency Budget Registry,True
+2012-06-01,2012,6,Commercial (SpaceX / Private),United States,58.49,34.12,29.24,121.85,Orbitalytics Fiscal & Agency Budget Registry,True
+2012-07-01,2012,7,NASA,United States,206.12,120.24,103.06,429.42,Orbitalytics Fiscal & Agency Budget Registry,True
+2012-07-01,2012,7,ESA,Europe,117.84,68.74,58.92,245.5,Orbitalytics Fiscal & Agency Budget Registry,True
+2012-07-01,2012,7,ISRO,India,58.79,34.3,29.4,122.49,Orbitalytics Fiscal & Agency Budget Registry,True
+2012-07-01,2012,7,JAXA,Japan,60.98,35.57,30.49,127.04,Orbitalytics Fiscal & Agency Budget Registry,True
+2012-07-01,2012,7,CNSA,China,119.29,69.58,59.64,248.51,Orbitalytics Fiscal & Agency Budget Registry,True
+2012-07-01,2012,7,Roscosmos,Russia,60.87,35.51,30.43,126.81,Orbitalytics Fiscal & Agency Budget Registry,True
+2012-07-01,2012,7,Commercial (SpaceX / Private),United States,61.89,36.1,30.95,128.94,Orbitalytics Fiscal & Agency Budget Registry,True
+2012-08-01,2012,8,NASA,United States,215.12,125.48,107.56,448.16,Orbitalytics Fiscal & Agency Budget Registry,True
+2012-08-01,2012,8,ESA,Europe,118.05,68.86,59.03,245.94,Orbitalytics Fiscal & Agency Budget Registry,True
+2012-08-01,2012,8,ISRO,India,62.35,36.37,31.17,129.89,Orbitalytics Fiscal & Agency Budget Registry,True
+2012-08-01,2012,8,JAXA,Japan,60.07,35.04,30.04,125.15,Orbitalytics Fiscal & Agency Budget Registry,True
+2012-08-01,2012,8,CNSA,China,114.37,66.71,57.18,238.26,Orbitalytics Fiscal & Agency Budget Registry,True
+2012-08-01,2012,8,Roscosmos,Russia,62.54,36.48,31.27,130.29,Orbitalytics Fiscal & Agency Budget Registry,True
+2012-08-01,2012,8,Commercial (SpaceX / Private),United States,58.48,34.11,29.24,121.83,Orbitalytics Fiscal & Agency Budget Registry,True
+2012-09-01,2012,9,NASA,United States,211.93,123.62,105.96,441.51,Orbitalytics Fiscal & Agency Budget Registry,True
+2012-09-01,2012,9,ESA,Europe,114.75,66.94,57.38,239.07,Orbitalytics Fiscal & Agency Budget Registry,True
+2012-09-01,2012,9,ISRO,India,57.09,33.3,28.55,118.94,Orbitalytics Fiscal & Agency Budget Registry,True
+2012-09-01,2012,9,JAXA,Japan,60.07,35.04,30.04,125.15,Orbitalytics Fiscal & Agency Budget Registry,True
+2012-09-01,2012,9,CNSA,China,118.02,68.84,59.01,245.87,Orbitalytics Fiscal & Agency Budget Registry,True
+2012-09-01,2012,9,Roscosmos,Russia,60.63,35.37,30.31,126.31,Orbitalytics Fiscal & Agency Budget Registry,True
+2012-09-01,2012,9,Commercial (SpaceX / Private),United States,57.05,33.28,28.53,118.86,Orbitalytics Fiscal & Agency Budget Registry,True
+2012-10-01,2012,10,NASA,United States,214.52,125.13,107.26,446.91,Orbitalytics Fiscal & Agency Budget Registry,True
+2012-10-01,2012,10,ESA,Europe,119.19,69.53,59.6,248.32,Orbitalytics Fiscal & Agency Budget Registry,True
+2012-10-01,2012,10,ISRO,India,60.03,35.02,30.01,125.06,Orbitalytics Fiscal & Agency Budget Registry,True
+2012-10-01,2012,10,JAXA,Japan,60.26,35.15,30.13,125.54,Orbitalytics Fiscal & Agency Budget Registry,True
+2012-10-01,2012,10,CNSA,China,111.85,65.25,55.92,233.02,Orbitalytics Fiscal & Agency Budget Registry,True
+2012-10-01,2012,10,Roscosmos,Russia,58.14,33.91,29.07,121.12,Orbitalytics Fiscal & Agency Budget Registry,True
+2012-10-01,2012,10,Commercial (SpaceX / Private),United States,58.68,34.23,29.34,122.25,Orbitalytics Fiscal & Agency Budget Registry,True
+2012-11-01,2012,11,NASA,United States,246.37,143.72,123.19,513.28,Orbitalytics Fiscal & Agency Budget Registry,True
+2012-11-01,2012,11,ESA,Europe,129.58,75.59,64.79,269.96,Orbitalytics Fiscal & Agency Budget Registry,True
+2012-11-01,2012,11,ISRO,India,65.76,38.36,32.88,137.0,Orbitalytics Fiscal & Agency Budget Registry,True
+2012-11-01,2012,11,JAXA,Japan,71.32,41.6,35.66,148.58,Orbitalytics Fiscal & Agency Budget Registry,True
+2012-11-01,2012,11,CNSA,China,126.58,73.84,63.29,263.71,Orbitalytics Fiscal & Agency Budget Registry,True
+2012-11-01,2012,11,Roscosmos,Russia,70.51,41.13,35.25,146.89,Orbitalytics Fiscal & Agency Budget Registry,True
+2012-11-01,2012,11,Commercial (SpaceX / Private),United States,65.86,38.42,32.93,137.21,Orbitalytics Fiscal & Agency Budget Registry,True
+2012-12-01,2012,12,NASA,United States,235.35,137.29,117.67,490.31,Orbitalytics Fiscal & Agency Budget Registry,True
+2012-12-01,2012,12,ESA,Europe,137.6,80.26,68.8,286.66,Orbitalytics Fiscal & Agency Budget Registry,True
+2012-12-01,2012,12,ISRO,India,67.06,39.12,33.53,139.71,Orbitalytics Fiscal & Agency Budget Registry,True
+2012-12-01,2012,12,JAXA,Japan,72.13,42.08,36.07,150.28,Orbitalytics Fiscal & Agency Budget Registry,True
+2012-12-01,2012,12,CNSA,China,131.92,76.96,65.96,274.84,Orbitalytics Fiscal & Agency Budget Registry,True
+2012-12-01,2012,12,Roscosmos,Russia,71.21,41.54,35.61,148.36,Orbitalytics Fiscal & Agency Budget Registry,True
+2012-12-01,2012,12,Commercial (SpaceX / Private),United States,68.51,39.96,34.25,142.72,Orbitalytics Fiscal & Agency Budget Registry,True
+2013-01-01,2013,1,NASA,United States,212.67,124.06,106.33,443.06,Orbitalytics Fiscal & Agency Budget Registry,True
+2013-01-01,2013,1,ESA,Europe,115.11,67.15,57.56,239.82,Orbitalytics Fiscal & Agency Budget Registry,True
+2013-01-01,2013,1,ISRO,India,60.56,35.33,30.28,126.17,Orbitalytics Fiscal & Agency Budget Registry,True
+2013-01-01,2013,1,JAXA,Japan,62.51,36.47,31.26,130.24,Orbitalytics Fiscal & Agency Budget Registry,True
+2013-01-01,2013,1,CNSA,China,117.25,68.4,58.63,244.28,Orbitalytics Fiscal & Agency Budget Registry,True
+2013-01-01,2013,1,Roscosmos,Russia,62.74,36.6,31.37,130.71,Orbitalytics Fiscal & Agency Budget Registry,True
+2013-01-01,2013,1,Commercial (SpaceX / Private),United States,57.35,33.45,28.67,119.47,Orbitalytics Fiscal & Agency Budget Registry,True
+2013-02-01,2013,2,NASA,United States,210.6,122.85,105.3,438.75,Orbitalytics Fiscal & Agency Budget Registry,True
+2013-02-01,2013,2,ESA,Europe,114.86,67.0,57.43,239.29,Orbitalytics Fiscal & Agency Budget Registry,True
+2013-02-01,2013,2,ISRO,India,59.27,34.57,29.63,123.47,Orbitalytics Fiscal & Agency Budget Registry,True
+2013-02-01,2013,2,JAXA,Japan,62.09,36.22,31.04,129.35,Orbitalytics Fiscal & Agency Budget Registry,True
+2013-02-01,2013,2,CNSA,China,119.34,69.61,59.67,248.62,Orbitalytics Fiscal & Agency Budget Registry,True
+2013-02-01,2013,2,Roscosmos,Russia,57.22,33.38,28.61,119.21,Orbitalytics Fiscal & Agency Budget Registry,True
+2013-02-01,2013,2,Commercial (SpaceX / Private),United States,62.22,36.3,31.11,129.63,Orbitalytics Fiscal & Agency Budget Registry,True
+2013-03-01,2013,3,NASA,United States,227.96,132.97,113.98,474.91,Orbitalytics Fiscal & Agency Budget Registry,True
+2013-03-01,2013,3,ESA,Europe,126.29,73.67,63.14,263.1,Orbitalytics Fiscal & Agency Budget Registry,True
+2013-03-01,2013,3,ISRO,India,66.51,38.8,33.26,138.57,Orbitalytics Fiscal & Agency Budget Registry,True
+2013-03-01,2013,3,JAXA,Japan,65.67,38.3,32.83,136.8,Orbitalytics Fiscal & Agency Budget Registry,True
+2013-03-01,2013,3,CNSA,China,124.71,72.75,62.36,259.82,Orbitalytics Fiscal & Agency Budget Registry,True
+2013-03-01,2013,3,Roscosmos,Russia,61.31,35.76,30.65,127.72,Orbitalytics Fiscal & Agency Budget Registry,True
+2013-03-01,2013,3,Commercial (SpaceX / Private),United States,61.12,35.65,30.56,127.33,Orbitalytics Fiscal & Agency Budget Registry,True
+2013-04-01,2013,4,NASA,United States,224.13,130.74,112.06,466.93,Orbitalytics Fiscal & Agency Budget Registry,True
+2013-04-01,2013,4,ESA,Europe,124.08,72.38,62.04,258.5,Orbitalytics Fiscal & Agency Budget Registry,True
+2013-04-01,2013,4,ISRO,India,62.6,36.51,31.3,130.41,Orbitalytics Fiscal & Agency Budget Registry,True
+2013-04-01,2013,4,JAXA,Japan,63.72,37.17,31.86,132.75,Orbitalytics Fiscal & Agency Budget Registry,True
+2013-04-01,2013,4,CNSA,China,117.6,68.6,58.8,245.0,Orbitalytics Fiscal & Agency Budget Registry,True
+2013-04-01,2013,4,Roscosmos,Russia,65.33,38.11,32.67,136.11,Orbitalytics Fiscal & Agency Budget Registry,True
+2013-04-01,2013,4,Commercial (SpaceX / Private),United States,60.72,35.42,30.36,126.5,Orbitalytics Fiscal & Agency Budget Registry,True
+2013-05-01,2013,5,NASA,United States,226.6,132.18,113.3,472.08,Orbitalytics Fiscal & Agency Budget Registry,True
+2013-05-01,2013,5,ESA,Europe,118.54,69.15,59.27,246.96,Orbitalytics Fiscal & Agency Budget Registry,True
+2013-05-01,2013,5,ISRO,India,63.63,37.12,31.81,132.56,Orbitalytics Fiscal & Agency Budget Registry,True
+2013-05-01,2013,5,JAXA,Japan,63.95,37.31,31.98,133.24,Orbitalytics Fiscal & Agency Budget Registry,True
+2013-05-01,2013,5,CNSA,China,125.48,73.2,62.74,261.42,Orbitalytics Fiscal & Agency Budget Registry,True
+2013-05-01,2013,5,Roscosmos,Russia,64.11,37.4,32.06,133.57,Orbitalytics Fiscal & Agency Budget Registry,True
+2013-05-01,2013,5,Commercial (SpaceX / Private),United States,64.78,37.79,32.39,134.96,Orbitalytics Fiscal & Agency Budget Registry,True
+2013-06-01,2013,6,NASA,United States,215.68,125.81,107.84,449.33,Orbitalytics Fiscal & Agency Budget Registry,True
+2013-06-01,2013,6,ESA,Europe,116.2,67.79,58.1,242.09,Orbitalytics Fiscal & Agency Budget Registry,True
+2013-06-01,2013,6,ISRO,India,61.49,35.87,30.74,128.1,Orbitalytics Fiscal & Agency Budget Registry,True
+2013-06-01,2013,6,JAXA,Japan,60.42,35.25,30.21,125.88,Orbitalytics Fiscal & Agency Budget Registry,True
+2013-06-01,2013,6,CNSA,China,122.32,71.35,61.16,254.83,Orbitalytics Fiscal & Agency Budget Registry,True
+2013-06-01,2013,6,Roscosmos,Russia,60.4,35.23,30.2,125.83,Orbitalytics Fiscal & Agency Budget Registry,True
+2013-06-01,2013,6,Commercial (SpaceX / Private),United States,61.82,36.06,30.91,128.79,Orbitalytics Fiscal & Agency Budget Registry,True
+2013-07-01,2013,7,NASA,United States,224.53,130.98,112.26,467.77,Orbitalytics Fiscal & Agency Budget Registry,True
+2013-07-01,2013,7,ESA,Europe,118.45,69.09,59.22,246.76,Orbitalytics Fiscal & Agency Budget Registry,True
+2013-07-01,2013,7,ISRO,India,63.14,36.83,31.57,131.54,Orbitalytics Fiscal & Agency Budget Registry,True
+2013-07-01,2013,7,JAXA,Japan,63.05,36.78,31.52,131.35,Orbitalytics Fiscal & Agency Budget Registry,True
+2013-07-01,2013,7,CNSA,China,123.63,72.12,61.82,257.57,Orbitalytics Fiscal & Agency Budget Registry,True
+2013-07-01,2013,7,Roscosmos,Russia,63.54,37.07,31.77,132.38,Orbitalytics Fiscal & Agency Budget Registry,True
+2013-07-01,2013,7,Commercial (SpaceX / Private),United States,66.12,38.57,33.06,137.75,Orbitalytics Fiscal & Agency Budget Registry,True
+2013-08-01,2013,8,NASA,United States,211.26,123.24,105.63,440.13,Orbitalytics Fiscal & Agency Budget Registry,True
+2013-08-01,2013,8,ESA,Europe,120.39,70.23,60.19,250.81,Orbitalytics Fiscal & Agency Budget Registry,True
+2013-08-01,2013,8,ISRO,India,62.65,36.54,31.32,130.51,Orbitalytics Fiscal & Agency Budget Registry,True
+2013-08-01,2013,8,JAXA,Japan,65.8,38.38,32.9,137.08,Orbitalytics Fiscal & Agency Budget Registry,True
+2013-08-01,2013,8,CNSA,China,126.45,73.76,63.22,263.43,Orbitalytics Fiscal & Agency Budget Registry,True
+2013-08-01,2013,8,Roscosmos,Russia,64.41,37.57,32.2,134.18,Orbitalytics Fiscal & Agency Budget Registry,True
+2013-08-01,2013,8,Commercial (SpaceX / Private),United States,61.73,36.01,30.87,128.61,Orbitalytics Fiscal & Agency Budget Registry,True
+2013-09-01,2013,9,NASA,United States,214.9,125.36,107.45,447.71,Orbitalytics Fiscal & Agency Budget Registry,True
+2013-09-01,2013,9,ESA,Europe,122.27,71.32,61.13,254.72,Orbitalytics Fiscal & Agency Budget Registry,True
+2013-09-01,2013,9,ISRO,India,62.59,36.51,31.29,130.39,Orbitalytics Fiscal & Agency Budget Registry,True
+2013-09-01,2013,9,JAXA,Japan,60.76,35.44,30.38,126.58,Orbitalytics Fiscal & Agency Budget Registry,True
+2013-09-01,2013,9,CNSA,China,118.15,68.92,59.07,246.14,Orbitalytics Fiscal & Agency Budget Registry,True
+2013-09-01,2013,9,Roscosmos,Russia,63.58,37.09,31.79,132.46,Orbitalytics Fiscal & Agency Budget Registry,True
+2013-09-01,2013,9,Commercial (SpaceX / Private),United States,64.69,37.73,32.34,134.76,Orbitalytics Fiscal & Agency Budget Registry,True
+2013-10-01,2013,10,NASA,United States,217.33,126.77,108.66,452.76,Orbitalytics Fiscal & Agency Budget Registry,True
+2013-10-01,2013,10,ESA,Europe,123.17,71.85,61.59,256.61,Orbitalytics Fiscal & Agency Budget Registry,True
+2013-10-01,2013,10,ISRO,India,62.92,36.7,31.46,131.08,Orbitalytics Fiscal & Agency Budget Registry,True
+2013-10-01,2013,10,JAXA,Japan,62.63,36.53,31.31,130.47,Orbitalytics Fiscal & Agency Budget Registry,True
+2013-10-01,2013,10,CNSA,China,121.71,71.0,60.85,253.56,Orbitalytics Fiscal & Agency Budget Registry,True
+2013-10-01,2013,10,Roscosmos,Russia,61.31,35.76,30.65,127.72,Orbitalytics Fiscal & Agency Budget Registry,True
+2013-10-01,2013,10,Commercial (SpaceX / Private),United States,65.0,37.91,32.5,135.41,Orbitalytics Fiscal & Agency Budget Registry,True
+2013-11-01,2013,11,NASA,United States,263.46,153.69,131.73,548.88,Orbitalytics Fiscal & Agency Budget Registry,True
+2013-11-01,2013,11,ESA,Europe,144.84,84.49,72.42,301.75,Orbitalytics Fiscal & Agency Budget Registry,True
+2013-11-01,2013,11,ISRO,India,70.84,41.32,35.42,147.58,Orbitalytics Fiscal & Agency Budget Registry,True
+2013-11-01,2013,11,JAXA,Japan,75.94,44.3,37.97,158.21,Orbitalytics Fiscal & Agency Budget Registry,True
+2013-11-01,2013,11,CNSA,China,143.32,83.6,71.66,298.58,Orbitalytics Fiscal & Agency Budget Registry,True
+2013-11-01,2013,11,Roscosmos,Russia,75.64,44.13,37.82,157.59,Orbitalytics Fiscal & Agency Budget Registry,True
+2013-11-01,2013,11,Commercial (SpaceX / Private),United States,69.62,40.61,34.81,145.04,Orbitalytics Fiscal & Agency Budget Registry,True
+2013-12-01,2013,12,NASA,United States,265.08,154.63,132.54,552.25,Orbitalytics Fiscal & Agency Budget Registry,True
+2013-12-01,2013,12,ESA,Europe,146.45,85.43,73.23,305.11,Orbitalytics Fiscal & Agency Budget Registry,True
+2013-12-01,2013,12,ISRO,India,75.98,44.32,37.99,158.29,Orbitalytics Fiscal & Agency Budget Registry,True
+2013-12-01,2013,12,JAXA,Japan,76.61,44.69,38.3,159.6,Orbitalytics Fiscal & Agency Budget Registry,True
+2013-12-01,2013,12,CNSA,China,140.3,81.84,70.15,292.29,Orbitalytics Fiscal & Agency Budget Registry,True
+2013-12-01,2013,12,Roscosmos,Russia,73.03,42.6,36.51,152.14,Orbitalytics Fiscal & Agency Budget Registry,True
+2013-12-01,2013,12,Commercial (SpaceX / Private),United States,71.31,41.6,35.66,148.57,Orbitalytics Fiscal & Agency Budget Registry,True
+2014-01-01,2014,1,NASA,United States,227.18,132.52,113.59,473.29,Orbitalytics Fiscal & Agency Budget Registry,True
+2014-01-01,2014,1,ESA,Europe,119.48,69.7,59.74,248.92,Orbitalytics Fiscal & Agency Budget Registry,True
+2014-01-01,2014,1,ISRO,India,65.61,38.27,32.81,136.69,Orbitalytics Fiscal & Agency Budget Registry,True
+2014-01-01,2014,1,JAXA,Japan,64.2,37.45,32.1,133.75,Orbitalytics Fiscal & Agency Budget Registry,True
+2014-01-01,2014,1,CNSA,China,121.35,70.79,60.68,252.82,Orbitalytics Fiscal & Agency Budget Registry,True
+2014-01-01,2014,1,Roscosmos,Russia,65.12,37.99,32.56,135.67,Orbitalytics Fiscal & Agency Budget Registry,True
+2014-01-01,2014,1,Commercial (SpaceX / Private),United States,65.86,38.42,32.93,137.21,Orbitalytics Fiscal & Agency Budget Registry,True
+2014-02-01,2014,2,NASA,United States,215.11,125.48,107.55,448.14,Orbitalytics Fiscal & Agency Budget Registry,True
+2014-02-01,2014,2,ESA,Europe,117.53,68.56,58.76,244.85,Orbitalytics Fiscal & Agency Budget Registry,True
+2014-02-01,2014,2,ISRO,India,63.41,36.99,31.71,132.11,Orbitalytics Fiscal & Agency Budget Registry,True
+2014-02-01,2014,2,JAXA,Japan,60.72,35.42,30.36,126.5,Orbitalytics Fiscal & Agency Budget Registry,True
+2014-02-01,2014,2,CNSA,China,123.49,72.03,61.74,257.26,Orbitalytics Fiscal & Agency Budget Registry,True
+2014-02-01,2014,2,Roscosmos,Russia,64.32,37.52,32.16,134.0,Orbitalytics Fiscal & Agency Budget Registry,True
+2014-02-01,2014,2,Commercial (SpaceX / Private),United States,65.37,38.14,32.69,136.2,Orbitalytics Fiscal & Agency Budget Registry,True
+2014-03-01,2014,3,NASA,United States,225.05,131.28,112.53,468.86,Orbitalytics Fiscal & Agency Budget Registry,True
+2014-03-01,2014,3,ESA,Europe,124.95,72.89,62.48,260.32,Orbitalytics Fiscal & Agency Budget Registry,True
+2014-03-01,2014,3,ISRO,India,69.74,40.68,34.87,145.29,Orbitalytics Fiscal & Agency Budget Registry,True
+2014-03-01,2014,3,JAXA,Japan,64.05,37.36,32.02,133.43,Orbitalytics Fiscal & Agency Budget Registry,True
+2014-03-01,2014,3,CNSA,China,124.62,72.69,62.31,259.62,Orbitalytics Fiscal & Agency Budget Registry,True
+2014-03-01,2014,3,Roscosmos,Russia,65.63,38.28,32.81,136.72,Orbitalytics Fiscal & Agency Budget Registry,True
+2014-03-01,2014,3,Commercial (SpaceX / Private),United States,69.28,40.41,34.64,144.33,Orbitalytics Fiscal & Agency Budget Registry,True
+2014-04-01,2014,4,NASA,United States,226.89,132.35,113.45,472.69,Orbitalytics Fiscal & Agency Budget Registry,True
+2014-04-01,2014,4,ESA,Europe,123.61,72.11,61.81,257.53,Orbitalytics Fiscal & Agency Budget Registry,True
+2014-04-01,2014,4,ISRO,India,68.1,39.72,34.05,141.87,Orbitalytics Fiscal & Agency Budget Registry,True
+2014-04-01,2014,4,JAXA,Japan,67.26,39.24,33.63,140.13,Orbitalytics Fiscal & Agency Budget Registry,True
+2014-04-01,2014,4,CNSA,China,126.33,73.69,63.17,263.19,Orbitalytics Fiscal & Agency Budget Registry,True
+2014-04-01,2014,4,Roscosmos,Russia,67.47,39.36,33.73,140.56,Orbitalytics Fiscal & Agency Budget Registry,True
+2014-04-01,2014,4,Commercial (SpaceX / Private),United States,67.23,39.22,33.61,140.06,Orbitalytics Fiscal & Agency Budget Registry,True
+2014-05-01,2014,5,NASA,United States,234.09,136.55,117.04,487.68,Orbitalytics Fiscal & Agency Budget Registry,True
+2014-05-01,2014,5,ESA,Europe,122.0,71.17,61.0,254.17,Orbitalytics Fiscal & Agency Budget Registry,True
+2014-05-01,2014,5,ISRO,India,67.91,39.62,33.96,141.49,Orbitalytics Fiscal & Agency Budget Registry,True
+2014-05-01,2014,5,JAXA,Japan,66.31,38.68,33.15,138.14,Orbitalytics Fiscal & Agency Budget Registry,True
+2014-05-01,2014,5,CNSA,China,129.67,75.64,64.83,270.14,Orbitalytics Fiscal & Agency Budget Registry,True
+2014-05-01,2014,5,Roscosmos,Russia,65.0,37.92,32.5,135.42,Orbitalytics Fiscal & Agency Budget Registry,True
+2014-05-01,2014,5,Commercial (SpaceX / Private),United States,68.27,39.82,34.13,142.22,Orbitalytics Fiscal & Agency Budget Registry,True
+2014-06-01,2014,6,NASA,United States,234.28,136.67,117.14,488.09,Orbitalytics Fiscal & Agency Budget Registry,True
+2014-06-01,2014,6,ESA,Europe,132.2,77.11,66.1,275.41,Orbitalytics Fiscal & Agency Budget Registry,True
+2014-06-01,2014,6,ISRO,India,70.2,40.95,35.1,146.25,Orbitalytics Fiscal & Agency Budget Registry,True
+2014-06-01,2014,6,JAXA,Japan,66.73,38.93,33.36,139.02,Orbitalytics Fiscal & Agency Budget Registry,True
+2014-06-01,2014,6,CNSA,China,123.9,72.27,61.95,258.12,Orbitalytics Fiscal & Agency Budget Registry,True
+2014-06-01,2014,6,Roscosmos,Russia,65.42,38.16,32.71,136.29,Orbitalytics Fiscal & Agency Budget Registry,True
+2014-06-01,2014,6,Commercial (SpaceX / Private),United States,67.42,39.33,33.71,140.46,Orbitalytics Fiscal & Agency Budget Registry,True
+2014-07-01,2014,7,NASA,United States,222.34,129.7,111.17,463.21,Orbitalytics Fiscal & Agency Budget Registry,True
+2014-07-01,2014,7,ESA,Europe,124.04,72.36,62.02,258.42,Orbitalytics Fiscal & Agency Budget Registry,True
+2014-07-01,2014,7,ISRO,India,66.09,38.55,33.05,137.69,Orbitalytics Fiscal & Agency Budget Registry,True
+2014-07-01,2014,7,JAXA,Japan,69.89,40.77,34.94,145.6,Orbitalytics Fiscal & Agency Budget Registry,True
+2014-07-01,2014,7,CNSA,China,123.38,71.97,61.69,257.04,Orbitalytics Fiscal & Agency Budget Registry,True
+2014-07-01,2014,7,Roscosmos,Russia,65.19,38.03,32.59,135.81,Orbitalytics Fiscal & Agency Budget Registry,True
+2014-07-01,2014,7,Commercial (SpaceX / Private),United States,68.77,40.12,34.39,143.28,Orbitalytics Fiscal & Agency Budget Registry,True
+2014-08-01,2014,8,NASA,United States,236.74,138.1,118.37,493.21,Orbitalytics Fiscal & Agency Budget Registry,True
+2014-08-01,2014,8,ESA,Europe,134.62,78.53,67.31,280.46,Orbitalytics Fiscal & Agency Budget Registry,True
+2014-08-01,2014,8,ISRO,India,70.29,41.0,35.14,146.43,Orbitalytics Fiscal & Agency Budget Registry,True
+2014-08-01,2014,8,JAXA,Japan,68.07,39.71,34.03,141.81,Orbitalytics Fiscal & Agency Budget Registry,True
+2014-08-01,2014,8,CNSA,China,127.84,74.57,63.92,266.33,Orbitalytics Fiscal & Agency Budget Registry,True
+2014-08-01,2014,8,Roscosmos,Russia,67.57,39.42,33.79,140.78,Orbitalytics Fiscal & Agency Budget Registry,True
+2014-08-01,2014,8,Commercial (SpaceX / Private),United States,68.83,40.15,34.41,143.39,Orbitalytics Fiscal & Agency Budget Registry,True
+2014-09-01,2014,9,NASA,United States,242.48,141.44,121.24,505.16,Orbitalytics Fiscal & Agency Budget Registry,True
+2014-09-01,2014,9,ESA,Europe,123.87,72.26,61.94,258.07,Orbitalytics Fiscal & Agency Budget Registry,True
+2014-09-01,2014,9,ISRO,India,70.26,40.99,35.13,146.38,Orbitalytics Fiscal & Agency Budget Registry,True
+2014-09-01,2014,9,JAXA,Japan,70.04,40.86,35.02,145.92,Orbitalytics Fiscal & Agency Budget Registry,True
+2014-09-01,2014,9,CNSA,China,132.71,77.41,66.35,276.47,Orbitalytics Fiscal & Agency Budget Registry,True
+2014-09-01,2014,9,Roscosmos,Russia,64.7,37.74,32.35,134.79,Orbitalytics Fiscal & Agency Budget Registry,True
+2014-09-01,2014,9,Commercial (SpaceX / Private),United States,67.26,39.23,33.63,140.12,Orbitalytics Fiscal & Agency Budget Registry,True
+2014-10-01,2014,10,NASA,United States,222.45,129.76,111.23,463.44,Orbitalytics Fiscal & Agency Budget Registry,True
+2014-10-01,2014,10,ESA,Europe,127.63,74.45,63.82,265.9,Orbitalytics Fiscal & Agency Budget Registry,True
+2014-10-01,2014,10,ISRO,India,64.35,37.53,32.17,134.05,Orbitalytics Fiscal & Agency Budget Registry,True
+2014-10-01,2014,10,JAXA,Japan,70.34,41.03,35.17,146.54,Orbitalytics Fiscal & Agency Budget Registry,True
+2014-10-01,2014,10,CNSA,China,127.2,74.2,63.6,265.0,Orbitalytics Fiscal & Agency Budget Registry,True
+2014-10-01,2014,10,Roscosmos,Russia,67.59,39.43,33.8,140.82,Orbitalytics Fiscal & Agency Budget Registry,True
+2014-10-01,2014,10,Commercial (SpaceX / Private),United States,66.24,38.64,33.12,138.0,Orbitalytics Fiscal & Agency Budget Registry,True
+2014-11-01,2014,11,NASA,United States,277.87,162.09,138.93,578.89,Orbitalytics Fiscal & Agency Budget Registry,True
+2014-11-01,2014,11,ESA,Europe,142.05,82.86,71.02,295.93,Orbitalytics Fiscal & Agency Budget Registry,True
+2014-11-01,2014,11,ISRO,India,76.36,44.54,38.18,159.08,Orbitalytics Fiscal & Agency Budget Registry,True
+2014-11-01,2014,11,JAXA,Japan,79.23,46.22,39.62,165.07,Orbitalytics Fiscal & Agency Budget Registry,True
+2014-11-01,2014,11,CNSA,China,144.3,84.17,72.15,300.62,Orbitalytics Fiscal & Agency Budget Registry,True
+2014-11-01,2014,11,Roscosmos,Russia,76.89,44.85,38.44,160.18,Orbitalytics Fiscal & Agency Budget Registry,True
+2014-11-01,2014,11,Commercial (SpaceX / Private),United States,79.37,46.3,39.69,165.36,Orbitalytics Fiscal & Agency Budget Registry,True
+2014-12-01,2014,12,NASA,United States,271.27,158.24,135.63,565.14,Orbitalytics Fiscal & Agency Budget Registry,True
+2014-12-01,2014,12,ESA,Europe,144.17,84.1,72.09,300.36,Orbitalytics Fiscal & Agency Budget Registry,True
+2014-12-01,2014,12,ISRO,India,81.05,47.28,40.53,168.86,Orbitalytics Fiscal & Agency Budget Registry,True
+2014-12-01,2014,12,JAXA,Japan,79.85,46.58,39.93,166.36,Orbitalytics Fiscal & Agency Budget Registry,True
+2014-12-01,2014,12,CNSA,China,144.23,84.14,72.12,300.49,Orbitalytics Fiscal & Agency Budget Registry,True
+2014-12-01,2014,12,Roscosmos,Russia,75.28,43.91,37.64,156.83,Orbitalytics Fiscal & Agency Budget Registry,True
+2014-12-01,2014,12,Commercial (SpaceX / Private),United States,73.94,43.13,36.97,154.04,Orbitalytics Fiscal & Agency Budget Registry,True
+2015-01-01,2015,1,NASA,United States,235.33,137.28,117.67,490.28,Orbitalytics Fiscal & Agency Budget Registry,True
+2015-01-01,2015,1,ESA,Europe,122.98,71.74,61.49,256.21,Orbitalytics Fiscal & Agency Budget Registry,True
+2015-01-01,2015,1,ISRO,India,64.77,37.78,32.38,134.93,Orbitalytics Fiscal & Agency Budget Registry,True
+2015-01-01,2015,1,JAXA,Japan,67.84,39.57,33.92,141.33,Orbitalytics Fiscal & Agency Budget Registry,True
+2015-01-01,2015,1,CNSA,China,131.12,76.49,65.56,273.17,Orbitalytics Fiscal & Agency Budget Registry,True
+2015-01-01,2015,1,Roscosmos,Russia,66.05,38.53,33.02,137.6,Orbitalytics Fiscal & Agency Budget Registry,True
+2015-01-01,2015,1,Commercial (SpaceX / Private),United States,67.59,39.43,33.8,140.82,Orbitalytics Fiscal & Agency Budget Registry,True
+2015-02-01,2015,2,NASA,United States,228.07,133.04,114.04,475.15,Orbitalytics Fiscal & Agency Budget Registry,True
+2015-02-01,2015,2,ESA,Europe,126.57,73.83,63.28,263.68,Orbitalytics Fiscal & Agency Budget Registry,True
+2015-02-01,2015,2,ISRO,India,66.99,39.08,33.5,139.57,Orbitalytics Fiscal & Agency Budget Registry,True
+2015-02-01,2015,2,JAXA,Japan,63.51,37.05,31.76,132.32,Orbitalytics Fiscal & Agency Budget Registry,True
+2015-02-01,2015,2,CNSA,China,126.01,73.51,63.0,262.52,Orbitalytics Fiscal & Agency Budget Registry,True
+2015-02-01,2015,2,Roscosmos,Russia,67.44,39.34,33.72,140.5,Orbitalytics Fiscal & Agency Budget Registry,True
+2015-02-01,2015,2,Commercial (SpaceX / Private),United States,69.56,40.58,34.78,144.92,Orbitalytics Fiscal & Agency Budget Registry,True
+2015-03-01,2015,3,NASA,United States,238.48,139.11,119.24,496.83,Orbitalytics Fiscal & Agency Budget Registry,True
+2015-03-01,2015,3,ESA,Europe,134.83,78.65,67.41,280.89,Orbitalytics Fiscal & Agency Budget Registry,True
+2015-03-01,2015,3,ISRO,India,71.71,41.83,35.85,149.39,Orbitalytics Fiscal & Agency Budget Registry,True
+2015-03-01,2015,3,JAXA,Japan,72.53,42.31,36.26,151.1,Orbitalytics Fiscal & Agency Budget Registry,True
+2015-03-01,2015,3,CNSA,China,137.94,80.47,68.97,287.38,Orbitalytics Fiscal & Agency Budget Registry,True
+2015-03-01,2015,3,Roscosmos,Russia,67.9,39.61,33.95,141.46,Orbitalytics Fiscal & Agency Budget Registry,True
+2015-03-01,2015,3,Commercial (SpaceX / Private),United States,71.9,41.94,35.95,149.79,Orbitalytics Fiscal & Agency Budget Registry,True
+2015-04-01,2015,4,NASA,United States,233.7,136.32,116.85,486.87,Orbitalytics Fiscal & Agency Budget Registry,True
+2015-04-01,2015,4,ESA,Europe,128.34,74.86,64.17,267.37,Orbitalytics Fiscal & Agency Budget Registry,True
+2015-04-01,2015,4,ISRO,India,68.84,40.16,34.42,143.42,Orbitalytics Fiscal & Agency Budget Registry,True
+2015-04-01,2015,4,JAXA,Japan,68.99,40.24,34.49,143.72,Orbitalytics Fiscal & Agency Budget Registry,True
+2015-04-01,2015,4,CNSA,China,138.34,80.7,69.17,288.21,Orbitalytics Fiscal & Agency Budget Registry,True
+2015-04-01,2015,4,Roscosmos,Russia,73.2,42.7,36.6,152.5,Orbitalytics Fiscal & Agency Budget Registry,True
+2015-04-01,2015,4,Commercial (SpaceX / Private),United States,68.44,39.92,34.22,142.58,Orbitalytics Fiscal & Agency Budget Registry,True
+2015-05-01,2015,5,NASA,United States,232.63,135.7,116.32,484.65,Orbitalytics Fiscal & Agency Budget Registry,True
+2015-05-01,2015,5,ESA,Europe,129.47,75.52,64.73,269.72,Orbitalytics Fiscal & Agency Budget Registry,True
+2015-05-01,2015,5,ISRO,India,71.08,41.46,35.54,148.08,Orbitalytics Fiscal & Agency Budget Registry,True
+2015-05-01,2015,5,JAXA,Japan,70.53,41.14,35.27,146.94,Orbitalytics Fiscal & Agency Budget Registry,True
+2015-05-01,2015,5,CNSA,China,134.74,78.6,67.37,280.71,Orbitalytics Fiscal & Agency Budget Registry,True
+2015-05-01,2015,5,Roscosmos,Russia,71.61,41.77,35.8,149.18,Orbitalytics Fiscal & Agency Budget Registry,True
+2015-05-01,2015,5,Commercial (SpaceX / Private),United States,69.66,40.64,34.83,145.13,Orbitalytics Fiscal & Agency Budget Registry,True
+2015-06-01,2015,6,NASA,United States,237.61,138.61,118.81,495.03,Orbitalytics Fiscal & Agency Budget Registry,True
+2015-06-01,2015,6,ESA,Europe,140.02,81.68,70.01,291.71,Orbitalytics Fiscal & Agency Budget Registry,True
+2015-06-01,2015,6,ISRO,India,72.5,42.29,36.25,151.04,Orbitalytics Fiscal & Agency Budget Registry,True
+2015-06-01,2015,6,JAXA,Japan,69.21,40.37,34.61,144.19,Orbitalytics Fiscal & Agency Budget Registry,True
+2015-06-01,2015,6,CNSA,China,130.12,75.9,65.06,271.08,Orbitalytics Fiscal & Agency Budget Registry,True
+2015-06-01,2015,6,Roscosmos,Russia,68.71,40.08,34.36,143.15,Orbitalytics Fiscal & Agency Budget Registry,True
+2015-06-01,2015,6,Commercial (SpaceX / Private),United States,68.81,40.14,34.41,143.36,Orbitalytics Fiscal & Agency Budget Registry,True
+2015-07-01,2015,7,NASA,United States,247.25,144.23,123.63,515.11,Orbitalytics Fiscal & Agency Budget Registry,True
+2015-07-01,2015,7,ESA,Europe,130.13,75.91,65.06,271.1,Orbitalytics Fiscal & Agency Budget Registry,True
+2015-07-01,2015,7,ISRO,India,68.12,39.74,34.06,141.92,Orbitalytics Fiscal & Agency Budget Registry,True
+2015-07-01,2015,7,JAXA,Japan,73.48,42.86,36.74,153.08,Orbitalytics Fiscal & Agency Budget Registry,True
+2015-07-01,2015,7,CNSA,China,134.97,78.73,67.49,281.19,Orbitalytics Fiscal & Agency Budget Registry,True
+2015-07-01,2015,7,Roscosmos,Russia,70.41,41.07,35.2,146.68,Orbitalytics Fiscal & Agency Budget Registry,True
+2015-07-01,2015,7,Commercial (SpaceX / Private),United States,68.5,39.96,34.25,142.71,Orbitalytics Fiscal & Agency Budget Registry,True
+2015-08-01,2015,8,NASA,United States,243.35,141.95,121.67,506.97,Orbitalytics Fiscal & Agency Budget Registry,True
+2015-08-01,2015,8,ESA,Europe,133.21,77.71,66.6,277.52,Orbitalytics Fiscal & Agency Budget Registry,True
+2015-08-01,2015,8,ISRO,India,71.99,41.99,35.99,149.97,Orbitalytics Fiscal & Agency Budget Registry,True
+2015-08-01,2015,8,JAXA,Japan,67.55,39.41,33.78,140.74,Orbitalytics Fiscal & Agency Budget Registry,True
+2015-08-01,2015,8,CNSA,China,141.76,82.69,70.88,295.33,Orbitalytics Fiscal & Agency Budget Registry,True
+2015-08-01,2015,8,Roscosmos,Russia,71.87,41.93,35.94,149.74,Orbitalytics Fiscal & Agency Budget Registry,True
+2015-08-01,2015,8,Commercial (SpaceX / Private),United States,70.9,41.36,35.45,147.71,Orbitalytics Fiscal & Agency Budget Registry,True
+2015-09-01,2015,9,NASA,United States,253.64,147.95,126.82,528.41,Orbitalytics Fiscal & Agency Budget Registry,True
+2015-09-01,2015,9,ESA,Europe,130.84,76.32,65.42,272.58,Orbitalytics Fiscal & Agency Budget Registry,True
+2015-09-01,2015,9,ISRO,India,67.92,39.62,33.96,141.5,Orbitalytics Fiscal & Agency Budget Registry,True
+2015-09-01,2015,9,JAXA,Japan,73.76,43.03,36.88,153.67,Orbitalytics Fiscal & Agency Budget Registry,True
+2015-09-01,2015,9,CNSA,China,135.43,79.0,67.71,282.14,Orbitalytics Fiscal & Agency Budget Registry,True
+2015-09-01,2015,9,Roscosmos,Russia,70.27,40.99,35.14,146.4,Orbitalytics Fiscal & Agency Budget Registry,True
+2015-09-01,2015,9,Commercial (SpaceX / Private),United States,67.46,39.35,33.73,140.54,Orbitalytics Fiscal & Agency Budget Registry,True
+2015-10-01,2015,10,NASA,United States,249.57,145.58,124.79,519.94,Orbitalytics Fiscal & Agency Budget Registry,True
+2015-10-01,2015,10,ESA,Europe,130.88,76.35,65.44,272.67,Orbitalytics Fiscal & Agency Budget Registry,True
+2015-10-01,2015,10,ISRO,India,68.84,40.16,34.42,143.42,Orbitalytics Fiscal & Agency Budget Registry,True
+2015-10-01,2015,10,JAXA,Japan,73.07,42.62,36.53,152.22,Orbitalytics Fiscal & Agency Budget Registry,True
+2015-10-01,2015,10,CNSA,China,137.93,80.46,68.96,287.35,Orbitalytics Fiscal & Agency Budget Registry,True
+2015-10-01,2015,10,Roscosmos,Russia,70.99,41.41,35.5,147.9,Orbitalytics Fiscal & Agency Budget Registry,True
+2015-10-01,2015,10,Commercial (SpaceX / Private),United States,71.05,41.45,35.52,148.02,Orbitalytics Fiscal & Agency Budget Registry,True
+2015-11-01,2015,11,NASA,United States,281.23,164.05,140.62,585.9,Orbitalytics Fiscal & Agency Budget Registry,True
+2015-11-01,2015,11,ESA,Europe,152.19,88.78,76.1,317.07,Orbitalytics Fiscal & Agency Budget Registry,True
+2015-11-01,2015,11,ISRO,India,83.9,48.94,41.95,174.79,Orbitalytics Fiscal & Agency Budget Registry,True
+2015-11-01,2015,11,JAXA,Japan,77.43,45.16,38.71,161.3,Orbitalytics Fiscal & Agency Budget Registry,True
+2015-11-01,2015,11,CNSA,China,159.19,92.86,79.59,331.64,Orbitalytics Fiscal & Agency Budget Registry,True
+2015-11-01,2015,11,Roscosmos,Russia,82.72,48.26,41.36,172.34,Orbitalytics Fiscal & Agency Budget Registry,True
+2015-11-01,2015,11,Commercial (SpaceX / Private),United States,81.06,47.28,40.53,168.87,Orbitalytics Fiscal & Agency Budget Registry,True
+2015-12-01,2015,12,NASA,United States,292.33,170.52,146.16,609.01,Orbitalytics Fiscal & Agency Budget Registry,True
+2015-12-01,2015,12,ESA,Europe,157.29,91.75,78.64,327.68,Orbitalytics Fiscal & Agency Budget Registry,True
+2015-12-01,2015,12,ISRO,India,84.49,49.29,42.25,176.03,Orbitalytics Fiscal & Agency Budget Registry,True
+2015-12-01,2015,12,JAXA,Japan,83.58,48.75,41.79,174.12,Orbitalytics Fiscal & Agency Budget Registry,True
+2015-12-01,2015,12,CNSA,China,151.4,88.31,75.7,315.41,Orbitalytics Fiscal & Agency Budget Registry,True
+2015-12-01,2015,12,Roscosmos,Russia,82.69,48.24,41.35,172.28,Orbitalytics Fiscal & Agency Budget Registry,True
+2015-12-01,2015,12,Commercial (SpaceX / Private),United States,83.74,48.85,41.87,174.46,Orbitalytics Fiscal & Agency Budget Registry,True
+2016-01-01,2016,1,NASA,United States,236.85,138.16,118.42,493.43,Orbitalytics Fiscal & Agency Budget Registry,True
+2016-01-01,2016,1,ESA,Europe,136.78,79.79,68.39,284.96,Orbitalytics Fiscal & Agency Budget Registry,True
+2016-01-01,2016,1,ISRO,India,66.78,38.95,33.39,139.12,Orbitalytics Fiscal & Agency Budget Registry,True
+2016-01-01,2016,1,JAXA,Japan,69.07,40.29,34.53,143.89,Orbitalytics Fiscal & Agency Budget Registry,True
+2016-01-01,2016,1,CNSA,China,136.1,79.39,68.05,283.54,Orbitalytics Fiscal & Agency Budget Registry,True
+2016-01-01,2016,1,Roscosmos,Russia,71.44,41.67,35.72,148.83,Orbitalytics Fiscal & Agency Budget Registry,True
+2016-01-01,2016,1,Commercial (SpaceX / Private),United States,68.1,39.72,34.05,141.87,Orbitalytics Fiscal & Agency Budget Registry,True
+2016-02-01,2016,2,NASA,United States,243.58,142.09,121.79,507.46,Orbitalytics Fiscal & Agency Budget Registry,True
+2016-02-01,2016,2,ESA,Europe,133.76,78.03,66.88,278.67,Orbitalytics Fiscal & Agency Budget Registry,True
+2016-02-01,2016,2,ISRO,India,68.07,39.71,34.04,141.82,Orbitalytics Fiscal & Agency Budget Registry,True
+2016-02-01,2016,2,JAXA,Japan,70.9,41.36,35.45,147.71,Orbitalytics Fiscal & Agency Budget Registry,True
+2016-02-01,2016,2,CNSA,China,127.47,74.36,63.73,265.56,Orbitalytics Fiscal & Agency Budget Registry,True
+2016-02-01,2016,2,Roscosmos,Russia,73.31,42.77,36.66,152.74,Orbitalytics Fiscal & Agency Budget Registry,True
+2016-02-01,2016,2,Commercial (SpaceX / Private),United States,72.91,42.53,36.46,151.9,Orbitalytics Fiscal & Agency Budget Registry,True
+2016-03-01,2016,3,NASA,United States,251.95,146.97,125.98,524.9,Orbitalytics Fiscal & Agency Budget Registry,True
+2016-03-01,2016,3,ESA,Europe,135.98,79.32,67.99,283.29,Orbitalytics Fiscal & Agency Budget Registry,True
+2016-03-01,2016,3,ISRO,India,73.75,43.02,36.87,153.64,Orbitalytics Fiscal & Agency Budget Registry,True
+2016-03-01,2016,3,JAXA,Japan,75.57,44.08,37.79,157.44,Orbitalytics Fiscal & Agency Budget Registry,True
+2016-03-01,2016,3,CNSA,China,143.99,83.99,72.0,299.98,Orbitalytics Fiscal & Agency Budget Registry,True
+2016-03-01,2016,3,Roscosmos,Russia,75.03,43.77,37.51,156.31,Orbitalytics Fiscal & Agency Budget Registry,True
+2016-03-01,2016,3,Commercial (SpaceX / Private),United States,72.78,42.45,36.39,151.62,Orbitalytics Fiscal & Agency Budget Registry,True
+2016-04-01,2016,4,NASA,United States,263.14,153.5,131.57,548.21,Orbitalytics Fiscal & Agency Budget Registry,True
+2016-04-01,2016,4,ESA,Europe,141.15,82.34,70.57,294.06,Orbitalytics Fiscal & Agency Budget Registry,True
+2016-04-01,2016,4,ISRO,India,73.99,43.16,36.99,154.14,Orbitalytics Fiscal & Agency Budget Registry,True
+2016-04-01,2016,4,JAXA,Japan,75.57,44.08,37.78,157.43,Orbitalytics Fiscal & Agency Budget Registry,True
+2016-04-01,2016,4,CNSA,China,135.8,79.22,67.9,282.92,Orbitalytics Fiscal & Agency Budget Registry,True
+2016-04-01,2016,4,Roscosmos,Russia,78.01,45.51,39.01,162.53,Orbitalytics Fiscal & Agency Budget Registry,True
+2016-04-01,2016,4,Commercial (SpaceX / Private),United States,74.86,43.67,37.43,155.96,Orbitalytics Fiscal & Agency Budget Registry,True
+2016-05-01,2016,5,NASA,United States,264.2,154.12,132.1,550.42,Orbitalytics Fiscal & Agency Budget Registry,True
+2016-05-01,2016,5,ESA,Europe,137.89,80.43,68.94,287.26,Orbitalytics Fiscal & Agency Budget Registry,True
+2016-05-01,2016,5,ISRO,India,73.71,42.99,36.85,153.55,Orbitalytics Fiscal & Agency Budget Registry,True
+2016-05-01,2016,5,JAXA,Japan,77.46,45.19,38.73,161.38,Orbitalytics Fiscal & Agency Budget Registry,True
+2016-05-01,2016,5,CNSA,China,147.22,85.88,73.61,306.71,Orbitalytics Fiscal & Agency Budget Registry,True
+2016-05-01,2016,5,Roscosmos,Russia,77.09,44.97,38.55,160.61,Orbitalytics Fiscal & Agency Budget Registry,True
+2016-05-01,2016,5,Commercial (SpaceX / Private),United States,73.05,42.61,36.52,152.18,Orbitalytics Fiscal & Agency Budget Registry,True
+2016-06-01,2016,6,NASA,United States,262.43,153.09,131.22,546.74,Orbitalytics Fiscal & Agency Budget Registry,True
+2016-06-01,2016,6,ESA,Europe,145.9,85.11,72.95,303.96,Orbitalytics Fiscal & Agency Budget Registry,True
+2016-06-01,2016,6,ISRO,India,73.06,42.62,36.53,152.21,Orbitalytics Fiscal & Agency Budget Registry,True
+2016-06-01,2016,6,JAXA,Japan,76.46,44.6,38.23,159.29,Orbitalytics Fiscal & Agency Budget Registry,True
+2016-06-01,2016,6,CNSA,China,136.75,79.77,68.37,284.89,Orbitalytics Fiscal & Agency Budget Registry,True
+2016-06-01,2016,6,Roscosmos,Russia,77.85,45.41,38.93,162.19,Orbitalytics Fiscal & Agency Budget Registry,True
+2016-06-01,2016,6,Commercial (SpaceX / Private),United States,71.48,41.7,35.74,148.92,Orbitalytics Fiscal & Agency Budget Registry,True
+2016-07-01,2016,7,NASA,United States,258.37,150.71,129.18,538.26,Orbitalytics Fiscal & Agency Budget Registry,True
+2016-07-01,2016,7,ESA,Europe,145.45,84.85,72.73,303.03,Orbitalytics Fiscal & Agency Budget Registry,True
+2016-07-01,2016,7,ISRO,India,71.91,41.95,35.96,149.82,Orbitalytics Fiscal & Agency Budget Registry,True
+2016-07-01,2016,7,JAXA,Japan,77.71,45.33,38.85,161.89,Orbitalytics Fiscal & Agency Budget Registry,True
+2016-07-01,2016,7,CNSA,China,139.54,81.4,69.77,290.71,Orbitalytics Fiscal & Agency Budget Registry,True
+2016-07-01,2016,7,Roscosmos,Russia,75.31,43.93,37.66,156.9,Orbitalytics Fiscal & Agency Budget Registry,True
+2016-07-01,2016,7,Commercial (SpaceX / Private),United States,71.27,41.58,35.64,148.49,Orbitalytics Fiscal & Agency Budget Registry,True
+2016-08-01,2016,8,NASA,United States,251.19,146.53,125.59,523.31,Orbitalytics Fiscal & Agency Budget Registry,True
+2016-08-01,2016,8,ESA,Europe,137.86,80.42,68.93,287.21,Orbitalytics Fiscal & Agency Budget Registry,True
+2016-08-01,2016,8,ISRO,India,74.25,43.31,37.12,154.68,Orbitalytics Fiscal & Agency Budget Registry,True
+2016-08-01,2016,8,JAXA,Japan,73.77,43.03,36.88,153.68,Orbitalytics Fiscal & Agency Budget Registry,True
+2016-08-01,2016,8,CNSA,China,140.52,81.97,70.26,292.75,Orbitalytics Fiscal & Agency Budget Registry,True
+2016-08-01,2016,8,Roscosmos,Russia,72.09,42.05,36.04,150.18,Orbitalytics Fiscal & Agency Budget Registry,True
+2016-08-01,2016,8,Commercial (SpaceX / Private),United States,77.43,45.17,38.71,161.31,Orbitalytics Fiscal & Agency Budget Registry,True
+2016-09-01,2016,9,NASA,United States,258.96,151.06,129.48,539.5,Orbitalytics Fiscal & Agency Budget Registry,True
+2016-09-01,2016,9,ESA,Europe,147.37,85.96,73.68,307.01,Orbitalytics Fiscal & Agency Budget Registry,True
+2016-09-01,2016,9,ISRO,India,73.25,42.73,36.63,152.61,Orbitalytics Fiscal & Agency Budget Registry,True
+2016-09-01,2016,9,JAXA,Japan,76.32,44.52,38.16,159.0,Orbitalytics Fiscal & Agency Budget Registry,True
+2016-09-01,2016,9,CNSA,China,142.82,83.31,71.41,297.54,Orbitalytics Fiscal & Agency Budget Registry,True
+2016-09-01,2016,9,Roscosmos,Russia,75.25,43.9,37.63,156.78,Orbitalytics Fiscal & Agency Budget Registry,True
+2016-09-01,2016,9,Commercial (SpaceX / Private),United States,74.29,43.34,37.15,154.78,Orbitalytics Fiscal & Agency Budget Registry,True
+2016-10-01,2016,10,NASA,United States,255.91,149.28,127.96,533.15,Orbitalytics Fiscal & Agency Budget Registry,True
+2016-10-01,2016,10,ESA,Europe,136.05,79.36,68.02,283.43,Orbitalytics Fiscal & Agency Budget Registry,True
+2016-10-01,2016,10,ISRO,India,74.18,43.27,37.09,154.54,Orbitalytics Fiscal & Agency Budget Registry,True
+2016-10-01,2016,10,JAXA,Japan,75.29,43.92,37.64,156.85,Orbitalytics Fiscal & Agency Budget Registry,True
+2016-10-01,2016,10,CNSA,China,137.01,79.92,68.51,285.44,Orbitalytics Fiscal & Agency Budget Registry,True
+2016-10-01,2016,10,Roscosmos,Russia,77.06,44.95,38.53,160.54,Orbitalytics Fiscal & Agency Budget Registry,True
+2016-10-01,2016,10,Commercial (SpaceX / Private),United States,71.63,41.78,35.81,149.22,Orbitalytics Fiscal & Agency Budget Registry,True
+2016-11-01,2016,11,NASA,United States,281.87,164.43,140.94,587.24,Orbitalytics Fiscal & Agency Budget Registry,True
+2016-11-01,2016,11,ESA,Europe,166.78,97.29,83.39,347.46,Orbitalytics Fiscal & Agency Budget Registry,True
+2016-11-01,2016,11,ISRO,India,82.27,47.99,41.14,171.4,Orbitalytics Fiscal & Agency Budget Registry,True
+2016-11-01,2016,11,JAXA,Japan,87.96,51.31,43.98,183.25,Orbitalytics Fiscal & Agency Budget Registry,True
+2016-11-01,2016,11,CNSA,China,156.64,91.38,78.32,326.34,Orbitalytics Fiscal & Agency Budget Registry,True
+2016-11-01,2016,11,Roscosmos,Russia,83.4,48.65,41.7,173.75,Orbitalytics Fiscal & Agency Budget Registry,True
+2016-11-01,2016,11,Commercial (SpaceX / Private),United States,85.53,49.89,42.77,178.19,Orbitalytics Fiscal & Agency Budget Registry,True
+2016-12-01,2016,12,NASA,United States,292.62,170.69,146.31,609.62,Orbitalytics Fiscal & Agency Budget Registry,True
+2016-12-01,2016,12,ESA,Europe,161.85,94.41,80.92,337.18,Orbitalytics Fiscal & Agency Budget Registry,True
+2016-12-01,2016,12,ISRO,India,81.71,47.67,40.86,170.24,Orbitalytics Fiscal & Agency Budget Registry,True
+2016-12-01,2016,12,JAXA,Japan,82.78,48.29,41.39,172.46,Orbitalytics Fiscal & Agency Budget Registry,True
+2016-12-01,2016,12,CNSA,China,156.46,91.27,78.23,325.96,Orbitalytics Fiscal & Agency Budget Registry,True
+2016-12-01,2016,12,Roscosmos,Russia,85.39,49.81,42.7,177.9,Orbitalytics Fiscal & Agency Budget Registry,True
+2016-12-01,2016,12,Commercial (SpaceX / Private),United States,86.23,50.3,43.12,179.65,Orbitalytics Fiscal & Agency Budget Registry,True
+2017-01-01,2017,1,NASA,United States,243.14,141.83,121.57,506.54,Orbitalytics Fiscal & Agency Budget Registry,True
+2017-01-01,2017,1,ESA,Europe,144.99,84.58,72.49,302.06,Orbitalytics Fiscal & Agency Budget Registry,True
+2017-01-01,2017,1,ISRO,India,75.21,43.88,37.61,156.7,Orbitalytics Fiscal & Agency Budget Registry,True
+2017-01-01,2017,1,JAXA,Japan,75.17,43.85,37.58,156.6,Orbitalytics Fiscal & Agency Budget Registry,True
+2017-01-01,2017,1,CNSA,China,140.76,82.11,70.38,293.25,Orbitalytics Fiscal & Agency Budget Registry,True
+2017-01-01,2017,1,Roscosmos,Russia,72.51,42.3,36.25,151.06,Orbitalytics Fiscal & Agency Budget Registry,True
+2017-01-01,2017,1,Commercial (SpaceX / Private),United States,70.31,41.02,35.16,146.49,Orbitalytics Fiscal & Agency Budget Registry,True
+2017-02-01,2017,2,NASA,United States,258.06,150.54,129.03,537.63,Orbitalytics Fiscal & Agency Budget Registry,True
+2017-02-01,2017,2,ESA,Europe,142.24,82.97,71.12,296.33,Orbitalytics Fiscal & Agency Budget Registry,True
+2017-02-01,2017,2,ISRO,India,75.49,44.03,37.74,157.26,Orbitalytics Fiscal & Agency Budget Registry,True
+2017-02-01,2017,2,JAXA,Japan,74.46,43.43,37.23,155.12,Orbitalytics Fiscal & Agency Budget Registry,True
+2017-02-01,2017,2,CNSA,China,132.97,77.57,66.49,277.03,Orbitalytics Fiscal & Agency Budget Registry,True
+2017-02-01,2017,2,Roscosmos,Russia,74.82,43.64,37.41,155.87,Orbitalytics Fiscal & Agency Budget Registry,True
+2017-02-01,2017,2,Commercial (SpaceX / Private),United States,74.22,43.29,37.11,154.62,Orbitalytics Fiscal & Agency Budget Registry,True
+2017-03-01,2017,3,NASA,United States,265.27,154.74,132.63,552.64,Orbitalytics Fiscal & Agency Budget Registry,True
+2017-03-01,2017,3,ESA,Europe,151.68,88.48,75.84,316.0,Orbitalytics Fiscal & Agency Budget Registry,True
+2017-03-01,2017,3,ISRO,India,81.05,47.28,40.53,168.86,Orbitalytics Fiscal & Agency Budget Registry,True
+2017-03-01,2017,3,JAXA,Japan,76.16,44.43,38.08,158.67,Orbitalytics Fiscal & Agency Budget Registry,True
+2017-03-01,2017,3,CNSA,China,151.15,88.17,75.57,314.89,Orbitalytics Fiscal & Agency Budget Registry,True
+2017-03-01,2017,3,Roscosmos,Russia,77.81,45.39,38.9,162.1,Orbitalytics Fiscal & Agency Budget Registry,True
+2017-03-01,2017,3,Commercial (SpaceX / Private),United States,79.28,46.25,39.64,165.17,Orbitalytics Fiscal & Agency Budget Registry,True
+2017-04-01,2017,4,NASA,United States,273.02,159.26,136.51,568.79,Orbitalytics Fiscal & Agency Budget Registry,True
+2017-04-01,2017,4,ESA,Europe,154.38,90.06,77.19,321.63,Orbitalytics Fiscal & Agency Budget Registry,True
+2017-04-01,2017,4,ISRO,India,79.65,46.46,39.83,165.94,Orbitalytics Fiscal & Agency Budget Registry,True
+2017-04-01,2017,4,JAXA,Japan,78.63,45.87,39.31,163.81,Orbitalytics Fiscal & Agency Budget Registry,True
+2017-04-01,2017,4,CNSA,China,147.2,85.87,73.6,306.67,Orbitalytics Fiscal & Agency Budget Registry,True
+2017-04-01,2017,4,Roscosmos,Russia,76.76,44.78,38.38,159.92,Orbitalytics Fiscal & Agency Budget Registry,True
+2017-04-01,2017,4,Commercial (SpaceX / Private),United States,79.17,46.18,39.59,164.94,Orbitalytics Fiscal & Agency Budget Registry,True
+2017-05-01,2017,5,NASA,United States,272.43,158.92,136.22,567.57,Orbitalytics Fiscal & Agency Budget Registry,True
+2017-05-01,2017,5,ESA,Europe,153.48,89.53,76.74,319.75,Orbitalytics Fiscal & Agency Budget Registry,True
+2017-05-01,2017,5,ISRO,India,75.58,44.09,37.79,157.46,Orbitalytics Fiscal & Agency Budget Registry,True
+2017-05-01,2017,5,JAXA,Japan,74.39,43.39,37.19,154.97,Orbitalytics Fiscal & Agency Budget Registry,True
+2017-05-01,2017,5,CNSA,China,156.13,91.08,78.07,325.28,Orbitalytics Fiscal & Agency Budget Registry,True
+2017-05-01,2017,5,Roscosmos,Russia,74.93,43.71,37.47,156.11,Orbitalytics Fiscal & Agency Budget Registry,True
+2017-05-01,2017,5,Commercial (SpaceX / Private),United States,75.0,43.75,37.5,156.25,Orbitalytics Fiscal & Agency Budget Registry,True
+2017-06-01,2017,6,NASA,United States,268.27,156.49,134.14,558.9,Orbitalytics Fiscal & Agency Budget Registry,True
+2017-06-01,2017,6,ESA,Europe,152.4,88.9,76.2,317.5,Orbitalytics Fiscal & Agency Budget Registry,True
+2017-06-01,2017,6,ISRO,India,74.53,43.48,37.27,155.28,Orbitalytics Fiscal & Agency Budget Registry,True
+2017-06-01,2017,6,JAXA,Japan,79.12,46.15,39.56,164.83,Orbitalytics Fiscal & Agency Budget Registry,True
+2017-06-01,2017,6,CNSA,China,154.21,89.95,77.1,321.26,Orbitalytics Fiscal & Agency Budget Registry,True
+2017-06-01,2017,6,Roscosmos,Russia,76.03,44.35,38.02,158.4,Orbitalytics Fiscal & Agency Budget Registry,True
+2017-06-01,2017,6,Commercial (SpaceX / Private),United States,79.95,46.64,39.98,166.57,Orbitalytics Fiscal & Agency Budget Registry,True
+2017-07-01,2017,7,NASA,United States,262.09,152.88,131.04,546.01,Orbitalytics Fiscal & Agency Budget Registry,True
+2017-07-01,2017,7,ESA,Europe,144.79,84.46,72.4,301.65,Orbitalytics Fiscal & Agency Budget Registry,True
+2017-07-01,2017,7,ISRO,India,77.4,45.15,38.7,161.25,Orbitalytics Fiscal & Agency Budget Registry,True
+2017-07-01,2017,7,JAXA,Japan,76.94,44.88,38.47,160.29,Orbitalytics Fiscal & Agency Budget Registry,True
+2017-07-01,2017,7,CNSA,China,148.0,86.33,74.0,308.33,Orbitalytics Fiscal & Agency Budget Registry,True
+2017-07-01,2017,7,Roscosmos,Russia,77.81,45.39,38.9,162.1,Orbitalytics Fiscal & Agency Budget Registry,True
+2017-07-01,2017,7,Commercial (SpaceX / Private),United States,77.5,45.21,38.75,161.46,Orbitalytics Fiscal & Agency Budget Registry,True
+2017-08-01,2017,8,NASA,United States,262.51,153.13,131.26,546.9,Orbitalytics Fiscal & Agency Budget Registry,True
+2017-08-01,2017,8,ESA,Europe,152.09,88.72,76.04,316.85,Orbitalytics Fiscal & Agency Budget Registry,True
+2017-08-01,2017,8,ISRO,India,80.43,46.92,40.22,167.57,Orbitalytics Fiscal & Agency Budget Registry,True
+2017-08-01,2017,8,JAXA,Japan,77.06,44.95,38.53,160.54,Orbitalytics Fiscal & Agency Budget Registry,True
+2017-08-01,2017,8,CNSA,China,153.73,89.68,76.87,320.28,Orbitalytics Fiscal & Agency Budget Registry,True
+2017-08-01,2017,8,Roscosmos,Russia,76.65,44.71,38.32,159.68,Orbitalytics Fiscal & Agency Budget Registry,True
+2017-08-01,2017,8,Commercial (SpaceX / Private),United States,80.69,47.07,40.35,168.11,Orbitalytics Fiscal & Agency Budget Registry,True
+2017-09-01,2017,9,NASA,United States,264.45,154.26,132.22,550.93,Orbitalytics Fiscal & Agency Budget Registry,True
+2017-09-01,2017,9,ESA,Europe,144.42,84.24,72.21,300.87,Orbitalytics Fiscal & Agency Budget Registry,True
+2017-09-01,2017,9,ISRO,India,74.58,43.5,37.29,155.37,Orbitalytics Fiscal & Agency Budget Registry,True
+2017-09-01,2017,9,JAXA,Japan,76.37,44.55,38.19,159.11,Orbitalytics Fiscal & Agency Budget Registry,True
+2017-09-01,2017,9,CNSA,China,150.97,88.07,75.48,314.52,Orbitalytics Fiscal & Agency Budget Registry,True
+2017-09-01,2017,9,Roscosmos,Russia,77.45,45.18,38.72,161.35,Orbitalytics Fiscal & Agency Budget Registry,True
+2017-09-01,2017,9,Commercial (SpaceX / Private),United States,74.75,43.61,37.38,155.74,Orbitalytics Fiscal & Agency Budget Registry,True
+2017-10-01,2017,10,NASA,United States,255.79,149.21,127.89,532.89,Orbitalytics Fiscal & Agency Budget Registry,True
+2017-10-01,2017,10,ESA,Europe,154.92,90.37,77.46,322.75,Orbitalytics Fiscal & Agency Budget Registry,True
+2017-10-01,2017,10,ISRO,India,74.62,43.53,37.31,155.46,Orbitalytics Fiscal & Agency Budget Registry,True
+2017-10-01,2017,10,JAXA,Japan,81.01,47.26,40.51,168.78,Orbitalytics Fiscal & Agency Budget Registry,True
+2017-10-01,2017,10,CNSA,China,150.68,87.9,75.34,313.92,Orbitalytics Fiscal & Agency Budget Registry,True
+2017-10-01,2017,10,Roscosmos,Russia,80.8,47.13,40.4,168.33,Orbitalytics Fiscal & Agency Budget Registry,True
+2017-10-01,2017,10,Commercial (SpaceX / Private),United States,74.27,43.32,37.13,154.72,Orbitalytics Fiscal & Agency Budget Registry,True
+2017-11-01,2017,11,NASA,United States,318.54,185.81,159.27,663.62,Orbitalytics Fiscal & Agency Budget Registry,True
+2017-11-01,2017,11,ESA,Europe,164.0,95.67,82.0,341.67,Orbitalytics Fiscal & Agency Budget Registry,True
+2017-11-01,2017,11,ISRO,India,91.06,53.12,45.53,189.71,Orbitalytics Fiscal & Agency Budget Registry,True
+2017-11-01,2017,11,JAXA,Japan,90.31,52.68,45.15,188.14,Orbitalytics Fiscal & Agency Budget Registry,True
+2017-11-01,2017,11,CNSA,China,163.15,95.17,81.57,339.89,Orbitalytics Fiscal & Agency Budget Registry,True
+2017-11-01,2017,11,Roscosmos,Russia,92.69,54.07,46.35,193.11,Orbitalytics Fiscal & Agency Budget Registry,True
+2017-11-01,2017,11,Commercial (SpaceX / Private),United States,94.07,54.88,47.04,195.99,Orbitalytics Fiscal & Agency Budget Registry,True
+2017-12-01,2017,12,NASA,United States,306.29,178.67,153.15,638.11,Orbitalytics Fiscal & Agency Budget Registry,True
+2017-12-01,2017,12,ESA,Europe,174.66,101.88,87.33,363.87,Orbitalytics Fiscal & Agency Budget Registry,True
+2017-12-01,2017,12,ISRO,India,88.84,51.82,44.42,185.08,Orbitalytics Fiscal & Agency Budget Registry,True
+2017-12-01,2017,12,JAXA,Japan,91.98,53.65,45.99,191.62,Orbitalytics Fiscal & Agency Budget Registry,True
+2017-12-01,2017,12,CNSA,China,176.79,103.13,88.39,368.31,Orbitalytics Fiscal & Agency Budget Registry,True
+2017-12-01,2017,12,Roscosmos,Russia,87.59,51.09,43.79,182.47,Orbitalytics Fiscal & Agency Budget Registry,True
+2017-12-01,2017,12,Commercial (SpaceX / Private),United States,86.5,50.46,43.25,180.21,Orbitalytics Fiscal & Agency Budget Registry,True
+2018-01-01,2018,1,NASA,United States,273.85,159.75,136.93,570.53,Orbitalytics Fiscal & Agency Budget Registry,True
+2018-01-01,2018,1,ESA,Europe,152.39,88.9,76.2,317.49,Orbitalytics Fiscal & Agency Budget Registry,True
+2018-01-01,2018,1,ISRO,India,73.49,42.87,36.75,153.11,Orbitalytics Fiscal & Agency Budget Registry,True
+2018-01-01,2018,1,JAXA,Japan,73.72,43.0,36.86,153.58,Orbitalytics Fiscal & Agency Budget Registry,True
+2018-01-01,2018,1,CNSA,China,152.67,89.06,76.34,318.07,Orbitalytics Fiscal & Agency Budget Registry,True
+2018-01-01,2018,1,Roscosmos,Russia,75.02,43.76,37.51,156.29,Orbitalytics Fiscal & Agency Budget Registry,True
+2018-01-01,2018,1,Commercial (SpaceX / Private),United States,74.56,43.5,37.28,155.34,Orbitalytics Fiscal & Agency Budget Registry,True
+2018-02-01,2018,2,NASA,United States,261.82,152.73,130.91,545.46,Orbitalytics Fiscal & Agency Budget Registry,True
+2018-02-01,2018,2,ESA,Europe,146.3,85.34,73.15,304.79,Orbitalytics Fiscal & Agency Budget Registry,True
+2018-02-01,2018,2,ISRO,India,79.0,46.09,39.5,164.59,Orbitalytics Fiscal & Agency Budget Registry,True
+2018-02-01,2018,2,JAXA,Japan,78.8,45.97,39.4,164.17,Orbitalytics Fiscal & Agency Budget Registry,True
+2018-02-01,2018,2,CNSA,China,149.74,87.35,74.87,311.96,Orbitalytics Fiscal & Agency Budget Registry,True
+2018-02-01,2018,2,Roscosmos,Russia,74.47,43.44,37.24,155.15,Orbitalytics Fiscal & Agency Budget Registry,True
+2018-02-01,2018,2,Commercial (SpaceX / Private),United States,75.47,44.02,37.73,157.22,Orbitalytics Fiscal & Agency Budget Registry,True
+2018-03-01,2018,3,NASA,United States,273.1,159.31,136.55,568.96,Orbitalytics Fiscal & Agency Budget Registry,True
+2018-03-01,2018,3,ESA,Europe,162.33,94.69,81.17,338.19,Orbitalytics Fiscal & Agency Budget Registry,True
+2018-03-01,2018,3,ISRO,India,84.36,49.21,42.18,175.75,Orbitalytics Fiscal & Agency Budget Registry,True
+2018-03-01,2018,3,JAXA,Japan,82.12,47.9,41.06,171.08,Orbitalytics Fiscal & Agency Budget Registry,True
+2018-03-01,2018,3,CNSA,China,158.98,92.74,79.49,331.21,Orbitalytics Fiscal & Agency Budget Registry,True
+2018-03-01,2018,3,Roscosmos,Russia,84.65,49.38,42.33,176.36,Orbitalytics Fiscal & Agency Budget Registry,True
+2018-03-01,2018,3,Commercial (SpaceX / Private),United States,80.1,46.73,40.05,166.88,Orbitalytics Fiscal & Agency Budget Registry,True
+2018-04-01,2018,4,NASA,United States,280.09,163.39,140.05,583.53,Orbitalytics Fiscal & Agency Budget Registry,True
+2018-04-01,2018,4,ESA,Europe,159.31,92.93,79.65,331.89,Orbitalytics Fiscal & Agency Budget Registry,True
+2018-04-01,2018,4,ISRO,India,80.54,46.98,40.27,167.79,Orbitalytics Fiscal & Agency Budget Registry,True
+2018-04-01,2018,4,JAXA,Japan,79.13,46.16,39.57,164.86,Orbitalytics Fiscal & Agency Budget Registry,True
+2018-04-01,2018,4,CNSA,China,159.2,92.87,79.6,331.67,Orbitalytics Fiscal & Agency Budget Registry,True
+2018-04-01,2018,4,Roscosmos,Russia,81.32,47.43,40.66,169.41,Orbitalytics Fiscal & Agency Budget Registry,True
+2018-04-01,2018,4,Commercial (SpaceX / Private),United States,82.01,47.84,41.01,170.86,Orbitalytics Fiscal & Agency Budget Registry,True
+2018-05-01,2018,5,NASA,United States,270.18,157.61,135.09,562.88,Orbitalytics Fiscal & Agency Budget Registry,True
+2018-05-01,2018,5,ESA,Europe,148.72,86.75,74.36,309.83,Orbitalytics Fiscal & Agency Budget Registry,True
+2018-05-01,2018,5,ISRO,India,81.52,47.55,40.76,169.83,Orbitalytics Fiscal & Agency Budget Registry,True
+2018-05-01,2018,5,JAXA,Japan,81.71,47.66,40.85,170.22,Orbitalytics Fiscal & Agency Budget Registry,True
+2018-05-01,2018,5,CNSA,China,151.34,88.28,75.67,315.29,Orbitalytics Fiscal & Agency Budget Registry,True
+2018-05-01,2018,5,Roscosmos,Russia,82.3,48.01,41.15,171.46,Orbitalytics Fiscal & Agency Budget Registry,True
+2018-05-01,2018,5,Commercial (SpaceX / Private),United States,84.06,49.04,42.03,175.13,Orbitalytics Fiscal & Agency Budget Registry,True
+2018-06-01,2018,6,NASA,United States,291.23,169.89,145.62,606.74,Orbitalytics Fiscal & Agency Budget Registry,True
+2018-06-01,2018,6,ESA,Europe,152.02,88.68,76.01,316.71,Orbitalytics Fiscal & Agency Budget Registry,True
+2018-06-01,2018,6,ISRO,India,83.37,48.63,41.68,173.68,Orbitalytics Fiscal & Agency Budget Registry,True
+2018-06-01,2018,6,JAXA,Japan,83.55,48.74,41.78,174.07,Orbitalytics Fiscal & Agency Budget Registry,True
+2018-06-01,2018,6,CNSA,China,162.87,95.01,81.44,339.32,Orbitalytics Fiscal & Agency Budget Registry,True
+2018-06-01,2018,6,Roscosmos,Russia,78.03,45.52,39.02,162.57,Orbitalytics Fiscal & Agency Budget Registry,True
+2018-06-01,2018,6,Commercial (SpaceX / Private),United States,82.99,48.41,41.49,172.89,Orbitalytics Fiscal & Agency Budget Registry,True
+2018-07-01,2018,7,NASA,United States,270.03,157.52,135.01,562.56,Orbitalytics Fiscal & Agency Budget Registry,True
+2018-07-01,2018,7,ESA,Europe,157.34,91.78,78.67,327.79,Orbitalytics Fiscal & Agency Budget Registry,True
+2018-07-01,2018,7,ISRO,India,82.66,48.22,41.33,172.21,Orbitalytics Fiscal & Agency Budget Registry,True
+2018-07-01,2018,7,JAXA,Japan,82.4,48.07,41.2,171.67,Orbitalytics Fiscal & Agency Budget Registry,True
+2018-07-01,2018,7,CNSA,China,158.07,92.21,79.03,329.31,Orbitalytics Fiscal & Agency Budget Registry,True
+2018-07-01,2018,7,Roscosmos,Russia,82.91,48.36,41.46,172.73,Orbitalytics Fiscal & Agency Budget Registry,True
+2018-07-01,2018,7,Commercial (SpaceX / Private),United States,79.38,46.3,39.69,165.37,Orbitalytics Fiscal & Agency Budget Registry,True
+2018-08-01,2018,8,NASA,United States,289.26,168.73,144.63,602.62,Orbitalytics Fiscal & Agency Budget Registry,True
+2018-08-01,2018,8,ESA,Europe,154.0,89.83,77.0,320.83,Orbitalytics Fiscal & Agency Budget Registry,True
+2018-08-01,2018,8,ISRO,India,84.46,49.27,42.23,175.96,Orbitalytics Fiscal & Agency Budget Registry,True
+2018-08-01,2018,8,JAXA,Japan,84.92,49.54,42.46,176.92,Orbitalytics Fiscal & Agency Budget Registry,True
+2018-08-01,2018,8,CNSA,China,153.05,89.28,76.52,318.85,Orbitalytics Fiscal & Agency Budget Registry,True
+2018-08-01,2018,8,Roscosmos,Russia,83.14,48.5,41.57,173.21,Orbitalytics Fiscal & Agency Budget Registry,True
+2018-08-01,2018,8,Commercial (SpaceX / Private),United States,79.53,46.39,39.77,165.69,Orbitalytics Fiscal & Agency Budget Registry,True
+2018-09-01,2018,9,NASA,United States,283.88,165.6,141.94,591.42,Orbitalytics Fiscal & Agency Budget Registry,True
+2018-09-01,2018,9,ESA,Europe,159.71,93.17,79.86,332.74,Orbitalytics Fiscal & Agency Budget Registry,True
+2018-09-01,2018,9,ISRO,India,82.2,47.95,41.1,171.25,Orbitalytics Fiscal & Agency Budget Registry,True
+2018-09-01,2018,9,JAXA,Japan,77.97,45.48,38.98,162.43,Orbitalytics Fiscal & Agency Budget Registry,True
+2018-09-01,2018,9,CNSA,China,157.27,91.74,78.64,327.65,Orbitalytics Fiscal & Agency Budget Registry,True
+2018-09-01,2018,9,Roscosmos,Russia,80.19,46.78,40.1,167.07,Orbitalytics Fiscal & Agency Budget Registry,True
+2018-09-01,2018,9,Commercial (SpaceX / Private),United States,84.69,49.4,42.35,176.44,Orbitalytics Fiscal & Agency Budget Registry,True
+2018-10-01,2018,10,NASA,United States,278.83,162.65,139.42,580.9,Orbitalytics Fiscal & Agency Budget Registry,True
+2018-10-01,2018,10,ESA,Europe,163.4,95.32,81.7,340.42,Orbitalytics Fiscal & Agency Budget Registry,True
+2018-10-01,2018,10,ISRO,India,77.95,45.47,38.97,162.39,Orbitalytics Fiscal & Agency Budget Registry,True
+2018-10-01,2018,10,JAXA,Japan,80.66,47.05,40.33,168.04,Orbitalytics Fiscal & Agency Budget Registry,True
+2018-10-01,2018,10,CNSA,China,153.92,89.79,76.96,320.67,Orbitalytics Fiscal & Agency Budget Registry,True
+2018-10-01,2018,10,Roscosmos,Russia,83.24,48.56,41.62,173.42,Orbitalytics Fiscal & Agency Budget Registry,True
+2018-10-01,2018,10,Commercial (SpaceX / Private),United States,78.41,45.74,39.2,163.35,Orbitalytics Fiscal & Agency Budget Registry,True
+2018-11-01,2018,11,NASA,United States,339.76,198.19,169.88,707.83,Orbitalytics Fiscal & Agency Budget Registry,True
+2018-11-01,2018,11,ESA,Europe,176.45,102.93,88.23,367.61,Orbitalytics Fiscal & Agency Budget Registry,True
+2018-11-01,2018,11,ISRO,India,89.79,52.38,44.89,187.06,Orbitalytics Fiscal & Agency Budget Registry,True
+2018-11-01,2018,11,JAXA,Japan,91.49,53.37,45.75,190.61,Orbitalytics Fiscal & Agency Budget Registry,True
+2018-11-01,2018,11,CNSA,China,178.0,103.83,89.0,370.83,Orbitalytics Fiscal & Agency Budget Registry,True
+2018-11-01,2018,11,Roscosmos,Russia,93.4,54.48,46.7,194.58,Orbitalytics Fiscal & Agency Budget Registry,True
+2018-11-01,2018,11,Commercial (SpaceX / Private),United States,96.01,56.01,48.01,200.03,Orbitalytics Fiscal & Agency Budget Registry,True
+2018-12-01,2018,12,NASA,United States,338.77,197.62,169.39,705.78,Orbitalytics Fiscal & Agency Budget Registry,True
+2018-12-01,2018,12,ESA,Europe,182.78,106.62,91.39,380.79,Orbitalytics Fiscal & Agency Budget Registry,True
+2018-12-01,2018,12,ISRO,India,95.14,55.5,47.57,198.21,Orbitalytics Fiscal & Agency Budget Registry,True
+2018-12-01,2018,12,JAXA,Japan,97.23,56.72,48.62,202.57,Orbitalytics Fiscal & Agency Budget Registry,True
+2018-12-01,2018,12,CNSA,China,185.05,107.95,92.53,385.53,Orbitalytics Fiscal & Agency Budget Registry,True
+2018-12-01,2018,12,Roscosmos,Russia,93.77,54.7,46.88,195.35,Orbitalytics Fiscal & Agency Budget Registry,True
+2018-12-01,2018,12,Commercial (SpaceX / Private),United States,89.91,52.45,44.96,187.32,Orbitalytics Fiscal & Agency Budget Registry,True
+2019-01-01,2019,1,NASA,United States,283.05,165.11,141.52,589.68,Orbitalytics Fiscal & Agency Budget Registry,True
+2019-01-01,2019,1,ESA,Europe,150.66,87.89,75.33,313.88,Orbitalytics Fiscal & Agency Budget Registry,True
+2019-01-01,2019,1,ISRO,India,82.92,48.37,41.46,172.75,Orbitalytics Fiscal & Agency Budget Registry,True
+2019-01-01,2019,1,JAXA,Japan,82.04,47.85,41.02,170.91,Orbitalytics Fiscal & Agency Budget Registry,True
+2019-01-01,2019,1,CNSA,China,158.45,92.43,79.22,330.1,Orbitalytics Fiscal & Agency Budget Registry,True
+2019-01-01,2019,1,Roscosmos,Russia,81.51,47.55,40.75,169.81,Orbitalytics Fiscal & Agency Budget Registry,True
+2019-01-01,2019,1,Commercial (SpaceX / Private),United States,79.82,46.56,39.91,166.29,Orbitalytics Fiscal & Agency Budget Registry,True
+2019-02-01,2019,2,NASA,United States,280.03,163.35,140.01,583.39,Orbitalytics Fiscal & Agency Budget Registry,True
+2019-02-01,2019,2,ESA,Europe,155.35,90.62,77.67,323.64,Orbitalytics Fiscal & Agency Budget Registry,True
+2019-02-01,2019,2,ISRO,India,77.98,45.49,38.99,162.46,Orbitalytics Fiscal & Agency Budget Registry,True
+2019-02-01,2019,2,JAXA,Japan,79.33,46.28,39.67,165.28,Orbitalytics Fiscal & Agency Budget Registry,True
+2019-02-01,2019,2,CNSA,China,159.32,92.94,79.66,331.92,Orbitalytics Fiscal & Agency Budget Registry,True
+2019-02-01,2019,2,Roscosmos,Russia,79.87,46.59,39.93,166.39,Orbitalytics Fiscal & Agency Budget Registry,True
+2019-02-01,2019,2,Commercial (SpaceX / Private),United States,81.04,47.27,40.52,168.83,Orbitalytics Fiscal & Agency Budget Registry,True
+2019-03-01,2019,3,NASA,United States,284.13,165.74,142.06,591.93,Orbitalytics Fiscal & Agency Budget Registry,True
+2019-03-01,2019,3,ESA,Europe,167.39,97.65,83.7,348.74,Orbitalytics Fiscal & Agency Budget Registry,True
+2019-03-01,2019,3,ISRO,India,83.56,48.74,41.78,174.08,Orbitalytics Fiscal & Agency Budget Registry,True
+2019-03-01,2019,3,JAXA,Japan,87.24,50.89,43.62,181.75,Orbitalytics Fiscal & Agency Budget Registry,True
+2019-03-01,2019,3,CNSA,China,160.74,93.77,80.37,334.88,Orbitalytics Fiscal & Agency Budget Registry,True
+2019-03-01,2019,3,Roscosmos,Russia,84.78,49.46,42.39,176.63,Orbitalytics Fiscal & Agency Budget Registry,True
+2019-03-01,2019,3,Commercial (SpaceX / Private),United States,86.79,50.63,43.4,180.82,Orbitalytics Fiscal & Agency Budget Registry,True
+2019-04-01,2019,4,NASA,United States,289.17,168.68,144.58,602.43,Orbitalytics Fiscal & Agency Budget Registry,True
+2019-04-01,2019,4,ESA,Europe,159.21,92.87,79.61,331.69,Orbitalytics Fiscal & Agency Budget Registry,True
+2019-04-01,2019,4,ISRO,India,85.9,50.11,42.95,178.96,Orbitalytics Fiscal & Agency Budget Registry,True
+2019-04-01,2019,4,JAXA,Japan,86.94,50.71,43.47,181.12,Orbitalytics Fiscal & Agency Budget Registry,True
+2019-04-01,2019,4,CNSA,China,154.97,90.4,77.48,322.85,Orbitalytics Fiscal & Agency Budget Registry,True
+2019-04-01,2019,4,Roscosmos,Russia,81.62,47.61,40.81,170.04,Orbitalytics Fiscal & Agency Budget Registry,True
+2019-04-01,2019,4,Commercial (SpaceX / Private),United States,82.41,48.07,41.2,171.68,Orbitalytics Fiscal & Agency Budget Registry,True
+2019-05-01,2019,5,NASA,United States,296.61,173.02,148.31,617.94,Orbitalytics Fiscal & Agency Budget Registry,True
+2019-05-01,2019,5,ESA,Europe,164.2,95.78,82.1,342.08,Orbitalytics Fiscal & Agency Budget Registry,True
+2019-05-01,2019,5,ISRO,India,86.04,50.19,43.02,179.25,Orbitalytics Fiscal & Agency Budget Registry,True
+2019-05-01,2019,5,JAXA,Japan,85.98,50.15,42.99,179.12,Orbitalytics Fiscal & Agency Budget Registry,True
+2019-05-01,2019,5,CNSA,China,155.93,90.96,77.96,324.85,Orbitalytics Fiscal & Agency Budget Registry,True
+2019-05-01,2019,5,Roscosmos,Russia,83.35,48.62,41.67,173.64,Orbitalytics Fiscal & Agency Budget Registry,True
+2019-05-01,2019,5,Commercial (SpaceX / Private),United States,85.53,49.89,42.77,178.19,Orbitalytics Fiscal & Agency Budget Registry,True
+2019-06-01,2019,6,NASA,United States,307.96,179.65,153.98,641.59,Orbitalytics Fiscal & Agency Budget Registry,True
+2019-06-01,2019,6,ESA,Europe,169.65,98.96,84.83,353.44,Orbitalytics Fiscal & Agency Budget Registry,True
+2019-06-01,2019,6,ISRO,India,80.94,47.21,40.47,168.62,Orbitalytics Fiscal & Agency Budget Registry,True
+2019-06-01,2019,6,JAXA,Japan,86.45,50.43,43.22,180.1,Orbitalytics Fiscal & Agency Budget Registry,True
+2019-06-01,2019,6,CNSA,China,163.69,95.49,81.85,341.03,Orbitalytics Fiscal & Agency Budget Registry,True
+2019-06-01,2019,6,Roscosmos,Russia,82.7,48.24,41.35,172.29,Orbitalytics Fiscal & Agency Budget Registry,True
+2019-06-01,2019,6,Commercial (SpaceX / Private),United States,86.78,50.62,43.39,180.79,Orbitalytics Fiscal & Agency Budget Registry,True
+2019-07-01,2019,7,NASA,United States,282.41,164.74,141.21,588.36,Orbitalytics Fiscal & Agency Budget Registry,True
+2019-07-01,2019,7,ESA,Europe,170.3,99.34,85.15,354.79,Orbitalytics Fiscal & Agency Budget Registry,True
+2019-07-01,2019,7,ISRO,India,84.19,49.11,42.09,175.39,Orbitalytics Fiscal & Agency Budget Registry,True
+2019-07-01,2019,7,JAXA,Japan,85.73,50.01,42.86,178.6,Orbitalytics Fiscal & Agency Budget Registry,True
+2019-07-01,2019,7,CNSA,China,162.02,94.51,81.01,337.54,Orbitalytics Fiscal & Agency Budget Registry,True
+2019-07-01,2019,7,Roscosmos,Russia,83.09,48.47,41.54,173.1,Orbitalytics Fiscal & Agency Budget Registry,True
+2019-07-01,2019,7,Commercial (SpaceX / Private),United States,81.03,47.26,40.51,168.8,Orbitalytics Fiscal & Agency Budget Registry,True
+2019-08-01,2019,8,NASA,United States,281.22,164.04,140.61,585.87,Orbitalytics Fiscal & Agency Budget Registry,True
+2019-08-01,2019,8,ESA,Europe,161.43,94.17,80.71,336.31,Orbitalytics Fiscal & Agency Budget Registry,True
+2019-08-01,2019,8,ISRO,India,85.5,49.87,42.75,178.12,Orbitalytics Fiscal & Agency Budget Registry,True
+2019-08-01,2019,8,JAXA,Japan,85.42,49.83,42.71,177.96,Orbitalytics Fiscal & Agency Budget Registry,True
+2019-08-01,2019,8,CNSA,China,155.6,90.76,77.8,324.16,Orbitalytics Fiscal & Agency Budget Registry,True
+2019-08-01,2019,8,Roscosmos,Russia,85.11,49.65,42.56,177.32,Orbitalytics Fiscal & Agency Budget Registry,True
+2019-08-01,2019,8,Commercial (SpaceX / Private),United States,81.57,47.58,40.78,169.93,Orbitalytics Fiscal & Agency Budget Registry,True
+2019-09-01,2019,9,NASA,United States,283.31,165.26,141.65,590.22,Orbitalytics Fiscal & Agency Budget Registry,True
+2019-09-01,2019,9,ESA,Europe,164.24,95.8,82.12,342.16,Orbitalytics Fiscal & Agency Budget Registry,True
+2019-09-01,2019,9,ISRO,India,81.43,47.5,40.72,169.65,Orbitalytics Fiscal & Agency Budget Registry,True
+2019-09-01,2019,9,JAXA,Japan,83.12,48.49,41.56,173.17,Orbitalytics Fiscal & Agency Budget Registry,True
+2019-09-01,2019,9,CNSA,China,165.75,96.68,82.87,345.3,Orbitalytics Fiscal & Agency Budget Registry,True
+2019-09-01,2019,9,Roscosmos,Russia,86.36,50.38,43.18,179.92,Orbitalytics Fiscal & Agency Budget Registry,True
+2019-09-01,2019,9,Commercial (SpaceX / Private),United States,81.4,47.48,40.7,169.58,Orbitalytics Fiscal & Agency Budget Registry,True
+2019-10-01,2019,10,NASA,United States,296.69,173.07,148.34,618.1,Orbitalytics Fiscal & Agency Budget Registry,True
+2019-10-01,2019,10,ESA,Europe,167.31,97.6,83.65,348.56,Orbitalytics Fiscal & Agency Budget Registry,True
+2019-10-01,2019,10,ISRO,India,87.27,50.91,43.63,181.81,Orbitalytics Fiscal & Agency Budget Registry,True
+2019-10-01,2019,10,JAXA,Japan,84.88,49.52,42.44,176.84,Orbitalytics Fiscal & Agency Budget Registry,True
+2019-10-01,2019,10,CNSA,China,165.19,96.36,82.6,344.15,Orbitalytics Fiscal & Agency Budget Registry,True
+2019-10-01,2019,10,Roscosmos,Russia,88.58,51.67,44.29,184.54,Orbitalytics Fiscal & Agency Budget Registry,True
+2019-10-01,2019,10,Commercial (SpaceX / Private),United States,83.72,48.84,41.86,174.42,Orbitalytics Fiscal & Agency Budget Registry,True
+2019-11-01,2019,11,NASA,United States,341.52,199.22,170.76,711.5,Orbitalytics Fiscal & Agency Budget Registry,True
+2019-11-01,2019,11,ESA,Europe,180.42,105.24,90.21,375.87,Orbitalytics Fiscal & Agency Budget Registry,True
+2019-11-01,2019,11,ISRO,India,99.77,58.2,49.88,207.85,Orbitalytics Fiscal & Agency Budget Registry,True
+2019-11-01,2019,11,JAXA,Japan,96.53,56.31,48.26,201.1,Orbitalytics Fiscal & Agency Budget Registry,True
+2019-11-01,2019,11,CNSA,China,179.94,104.97,89.97,374.88,Orbitalytics Fiscal & Agency Budget Registry,True
+2019-11-01,2019,11,Roscosmos,Russia,98.34,57.36,49.17,204.87,Orbitalytics Fiscal & Agency Budget Registry,True
+2019-11-01,2019,11,Commercial (SpaceX / Private),United States,98.43,57.42,49.22,205.07,Orbitalytics Fiscal & Agency Budget Registry,True
+2019-12-01,2019,12,NASA,United States,343.82,200.56,171.91,716.29,Orbitalytics Fiscal & Agency Budget Registry,True
+2019-12-01,2019,12,ESA,Europe,193.77,113.03,96.88,403.68,Orbitalytics Fiscal & Agency Budget Registry,True
+2019-12-01,2019,12,ISRO,India,101.78,59.37,50.89,212.04,Orbitalytics Fiscal & Agency Budget Registry,True
+2019-12-01,2019,12,JAXA,Japan,94.89,55.36,47.45,197.7,Orbitalytics Fiscal & Agency Budget Registry,True
+2019-12-01,2019,12,CNSA,China,192.17,112.1,96.08,400.35,Orbitalytics Fiscal & Agency Budget Registry,True
+2019-12-01,2019,12,Roscosmos,Russia,94.47,55.11,47.23,196.81,Orbitalytics Fiscal & Agency Budget Registry,True
+2019-12-01,2019,12,Commercial (SpaceX / Private),United States,94.43,55.09,47.22,196.74,Orbitalytics Fiscal & Agency Budget Registry,True
+2020-01-01,2020,1,NASA,United States,296.06,172.7,148.03,616.79,Orbitalytics Fiscal & Agency Budget Registry,True
+2020-01-01,2020,1,ESA,Europe,162.58,94.84,81.29,338.71,Orbitalytics Fiscal & Agency Budget Registry,True
+2020-01-01,2020,1,ISRO,India,84.29,49.17,42.14,175.6,Orbitalytics Fiscal & Agency Budget Registry,True
+2020-01-01,2020,1,JAXA,Japan,81.07,47.29,40.54,168.9,Orbitalytics Fiscal & Agency Budget Registry,True
+2020-01-01,2020,1,CNSA,China,154.97,90.4,77.49,322.86,Orbitalytics Fiscal & Agency Budget Registry,True
+2020-01-01,2020,1,Roscosmos,Russia,87.14,50.83,43.57,181.54,Orbitalytics Fiscal & Agency Budget Registry,True
+2020-01-01,2020,1,Commercial (SpaceX / Private),United States,83.74,48.85,41.87,174.46,Orbitalytics Fiscal & Agency Budget Registry,True
+2020-02-01,2020,2,NASA,United States,286.28,167.0,143.14,596.42,Orbitalytics Fiscal & Agency Budget Registry,True
+2020-02-01,2020,2,ESA,Europe,160.97,93.9,80.49,335.36,Orbitalytics Fiscal & Agency Budget Registry,True
+2020-02-01,2020,2,ISRO,India,80.08,46.71,40.04,166.83,Orbitalytics Fiscal & Agency Budget Registry,True
+2020-02-01,2020,2,JAXA,Japan,85.27,49.74,42.63,177.64,Orbitalytics Fiscal & Agency Budget Registry,True
+2020-02-01,2020,2,CNSA,China,154.31,90.01,77.16,321.48,Orbitalytics Fiscal & Agency Budget Registry,True
+2020-02-01,2020,2,Roscosmos,Russia,85.91,50.11,42.95,178.97,Orbitalytics Fiscal & Agency Budget Registry,True
+2020-02-01,2020,2,Commercial (SpaceX / Private),United States,84.2,49.12,42.1,175.42,Orbitalytics Fiscal & Agency Budget Registry,True
+2020-03-01,2020,3,NASA,United States,303.67,177.14,151.84,632.65,Orbitalytics Fiscal & Agency Budget Registry,True
+2020-03-01,2020,3,ESA,Europe,169.08,98.63,84.54,352.25,Orbitalytics Fiscal & Agency Budget Registry,True
+2020-03-01,2020,3,ISRO,India,85.66,49.97,42.83,178.46,Orbitalytics Fiscal & Agency Budget Registry,True
+2020-03-01,2020,3,JAXA,Japan,88.94,51.88,44.47,185.29,Orbitalytics Fiscal & Agency Budget Registry,True
+2020-03-01,2020,3,CNSA,China,166.12,96.91,83.06,346.09,Orbitalytics Fiscal & Agency Budget Registry,True
+2020-03-01,2020,3,Roscosmos,Russia,90.81,52.97,45.41,189.19,Orbitalytics Fiscal & Agency Budget Registry,True
+2020-03-01,2020,3,Commercial (SpaceX / Private),United States,86.63,50.53,43.31,180.47,Orbitalytics Fiscal & Agency Budget Registry,True
+2020-04-01,2020,4,NASA,United States,299.6,174.77,149.8,624.17,Orbitalytics Fiscal & Agency Budget Registry,True
+2020-04-01,2020,4,ESA,Europe,166.97,97.4,83.49,347.86,Orbitalytics Fiscal & Agency Budget Registry,True
+2020-04-01,2020,4,ISRO,India,84.57,49.33,42.28,176.18,Orbitalytics Fiscal & Agency Budget Registry,True
+2020-04-01,2020,4,JAXA,Japan,90.34,52.7,45.17,188.21,Orbitalytics Fiscal & Agency Budget Registry,True
+2020-04-01,2020,4,CNSA,China,176.06,102.7,88.03,366.79,Orbitalytics Fiscal & Agency Budget Registry,True
+2020-04-01,2020,4,Roscosmos,Russia,86.45,50.43,43.22,180.1,Orbitalytics Fiscal & Agency Budget Registry,True
+2020-04-01,2020,4,Commercial (SpaceX / Private),United States,90.99,53.08,45.5,189.57,Orbitalytics Fiscal & Agency Budget Registry,True
+2020-05-01,2020,5,NASA,United States,319.4,186.32,159.7,665.42,Orbitalytics Fiscal & Agency Budget Registry,True
+2020-05-01,2020,5,ESA,Europe,162.96,95.06,81.48,339.5,Orbitalytics Fiscal & Agency Budget Registry,True
+2020-05-01,2020,5,ISRO,India,89.15,52.01,44.58,185.74,Orbitalytics Fiscal & Agency Budget Registry,True
+2020-05-01,2020,5,JAXA,Japan,87.4,50.99,43.7,182.09,Orbitalytics Fiscal & Agency Budget Registry,True
+2020-05-01,2020,5,CNSA,China,172.46,100.6,86.23,359.29,Orbitalytics Fiscal & Agency Budget Registry,True
+2020-05-01,2020,5,Roscosmos,Russia,88.94,51.88,44.47,185.29,Orbitalytics Fiscal & Agency Budget Registry,True
+2020-05-01,2020,5,Commercial (SpaceX / Private),United States,84.7,49.41,42.35,176.46,Orbitalytics Fiscal & Agency Budget Registry,True
+2020-06-01,2020,6,NASA,United States,307.65,179.46,153.83,640.94,Orbitalytics Fiscal & Agency Budget Registry,True
+2020-06-01,2020,6,ESA,Europe,166.23,96.97,83.11,346.31,Orbitalytics Fiscal & Agency Budget Registry,True
+2020-06-01,2020,6,ISRO,India,90.83,52.99,45.42,189.24,Orbitalytics Fiscal & Agency Budget Registry,True
+2020-06-01,2020,6,JAXA,Japan,91.53,53.39,45.77,190.69,Orbitalytics Fiscal & Agency Budget Registry,True
+2020-06-01,2020,6,CNSA,China,176.83,103.15,88.41,368.39,Orbitalytics Fiscal & Agency Budget Registry,True
+2020-06-01,2020,6,Roscosmos,Russia,90.92,53.04,45.46,189.42,Orbitalytics Fiscal & Agency Budget Registry,True
+2020-06-01,2020,6,Commercial (SpaceX / Private),United States,90.9,53.02,45.45,189.37,Orbitalytics Fiscal & Agency Budget Registry,True
+2020-07-01,2020,7,NASA,United States,301.48,175.86,150.74,628.08,Orbitalytics Fiscal & Agency Budget Registry,True
+2020-07-01,2020,7,ESA,Europe,162.76,94.94,81.38,339.08,Orbitalytics Fiscal & Agency Budget Registry,True
+2020-07-01,2020,7,ISRO,India,84.38,49.22,42.19,175.79,Orbitalytics Fiscal & Agency Budget Registry,True
+2020-07-01,2020,7,JAXA,Japan,88.97,51.9,44.48,185.35,Orbitalytics Fiscal & Agency Budget Registry,True
+2020-07-01,2020,7,CNSA,China,162.72,94.92,81.36,339.0,Orbitalytics Fiscal & Agency Budget Registry,True
+2020-07-01,2020,7,Roscosmos,Russia,89.25,52.06,44.63,185.94,Orbitalytics Fiscal & Agency Budget Registry,True
+2020-07-01,2020,7,Commercial (SpaceX / Private),United States,89.96,52.48,44.98,187.42,Orbitalytics Fiscal & Agency Budget Registry,True
+2020-08-01,2020,8,NASA,United States,318.37,185.72,159.19,663.28,Orbitalytics Fiscal & Agency Budget Registry,True
+2020-08-01,2020,8,ESA,Europe,174.83,101.98,87.41,364.22,Orbitalytics Fiscal & Agency Budget Registry,True
+2020-08-01,2020,8,ISRO,India,88.58,51.67,44.29,184.54,Orbitalytics Fiscal & Agency Budget Registry,True
+2020-08-01,2020,8,JAXA,Japan,88.63,51.7,44.32,184.65,Orbitalytics Fiscal & Agency Budget Registry,True
+2020-08-01,2020,8,CNSA,China,177.24,103.39,88.62,369.25,Orbitalytics Fiscal & Agency Budget Registry,True
+2020-08-01,2020,8,Roscosmos,Russia,86.52,50.47,43.26,180.25,Orbitalytics Fiscal & Agency Budget Registry,True
+2020-08-01,2020,8,Commercial (SpaceX / Private),United States,88.13,51.41,44.06,183.6,Orbitalytics Fiscal & Agency Budget Registry,True
+2020-09-01,2020,9,NASA,United States,309.14,180.33,154.57,644.04,Orbitalytics Fiscal & Agency Budget Registry,True
+2020-09-01,2020,9,ESA,Europe,168.44,98.26,84.22,350.92,Orbitalytics Fiscal & Agency Budget Registry,True
+2020-09-01,2020,9,ISRO,India,91.47,53.35,45.73,190.55,Orbitalytics Fiscal & Agency Budget Registry,True
+2020-09-01,2020,9,JAXA,Japan,90.74,52.93,45.37,189.04,Orbitalytics Fiscal & Agency Budget Registry,True
+2020-09-01,2020,9,CNSA,China,177.05,103.28,88.52,368.85,Orbitalytics Fiscal & Agency Budget Registry,True
+2020-09-01,2020,9,Roscosmos,Russia,87.61,51.11,43.81,182.53,Orbitalytics Fiscal & Agency Budget Registry,True
+2020-09-01,2020,9,Commercial (SpaceX / Private),United States,91.63,53.45,45.82,190.9,Orbitalytics Fiscal & Agency Budget Registry,True
+2020-10-01,2020,10,NASA,United States,315.19,183.86,157.6,656.65,Orbitalytics Fiscal & Agency Budget Registry,True
+2020-10-01,2020,10,ESA,Europe,165.88,96.77,82.94,345.59,Orbitalytics Fiscal & Agency Budget Registry,True
+2020-10-01,2020,10,ISRO,India,91.04,53.1,45.52,189.66,Orbitalytics Fiscal & Agency Budget Registry,True
+2020-10-01,2020,10,JAXA,Japan,86.42,50.41,43.21,180.04,Orbitalytics Fiscal & Agency Budget Registry,True
+2020-10-01,2020,10,CNSA,China,164.59,96.01,82.29,342.89,Orbitalytics Fiscal & Agency Budget Registry,True
+2020-10-01,2020,10,Roscosmos,Russia,86.93,50.71,43.47,181.11,Orbitalytics Fiscal & Agency Budget Registry,True
+2020-10-01,2020,10,Commercial (SpaceX / Private),United States,88.21,51.46,44.1,183.77,Orbitalytics Fiscal & Agency Budget Registry,True
+2020-11-01,2020,11,NASA,United States,344.52,200.97,172.26,717.75,Orbitalytics Fiscal & Agency Budget Registry,True
+2020-11-01,2020,11,ESA,Europe,196.19,114.44,98.09,408.72,Orbitalytics Fiscal & Agency Budget Registry,True
+2020-11-01,2020,11,ISRO,India,106.85,62.33,53.42,222.6,Orbitalytics Fiscal & Agency Budget Registry,True
+2020-11-01,2020,11,JAXA,Japan,98.94,57.71,49.47,206.12,Orbitalytics Fiscal & Agency Budget Registry,True
+2020-11-01,2020,11,CNSA,China,194.35,113.37,97.17,404.89,Orbitalytics Fiscal & Agency Budget Registry,True
+2020-11-01,2020,11,Roscosmos,Russia,106.03,61.85,53.02,220.9,Orbitalytics Fiscal & Agency Budget Registry,True
+2020-11-01,2020,11,Commercial (SpaceX / Private),United States,98.42,57.41,49.21,205.04,Orbitalytics Fiscal & Agency Budget Registry,True
+2020-12-01,2020,12,NASA,United States,362.73,211.59,181.36,755.68,Orbitalytics Fiscal & Agency Budget Registry,True
+2020-12-01,2020,12,ESA,Europe,203.15,118.5,101.57,423.22,Orbitalytics Fiscal & Agency Budget Registry,True
+2020-12-01,2020,12,ISRO,India,101.3,59.09,50.65,211.04,Orbitalytics Fiscal & Agency Budget Registry,True
+2020-12-01,2020,12,JAXA,Japan,106.01,61.84,53.01,220.86,Orbitalytics Fiscal & Agency Budget Registry,True
+2020-12-01,2020,12,CNSA,China,194.78,113.62,97.39,405.79,Orbitalytics Fiscal & Agency Budget Registry,True
+2020-12-01,2020,12,Roscosmos,Russia,103.19,60.2,51.6,214.99,Orbitalytics Fiscal & Agency Budget Registry,True
+2020-12-01,2020,12,Commercial (SpaceX / Private),United States,97.67,56.97,48.83,203.47,Orbitalytics Fiscal & Agency Budget Registry,True
+2021-01-01,2021,1,NASA,United States,284.74,166.1,142.37,593.21,Orbitalytics Fiscal & Agency Budget Registry,True
+2021-01-01,2021,1,ESA,Europe,160.97,93.9,80.48,335.35,Orbitalytics Fiscal & Agency Budget Registry,True
+2021-01-01,2021,1,ISRO,India,84.94,49.55,42.47,176.96,Orbitalytics Fiscal & Agency Budget Registry,True
+2021-01-01,2021,1,JAXA,Japan,87.19,50.86,43.59,181.64,Orbitalytics Fiscal & Agency Budget Registry,True
+2021-01-01,2021,1,CNSA,China,167.93,97.96,83.96,349.85,Orbitalytics Fiscal & Agency Budget Registry,True
+2021-01-01,2021,1,Roscosmos,Russia,84.54,49.32,42.27,176.13,Orbitalytics Fiscal & Agency Budget Registry,True
+2021-01-01,2021,1,Commercial (SpaceX / Private),United States,90.98,53.07,45.49,189.54,Orbitalytics Fiscal & Agency Budget Registry,True
+2021-02-01,2021,2,NASA,United States,286.23,166.97,143.11,596.31,Orbitalytics Fiscal & Agency Budget Registry,True
+2021-02-01,2021,2,ESA,Europe,173.31,101.09,86.65,361.05,Orbitalytics Fiscal & Agency Budget Registry,True
+2021-02-01,2021,2,ISRO,India,83.42,48.66,41.71,173.79,Orbitalytics Fiscal & Agency Budget Registry,True
+2021-02-01,2021,2,JAXA,Japan,84.93,49.54,42.47,176.94,Orbitalytics Fiscal & Agency Budget Registry,True
+2021-02-01,2021,2,CNSA,China,162.64,94.87,81.32,338.83,Orbitalytics Fiscal & Agency Budget Registry,True
+2021-02-01,2021,2,Roscosmos,Russia,87.91,51.28,43.96,183.15,Orbitalytics Fiscal & Agency Budget Registry,True
+2021-02-01,2021,2,Commercial (SpaceX / Private),United States,84.61,49.36,42.3,176.27,Orbitalytics Fiscal & Agency Budget Registry,True
+2021-03-01,2021,3,NASA,United States,307.06,179.12,153.53,639.71,Orbitalytics Fiscal & Agency Budget Registry,True
+2021-03-01,2021,3,ESA,Europe,174.73,101.93,87.37,364.03,Orbitalytics Fiscal & Agency Budget Registry,True
+2021-03-01,2021,3,ISRO,India,93.44,54.51,46.72,194.67,Orbitalytics Fiscal & Agency Budget Registry,True
+2021-03-01,2021,3,JAXA,Japan,95.66,55.8,47.83,199.29,Orbitalytics Fiscal & Agency Budget Registry,True
+2021-03-01,2021,3,CNSA,China,178.69,104.24,89.35,372.28,Orbitalytics Fiscal & Agency Budget Registry,True
+2021-03-01,2021,3,Roscosmos,Russia,91.62,53.45,45.81,190.88,Orbitalytics Fiscal & Agency Budget Registry,True
+2021-03-01,2021,3,Commercial (SpaceX / Private),United States,93.17,54.35,46.59,194.11,Orbitalytics Fiscal & Agency Budget Registry,True
+2021-04-01,2021,4,NASA,United States,311.49,181.7,155.75,648.94,Orbitalytics Fiscal & Agency Budget Registry,True
+2021-04-01,2021,4,ESA,Europe,184.12,107.4,92.06,383.58,Orbitalytics Fiscal & Agency Budget Registry,True
+2021-04-01,2021,4,ISRO,India,92.17,53.77,46.09,192.03,Orbitalytics Fiscal & Agency Budget Registry,True
+2021-04-01,2021,4,JAXA,Japan,89.86,52.42,44.93,187.21,Orbitalytics Fiscal & Agency Budget Registry,True
+2021-04-01,2021,4,CNSA,China,184.48,107.62,92.24,384.34,Orbitalytics Fiscal & Agency Budget Registry,True
+2021-04-01,2021,4,Roscosmos,Russia,91.17,53.18,45.58,189.93,Orbitalytics Fiscal & Agency Budget Registry,True
+2021-04-01,2021,4,Commercial (SpaceX / Private),United States,92.96,54.23,46.48,193.67,Orbitalytics Fiscal & Agency Budget Registry,True
+2021-05-01,2021,5,NASA,United States,326.84,190.66,163.42,680.92,Orbitalytics Fiscal & Agency Budget Registry,True
+2021-05-01,2021,5,ESA,Europe,183.88,107.26,91.94,383.08,Orbitalytics Fiscal & Agency Budget Registry,True
+2021-05-01,2021,5,ISRO,India,93.04,54.27,46.52,193.83,Orbitalytics Fiscal & Agency Budget Registry,True
+2021-05-01,2021,5,JAXA,Japan,93.28,54.41,46.64,194.33,Orbitalytics Fiscal & Agency Budget Registry,True
+2021-05-01,2021,5,CNSA,China,169.03,98.6,84.51,352.14,Orbitalytics Fiscal & Agency Budget Registry,True
+2021-05-01,2021,5,Roscosmos,Russia,94.61,55.19,47.31,197.11,Orbitalytics Fiscal & Agency Budget Registry,True
+2021-05-01,2021,5,Commercial (SpaceX / Private),United States,92.15,53.76,46.08,191.99,Orbitalytics Fiscal & Agency Budget Registry,True
+2021-06-01,2021,6,NASA,United States,325.87,190.09,162.94,678.9,Orbitalytics Fiscal & Agency Budget Registry,True
+2021-06-01,2021,6,ESA,Europe,174.24,101.64,87.12,363.0,Orbitalytics Fiscal & Agency Budget Registry,True
+2021-06-01,2021,6,ISRO,India,91.05,53.11,45.52,189.68,Orbitalytics Fiscal & Agency Budget Registry,True
+2021-06-01,2021,6,JAXA,Japan,93.35,54.45,46.67,194.47,Orbitalytics Fiscal & Agency Budget Registry,True
+2021-06-01,2021,6,CNSA,China,178.76,104.28,89.38,372.42,Orbitalytics Fiscal & Agency Budget Registry,True
+2021-06-01,2021,6,Roscosmos,Russia,92.55,53.98,46.27,192.8,Orbitalytics Fiscal & Agency Budget Registry,True
+2021-06-01,2021,6,Commercial (SpaceX / Private),United States,92.52,53.97,46.26,192.75,Orbitalytics Fiscal & Agency Budget Registry,True
+2021-07-01,2021,7,NASA,United States,328.6,191.68,164.3,684.58,Orbitalytics Fiscal & Agency Budget Registry,True
+2021-07-01,2021,7,ESA,Europe,176.3,102.84,88.15,367.29,Orbitalytics Fiscal & Agency Budget Registry,True
+2021-07-01,2021,7,ISRO,India,93.18,54.35,46.59,194.12,Orbitalytics Fiscal & Agency Budget Registry,True
+2021-07-01,2021,7,JAXA,Japan,93.96,54.81,46.98,195.75,Orbitalytics Fiscal & Agency Budget Registry,True
+2021-07-01,2021,7,CNSA,China,183.3,106.93,91.65,381.88,Orbitalytics Fiscal & Agency Budget Registry,True
+2021-07-01,2021,7,Roscosmos,Russia,95.73,55.84,47.86,199.43,Orbitalytics Fiscal & Agency Budget Registry,True
+2021-07-01,2021,7,Commercial (SpaceX / Private),United States,91.86,53.58,45.93,191.37,Orbitalytics Fiscal & Agency Budget Registry,True
+2021-08-01,2021,8,NASA,United States,310.7,181.24,155.35,647.29,Orbitalytics Fiscal & Agency Budget Registry,True
+2021-08-01,2021,8,ESA,Europe,181.48,105.86,90.74,378.08,Orbitalytics Fiscal & Agency Budget Registry,True
+2021-08-01,2021,8,ISRO,India,93.33,54.44,46.66,194.43,Orbitalytics Fiscal & Agency Budget Registry,True
+2021-08-01,2021,8,JAXA,Japan,90.02,52.51,45.01,187.54,Orbitalytics Fiscal & Agency Budget Registry,True
+2021-08-01,2021,8,CNSA,China,172.01,100.34,86.01,358.36,Orbitalytics Fiscal & Agency Budget Registry,True
+2021-08-01,2021,8,Roscosmos,Russia,96.52,56.3,48.26,201.08,Orbitalytics Fiscal & Agency Budget Registry,True
+2021-08-01,2021,8,Commercial (SpaceX / Private),United States,94.35,55.04,47.18,196.57,Orbitalytics Fiscal & Agency Budget Registry,True
+2021-09-01,2021,9,NASA,United States,332.63,194.03,166.32,692.98,Orbitalytics Fiscal & Agency Budget Registry,True
+2021-09-01,2021,9,ESA,Europe,168.53,98.31,84.26,351.1,Orbitalytics Fiscal & Agency Budget Registry,True
+2021-09-01,2021,9,ISRO,India,91.7,53.49,45.85,191.04,Orbitalytics Fiscal & Agency Budget Registry,True
+2021-09-01,2021,9,JAXA,Japan,95.47,55.69,47.74,198.9,Orbitalytics Fiscal & Agency Budget Registry,True
+2021-09-01,2021,9,CNSA,China,173.03,100.93,86.51,360.47,Orbitalytics Fiscal & Agency Budget Registry,True
+2021-09-01,2021,9,Roscosmos,Russia,90.81,52.97,45.4,189.18,Orbitalytics Fiscal & Agency Budget Registry,True
+2021-09-01,2021,9,Commercial (SpaceX / Private),United States,90.0,52.5,45.0,187.5,Orbitalytics Fiscal & Agency Budget Registry,True
+2021-10-01,2021,10,NASA,United States,318.09,185.55,159.05,662.69,Orbitalytics Fiscal & Agency Budget Registry,True
+2021-10-01,2021,10,ESA,Europe,172.28,100.5,86.14,358.92,Orbitalytics Fiscal & Agency Budget Registry,True
+2021-10-01,2021,10,ISRO,India,91.73,53.51,45.86,191.1,Orbitalytics Fiscal & Agency Budget Registry,True
+2021-10-01,2021,10,JAXA,Japan,89.14,52.0,44.57,185.71,Orbitalytics Fiscal & Agency Budget Registry,True
+2021-10-01,2021,10,CNSA,China,169.88,99.1,84.94,353.92,Orbitalytics Fiscal & Agency Budget Registry,True
+2021-10-01,2021,10,Roscosmos,Russia,92.36,53.88,46.18,192.42,Orbitalytics Fiscal & Agency Budget Registry,True
+2021-10-01,2021,10,Commercial (SpaceX / Private),United States,92.43,53.92,46.22,192.57,Orbitalytics Fiscal & Agency Budget Registry,True
+2021-11-01,2021,11,NASA,United States,364.62,212.7,182.31,759.63,Orbitalytics Fiscal & Agency Budget Registry,True
+2021-11-01,2021,11,ESA,Europe,200.27,116.82,100.13,417.22,Orbitalytics Fiscal & Agency Budget Registry,True
+2021-11-01,2021,11,ISRO,India,109.48,63.86,54.74,228.08,Orbitalytics Fiscal & Agency Budget Registry,True
+2021-11-01,2021,11,JAXA,Japan,109.17,63.68,54.58,227.43,Orbitalytics Fiscal & Agency Budget Registry,True
+2021-11-01,2021,11,CNSA,China,211.09,123.13,105.54,439.76,Orbitalytics Fiscal & Agency Budget Registry,True
+2021-11-01,2021,11,Roscosmos,Russia,101.7,59.32,50.85,211.87,Orbitalytics Fiscal & Agency Budget Registry,True
+2021-11-01,2021,11,Commercial (SpaceX / Private),United States,106.65,62.21,53.33,222.19,Orbitalytics Fiscal & Agency Budget Registry,True
+2021-12-01,2021,12,NASA,United States,368.96,215.23,184.48,768.67,Orbitalytics Fiscal & Agency Budget Registry,True
+2021-12-01,2021,12,ESA,Europe,203.02,118.43,101.51,422.96,Orbitalytics Fiscal & Agency Budget Registry,True
+2021-12-01,2021,12,ISRO,India,104.36,60.87,52.18,217.41,Orbitalytics Fiscal & Agency Budget Registry,True
+2021-12-01,2021,12,JAXA,Japan,106.06,61.87,53.03,220.96,Orbitalytics Fiscal & Agency Budget Registry,True
+2021-12-01,2021,12,CNSA,China,210.13,122.58,105.07,437.78,Orbitalytics Fiscal & Agency Budget Registry,True
+2021-12-01,2021,12,Roscosmos,Russia,106.54,62.15,53.27,221.96,Orbitalytics Fiscal & Agency Budget Registry,True
+2021-12-01,2021,12,Commercial (SpaceX / Private),United States,111.16,64.85,55.58,231.59,Orbitalytics Fiscal & Agency Budget Registry,True
+2022-01-01,2022,1,NASA,United States,299.75,174.85,149.87,624.47,Orbitalytics Fiscal & Agency Budget Registry,True
+2022-01-01,2022,1,ESA,Europe,166.69,97.24,83.35,347.28,Orbitalytics Fiscal & Agency Budget Registry,True
+2022-01-01,2022,1,ISRO,India,90.98,53.07,45.49,189.54,Orbitalytics Fiscal & Agency Budget Registry,True
+2022-01-01,2022,1,JAXA,Japan,91.39,53.31,45.69,190.39,Orbitalytics Fiscal & Agency Budget Registry,True
+2022-01-01,2022,1,CNSA,China,163.96,95.64,81.98,341.58,Orbitalytics Fiscal & Agency Budget Registry,True
+2022-01-01,2022,1,Roscosmos,Russia,86.16,50.26,43.08,179.5,Orbitalytics Fiscal & Agency Budget Registry,True
+2022-01-01,2022,1,Commercial (SpaceX / Private),United States,90.94,53.05,45.47,189.46,Orbitalytics Fiscal & Agency Budget Registry,True
+2022-02-01,2022,2,NASA,United States,305.75,178.35,152.87,636.97,Orbitalytics Fiscal & Agency Budget Registry,True
+2022-02-01,2022,2,ESA,Europe,169.5,98.88,84.75,353.13,Orbitalytics Fiscal & Agency Budget Registry,True
+2022-02-01,2022,2,ISRO,India,86.65,50.54,43.32,180.51,Orbitalytics Fiscal & Agency Budget Registry,True
+2022-02-01,2022,2,JAXA,Japan,87.7,51.16,43.85,182.71,Orbitalytics Fiscal & Agency Budget Registry,True
+2022-02-01,2022,2,CNSA,China,169.01,98.59,84.5,352.1,Orbitalytics Fiscal & Agency Budget Registry,True
+2022-02-01,2022,2,Roscosmos,Russia,88.91,51.86,44.45,185.22,Orbitalytics Fiscal & Agency Budget Registry,True
+2022-02-01,2022,2,Commercial (SpaceX / Private),United States,85.92,50.12,42.96,179.0,Orbitalytics Fiscal & Agency Budget Registry,True
+2022-03-01,2022,3,NASA,United States,338.84,197.65,169.42,705.91,Orbitalytics Fiscal & Agency Budget Registry,True
+2022-03-01,2022,3,ESA,Europe,175.13,102.16,87.56,364.85,Orbitalytics Fiscal & Agency Budget Registry,True
+2022-03-01,2022,3,ISRO,India,93.24,54.39,46.62,194.25,Orbitalytics Fiscal & Agency Budget Registry,True
+2022-03-01,2022,3,JAXA,Japan,94.0,54.83,47.0,195.83,Orbitalytics Fiscal & Agency Budget Registry,True
+2022-03-01,2022,3,CNSA,China,177.28,103.42,88.64,369.34,Orbitalytics Fiscal & Agency Budget Registry,True
+2022-03-01,2022,3,Roscosmos,Russia,95.01,55.42,47.5,197.93,Orbitalytics Fiscal & Agency Budget Registry,True
+2022-03-01,2022,3,Commercial (SpaceX / Private),United States,99.33,57.94,49.67,206.94,Orbitalytics Fiscal & Agency Budget Registry,True
+2022-04-01,2022,4,NASA,United States,339.17,197.85,169.58,706.6,Orbitalytics Fiscal & Agency Budget Registry,True
+2022-04-01,2022,4,ESA,Europe,182.49,106.45,91.25,380.19,Orbitalytics Fiscal & Agency Budget Registry,True
+2022-04-01,2022,4,ISRO,India,100.49,58.62,50.25,209.36,Orbitalytics Fiscal & Agency Budget Registry,True
+2022-04-01,2022,4,JAXA,Japan,92.9,54.19,46.45,193.54,Orbitalytics Fiscal & Agency Budget Registry,True
+2022-04-01,2022,4,CNSA,China,178.19,103.94,89.09,371.22,Orbitalytics Fiscal & Agency Budget Registry,True
+2022-04-01,2022,4,Roscosmos,Russia,100.08,58.38,50.04,208.5,Orbitalytics Fiscal & Agency Budget Registry,True
+2022-04-01,2022,4,Commercial (SpaceX / Private),United States,99.82,58.23,49.91,207.96,Orbitalytics Fiscal & Agency Budget Registry,True
+2022-05-01,2022,5,NASA,United States,340.34,198.53,170.17,709.04,Orbitalytics Fiscal & Agency Budget Registry,True
+2022-05-01,2022,5,ESA,Europe,187.87,109.59,93.93,391.39,Orbitalytics Fiscal & Agency Budget Registry,True
+2022-05-01,2022,5,ISRO,India,94.31,55.02,47.16,196.49,Orbitalytics Fiscal & Agency Budget Registry,True
+2022-05-01,2022,5,JAXA,Japan,93.03,54.27,46.51,193.81,Orbitalytics Fiscal & Agency Budget Registry,True
+2022-05-01,2022,5,CNSA,China,189.96,110.81,94.98,395.75,Orbitalytics Fiscal & Agency Budget Registry,True
+2022-05-01,2022,5,Roscosmos,Russia,92.96,54.23,46.48,193.67,Orbitalytics Fiscal & Agency Budget Registry,True
+2022-05-01,2022,5,Commercial (SpaceX / Private),United States,97.93,57.13,48.97,204.03,Orbitalytics Fiscal & Agency Budget Registry,True
+2022-06-01,2022,6,NASA,United States,334.97,195.4,167.48,697.85,Orbitalytics Fiscal & Agency Budget Registry,True
+2022-06-01,2022,6,ESA,Europe,182.55,106.49,91.27,380.31,Orbitalytics Fiscal & Agency Budget Registry,True
+2022-06-01,2022,6,ISRO,India,100.03,58.35,50.02,208.4,Orbitalytics Fiscal & Agency Budget Registry,True
+2022-06-01,2022,6,JAXA,Japan,98.96,57.73,49.48,206.17,Orbitalytics Fiscal & Agency Budget Registry,True
+2022-06-01,2022,6,CNSA,China,186.17,108.6,93.09,387.86,Orbitalytics Fiscal & Agency Budget Registry,True
+2022-06-01,2022,6,Roscosmos,Russia,91.28,53.25,45.64,190.17,Orbitalytics Fiscal & Agency Budget Registry,True
+2022-06-01,2022,6,Commercial (SpaceX / Private),United States,94.89,55.35,47.44,197.68,Orbitalytics Fiscal & Agency Budget Registry,True
+2022-07-01,2022,7,NASA,United States,341.53,199.22,170.76,711.51,Orbitalytics Fiscal & Agency Budget Registry,True
+2022-07-01,2022,7,ESA,Europe,183.12,106.82,91.56,381.5,Orbitalytics Fiscal & Agency Budget Registry,True
+2022-07-01,2022,7,ISRO,India,98.09,57.22,49.05,204.36,Orbitalytics Fiscal & Agency Budget Registry,True
+2022-07-01,2022,7,JAXA,Japan,92.24,53.81,46.12,192.17,Orbitalytics Fiscal & Agency Budget Registry,True
+2022-07-01,2022,7,CNSA,China,181.28,105.75,90.64,377.67,Orbitalytics Fiscal & Agency Budget Registry,True
+2022-07-01,2022,7,Roscosmos,Russia,91.09,53.14,45.55,189.78,Orbitalytics Fiscal & Agency Budget Registry,True
+2022-07-01,2022,7,Commercial (SpaceX / Private),United States,95.79,55.88,47.89,199.56,Orbitalytics Fiscal & Agency Budget Registry,True
+2022-08-01,2022,8,NASA,United States,330.87,193.01,165.43,689.31,Orbitalytics Fiscal & Agency Budget Registry,True
+2022-08-01,2022,8,ESA,Europe,185.42,108.16,92.71,386.29,Orbitalytics Fiscal & Agency Budget Registry,True
+2022-08-01,2022,8,ISRO,India,97.16,56.68,48.58,202.42,Orbitalytics Fiscal & Agency Budget Registry,True
+2022-08-01,2022,8,JAXA,Japan,95.93,55.96,47.96,199.85,Orbitalytics Fiscal & Agency Budget Registry,True
+2022-08-01,2022,8,CNSA,China,189.63,110.62,94.82,395.07,Orbitalytics Fiscal & Agency Budget Registry,True
+2022-08-01,2022,8,Roscosmos,Russia,92.49,53.95,46.25,192.69,Orbitalytics Fiscal & Agency Budget Registry,True
+2022-08-01,2022,8,Commercial (SpaceX / Private),United States,97.82,57.06,48.91,203.79,Orbitalytics Fiscal & Agency Budget Registry,True
+2022-09-01,2022,9,NASA,United States,330.45,192.76,165.22,688.43,Orbitalytics Fiscal & Agency Budget Registry,True
+2022-09-01,2022,9,ESA,Europe,177.38,103.47,88.69,369.54,Orbitalytics Fiscal & Agency Budget Registry,True
+2022-09-01,2022,9,ISRO,India,99.26,57.9,49.63,206.79,Orbitalytics Fiscal & Agency Budget Registry,True
+2022-09-01,2022,9,JAXA,Japan,95.16,55.51,47.58,198.25,Orbitalytics Fiscal & Agency Budget Registry,True
+2022-09-01,2022,9,CNSA,China,174.77,101.95,87.38,364.1,Orbitalytics Fiscal & Agency Budget Registry,True
+2022-09-01,2022,9,Roscosmos,Russia,100.03,58.35,50.01,208.39,Orbitalytics Fiscal & Agency Budget Registry,True
+2022-09-01,2022,9,Commercial (SpaceX / Private),United States,95.46,55.68,47.73,198.87,Orbitalytics Fiscal & Agency Budget Registry,True
+2022-10-01,2022,10,NASA,United States,333.92,194.79,166.96,695.67,Orbitalytics Fiscal & Agency Budget Registry,True
+2022-10-01,2022,10,ESA,Europe,188.78,110.12,94.39,393.29,Orbitalytics Fiscal & Agency Budget Registry,True
+2022-10-01,2022,10,ISRO,India,98.04,57.19,49.02,204.25,Orbitalytics Fiscal & Agency Budget Registry,True
+2022-10-01,2022,10,JAXA,Japan,99.41,57.99,49.7,207.1,Orbitalytics Fiscal & Agency Budget Registry,True
+2022-10-01,2022,10,CNSA,China,189.38,110.47,94.69,394.54,Orbitalytics Fiscal & Agency Budget Registry,True
+2022-10-01,2022,10,Roscosmos,Russia,95.04,55.44,47.52,198.0,Orbitalytics Fiscal & Agency Budget Registry,True
+2022-10-01,2022,10,Commercial (SpaceX / Private),United States,96.55,56.32,48.27,201.14,Orbitalytics Fiscal & Agency Budget Registry,True
+2022-11-01,2022,11,NASA,United States,386.92,225.7,193.46,806.08,Orbitalytics Fiscal & Agency Budget Registry,True
+2022-11-01,2022,11,ESA,Europe,220.95,128.89,110.47,460.31,Orbitalytics Fiscal & Agency Budget Registry,True
+2022-11-01,2022,11,ISRO,India,110.3,64.34,55.15,229.79,Orbitalytics Fiscal & Agency Budget Registry,True
+2022-11-01,2022,11,JAXA,Japan,108.35,63.2,54.17,225.72,Orbitalytics Fiscal & Agency Budget Registry,True
+2022-11-01,2022,11,CNSA,China,207.04,120.77,103.52,431.33,Orbitalytics Fiscal & Agency Budget Registry,True
+2022-11-01,2022,11,Roscosmos,Russia,104.88,61.18,52.44,218.5,Orbitalytics Fiscal & Agency Budget Registry,True
+2022-11-01,2022,11,Commercial (SpaceX / Private),United States,114.45,66.76,57.23,238.44,Orbitalytics Fiscal & Agency Budget Registry,True
+2022-12-01,2022,12,NASA,United States,363.98,212.32,181.99,758.29,Orbitalytics Fiscal & Agency Budget Registry,True
+2022-12-01,2022,12,ESA,Europe,213.51,124.55,106.76,444.82,Orbitalytics Fiscal & Agency Budget Registry,True
+2022-12-01,2022,12,ISRO,India,107.81,62.89,53.91,224.61,Orbitalytics Fiscal & Agency Budget Registry,True
+2022-12-01,2022,12,JAXA,Japan,108.77,63.45,54.38,226.6,Orbitalytics Fiscal & Agency Budget Registry,True
+2022-12-01,2022,12,CNSA,China,200.96,117.23,100.48,418.67,Orbitalytics Fiscal & Agency Budget Registry,True
+2022-12-01,2022,12,Roscosmos,Russia,112.52,65.64,56.26,234.42,Orbitalytics Fiscal & Agency Budget Registry,True
+2022-12-01,2022,12,Commercial (SpaceX / Private),United States,111.38,64.97,55.69,232.04,Orbitalytics Fiscal & Agency Budget Registry,True
+2023-01-01,2023,1,NASA,United States,311.95,181.97,155.97,649.89,Orbitalytics Fiscal & Agency Budget Registry,True
+2023-01-01,2023,1,ESA,Europe,180.47,105.28,90.24,375.99,Orbitalytics Fiscal & Agency Budget Registry,True
+2023-01-01,2023,1,ISRO,India,97.93,57.13,48.96,204.02,Orbitalytics Fiscal & Agency Budget Registry,True
+2023-01-01,2023,1,JAXA,Japan,98.08,57.22,49.04,204.34,Orbitalytics Fiscal & Agency Budget Registry,True
+2023-01-01,2023,1,CNSA,China,183.39,106.98,91.7,382.07,Orbitalytics Fiscal & Agency Budget Registry,True
+2023-01-01,2023,1,Roscosmos,Russia,89.09,51.97,44.54,185.6,Orbitalytics Fiscal & Agency Budget Registry,True
+2023-01-01,2023,1,Commercial (SpaceX / Private),United States,89.6,52.26,44.8,186.66,Orbitalytics Fiscal & Agency Budget Registry,True
+2023-02-01,2023,2,NASA,United States,336.88,196.52,168.44,701.84,Orbitalytics Fiscal & Agency Budget Registry,True
+2023-02-01,2023,2,ESA,Europe,180.51,105.3,90.26,376.07,Orbitalytics Fiscal & Agency Budget Registry,True
+2023-02-01,2023,2,ISRO,India,95.48,55.69,47.74,198.91,Orbitalytics Fiscal & Agency Budget Registry,True
+2023-02-01,2023,2,JAXA,Japan,95.28,55.58,47.64,198.5,Orbitalytics Fiscal & Agency Budget Registry,True
+2023-02-01,2023,2,CNSA,China,172.22,100.46,86.11,358.79,Orbitalytics Fiscal & Agency Budget Registry,True
+2023-02-01,2023,2,Roscosmos,Russia,92.16,53.76,46.08,192.0,Orbitalytics Fiscal & Agency Budget Registry,True
+2023-02-01,2023,2,Commercial (SpaceX / Private),United States,93.03,54.27,46.51,193.81,Orbitalytics Fiscal & Agency Budget Registry,True
+2023-03-01,2023,3,NASA,United States,331.9,193.61,165.95,691.46,Orbitalytics Fiscal & Agency Budget Registry,True
+2023-03-01,2023,3,ESA,Europe,185.91,108.45,92.96,387.32,Orbitalytics Fiscal & Agency Budget Registry,True
+2023-03-01,2023,3,ISRO,India,96.86,56.5,48.43,201.79,Orbitalytics Fiscal & Agency Budget Registry,True
+2023-03-01,2023,3,JAXA,Japan,97.81,57.06,48.9,203.77,Orbitalytics Fiscal & Agency Budget Registry,True
+2023-03-01,2023,3,CNSA,China,186.19,108.61,93.1,387.9,Orbitalytics Fiscal & Agency Budget Registry,True
+2023-03-01,2023,3,Roscosmos,Russia,95.28,55.58,47.64,198.5,Orbitalytics Fiscal & Agency Budget Registry,True
+2023-03-01,2023,3,Commercial (SpaceX / Private),United States,98.0,57.16,49.0,204.16,Orbitalytics Fiscal & Agency Budget Registry,True
+2023-04-01,2023,4,NASA,United States,343.64,200.46,171.82,715.92,Orbitalytics Fiscal & Agency Budget Registry,True
+2023-04-01,2023,4,ESA,Europe,181.7,105.99,90.85,378.54,Orbitalytics Fiscal & Agency Budget Registry,True
+2023-04-01,2023,4,ISRO,India,98.9,57.69,49.45,206.04,Orbitalytics Fiscal & Agency Budget Registry,True
+2023-04-01,2023,4,JAXA,Japan,96.52,56.31,48.26,201.09,Orbitalytics Fiscal & Agency Budget Registry,True
+2023-04-01,2023,4,CNSA,China,190.88,111.35,95.44,397.67,Orbitalytics Fiscal & Agency Budget Registry,True
+2023-04-01,2023,4,Roscosmos,Russia,102.17,59.6,51.08,212.85,Orbitalytics Fiscal & Agency Budget Registry,True
+2023-04-01,2023,4,Commercial (SpaceX / Private),United States,101.71,59.33,50.86,211.9,Orbitalytics Fiscal & Agency Budget Registry,True
+2023-05-01,2023,5,NASA,United States,353.55,206.24,176.78,736.57,Orbitalytics Fiscal & Agency Budget Registry,True
+2023-05-01,2023,5,ESA,Europe,183.54,107.06,91.77,382.37,Orbitalytics Fiscal & Agency Budget Registry,True
+2023-05-01,2023,5,ISRO,India,102.47,59.78,51.24,213.49,Orbitalytics Fiscal & Agency Budget Registry,True
+2023-05-01,2023,5,JAXA,Japan,97.64,56.96,48.82,203.42,Orbitalytics Fiscal & Agency Budget Registry,True
+2023-05-01,2023,5,CNSA,China,182.13,106.24,91.07,379.44,Orbitalytics Fiscal & Agency Budget Registry,True
+2023-05-01,2023,5,Roscosmos,Russia,103.25,60.23,51.62,215.1,Orbitalytics Fiscal & Agency Budget Registry,True
+2023-05-01,2023,5,Commercial (SpaceX / Private),United States,102.33,59.69,51.16,213.18,Orbitalytics Fiscal & Agency Budget Registry,True
+2023-06-01,2023,6,NASA,United States,355.58,207.42,177.79,740.79,Orbitalytics Fiscal & Agency Budget Registry,True
+2023-06-01,2023,6,ESA,Europe,189.15,110.34,94.58,394.07,Orbitalytics Fiscal & Agency Budget Registry,True
+2023-06-01,2023,6,ISRO,India,94.84,55.32,47.42,197.58,Orbitalytics Fiscal & Agency Budget Registry,True
+2023-06-01,2023,6,JAXA,Japan,99.54,58.06,49.77,207.37,Orbitalytics Fiscal & Agency Budget Registry,True
+2023-06-01,2023,6,CNSA,China,189.92,110.79,94.96,395.67,Orbitalytics Fiscal & Agency Budget Registry,True
+2023-06-01,2023,6,Roscosmos,Russia,94.57,55.17,47.29,197.03,Orbitalytics Fiscal & Agency Budget Registry,True
+2023-06-01,2023,6,Commercial (SpaceX / Private),United States,97.78,57.04,48.89,203.71,Orbitalytics Fiscal & Agency Budget Registry,True
+2023-07-01,2023,7,NASA,United States,337.3,196.76,168.65,702.71,Orbitalytics Fiscal & Agency Budget Registry,True
+2023-07-01,2023,7,ESA,Europe,184.22,107.46,92.11,383.79,Orbitalytics Fiscal & Agency Budget Registry,True
+2023-07-01,2023,7,ISRO,India,99.98,58.32,49.99,208.29,Orbitalytics Fiscal & Agency Budget Registry,True
+2023-07-01,2023,7,JAXA,Japan,94.52,55.14,47.26,196.92,Orbitalytics Fiscal & Agency Budget Registry,True
+2023-07-01,2023,7,CNSA,China,184.13,107.41,92.07,383.61,Orbitalytics Fiscal & Agency Budget Registry,True
+2023-07-01,2023,7,Roscosmos,Russia,98.4,57.4,49.2,205.0,Orbitalytics Fiscal & Agency Budget Registry,True
+2023-07-01,2023,7,Commercial (SpaceX / Private),United States,100.65,58.72,50.33,209.7,Orbitalytics Fiscal & Agency Budget Registry,True
+2023-08-01,2023,8,NASA,United States,342.86,200.0,171.43,714.29,Orbitalytics Fiscal & Agency Budget Registry,True
+2023-08-01,2023,8,ESA,Europe,188.72,110.09,94.36,393.17,Orbitalytics Fiscal & Agency Budget Registry,True
+2023-08-01,2023,8,ISRO,India,96.66,56.38,48.33,201.37,Orbitalytics Fiscal & Agency Budget Registry,True
+2023-08-01,2023,8,JAXA,Japan,100.66,58.72,50.33,209.71,Orbitalytics Fiscal & Agency Budget Registry,True
+2023-08-01,2023,8,CNSA,China,187.46,109.35,93.73,390.54,Orbitalytics Fiscal & Agency Budget Registry,True
+2023-08-01,2023,8,Roscosmos,Russia,102.16,59.59,51.08,212.83,Orbitalytics Fiscal & Agency Budget Registry,True
+2023-08-01,2023,8,Commercial (SpaceX / Private),United States,101.87,59.42,50.94,212.23,Orbitalytics Fiscal & Agency Budget Registry,True
+2023-09-01,2023,9,NASA,United States,359.92,209.95,179.96,749.83,Orbitalytics Fiscal & Agency Budget Registry,True
+2023-09-01,2023,9,ESA,Europe,187.04,109.11,93.52,389.67,Orbitalytics Fiscal & Agency Budget Registry,True
+2023-09-01,2023,9,ISRO,India,102.43,59.75,51.22,213.4,Orbitalytics Fiscal & Agency Budget Registry,True
+2023-09-01,2023,9,JAXA,Japan,102.98,60.07,51.49,214.54,Orbitalytics Fiscal & Agency Budget Registry,True
+2023-09-01,2023,9,CNSA,China,188.17,109.77,94.09,392.03,Orbitalytics Fiscal & Agency Budget Registry,True
+2023-09-01,2023,9,Roscosmos,Russia,98.63,57.54,49.32,205.49,Orbitalytics Fiscal & Agency Budget Registry,True
+2023-09-01,2023,9,Commercial (SpaceX / Private),United States,96.31,56.18,48.15,200.64,Orbitalytics Fiscal & Agency Budget Registry,True
+2023-10-01,2023,10,NASA,United States,353.25,206.06,176.62,735.93,Orbitalytics Fiscal & Agency Budget Registry,True
+2023-10-01,2023,10,ESA,Europe,190.57,111.16,95.28,397.01,Orbitalytics Fiscal & Agency Budget Registry,True
+2023-10-01,2023,10,ISRO,India,97.66,56.97,48.83,203.46,Orbitalytics Fiscal & Agency Budget Registry,True
+2023-10-01,2023,10,JAXA,Japan,99.95,58.3,49.97,208.22,Orbitalytics Fiscal & Agency Budget Registry,True
+2023-10-01,2023,10,CNSA,China,190.91,111.36,95.45,397.72,Orbitalytics Fiscal & Agency Budget Registry,True
+2023-10-01,2023,10,Roscosmos,Russia,102.27,59.66,51.14,213.07,Orbitalytics Fiscal & Agency Budget Registry,True
+2023-10-01,2023,10,Commercial (SpaceX / Private),United States,102.74,59.93,51.37,214.04,Orbitalytics Fiscal & Agency Budget Registry,True
+2023-11-01,2023,11,NASA,United States,382.67,223.22,191.33,797.22,Orbitalytics Fiscal & Agency Budget Registry,True
+2023-11-01,2023,11,ESA,Europe,226.37,132.05,113.18,471.6,Orbitalytics Fiscal & Agency Budget Registry,True
+2023-11-01,2023,11,ISRO,India,114.63,66.87,57.32,238.82,Orbitalytics Fiscal & Agency Budget Registry,True
+2023-11-01,2023,11,JAXA,Japan,112.49,65.62,56.25,234.36,Orbitalytics Fiscal & Agency Budget Registry,True
+2023-11-01,2023,11,CNSA,China,217.3,126.76,108.65,452.71,Orbitalytics Fiscal & Agency Budget Registry,True
+2023-11-01,2023,11,Roscosmos,Russia,118.71,69.25,59.36,247.32,Orbitalytics Fiscal & Agency Budget Registry,True
+2023-11-01,2023,11,Commercial (SpaceX / Private),United States,115.05,67.11,57.52,239.68,Orbitalytics Fiscal & Agency Budget Registry,True
+2023-12-01,2023,12,NASA,United States,381.58,222.59,190.79,794.96,Orbitalytics Fiscal & Agency Budget Registry,True
+2023-12-01,2023,12,ESA,Europe,213.78,124.71,106.89,445.38,Orbitalytics Fiscal & Agency Budget Registry,True
+2023-12-01,2023,12,ISRO,India,119.66,69.8,59.83,249.29,Orbitalytics Fiscal & Agency Budget Registry,True
+2023-12-01,2023,12,JAXA,Japan,115.24,67.22,57.62,240.08,Orbitalytics Fiscal & Agency Budget Registry,True
+2023-12-01,2023,12,CNSA,China,214.25,124.98,107.12,446.35,Orbitalytics Fiscal & Agency Budget Registry,True
+2023-12-01,2023,12,Roscosmos,Russia,111.22,64.88,55.61,231.71,Orbitalytics Fiscal & Agency Budget Registry,True
+2023-12-01,2023,12,Commercial (SpaceX / Private),United States,109.86,64.08,54.93,228.87,Orbitalytics Fiscal & Agency Budget Registry,True
+2024-01-01,2024,1,NASA,United States,326.03,190.18,163.01,679.22,Orbitalytics Fiscal & Agency Budget Registry,True
+2024-01-01,2024,1,ESA,Europe,191.81,111.89,95.91,399.61,Orbitalytics Fiscal & Agency Budget Registry,True
+2024-01-01,2024,1,ISRO,India,96.17,56.1,48.08,200.35,Orbitalytics Fiscal & Agency Budget Registry,True
+2024-01-01,2024,1,JAXA,Japan,93.9,54.77,46.95,195.62,Orbitalytics Fiscal & Agency Budget Registry,True
+2024-01-01,2024,1,CNSA,China,176.36,102.88,88.18,367.42,Orbitalytics Fiscal & Agency Budget Registry,True
+2024-01-01,2024,1,Roscosmos,Russia,101.31,59.1,50.66,211.07,Orbitalytics Fiscal & Agency Budget Registry,True
+2024-01-01,2024,1,Commercial (SpaceX / Private),United States,95.64,55.79,47.82,199.25,Orbitalytics Fiscal & Agency Budget Registry,True
+2024-02-01,2024,2,NASA,United States,325.17,189.68,162.58,677.43,Orbitalytics Fiscal & Agency Budget Registry,True
+2024-02-01,2024,2,ESA,Europe,183.25,106.9,91.63,381.78,Orbitalytics Fiscal & Agency Budget Registry,True
+2024-02-01,2024,2,ISRO,India,94.56,55.16,47.28,197.0,Orbitalytics Fiscal & Agency Budget Registry,True
+2024-02-01,2024,2,JAXA,Japan,100.96,58.9,50.48,210.34,Orbitalytics Fiscal & Agency Budget Registry,True
+2024-02-01,2024,2,CNSA,China,179.48,104.7,89.74,373.92,Orbitalytics Fiscal & Agency Budget Registry,True
+2024-02-01,2024,2,Roscosmos,Russia,100.37,58.55,50.19,209.11,Orbitalytics Fiscal & Agency Budget Registry,True
+2024-02-01,2024,2,Commercial (SpaceX / Private),United States,99.58,58.09,49.79,207.46,Orbitalytics Fiscal & Agency Budget Registry,True
+2024-03-01,2024,3,NASA,United States,365.41,213.15,182.7,761.26,Orbitalytics Fiscal & Agency Budget Registry,True
+2024-03-01,2024,3,ESA,Europe,205.2,119.7,102.6,427.5,Orbitalytics Fiscal & Agency Budget Registry,True
+2024-03-01,2024,3,ISRO,India,102.28,59.66,51.14,213.08,Orbitalytics Fiscal & Agency Budget Registry,True
+2024-03-01,2024,3,JAXA,Japan,99.58,58.09,49.79,207.46,Orbitalytics Fiscal & Agency Budget Registry,True
+2024-03-01,2024,3,CNSA,China,197.46,115.19,98.73,411.38,Orbitalytics Fiscal & Agency Budget Registry,True
+2024-03-01,2024,3,Roscosmos,Russia,102.3,59.67,51.15,213.12,Orbitalytics Fiscal & Agency Budget Registry,True
+2024-03-01,2024,3,Commercial (SpaceX / Private),United States,104.78,61.12,52.39,218.29,Orbitalytics Fiscal & Agency Budget Registry,True
+2024-04-01,2024,4,NASA,United States,339.88,198.26,169.94,708.08,Orbitalytics Fiscal & Agency Budget Registry,True
+2024-04-01,2024,4,ESA,Europe,194.78,113.62,97.39,405.79,Orbitalytics Fiscal & Agency Budget Registry,True
+2024-04-01,2024,4,ISRO,India,102.87,60.01,51.43,214.31,Orbitalytics Fiscal & Agency Budget Registry,True
+2024-04-01,2024,4,JAXA,Japan,108.17,63.1,54.09,225.36,Orbitalytics Fiscal & Agency Budget Registry,True
+2024-04-01,2024,4,CNSA,China,193.81,113.05,96.9,403.76,Orbitalytics Fiscal & Agency Budget Registry,True
+2024-04-01,2024,4,Roscosmos,Russia,101.58,59.25,50.79,211.62,Orbitalytics Fiscal & Agency Budget Registry,True
+2024-04-01,2024,4,Commercial (SpaceX / Private),United States,106.0,61.83,53.0,220.83,Orbitalytics Fiscal & Agency Budget Registry,True
+2024-05-01,2024,5,NASA,United States,364.41,212.57,182.21,759.19,Orbitalytics Fiscal & Agency Budget Registry,True
+2024-05-01,2024,5,ESA,Europe,201.75,117.69,100.87,420.31,Orbitalytics Fiscal & Agency Budget Registry,True
+2024-05-01,2024,5,ISRO,India,101.28,59.08,50.64,211.0,Orbitalytics Fiscal & Agency Budget Registry,True
+2024-05-01,2024,5,JAXA,Japan,98.95,57.72,49.47,206.14,Orbitalytics Fiscal & Agency Budget Registry,True
+2024-05-01,2024,5,CNSA,China,186.98,109.07,93.49,389.54,Orbitalytics Fiscal & Agency Budget Registry,True
+2024-05-01,2024,5,Roscosmos,Russia,107.64,62.79,53.82,224.25,Orbitalytics Fiscal & Agency Budget Registry,True
+2024-05-01,2024,5,Commercial (SpaceX / Private),United States,105.72,61.67,52.86,220.25,Orbitalytics Fiscal & Agency Budget Registry,True
+2024-06-01,2024,6,NASA,United States,362.07,211.2,181.03,754.3,Orbitalytics Fiscal & Agency Budget Registry,True
+2024-06-01,2024,6,ESA,Europe,195.62,114.11,97.81,407.54,Orbitalytics Fiscal & Agency Budget Registry,True
+2024-06-01,2024,6,ISRO,India,107.19,62.53,53.6,223.32,Orbitalytics Fiscal & Agency Budget Registry,True
+2024-06-01,2024,6,JAXA,Japan,99.26,57.9,49.63,206.79,Orbitalytics Fiscal & Agency Budget Registry,True
+2024-06-01,2024,6,CNSA,China,206.15,120.26,103.08,429.49,Orbitalytics Fiscal & Agency Budget Registry,True
+2024-06-01,2024,6,Roscosmos,Russia,100.94,58.88,50.47,210.29,Orbitalytics Fiscal & Agency Budget Registry,True
+2024-06-01,2024,6,Commercial (SpaceX / Private),United States,99.76,58.19,49.88,207.83,Orbitalytics Fiscal & Agency Budget Registry,True
+2024-07-01,2024,7,NASA,United States,362.75,211.61,181.38,755.74,Orbitalytics Fiscal & Agency Budget Registry,True
+2024-07-01,2024,7,ESA,Europe,202.72,118.26,101.36,422.34,Orbitalytics Fiscal & Agency Budget Registry,True
+2024-07-01,2024,7,ISRO,India,103.41,60.32,51.7,215.43,Orbitalytics Fiscal & Agency Budget Registry,True
+2024-07-01,2024,7,JAXA,Japan,104.25,60.81,52.12,217.18,Orbitalytics Fiscal & Agency Budget Registry,True
+2024-07-01,2024,7,CNSA,China,196.8,114.8,98.4,410.0,Orbitalytics Fiscal & Agency Budget Registry,True
+2024-07-01,2024,7,Roscosmos,Russia,98.58,57.5,49.29,205.37,Orbitalytics Fiscal & Agency Budget Registry,True
+2024-07-01,2024,7,Commercial (SpaceX / Private),United States,104.39,60.89,52.19,217.47,Orbitalytics Fiscal & Agency Budget Registry,True
+2024-08-01,2024,8,NASA,United States,370.71,216.25,185.36,772.32,Orbitalytics Fiscal & Agency Budget Registry,True
+2024-08-01,2024,8,ESA,Europe,202.78,118.29,101.39,422.46,Orbitalytics Fiscal & Agency Budget Registry,True
+2024-08-01,2024,8,ISRO,India,103.36,60.29,51.68,215.33,Orbitalytics Fiscal & Agency Budget Registry,True
+2024-08-01,2024,8,JAXA,Japan,99.47,58.02,49.74,207.23,Orbitalytics Fiscal & Agency Budget Registry,True
+2024-08-01,2024,8,CNSA,China,193.66,112.97,96.83,403.46,Orbitalytics Fiscal & Agency Budget Registry,True
+2024-08-01,2024,8,Roscosmos,Russia,103.11,60.14,51.55,214.8,Orbitalytics Fiscal & Agency Budget Registry,True
+2024-08-01,2024,8,Commercial (SpaceX / Private),United States,105.7,61.66,52.85,220.21,Orbitalytics Fiscal & Agency Budget Registry,True
+2024-09-01,2024,9,NASA,United States,366.16,213.6,183.08,762.84,Orbitalytics Fiscal & Agency Budget Registry,True
+2024-09-01,2024,9,ESA,Europe,199.31,116.26,99.65,415.22,Orbitalytics Fiscal & Agency Budget Registry,True
+2024-09-01,2024,9,ISRO,India,98.39,57.39,49.2,204.98,Orbitalytics Fiscal & Agency Budget Registry,True
+2024-09-01,2024,9,JAXA,Japan,98.13,57.24,49.07,204.44,Orbitalytics Fiscal & Agency Budget Registry,True
+2024-09-01,2024,9,CNSA,China,192.59,112.35,96.3,401.24,Orbitalytics Fiscal & Agency Budget Registry,True
+2024-09-01,2024,9,Roscosmos,Russia,99.09,57.8,49.54,206.43,Orbitalytics Fiscal & Agency Budget Registry,True
+2024-09-01,2024,9,Commercial (SpaceX / Private),United States,106.09,61.88,53.04,221.01,Orbitalytics Fiscal & Agency Budget Registry,True
+2024-10-01,2024,10,NASA,United States,341.29,199.09,170.65,711.03,Orbitalytics Fiscal & Agency Budget Registry,True
+2024-10-01,2024,10,ESA,Europe,188.09,109.72,94.04,391.85,Orbitalytics Fiscal & Agency Budget Registry,True
+2024-10-01,2024,10,ISRO,India,102.72,59.92,51.36,214.0,Orbitalytics Fiscal & Agency Budget Registry,True
+2024-10-01,2024,10,JAXA,Japan,107.7,62.83,53.85,224.38,Orbitalytics Fiscal & Agency Budget Registry,True
+2024-10-01,2024,10,CNSA,China,201.93,117.79,100.97,420.69,Orbitalytics Fiscal & Agency Budget Registry,True
+2024-10-01,2024,10,Roscosmos,Russia,103.89,60.6,51.94,216.43,Orbitalytics Fiscal & Agency Budget Registry,True
+2024-10-01,2024,10,Commercial (SpaceX / Private),United States,99.12,57.82,49.56,206.5,Orbitalytics Fiscal & Agency Budget Registry,True
+2024-11-01,2024,11,NASA,United States,404.5,235.96,202.25,842.71,Orbitalytics Fiscal & Agency Budget Registry,True
+2024-11-01,2024,11,ESA,Europe,226.8,132.3,113.4,472.5,Orbitalytics Fiscal & Agency Budget Registry,True
+2024-11-01,2024,11,ISRO,India,114.01,66.5,57.0,237.51,Orbitalytics Fiscal & Agency Budget Registry,True
+2024-11-01,2024,11,JAXA,Japan,121.68,70.98,60.84,253.5,Orbitalytics Fiscal & Agency Budget Registry,True
+2024-11-01,2024,11,CNSA,China,233.57,136.25,116.78,486.6,Orbitalytics Fiscal & Agency Budget Registry,True
+2024-11-01,2024,11,Roscosmos,Russia,113.62,66.28,56.81,236.71,Orbitalytics Fiscal & Agency Budget Registry,True
+2024-11-01,2024,11,Commercial (SpaceX / Private),United States,120.13,70.07,60.06,250.26,Orbitalytics Fiscal & Agency Budget Registry,True
+2024-12-01,2024,12,NASA,United States,414.76,241.94,207.38,864.08,Orbitalytics Fiscal & Agency Budget Registry,True
+2024-12-01,2024,12,ESA,Europe,236.89,138.19,118.45,493.53,Orbitalytics Fiscal & Agency Budget Registry,True
+2024-12-01,2024,12,ISRO,India,113.66,66.3,56.83,236.79,Orbitalytics Fiscal & Agency Budget Registry,True
+2024-12-01,2024,12,JAXA,Japan,120.28,70.16,60.14,250.58,Orbitalytics Fiscal & Agency Budget Registry,True
+2024-12-01,2024,12,CNSA,China,215.34,125.61,107.67,448.62,Orbitalytics Fiscal & Agency Budget Registry,True
+2024-12-01,2024,12,Roscosmos,Russia,115.86,67.59,57.93,241.38,Orbitalytics Fiscal & Agency Budget Registry,True
+2024-12-01,2024,12,Commercial (SpaceX / Private),United States,120.46,70.27,60.23,250.96,Orbitalytics Fiscal & Agency Budget Registry,True
+2025-01-01,2025,1,NASA,United States,341.36,199.13,170.68,711.17,Orbitalytics Fiscal & Agency Budget Registry,True
+2025-01-01,2025,1,ESA,Europe,182.63,106.54,91.32,380.49,Orbitalytics Fiscal & Agency Budget Registry,True
+2025-01-01,2025,1,ISRO,India,103.98,60.66,51.99,216.63,Orbitalytics Fiscal & Agency Budget Registry,True
+2025-01-01,2025,1,JAXA,Japan,98.37,57.38,49.19,204.94,Orbitalytics Fiscal & Agency Budget Registry,True
+2025-01-01,2025,1,CNSA,China,192.39,112.23,96.2,400.82,Orbitalytics Fiscal & Agency Budget Registry,True
+2025-01-01,2025,1,Roscosmos,Russia,95.58,55.76,47.79,199.13,Orbitalytics Fiscal & Agency Budget Registry,True
+2025-01-01,2025,1,Commercial (SpaceX / Private),United States,101.67,59.31,50.83,211.81,Orbitalytics Fiscal & Agency Budget Registry,True
+2025-02-01,2025,2,NASA,United States,349.36,203.79,174.68,727.83,Orbitalytics Fiscal & Agency Budget Registry,True
+2025-02-01,2025,2,ESA,Europe,184.32,107.52,92.16,384.0,Orbitalytics Fiscal & Agency Budget Registry,True
+2025-02-01,2025,2,ISRO,India,100.03,58.35,50.02,208.4,Orbitalytics Fiscal & Agency Budget Registry,True
+2025-02-01,2025,2,JAXA,Japan,99.32,57.93,49.66,206.91,Orbitalytics Fiscal & Agency Budget Registry,True
+2025-02-01,2025,2,CNSA,China,198.9,116.02,99.45,414.37,Orbitalytics Fiscal & Agency Budget Registry,True
+2025-02-01,2025,2,Roscosmos,Russia,101.49,59.2,50.74,211.43,Orbitalytics Fiscal & Agency Budget Registry,True
+2025-02-01,2025,2,Commercial (SpaceX / Private),United States,95.62,55.78,47.81,199.21,Orbitalytics Fiscal & Agency Budget Registry,True
+2025-03-01,2025,3,NASA,United States,374.0,218.17,187.0,779.17,Orbitalytics Fiscal & Agency Budget Registry,True
+2025-03-01,2025,3,ESA,Europe,199.75,116.52,99.88,416.15,Orbitalytics Fiscal & Agency Budget Registry,True
+2025-03-01,2025,3,ISRO,India,109.75,64.02,54.87,228.64,Orbitalytics Fiscal & Agency Budget Registry,True
+2025-03-01,2025,3,JAXA,Japan,107.98,62.99,53.99,224.96,Orbitalytics Fiscal & Agency Budget Registry,True
+2025-03-01,2025,3,CNSA,China,200.2,116.78,100.1,417.08,Orbitalytics Fiscal & Agency Budget Registry,True
+2025-03-01,2025,3,Roscosmos,Russia,108.25,63.14,54.12,225.51,Orbitalytics Fiscal & Agency Budget Registry,True
+2025-03-01,2025,3,Commercial (SpaceX / Private),United States,109.21,63.7,54.6,227.51,Orbitalytics Fiscal & Agency Budget Registry,True
+2025-04-01,2025,4,NASA,United States,381.43,222.5,190.71,794.64,Orbitalytics Fiscal & Agency Budget Registry,True
+2025-04-01,2025,4,ESA,Europe,206.66,120.55,103.33,430.54,Orbitalytics Fiscal & Agency Budget Registry,True
+2025-04-01,2025,4,ISRO,India,106.72,62.25,53.36,222.33,Orbitalytics Fiscal & Agency Budget Registry,True
+2025-04-01,2025,4,JAXA,Japan,101.76,59.36,50.88,212.0,Orbitalytics Fiscal & Agency Budget Registry,True
+2025-04-01,2025,4,CNSA,China,207.24,120.89,103.62,431.75,Orbitalytics Fiscal & Agency Budget Registry,True
+2025-04-01,2025,4,Roscosmos,Russia,109.73,64.01,54.87,228.61,Orbitalytics Fiscal & Agency Budget Registry,True
+2025-04-01,2025,4,Commercial (SpaceX / Private),United States,105.52,61.55,52.76,219.83,Orbitalytics Fiscal & Agency Budget Registry,True
+2025-05-01,2025,5,NASA,United States,370.75,216.27,185.37,772.39,Orbitalytics Fiscal & Agency Budget Registry,True
+2025-05-01,2025,5,ESA,Europe,201.65,117.63,100.83,420.11,Orbitalytics Fiscal & Agency Budget Registry,True
+2025-05-01,2025,5,ISRO,India,106.52,62.14,53.26,221.92,Orbitalytics Fiscal & Agency Budget Registry,True
+2025-05-01,2025,5,JAXA,Japan,110.61,64.52,55.31,230.44,Orbitalytics Fiscal & Agency Budget Registry,True
+2025-05-01,2025,5,CNSA,China,199.63,116.45,99.82,415.9,Orbitalytics Fiscal & Agency Budget Registry,True
+2025-05-01,2025,5,Roscosmos,Russia,104.79,61.13,52.4,218.32,Orbitalytics Fiscal & Agency Budget Registry,True
+2025-05-01,2025,5,Commercial (SpaceX / Private),United States,106.76,62.28,53.38,222.42,Orbitalytics Fiscal & Agency Budget Registry,True
+2025-06-01,2025,6,NASA,United States,377.43,220.17,188.72,786.32,Orbitalytics Fiscal & Agency Budget Registry,True
+2025-06-01,2025,6,ESA,Europe,203.3,118.59,101.65,423.54,Orbitalytics Fiscal & Agency Budget Registry,True
+2025-06-01,2025,6,ISRO,India,106.91,62.37,53.46,222.74,Orbitalytics Fiscal & Agency Budget Registry,True
+2025-06-01,2025,6,JAXA,Japan,103.68,60.48,51.84,216.0,Orbitalytics Fiscal & Agency Budget Registry,True
+2025-06-01,2025,6,CNSA,China,200.55,116.99,100.28,417.82,Orbitalytics Fiscal & Agency Budget Registry,True
+2025-06-01,2025,6,Roscosmos,Russia,109.67,63.97,54.83,228.47,Orbitalytics Fiscal & Agency Budget Registry,True
+2025-06-01,2025,6,Commercial (SpaceX / Private),United States,109.57,63.91,54.78,228.26,Orbitalytics Fiscal & Agency Budget Registry,True
+2025-07-01,2025,7,NASA,United States,382.12,222.91,191.06,796.09,Orbitalytics Fiscal & Agency Budget Registry,True
+2025-07-01,2025,7,ESA,Europe,207.03,120.77,103.52,431.32,Orbitalytics Fiscal & Agency Budget Registry,True
+2025-07-01,2025,7,ISRO,India,104.1,60.73,52.05,216.88,Orbitalytics Fiscal & Agency Budget Registry,True
+2025-07-01,2025,7,JAXA,Japan,108.22,63.13,54.11,225.46,Orbitalytics Fiscal & Agency Budget Registry,True
+2025-07-01,2025,7,CNSA,China,211.19,123.19,105.59,439.97,Orbitalytics Fiscal & Agency Budget Registry,True
+2025-07-01,2025,7,Roscosmos,Russia,107.86,62.92,53.93,224.71,Orbitalytics Fiscal & Agency Budget Registry,True
+2025-07-01,2025,7,Commercial (SpaceX / Private),United States,110.17,64.27,55.09,229.53,Orbitalytics Fiscal & Agency Budget Registry,True
+2025-08-01,2025,8,NASA,United States,365.02,212.93,182.51,760.46,Orbitalytics Fiscal & Agency Budget Registry,True
+2025-08-01,2025,8,ESA,Europe,207.74,121.18,103.87,432.79,Orbitalytics Fiscal & Agency Budget Registry,True
+2025-08-01,2025,8,ISRO,India,108.48,63.28,54.24,226.0,Orbitalytics Fiscal & Agency Budget Registry,True
+2025-08-01,2025,8,JAXA,Japan,101.7,59.32,50.85,211.87,Orbitalytics Fiscal & Agency Budget Registry,True
+2025-08-01,2025,8,CNSA,China,194.26,113.32,97.13,404.71,Orbitalytics Fiscal & Agency Budget Registry,True
+2025-08-01,2025,8,Roscosmos,Russia,101.7,59.32,50.85,211.87,Orbitalytics Fiscal & Agency Budget Registry,True
+2025-08-01,2025,8,Commercial (SpaceX / Private),United States,105.13,61.33,52.57,219.03,Orbitalytics Fiscal & Agency Budget Registry,True
+2025-09-01,2025,9,NASA,United States,371.83,216.9,185.91,774.64,Orbitalytics Fiscal & Agency Budget Registry,True
+2025-09-01,2025,9,ESA,Europe,212.74,124.1,106.37,443.21,Orbitalytics Fiscal & Agency Budget Registry,True
+2025-09-01,2025,9,ISRO,India,107.18,62.52,53.59,223.29,Orbitalytics Fiscal & Agency Budget Registry,True
+2025-09-01,2025,9,JAXA,Japan,104.24,60.81,52.12,217.17,Orbitalytics Fiscal & Agency Budget Registry,True
+2025-09-01,2025,9,CNSA,China,213.24,124.39,106.62,444.25,Orbitalytics Fiscal & Agency Budget Registry,True
+2025-09-01,2025,9,Roscosmos,Russia,110.95,64.72,55.47,231.14,Orbitalytics Fiscal & Agency Budget Registry,True
+2025-09-01,2025,9,Commercial (SpaceX / Private),United States,107.19,62.53,53.6,223.32,Orbitalytics Fiscal & Agency Budget Registry,True
+2025-10-01,2025,10,NASA,United States,378.05,220.53,189.02,787.6,Orbitalytics Fiscal & Agency Budget Registry,True
+2025-10-01,2025,10,ESA,Europe,209.7,122.33,104.85,436.88,Orbitalytics Fiscal & Agency Budget Registry,True
+2025-10-01,2025,10,ISRO,India,105.77,61.7,52.89,220.36,Orbitalytics Fiscal & Agency Budget Registry,True
+2025-10-01,2025,10,JAXA,Japan,108.06,63.04,54.03,225.13,Orbitalytics Fiscal & Agency Budget Registry,True
+2025-10-01,2025,10,CNSA,China,210.58,122.84,105.29,438.71,Orbitalytics Fiscal & Agency Budget Registry,True
+2025-10-01,2025,10,Roscosmos,Russia,102.44,59.76,51.22,213.42,Orbitalytics Fiscal & Agency Budget Registry,True
+2025-10-01,2025,10,Commercial (SpaceX / Private),United States,101.43,59.17,50.72,211.32,Orbitalytics Fiscal & Agency Budget Registry,True
+2025-11-01,2025,11,NASA,United States,426.91,249.03,213.45,889.39,Orbitalytics Fiscal & Agency Budget Registry,True
+2025-11-01,2025,11,ESA,Europe,225.01,131.26,112.51,468.78,Orbitalytics Fiscal & Agency Budget Registry,True
+2025-11-01,2025,11,ISRO,India,121.89,71.1,60.94,253.93,Orbitalytics Fiscal & Agency Budget Registry,True
+2025-11-01,2025,11,JAXA,Japan,123.45,72.01,61.72,257.18,Orbitalytics Fiscal & Agency Budget Registry,True
+2025-11-01,2025,11,CNSA,China,234.2,136.62,117.1,487.92,Orbitalytics Fiscal & Agency Budget Registry,True
+2025-11-01,2025,11,Roscosmos,Russia,122.01,71.18,61.01,254.2,Orbitalytics Fiscal & Agency Budget Registry,True
+2025-11-01,2025,11,Commercial (SpaceX / Private),United States,117.42,68.5,58.71,244.63,Orbitalytics Fiscal & Agency Budget Registry,True
+2025-12-01,2025,12,NASA,United States,437.47,255.19,218.74,911.4,Orbitalytics Fiscal & Agency Budget Registry,True
+2025-12-01,2025,12,ESA,Europe,244.75,142.77,122.38,509.9,Orbitalytics Fiscal & Agency Budget Registry,True
+2025-12-01,2025,12,ISRO,India,122.67,71.56,61.33,255.56,Orbitalytics Fiscal & Agency Budget Registry,True
+2025-12-01,2025,12,JAXA,Japan,117.94,68.8,58.97,245.71,Orbitalytics Fiscal & Agency Budget Registry,True
+2025-12-01,2025,12,CNSA,China,231.77,135.2,115.88,482.85,Orbitalytics Fiscal & Agency Budget Registry,True
+2025-12-01,2025,12,Roscosmos,Russia,121.5,70.88,60.75,253.13,Orbitalytics Fiscal & Agency Budget Registry,True
+2025-12-01,2025,12,Commercial (SpaceX / Private),United States,123.06,71.79,61.53,256.38,Orbitalytics Fiscal & Agency Budget Registry,True
+2026-01-01,2026,1,NASA,United States,360.18,210.11,180.09,750.38,Orbitalytics Fiscal & Agency Budget Registry,True
+2026-01-01,2026,1,ESA,Europe,192.36,112.21,96.18,400.75,Orbitalytics Fiscal & Agency Budget Registry,True
+2026-01-01,2026,1,ISRO,India,98.63,57.54,49.32,205.49,Orbitalytics Fiscal & Agency Budget Registry,True
+2026-01-01,2026,1,JAXA,Japan,107.34,62.62,53.67,223.63,Orbitalytics Fiscal & Agency Budget Registry,True
+2026-01-01,2026,1,CNSA,China,198.74,115.93,99.37,414.04,Orbitalytics Fiscal & Agency Budget Registry,True
+2026-01-01,2026,1,Roscosmos,Russia,102.39,59.72,51.19,213.3,Orbitalytics Fiscal & Agency Budget Registry,True
+2026-01-01,2026,1,Commercial (SpaceX / Private),United States,99.58,58.09,49.79,207.46,Orbitalytics Fiscal & Agency Budget Registry,True
+2026-02-01,2026,2,NASA,United States,346.57,202.16,173.28,722.01,Orbitalytics Fiscal & Agency Budget Registry,True
+2026-02-01,2026,2,ESA,Europe,189.85,110.74,94.92,395.51,Orbitalytics Fiscal & Agency Budget Registry,True
+2026-02-01,2026,2,ISRO,India,99.02,57.76,49.51,206.29,Orbitalytics Fiscal & Agency Budget Registry,True
+2026-02-01,2026,2,JAXA,Japan,102.4,59.73,51.2,213.33,Orbitalytics Fiscal & Agency Budget Registry,True
+2026-02-01,2026,2,CNSA,China,194.39,113.39,97.2,404.98,Orbitalytics Fiscal & Agency Budget Registry,True
+2026-02-01,2026,2,Roscosmos,Russia,108.06,63.04,54.03,225.13,Orbitalytics Fiscal & Agency Budget Registry,True
+2026-02-01,2026,2,Commercial (SpaceX / Private),United States,102.44,59.76,51.22,213.42,Orbitalytics Fiscal & Agency Budget Registry,True
+2026-03-01,2026,3,NASA,United States,367.65,214.46,183.83,765.94,Orbitalytics Fiscal & Agency Budget Registry,True
+2026-03-01,2026,3,ESA,Europe,209.19,122.03,104.6,435.82,Orbitalytics Fiscal & Agency Budget Registry,True
+2026-03-01,2026,3,ISRO,India,105.97,61.81,52.98,220.76,Orbitalytics Fiscal & Agency Budget Registry,True
+2026-03-01,2026,3,JAXA,Japan,114.28,66.66,57.14,238.08,Orbitalytics Fiscal & Agency Budget Registry,True
+2026-03-01,2026,3,CNSA,China,204.56,119.32,102.28,426.16,Orbitalytics Fiscal & Agency Budget Registry,True
+2026-03-01,2026,3,Roscosmos,Russia,105.92,61.79,52.96,220.67,Orbitalytics Fiscal & Agency Budget Registry,True
+2026-03-01,2026,3,Commercial (SpaceX / Private),United States,109.6,63.93,54.8,228.33,Orbitalytics Fiscal & Agency Budget Registry,True
+2026-04-01,2026,4,NASA,United States,384.41,224.24,192.21,800.86,Orbitalytics Fiscal & Agency Budget Registry,True
+2026-04-01,2026,4,ESA,Europe,209.47,122.19,104.73,436.39,Orbitalytics Fiscal & Agency Budget Registry,True
+2026-04-01,2026,4,ISRO,India,106.63,62.2,53.32,222.15,Orbitalytics Fiscal & Agency Budget Registry,True
+2026-04-01,2026,4,JAXA,Japan,114.29,66.67,57.15,238.11,Orbitalytics Fiscal & Agency Budget Registry,True
+2026-04-01,2026,4,CNSA,China,216.5,126.29,108.25,451.04,Orbitalytics Fiscal & Agency Budget Registry,True
+2026-04-01,2026,4,Roscosmos,Russia,115.14,67.17,57.57,239.88,Orbitalytics Fiscal & Agency Budget Registry,True
+2026-04-01,2026,4,Commercial (SpaceX / Private),United States,111.17,64.85,55.59,231.61,Orbitalytics Fiscal & Agency Budget Registry,True
+2026-05-01,2026,5,NASA,United States,397.15,231.67,198.57,827.39,Orbitalytics Fiscal & Agency Budget Registry,True
+2026-05-01,2026,5,ESA,Europe,216.61,126.36,108.31,451.28,Orbitalytics Fiscal & Agency Budget Registry,True
+2026-05-01,2026,5,ISRO,India,111.78,65.2,55.89,232.87,Orbitalytics Fiscal & Agency Budget Registry,True
+2026-05-01,2026,5,JAXA,Japan,115.12,67.15,57.56,239.83,Orbitalytics Fiscal & Agency Budget Registry,True
+2026-05-01,2026,5,CNSA,China,210.22,122.63,105.11,437.96,Orbitalytics Fiscal & Agency Budget Registry,True
+2026-05-01,2026,5,Roscosmos,Russia,108.75,63.43,54.37,226.55,Orbitalytics Fiscal & Agency Budget Registry,True
+2026-05-01,2026,5,Commercial (SpaceX / Private),United States,110.86,64.67,55.43,230.96,Orbitalytics Fiscal & Agency Budget Registry,True
+2026-06-01,2026,6,NASA,United States,385.84,225.07,192.92,803.83,Orbitalytics Fiscal & Agency Budget Registry,True
+2026-06-01,2026,6,ESA,Europe,213.58,124.59,106.79,444.96,Orbitalytics Fiscal & Agency Budget Registry,True
+2026-06-01,2026,6,ISRO,India,111.54,65.06,55.77,232.37,Orbitalytics Fiscal & Agency Budget Registry,True
+2026-06-01,2026,6,JAXA,Japan,109.71,64.0,54.86,228.57,Orbitalytics Fiscal & Agency Budget Registry,True
+2026-06-01,2026,6,CNSA,China,209.76,122.36,104.88,437.0,Orbitalytics Fiscal & Agency Budget Registry,True
+2026-06-01,2026,6,Roscosmos,Russia,107.29,62.58,53.64,223.51,Orbitalytics Fiscal & Agency Budget Registry,True
+2026-06-01,2026,6,Commercial (SpaceX / Private),United States,107.16,62.51,53.58,223.25,Orbitalytics Fiscal & Agency Budget Registry,True
+2026-07-01,2026,7,NASA,United States,390.69,227.9,195.35,813.94,Orbitalytics Fiscal & Agency Budget Registry,True
+2026-07-01,2026,7,ESA,Europe,216.24,126.14,108.12,450.5,Orbitalytics Fiscal & Agency Budget Registry,True
+2026-07-01,2026,7,ISRO,India,105.77,61.7,52.89,220.36,Orbitalytics Fiscal & Agency Budget Registry,True
+2026-07-01,2026,7,JAXA,Japan,109.41,63.82,54.71,227.94,Orbitalytics Fiscal & Agency Budget Registry,True
+2026-07-01,2026,7,CNSA,China,218.76,127.61,109.38,455.75,Orbitalytics Fiscal & Agency Budget Registry,True
+2026-07-01,2026,7,Roscosmos,Russia,106.64,62.2,53.32,222.16,Orbitalytics Fiscal & Agency Budget Registry,True
+2026-07-01,2026,7,Commercial (SpaceX / Private),United States,115.07,67.13,57.54,239.74,Orbitalytics Fiscal & Agency Budget Registry,True
+2026-08-01,2026,8,NASA,United States,393.3,229.43,196.65,819.38,Orbitalytics Fiscal & Agency Budget Registry,True
+2026-08-01,2026,8,ESA,Europe,205.53,119.89,102.76,428.18,Orbitalytics Fiscal & Agency Budget Registry,True
+2026-08-01,2026,8,ISRO,India,114.75,66.94,57.37,239.06,Orbitalytics Fiscal & Agency Budget Registry,True
+2026-08-01,2026,8,JAXA,Japan,107.52,62.72,53.76,224.0,Orbitalytics Fiscal & Agency Budget Registry,True
+2026-08-01,2026,8,CNSA,China,201.79,117.71,100.89,420.39,Orbitalytics Fiscal & Agency Budget Registry,True
+2026-08-01,2026,8,Roscosmos,Russia,109.34,63.78,54.67,227.79,Orbitalytics Fiscal & Agency Budget Registry,True
+2026-08-01,2026,8,Commercial (SpaceX / Private),United States,105.14,61.33,52.57,219.04,Orbitalytics Fiscal & Agency Budget Registry,True
+2026-09-01,2026,9,NASA,United States,371.9,216.94,185.95,774.79,Orbitalytics Fiscal & Agency Budget Registry,True
+2026-09-01,2026,9,ESA,Europe,216.07,126.04,108.04,450.15,Orbitalytics Fiscal & Agency Budget Registry,True
+2026-09-01,2026,9,ISRO,India,108.81,63.47,54.41,226.69,Orbitalytics Fiscal & Agency Budget Registry,True
+2026-09-01,2026,9,JAXA,Japan,109.48,63.86,54.74,228.08,Orbitalytics Fiscal & Agency Budget Registry,True
+2026-09-01,2026,9,CNSA,China,205.92,120.12,102.96,429.0,Orbitalytics Fiscal & Agency Budget Registry,True
+2026-09-01,2026,9,Roscosmos,Russia,108.54,63.31,54.27,226.12,Orbitalytics Fiscal & Agency Budget Registry,True
+2026-09-01,2026,9,Commercial (SpaceX / Private),United States,112.01,65.34,56.0,233.35,Orbitalytics Fiscal & Agency Budget Registry,True
+2026-10-01,2026,10,NASA,United States,389.99,227.49,194.99,812.47,Orbitalytics Fiscal & Agency Budget Registry,True
+2026-10-01,2026,10,ESA,Europe,202.97,118.4,101.48,422.85,Orbitalytics Fiscal & Agency Budget Registry,True
+2026-10-01,2026,10,ISRO,India,114.69,66.9,57.34,238.93,Orbitalytics Fiscal & Agency Budget Registry,True
+2026-10-01,2026,10,JAXA,Japan,109.3,63.76,54.65,227.71,Orbitalytics Fiscal & Agency Budget Registry,True
+2026-10-01,2026,10,CNSA,China,212.49,123.95,106.25,442.69,Orbitalytics Fiscal & Agency Budget Registry,True
+2026-10-01,2026,10,Roscosmos,Russia,112.76,65.78,56.38,234.92,Orbitalytics Fiscal & Agency Budget Registry,True
+2026-10-01,2026,10,Commercial (SpaceX / Private),United States,108.8,63.47,54.4,226.67,Orbitalytics Fiscal & Agency Budget Registry,True

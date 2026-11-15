@@ -1,0 +1,164 @@
+{
+  "space_missions": {
+    "dataset_name": "space_missions",
+    "data_origin": "synthetic",
+    "is_synthetic": true,
+    "record_count": 1500,
+    "source_publisher": "Orbitalytics Research Big Data Engineering Team",
+    "licence": "Apache-2.0 / Academic Research Use",
+    "schema_version": "2.0.0",
+    "registered_at_utc": "2026-11-14T04:40:47.260933+00:00",
+    "transformation_pipeline": [
+      "DataStandardizer",
+      "DataValidator",
+      "SchemaEnforcement"
+    ],
+    "metadata": {
+      "quality_score": 100.0
+    }
+  },
+  "satellites_orbital": {
+    "dataset_name": "satellites_orbital",
+    "data_origin": "synthetic",
+    "is_synthetic": true,
+    "record_count": 2400,
+    "source_publisher": "Orbitalytics Research Big Data Engineering Team",
+    "licence": "Apache-2.0 / Academic Research Use",
+    "schema_version": "2.0.0",
+    "registered_at_utc": "2026-11-14T04:40:47.350419+00:00",
+    "transformation_pipeline": [
+      "DataStandardizer",
+      "DataValidator",
+      "SchemaEnforcement"
+    ],
+    "metadata": {
+      "quality_score": 100.0
+    }
+  },
+  "launch_activities": {
+    "dataset_name": "launch_activities",
+    "data_origin": "synthetic",
+    "is_synthetic": true,
+    "record_count": 1200,
+    "source_publisher": "Orbitalytics Research Big Data Engineering Team",
+    "licence": "Apache-2.0 / Academic Research Use",
+    "schema_version": "2.0.0",
+    "registered_at_utc": "2026-11-14T04:40:47.430215+00:00",
+    "transformation_pipeline": [
+      "DataStandardizer",
+      "DataValidator",
+      "SchemaEnforcement"
+    ],
+    "metadata": {
+      "quality_score": 100.0
+    }
+  },
+  "equipment_component_demand": {
+    "dataset_name": "equipment_component_demand",
+    "data_origin": "synthetic",
+    "is_synthetic": true,
+    "record_count": 11312,
+    "source_publisher": "Orbitalytics Research Big Data Engineering Team",
+    "licence": "Apache-2.0 / Academic Research Use",
+    "schema_version": "2.0.0",
+    "registered_at_utc": "2026-11-14T04:40:47.728361+00:00",
+    "transformation_pipeline": [
+      "DataStandardizer",
+      "DataValidator",
+      "SchemaEnforcement"
+    ],
+    "metadata": {
+      "quality_score": 100.0
+    }
+  },
+  "agency_research_expenditures": {
+    "dataset_name": "agency_research_expenditures",
+    "data_origin": "synthetic",
+    "is_synthetic": true,
+    "record_count": 1414,
+    "source_publisher": "Orbitalytics Research Big Data Engineering Team",
+    "licence": "Apache-2.0 / Academic Research Use",
+    "schema_version": "2.0.0",
+    "registered_at_utc": "2026-11-14T04:40:47.828081+00:00",
+    "transformation_pipeline": [
+      "DataStandardizer",
+      "DataValidator",
+      "SchemaEnforcement"
+    ],
+    "metadata": {
+      "quality_score": 100.0
+    }
+  },
+  "resource_consumption": {
+    "dataset_name": "resource_consumption",
+    "data_origin": "synthetic",
+    "is_synthetic": true,
+    "record_count": 9898,
+    "source_publisher": "Orbitalytics Research Big Data Engineering Team",
+    "licence": "Apache-2.0 / Academic Research Use",
+    "schema_version": "2.0.0",
+    "registered_at_utc": "2026-11-14T04:40:48.048567+00:00",
+    "transformation_pipeline": [
+      "DataStandardizer",
+      "DataValidator",
+      "SchemaEnforcement"
+    ],
+    "metadata": {
+      "quality_score": 100.0
+    }
+  },
+  "satellite_manufacturing_requirements": {
+    "dataset_name": "satellite_manufacturing_requirements",
+    "data_origin": "synthetic",
+    "is_synthetic": true,
+    "record_count": 600,
+    "source_publisher": "Orbitalytics Research Big Data Engineering Team",
+    "licence": "Apache-2.0 / Academic Research Use",
+    "schema_version": "2.0.0",
+    "registered_at_utc": "2026-11-14T04:40:48.115164+00:00",
+    "transformation_pipeline": [
+      "DataStandardizer",
+      "DataValidator",
+      "SchemaEnforcement"
+    ],
+    "metadata": {
+      "quality_score": 100.0
+    }
+  },
+  "space_infrastructure_requirements": {
+    "dataset_name": "space_infrastructure_requirements",
+    "data_origin": "synthetic",
+    "is_synthetic": true,
+    "record_count": 1010,
+    "source_publisher": "Orbitalytics Research Big Data Engineering Team",
+    "licence": "Apache-2.0 / Academic Research Use",
+    "schema_version": "2.0.0",
+    "registered_at_utc": "2026-11-14T04:40:48.219928+00:00",
+    "transformation_pipeline": [
+      "DataStandardizer",
+      "DataValidator",
+      "SchemaEnforcement"
+    ],
+    "metadata": {
+      "quality_score": 100.0
+    }
+  },
+  "research_investment_future_projects": {
+    "dataset_name": "research_investment_future_projects",
+    "data_origin": "synthetic",
+    "is_synthetic": true,
+    "record_count": 160,
+    "source_publisher": "Orbitalytics Research Big Data Engineering Team",
+    "licence": "Apache-2.0 / Academic Research Use",
+    "schema_version": "2.0.0",
+    "registered_at_utc": "2026-11-14T04:40:48.286314+00:00",
+    "transformation_pipeline": [
+      "DataStandardizer",
+      "DataValidator",
+      "SchemaEnforcement"
+    ],
+    "metadata": {
+      "quality_score": 100.0
+    }
+  }
+}

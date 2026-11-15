@@ -1,0 +1,11 @@
+domain,scenario_id,scenario_name,demand_volume_4q,procured_units_4q,manufactured_units_4q,shortage_units_4q,aggregate_fill_rate_pct,critical_tier1_fill_rate_pct,operational_expenditure_million_usd,avg_quarterly_budget_utilization_pct,avg_manufacturing_capacity_utilization_pct,solver_status
+equipment_demand,baseline,1. Baseline Scenario,18241.6,3207.0,4308.0,10249.6,43.81,92.84,3399.34,99.98,89.75,OPTIMAL
+equipment_demand,high_demand,2. High-Demand Scenario (95% Upper Bound),18695.2,3209.0,4308.0,10701.2,42.76,90.3,3399.39,99.98,89.75,OPTIMAL
+equipment_demand,low_demand,3. Low-Demand Scenario (95% Lower Bound),17788.5,3208.0,4308.0,9795.5,44.93,93.12,3399.65,99.99,89.75,OPTIMAL
+equipment_demand,limited_budget,4. Limited-Budget Scenario (-35% Austerity),18241.6,928.0,4308.0,12528.6,31.32,89.94,2209.96,100.0,89.75,OPTIMAL
+equipment_demand,increased_production,5. Increased-Production Scenario (+35% Capacity),18241.6,2064.0,5800.0,9900.6,45.73,100.0,3399.43,99.98,89.51,OPTIMAL
+resource_consumption,baseline,1. Baseline Scenario,27970.4,20346.1,6594.0,0.0,100.0,100.0,766.32,76.63,82.42,OPTIMAL
+resource_consumption,high_demand,2. High-Demand Scenario (95% Upper Bound),28724.1,21099.8,6594.0,0.0,100.0,100.01,788.91,78.89,82.42,OPTIMAL
+resource_consumption,low_demand,3. Low-Demand Scenario (95% Lower Bound),27217.3,19593.0,6594.0,0.0,100.0,100.01,743.77,74.38,82.42,OPTIMAL
+resource_consumption,limited_budget,4. Limited-Budget Scenario (-35% Austerity),27970.4,16454.4,6594.0,3891.7,86.09,100.0,650.0,100.0,82.42,OPTIMAL
+resource_consumption,increased_production,5. Increased-Production Scenario (+35% Capacity),27970.4,18038.5,8901.6,0.0,100.0,100.0,752.52,75.25,82.43,OPTIMAL

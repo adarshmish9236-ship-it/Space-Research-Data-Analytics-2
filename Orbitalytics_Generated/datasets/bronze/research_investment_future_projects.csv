@@ -1,0 +1,161 @@
+project_id,project_name,agency,country,research_category,proposed_year,investment_million_usd,priority,technology_readiness_level,expected_resource_requirement,project_status,data_source,is_synthetic
+PRJ-2031-200,Orbital Quantum Computing Node Tier 1,NASA,United States,Orbital,2031,10270.4,Scientific Discovery,8,150 Metric Tons Launch Mass,Approved,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2034-201,Mars Sample Return Logistics Tier 2,Roscosmos,Russia,Mars,2034,13285.7,High Priority,8,21 Metric Tons Launch Mass,Funded - Phase A,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2027-202,Orbital Quantum Computing Node Tier 3,Roscosmos,Russia,Orbital,2027,3503.6,Exploratory,7,148 Metric Tons Launch Mass,Approved,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2032-203,Lunar Gateway Habitation Tier 4,NASA,United States,Lunar,2032,7106.9,Exploratory,8,114 Metric Tons Launch Mass,Phase B Development,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2031-204,Exoplanet Spectral Observatory Tier 1,ISRO,India,Exoplanet,2031,16462.8,Critical Strategic,4,56 Metric Tons Launch Mass,Phase B Development,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2029-205,Exoplanet Spectral Observatory Tier 2,Roscosmos,Russia,Exoplanet,2029,4192.2,Critical Strategic,7,76 Metric Tons Launch Mass,Funded - Phase A,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2030-206,Lunar Gateway Habitation Tier 3,ESA,Europe,Lunar,2030,18112.4,Critical Strategic,5,86 Metric Tons Launch Mass,Proposed,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2031-207,Lunar Gateway Habitation Tier 4,ESA,Europe,Lunar,2031,7578.2,Scientific Discovery,4,20 Metric Tons Launch Mass,Phase B Development,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2030-208,Mars Sample Return Logistics Tier 1,Commercial (SpaceX / Private),United States,Mars,2030,17918.6,Exploratory,8,79 Metric Tons Launch Mass,Proposed,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2027-209,Orbital Quantum Computing Node Tier 2,ISRO,India,Orbital,2027,12370.9,Exploratory,6,65 Metric Tons Launch Mass,Funded - Phase A,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2032-210,Mars Sample Return Logistics Tier 3,Commercial (SpaceX / Private),United States,Mars,2032,8391.1,High Priority,3,58 Metric Tons Launch Mass,Proposed,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2025-211,NextGen Artemis Base Tier 4,JAXA,Japan,NextGen,2025,1381.2,Scientific Discovery,5,129 Metric Tons Launch Mass,Phase B Development,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2035-212,Exoplanet Spectral Observatory Tier 1,NASA,United States,Exoplanet,2035,11075.7,Exploratory,7,142 Metric Tons Launch Mass,Funded - Phase A,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2034-213,Lunar Gateway Habitation Tier 2,Roscosmos,Russia,Lunar,2034,14284.4,High Priority,4,70 Metric Tons Launch Mass,Approved,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2033-214,Exoplanet Spectral Observatory Tier 3,Commercial (SpaceX / Private),United States,Exoplanet,2033,9722.6,Exploratory,7,58 Metric Tons Launch Mass,Phase B Development,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2032-215,NextGen Artemis Base Tier 4,CNSA,China,NextGen,2032,4287.1,Exploratory,8,46 Metric Tons Launch Mass,Approved,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2027-216,Lunar Gateway Habitation Tier 1,ISRO,India,Lunar,2027,4990.5,Exploratory,3,80 Metric Tons Launch Mass,Approved,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2028-217,Exoplanet Spectral Observatory Tier 2,CNSA,China,Exoplanet,2028,13689.6,High Priority,5,49 Metric Tons Launch Mass,Proposed,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2029-218,Orbital Quantum Computing Node Tier 3,JAXA,Japan,Orbital,2029,17124.5,Exploratory,7,27 Metric Tons Launch Mass,Funded - Phase A,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2027-219,Mars Sample Return Logistics Tier 4,ESA,Europe,Mars,2027,11196.6,Scientific Discovery,7,34 Metric Tons Launch Mass,Approved,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2027-220,Lunar Gateway Habitation Tier 1,JAXA,Japan,Lunar,2027,7849.9,Exploratory,8,67 Metric Tons Launch Mass,Proposed,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2031-221,Exoplanet Spectral Observatory Tier 2,NASA,United States,Exoplanet,2031,8426.6,Exploratory,8,125 Metric Tons Launch Mass,Approved,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2034-222,Lunar Gateway Habitation Tier 3,Roscosmos,Russia,Lunar,2034,9178.7,Critical Strategic,7,31 Metric Tons Launch Mass,Phase B Development,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2032-223,Orbital Quantum Computing Node Tier 4,Roscosmos,Russia,Orbital,2032,5265.9,High Priority,6,75 Metric Tons Launch Mass,Proposed,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2032-224,Lunar Gateway Habitation Tier 1,ISRO,India,Lunar,2032,5551.3,Exploratory,8,60 Metric Tons Launch Mass,Phase B Development,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2026-225,Exoplanet Spectral Observatory Tier 2,ESA,Europe,Exoplanet,2026,1496.0,High Priority,4,58 Metric Tons Launch Mass,Phase B Development,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2032-226,Exoplanet Spectral Observatory Tier 3,CNSA,China,Exoplanet,2032,3880.5,Critical Strategic,5,90 Metric Tons Launch Mass,Proposed,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2031-227,Orbital Quantum Computing Node Tier 4,CNSA,China,Orbital,2031,14077.3,High Priority,3,56 Metric Tons Launch Mass,Phase B Development,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2028-228,Exoplanet Spectral Observatory Tier 1,NASA,United States,Exoplanet,2028,17499.5,High Priority,6,87 Metric Tons Launch Mass,Approved,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2034-229,Lunar Gateway Habitation Tier 2,JAXA,Japan,Lunar,2034,10413.2,High Priority,6,121 Metric Tons Launch Mass,Phase B Development,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2032-230,NextGen Artemis Base Tier 3,NASA,United States,NextGen,2032,3017.7,Scientific Discovery,8,78 Metric Tons Launch Mass,Phase B Development,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2025-231,NextGen Artemis Base Tier 4,CNSA,China,NextGen,2025,10921.0,Exploratory,7,131 Metric Tons Launch Mass,Funded - Phase A,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2035-232,Mars Sample Return Logistics Tier 1,Commercial (SpaceX / Private),United States,Mars,2035,14853.3,Critical Strategic,5,103 Metric Tons Launch Mass,Proposed,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2034-233,Mars Sample Return Logistics Tier 2,Commercial (SpaceX / Private),United States,Mars,2034,1016.7,Exploratory,7,77 Metric Tons Launch Mass,Phase B Development,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2032-234,Orbital Quantum Computing Node Tier 3,Roscosmos,Russia,Orbital,2032,7244.7,Scientific Discovery,4,102 Metric Tons Launch Mass,Funded - Phase A,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2034-235,Mars Sample Return Logistics Tier 4,JAXA,Japan,Mars,2034,10676.0,Critical Strategic,3,144 Metric Tons Launch Mass,Approved,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2034-236,Orbital Quantum Computing Node Tier 1,Roscosmos,Russia,Orbital,2034,11948.1,High Priority,6,58 Metric Tons Launch Mass,Funded - Phase A,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2029-237,Exoplanet Spectral Observatory Tier 2,ESA,Europe,Exoplanet,2029,16164.6,Critical Strategic,6,102 Metric Tons Launch Mass,Funded - Phase A,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2025-238,NextGen Artemis Base Tier 3,ESA,Europe,NextGen,2025,3159.7,High Priority,3,137 Metric Tons Launch Mass,Phase B Development,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2032-239,NextGen Artemis Base Tier 4,Roscosmos,Russia,NextGen,2032,15662.7,Exploratory,7,131 Metric Tons Launch Mass,Funded - Phase A,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2025-240,Orbital Quantum Computing Node Tier 1,Commercial (SpaceX / Private),United States,Orbital,2025,16648.1,Scientific Discovery,3,111 Metric Tons Launch Mass,Funded - Phase A,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2031-241,Orbital Quantum Computing Node Tier 2,Commercial (SpaceX / Private),United States,Orbital,2031,12183.5,Critical Strategic,8,49 Metric Tons Launch Mass,Approved,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2027-242,NextGen Artemis Base Tier 3,CNSA,China,NextGen,2027,14210.1,Exploratory,3,107 Metric Tons Launch Mass,Proposed,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2031-243,NextGen Artemis Base Tier 4,NASA,United States,NextGen,2031,11513.6,Critical Strategic,7,109 Metric Tons Launch Mass,Phase B Development,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2034-244,Mars Sample Return Logistics Tier 1,CNSA,China,Mars,2034,4442.8,High Priority,7,56 Metric Tons Launch Mass,Phase B Development,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2030-245,Mars Sample Return Logistics Tier 2,ISRO,India,Mars,2030,17489.4,High Priority,5,74 Metric Tons Launch Mass,Funded - Phase A,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2029-246,NextGen Artemis Base Tier 3,ESA,Europe,NextGen,2029,13875.2,Scientific Discovery,7,91 Metric Tons Launch Mass,Proposed,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2034-247,Orbital Quantum Computing Node Tier 4,ESA,Europe,Orbital,2034,10842.7,Critical Strategic,8,134 Metric Tons Launch Mass,Approved,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2028-248,Orbital Quantum Computing Node Tier 1,CNSA,China,Orbital,2028,4255.0,High Priority,3,40 Metric Tons Launch Mass,Phase B Development,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2030-249,Orbital Quantum Computing Node Tier 2,JAXA,Japan,Orbital,2030,11070.6,Exploratory,3,23 Metric Tons Launch Mass,Phase B Development,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2034-250,Exoplanet Spectral Observatory Tier 3,Roscosmos,Russia,Exoplanet,2034,7148.0,Critical Strategic,3,130 Metric Tons Launch Mass,Funded - Phase A,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2035-251,NextGen Artemis Base Tier 4,JAXA,Japan,NextGen,2035,14634.9,Exploratory,4,94 Metric Tons Launch Mass,Proposed,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2035-252,Orbital Quantum Computing Node Tier 1,Roscosmos,Russia,Orbital,2035,2535.3,High Priority,6,26 Metric Tons Launch Mass,Approved,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2028-253,Orbital Quantum Computing Node Tier 2,CNSA,China,Orbital,2028,15490.8,Critical Strategic,4,90 Metric Tons Launch Mass,Phase B Development,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2032-254,Orbital Quantum Computing Node Tier 3,ESA,Europe,Orbital,2032,16505.0,Exploratory,7,54 Metric Tons Launch Mass,Funded - Phase A,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2033-255,Lunar Gateway Habitation Tier 4,NASA,United States,Lunar,2033,5664.2,High Priority,5,39 Metric Tons Launch Mass,Phase B Development,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2031-256,Mars Sample Return Logistics Tier 1,NASA,United States,Mars,2031,16058.6,High Priority,7,47 Metric Tons Launch Mass,Proposed,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2025-257,Exoplanet Spectral Observatory Tier 2,ESA,Europe,Exoplanet,2025,5228.1,Scientific Discovery,8,127 Metric Tons Launch Mass,Phase B Development,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2033-258,Orbital Quantum Computing Node Tier 3,ISRO,India,Orbital,2033,1723.3,Scientific Discovery,5,23 Metric Tons Launch Mass,Funded - Phase A,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2030-259,Exoplanet Spectral Observatory Tier 4,CNSA,China,Exoplanet,2030,18321.0,Critical Strategic,6,67 Metric Tons Launch Mass,Approved,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2035-260,NextGen Artemis Base Tier 1,Roscosmos,Russia,NextGen,2035,17652.1,Exploratory,5,98 Metric Tons Launch Mass,Approved,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2031-261,Mars Sample Return Logistics Tier 2,NASA,United States,Mars,2031,7350.1,Critical Strategic,4,32 Metric Tons Launch Mass,Phase B Development,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2034-262,NextGen Artemis Base Tier 3,JAXA,Japan,NextGen,2034,12177.1,Scientific Discovery,5,120 Metric Tons Launch Mass,Proposed,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2026-263,NextGen Artemis Base Tier 4,ISRO,India,NextGen,2026,2993.5,High Priority,8,105 Metric Tons Launch Mass,Proposed,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2035-264,Exoplanet Spectral Observatory Tier 1,JAXA,Japan,Exoplanet,2035,7249.5,Exploratory,6,34 Metric Tons Launch Mass,Phase B Development,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2034-265,Mars Sample Return Logistics Tier 2,NASA,United States,Mars,2034,874.8,Scientific Discovery,7,115 Metric Tons Launch Mass,Approved,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2032-266,Mars Sample Return Logistics Tier 3,JAXA,Japan,Mars,2032,10180.9,High Priority,7,141 Metric Tons Launch Mass,Funded - Phase A,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2034-267,NextGen Artemis Base Tier 4,CNSA,China,NextGen,2034,6050.9,High Priority,5,138 Metric Tons Launch Mass,Funded - Phase A,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2025-268,Orbital Quantum Computing Node Tier 1,CNSA,China,Orbital,2025,13189.0,High Priority,5,41 Metric Tons Launch Mass,Approved,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2034-269,NextGen Artemis Base Tier 2,Commercial (SpaceX / Private),United States,NextGen,2034,2745.5,Exploratory,4,128 Metric Tons Launch Mass,Phase B Development,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2029-270,NextGen Artemis Base Tier 3,JAXA,Japan,NextGen,2029,3871.3,High Priority,8,63 Metric Tons Launch Mass,Proposed,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2035-271,NextGen Artemis Base Tier 4,NASA,United States,NextGen,2035,10956.0,Exploratory,4,126 Metric Tons Launch Mass,Funded - Phase A,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2032-272,Exoplanet Spectral Observatory Tier 1,ESA,Europe,Exoplanet,2032,3958.6,Critical Strategic,8,76 Metric Tons Launch Mass,Funded - Phase A,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2033-273,Orbital Quantum Computing Node Tier 2,NASA,United States,Orbital,2033,4880.6,Scientific Discovery,5,61 Metric Tons Launch Mass,Funded - Phase A,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2025-274,Orbital Quantum Computing Node Tier 3,JAXA,Japan,Orbital,2025,4231.1,High Priority,6,70 Metric Tons Launch Mass,Funded - Phase A,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2029-275,Exoplanet Spectral Observatory Tier 4,CNSA,China,Exoplanet,2029,11895.3,Exploratory,5,101 Metric Tons Launch Mass,Approved,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2031-276,Exoplanet Spectral Observatory Tier 1,CNSA,China,Exoplanet,2031,14187.4,Scientific Discovery,3,30 Metric Tons Launch Mass,Proposed,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2033-277,Mars Sample Return Logistics Tier 2,NASA,United States,Mars,2033,10863.8,High Priority,5,49 Metric Tons Launch Mass,Phase B Development,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2025-278,Mars Sample Return Logistics Tier 3,JAXA,Japan,Mars,2025,16931.6,Scientific Discovery,5,76 Metric Tons Launch Mass,Phase B Development,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2026-279,Orbital Quantum Computing Node Tier 4,JAXA,Japan,Orbital,2026,10576.7,Exploratory,3,136 Metric Tons Launch Mass,Phase B Development,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2029-280,NextGen Artemis Base Tier 1,CNSA,China,NextGen,2029,16338.4,Critical Strategic,7,108 Metric Tons Launch Mass,Proposed,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2031-281,Mars Sample Return Logistics Tier 2,ISRO,India,Mars,2031,7814.2,Scientific Discovery,7,84 Metric Tons Launch Mass,Proposed,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2025-282,NextGen Artemis Base Tier 3,JAXA,Japan,NextGen,2025,567.1,Scientific Discovery,6,126 Metric Tons Launch Mass,Funded - Phase A,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2031-283,Exoplanet Spectral Observatory Tier 4,JAXA,Japan,Exoplanet,2031,10153.9,Scientific Discovery,5,100 Metric Tons Launch Mass,Phase B Development,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2028-284,Exoplanet Spectral Observatory Tier 1,ESA,Europe,Exoplanet,2028,9457.3,Exploratory,6,130 Metric Tons Launch Mass,Phase B Development,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2030-285,Orbital Quantum Computing Node Tier 2,CNSA,China,Orbital,2030,11629.1,High Priority,3,78 Metric Tons Launch Mass,Phase B Development,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2028-286,Lunar Gateway Habitation Tier 3,ISRO,India,Lunar,2028,16593.2,Critical Strategic,7,129 Metric Tons Launch Mass,Funded - Phase A,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2031-287,Exoplanet Spectral Observatory Tier 4,ESA,Europe,Exoplanet,2031,18004.8,Scientific Discovery,7,47 Metric Tons Launch Mass,Approved,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2031-288,Mars Sample Return Logistics Tier 1,NASA,United States,Mars,2031,16456.9,High Priority,7,123 Metric Tons Launch Mass,Funded - Phase A,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2033-289,Mars Sample Return Logistics Tier 2,Roscosmos,Russia,Mars,2033,17428.6,Scientific Discovery,8,72 Metric Tons Launch Mass,Funded - Phase A,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2026-290,Mars Sample Return Logistics Tier 3,NASA,United States,Mars,2026,11839.1,High Priority,3,108 Metric Tons Launch Mass,Approved,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2032-291,NextGen Artemis Base Tier 4,NASA,United States,NextGen,2032,16640.5,Exploratory,4,149 Metric Tons Launch Mass,Phase B Development,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2029-292,Lunar Gateway Habitation Tier 1,JAXA,Japan,Lunar,2029,6020.9,High Priority,7,134 Metric Tons Launch Mass,Funded - Phase A,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2028-293,Lunar Gateway Habitation Tier 2,Roscosmos,Russia,Lunar,2028,14356.7,Critical Strategic,8,143 Metric Tons Launch Mass,Approved,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2031-294,Orbital Quantum Computing Node Tier 3,NASA,United States,Orbital,2031,10536.2,Scientific Discovery,4,107 Metric Tons Launch Mass,Phase B Development,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2026-295,Lunar Gateway Habitation Tier 4,Roscosmos,Russia,Lunar,2026,4378.4,Scientific Discovery,8,146 Metric Tons Launch Mass,Phase B Development,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2032-296,Orbital Quantum Computing Node Tier 1,NASA,United States,Orbital,2032,6034.0,Critical Strategic,5,135 Metric Tons Launch Mass,Funded - Phase A,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2027-297,Exoplanet Spectral Observatory Tier 2,CNSA,China,Exoplanet,2027,10844.7,Critical Strategic,6,144 Metric Tons Launch Mass,Phase B Development,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2032-298,Mars Sample Return Logistics Tier 3,JAXA,Japan,Mars,2032,9231.9,Critical Strategic,7,118 Metric Tons Launch Mass,Proposed,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2029-299,Lunar Gateway Habitation Tier 4,CNSA,China,Lunar,2029,5225.8,Critical Strategic,5,42 Metric Tons Launch Mass,Proposed,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2029-300,Mars Sample Return Logistics Tier 1,CNSA,China,Mars,2029,6507.4,High Priority,3,94 Metric Tons Launch Mass,Proposed,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2033-301,Lunar Gateway Habitation Tier 2,ISRO,India,Lunar,2033,17747.4,Scientific Discovery,4,84 Metric Tons Launch Mass,Proposed,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2026-302,Exoplanet Spectral Observatory Tier 3,NASA,United States,Exoplanet,2026,12575.2,Exploratory,3,84 Metric Tons Launch Mass,Proposed,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2030-303,Mars Sample Return Logistics Tier 4,ISRO,India,Mars,2030,4322.2,Exploratory,4,109 Metric Tons Launch Mass,Funded - Phase A,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2030-304,NextGen Artemis Base Tier 1,NASA,United States,NextGen,2030,7361.1,Scientific Discovery,3,131 Metric Tons Launch Mass,Proposed,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2026-305,Mars Sample Return Logistics Tier 2,JAXA,Japan,Mars,2026,6812.7,High Priority,6,68 Metric Tons Launch Mass,Approved,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2029-306,Orbital Quantum Computing Node Tier 3,JAXA,Japan,Orbital,2029,629.7,Critical Strategic,7,71 Metric Tons Launch Mass,Phase B Development,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2033-307,Exoplanet Spectral Observatory Tier 4,NASA,United States,Exoplanet,2033,1738.4,Critical Strategic,7,144 Metric Tons Launch Mass,Proposed,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2032-308,Mars Sample Return Logistics Tier 1,CNSA,China,Mars,2032,12062.4,Scientific Discovery,8,108 Metric Tons Launch Mass,Proposed,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2030-309,Orbital Quantum Computing Node Tier 2,ISRO,India,Orbital,2030,2275.5,Scientific Discovery,7,103 Metric Tons Launch Mass,Funded - Phase A,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2028-310,Exoplanet Spectral Observatory Tier 3,CNSA,China,Exoplanet,2028,7405.9,Exploratory,3,64 Metric Tons Launch Mass,Approved,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2033-311,NextGen Artemis Base Tier 4,JAXA,Japan,NextGen,2033,1393.0,High Priority,5,37 Metric Tons Launch Mass,Approved,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2029-312,Orbital Quantum Computing Node Tier 1,Commercial (SpaceX / Private),United States,Orbital,2029,10030.3,High Priority,6,70 Metric Tons Launch Mass,Proposed,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2034-313,Orbital Quantum Computing Node Tier 2,Commercial (SpaceX / Private),United States,Orbital,2034,1066.2,Scientific Discovery,3,118 Metric Tons Launch Mass,Phase B Development,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2025-314,Mars Sample Return Logistics Tier 3,ISRO,India,Mars,2025,4749.8,Critical Strategic,8,116 Metric Tons Launch Mass,Proposed,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2026-315,Mars Sample Return Logistics Tier 4,ISRO,India,Mars,2026,12633.3,Critical Strategic,7,150 Metric Tons Launch Mass,Proposed,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2032-316,Orbital Quantum Computing Node Tier 1,Commercial (SpaceX / Private),United States,Orbital,2032,4653.9,Critical Strategic,3,65 Metric Tons Launch Mass,Approved,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2028-317,Exoplanet Spectral Observatory Tier 2,Roscosmos,Russia,Exoplanet,2028,13360.9,Exploratory,4,66 Metric Tons Launch Mass,Funded - Phase A,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2028-318,Exoplanet Spectral Observatory Tier 3,ESA,Europe,Exoplanet,2028,15489.1,Scientific Discovery,7,35 Metric Tons Launch Mass,Phase B Development,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2027-319,Lunar Gateway Habitation Tier 4,Commercial (SpaceX / Private),United States,Lunar,2027,17002.4,Critical Strategic,6,104 Metric Tons Launch Mass,Proposed,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2028-320,Exoplanet Spectral Observatory Tier 1,ISRO,India,Exoplanet,2028,6919.5,High Priority,5,62 Metric Tons Launch Mass,Approved,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2029-321,Mars Sample Return Logistics Tier 2,Commercial (SpaceX / Private),United States,Mars,2029,11114.7,Scientific Discovery,3,73 Metric Tons Launch Mass,Approved,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2030-322,Mars Sample Return Logistics Tier 3,ESA,Europe,Mars,2030,2237.9,Scientific Discovery,8,131 Metric Tons Launch Mass,Phase B Development,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2025-323,Exoplanet Spectral Observatory Tier 4,ESA,Europe,Exoplanet,2025,11902.2,Critical Strategic,3,137 Metric Tons Launch Mass,Funded - Phase A,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2025-324,Mars Sample Return Logistics Tier 1,JAXA,Japan,Mars,2025,13111.8,Scientific Discovery,3,82 Metric Tons Launch Mass,Proposed,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2029-325,Exoplanet Spectral Observatory Tier 2,Commercial (SpaceX / Private),United States,Exoplanet,2029,2140.3,Critical Strategic,3,71 Metric Tons Launch Mass,Approved,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2029-326,Exoplanet Spectral Observatory Tier 3,ISRO,India,Exoplanet,2029,13409.3,High Priority,8,112 Metric Tons Launch Mass,Phase B Development,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2031-327,Lunar Gateway Habitation Tier 4,Commercial (SpaceX / Private),United States,Lunar,2031,1233.0,High Priority,6,66 Metric Tons Launch Mass,Funded - Phase A,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2029-328,Orbital Quantum Computing Node Tier 1,ESA,Europe,Orbital,2029,4165.6,High Priority,6,101 Metric Tons Launch Mass,Phase B Development,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2034-329,Orbital Quantum Computing Node Tier 2,ISRO,India,Orbital,2034,3510.0,Critical Strategic,5,143 Metric Tons Launch Mass,Phase B Development,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2030-330,Exoplanet Spectral Observatory Tier 3,Commercial (SpaceX / Private),United States,Exoplanet,2030,3666.9,Exploratory,5,137 Metric Tons Launch Mass,Phase B Development,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2030-331,Mars Sample Return Logistics Tier 4,JAXA,Japan,Mars,2030,2338.4,Scientific Discovery,7,131 Metric Tons Launch Mass,Funded - Phase A,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2031-332,Lunar Gateway Habitation Tier 1,CNSA,China,Lunar,2031,9328.2,Scientific Discovery,6,136 Metric Tons Launch Mass,Proposed,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2025-333,NextGen Artemis Base Tier 2,ESA,Europe,NextGen,2025,1909.0,Critical Strategic,4,82 Metric Tons Launch Mass,Funded - Phase A,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2032-334,Orbital Quantum Computing Node Tier 3,Roscosmos,Russia,Orbital,2032,6915.9,Scientific Discovery,4,65 Metric Tons Launch Mass,Proposed,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2033-335,Mars Sample Return Logistics Tier 4,ISRO,India,Mars,2033,4360.7,Scientific Discovery,5,104 Metric Tons Launch Mass,Approved,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2033-336,Orbital Quantum Computing Node Tier 1,ISRO,India,Orbital,2033,9974.8,High Priority,8,128 Metric Tons Launch Mass,Funded - Phase A,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2030-337,Lunar Gateway Habitation Tier 2,CNSA,China,Lunar,2030,3212.4,High Priority,5,29 Metric Tons Launch Mass,Funded - Phase A,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2030-338,Lunar Gateway Habitation Tier 3,ISRO,India,Lunar,2030,3611.8,Scientific Discovery,3,36 Metric Tons Launch Mass,Approved,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2031-339,Mars Sample Return Logistics Tier 4,ESA,Europe,Mars,2031,8059.6,Exploratory,3,58 Metric Tons Launch Mass,Phase B Development,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2030-340,NextGen Artemis Base Tier 1,JAXA,Japan,NextGen,2030,9064.8,Exploratory,5,46 Metric Tons Launch Mass,Proposed,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2035-341,NextGen Artemis Base Tier 2,CNSA,China,NextGen,2035,16880.1,High Priority,3,25 Metric Tons Launch Mass,Funded - Phase A,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2027-342,NextGen Artemis Base Tier 3,ESA,Europe,NextGen,2027,4273.7,Scientific Discovery,5,47 Metric Tons Launch Mass,Funded - Phase A,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2034-343,Exoplanet Spectral Observatory Tier 4,NASA,United States,Exoplanet,2034,9716.4,High Priority,4,59 Metric Tons Launch Mass,Phase B Development,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2029-344,NextGen Artemis Base Tier 1,ISRO,India,NextGen,2029,18071.2,Exploratory,4,79 Metric Tons Launch Mass,Funded - Phase A,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2026-345,Lunar Gateway Habitation Tier 2,JAXA,Japan,Lunar,2026,5809.5,High Priority,5,141 Metric Tons Launch Mass,Proposed,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2029-346,NextGen Artemis Base Tier 3,ISRO,India,NextGen,2029,6293.3,Exploratory,7,145 Metric Tons Launch Mass,Approved,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2033-347,Orbital Quantum Computing Node Tier 4,JAXA,Japan,Orbital,2033,15076.4,Critical Strategic,3,110 Metric Tons Launch Mass,Proposed,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2031-348,Lunar Gateway Habitation Tier 1,ESA,Europe,Lunar,2031,10161.2,High Priority,4,64 Metric Tons Launch Mass,Approved,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2030-349,Mars Sample Return Logistics Tier 2,ESA,Europe,Mars,2030,14775.7,Critical Strategic,6,73 Metric Tons Launch Mass,Funded - Phase A,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2034-350,Exoplanet Spectral Observatory Tier 3,Roscosmos,Russia,Exoplanet,2034,13202.6,Critical Strategic,3,107 Metric Tons Launch Mass,Approved,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2032-351,Orbital Quantum Computing Node Tier 4,NASA,United States,Orbital,2032,4952.1,Critical Strategic,4,110 Metric Tons Launch Mass,Phase B Development,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2027-352,Mars Sample Return Logistics Tier 1,ISRO,India,Mars,2027,8673.3,Exploratory,7,131 Metric Tons Launch Mass,Funded - Phase A,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2025-353,Exoplanet Spectral Observatory Tier 2,Roscosmos,Russia,Exoplanet,2025,16330.6,Scientific Discovery,4,129 Metric Tons Launch Mass,Phase B Development,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2028-354,Orbital Quantum Computing Node Tier 3,NASA,United States,Orbital,2028,761.8,Exploratory,7,150 Metric Tons Launch Mass,Proposed,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2025-355,Mars Sample Return Logistics Tier 4,CNSA,China,Mars,2025,9170.7,Exploratory,7,146 Metric Tons Launch Mass,Approved,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2034-356,Orbital Quantum Computing Node Tier 1,CNSA,China,Orbital,2034,10691.8,Critical Strategic,8,51 Metric Tons Launch Mass,Phase B Development,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2029-357,Exoplanet Spectral Observatory Tier 2,CNSA,China,Exoplanet,2029,7498.0,High Priority,4,41 Metric Tons Launch Mass,Proposed,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2029-358,Lunar Gateway Habitation Tier 3,NASA,United States,Lunar,2029,2138.8,Critical Strategic,5,146 Metric Tons Launch Mass,Phase B Development,Orbitalytics Future Projects & Strategic Roadmap,True
+PRJ-2028-359,Exoplanet Spectral Observatory Tier 4,CNSA,China,Exoplanet,2028,16675.7,High Priority,6,105 Metric Tons Launch Mass,Funded - Phase A,Orbitalytics Future Projects & Strategic Roadmap,True

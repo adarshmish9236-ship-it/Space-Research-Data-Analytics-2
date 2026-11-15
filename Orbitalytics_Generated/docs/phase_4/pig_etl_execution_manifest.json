@@ -1,0 +1,220 @@
+[
+  {
+    "domain": "missions",
+    "script": "01_missions_etl.pig",
+    "status": "SUCCESS",
+    "duration_seconds": 86.81,
+    "exit_code": 0,
+    "job_ids": [
+      "job_1794633145439_0016",
+      "job_1794633145439_0017",
+      "job_1794633145439_0018",
+      "job_1794633145439_0019"
+    ],
+    "bronze_input_rows": 1500,
+    "silver_output_rows": 1500,
+    "quarantine_output_rows": 0,
+    "total_accounted_rows": 1500,
+    "silent_deletion_count": 0,
+    "gold_aggregation_counts": {
+      "pig_mission_analytics": 7,
+      "pig_mission_by_year_type": 119
+    },
+    "log_file": "E:\\PROJECTS\\BDT\\docs\\phase_4\\logs\\01_missions_pig.log",
+    "timestamp": "2026-11-14T14:08:30.121983"
+  },
+  {
+    "domain": "satellites",
+    "script": "02_satellites_etl.pig",
+    "status": "SUCCESS",
+    "duration_seconds": 89.16,
+    "exit_code": 0,
+    "job_ids": [
+      "job_1794633145439_0020",
+      "job_1794633145439_0021",
+      "job_1794633145439_0022",
+      "job_1794633145439_0023"
+    ],
+    "bronze_input_rows": 2400,
+    "silver_output_rows": 2400,
+    "quarantine_output_rows": 0,
+    "total_accounted_rows": 2400,
+    "silent_deletion_count": 0,
+    "gold_aggregation_counts": {
+      "pig_satellite_analytics": 6,
+      "pig_satellite_by_agency_year": 119
+    },
+    "log_file": "E:\\PROJECTS\\BDT\\docs\\phase_4\\logs\\02_satellites_pig.log",
+    "timestamp": "2026-11-14T14:10:07.071042"
+  },
+  {
+    "domain": "launches",
+    "script": "03_launches_etl.pig",
+    "status": "SUCCESS",
+    "duration_seconds": 91.39,
+    "exit_code": 0,
+    "job_ids": [
+      "job_1794633145439_0024",
+      "job_1794633145439_0025",
+      "job_1794633145439_0026",
+      "job_1794633145439_0027"
+    ],
+    "bronze_input_rows": 1200,
+    "silver_output_rows": 1200,
+    "quarantine_output_rows": 0,
+    "total_accounted_rows": 1200,
+    "silent_deletion_count": 0,
+    "gold_aggregation_counts": {
+      "pig_launch_analytics": 102,
+      "pig_launch_outcome_rates": 4,
+      "pig_launch_by_vehicle": 10
+    },
+    "log_file": "E:\\PROJECTS\\BDT\\docs\\phase_4\\logs\\03_launches_pig.log",
+    "timestamp": "2026-11-14T14:11:47.395980"
+  },
+  {
+    "domain": "equipment_demand",
+    "script": "04_equipment_demand_etl.pig",
+    "status": "SUCCESS",
+    "duration_seconds": 90.05,
+    "exit_code": 0,
+    "job_ids": [
+      "job_1794633145439_0028",
+      "job_1794633145439_0029",
+      "job_1794633145439_0030",
+      "job_1794633145439_0031"
+    ],
+    "bronze_input_rows": 11312,
+    "silver_output_rows": 11312,
+    "quarantine_output_rows": 0,
+    "total_accounted_rows": 11312,
+    "silent_deletion_count": 0,
+    "gold_aggregation_counts": {
+      "pig_equipment_demand_analytics": 119,
+      "pig_component_demand_summary": 8,
+      "pig_shortage_risk_summary": 4
+    },
+    "log_file": "E:\\PROJECTS\\BDT\\docs\\phase_4\\logs\\04_equipment_demand_pig.log",
+    "timestamp": "2026-11-14T14:13:26.415403"
+  },
+  {
+    "domain": "agency_expenditure",
+    "script": "05_agency_expenditure_etl.pig",
+    "status": "SUCCESS",
+    "duration_seconds": 88.62,
+    "exit_code": 0,
+    "job_ids": [
+      "job_1794633145439_0032",
+      "job_1794633145439_0033",
+      "job_1794633145439_0034",
+      "job_1794633145439_0035"
+    ],
+    "bronze_input_rows": 1414,
+    "silver_output_rows": 1414,
+    "quarantine_output_rows": 0,
+    "total_accounted_rows": 1414,
+    "silent_deletion_count": 0,
+    "gold_aggregation_counts": {
+      "pig_agency_expenditure_analytics": 119,
+      "pig_expenditure_by_country": 6
+    },
+    "log_file": "E:\\PROJECTS\\BDT\\docs\\phase_4\\logs\\05_agency_expenditure_pig.log",
+    "timestamp": "2026-11-14T14:15:02.780834"
+  },
+  {
+    "domain": "resource_consumption",
+    "script": "06_resource_consumption_etl.pig",
+    "status": "SUCCESS",
+    "duration_seconds": 85.05,
+    "exit_code": 0,
+    "job_ids": [
+      "job_1794633145439_0036",
+      "job_1794633145439_0037",
+      "job_1794633145439_0038",
+      "job_1794633145439_0039"
+    ],
+    "bronze_input_rows": 9898,
+    "silver_output_rows": 9898,
+    "quarantine_output_rows": 0,
+    "total_accounted_rows": 9898,
+    "silent_deletion_count": 0,
+    "gold_aggregation_counts": {
+      "pig_resource_analytics": 119,
+      "pig_resource_by_agency": 7
+    },
+    "log_file": "E:\\PROJECTS\\BDT\\docs\\phase_4\\logs\\06_resource_consumption_pig.log",
+    "timestamp": "2026-11-14T14:16:35.419508"
+  },
+  {
+    "domain": "manufacturing",
+    "script": "07_manufacturing_etl.pig",
+    "status": "SUCCESS",
+    "duration_seconds": 87.69,
+    "exit_code": 0,
+    "job_ids": [
+      "job_1794633145439_0040",
+      "job_1794633145439_0041",
+      "job_1794633145439_0042",
+      "job_1794633145439_0043"
+    ],
+    "bronze_input_rows": 600,
+    "silver_output_rows": 600,
+    "quarantine_output_rows": 0,
+    "total_accounted_rows": 600,
+    "silent_deletion_count": 0,
+    "gold_aggregation_counts": {
+      "pig_manufacturing_analytics": 4,
+      "pig_manufacturing_by_year": 8
+    },
+    "log_file": "E:\\PROJECTS\\BDT\\docs\\phase_4\\logs\\07_manufacturing_pig.log",
+    "timestamp": "2026-11-14T14:18:10.654533"
+  },
+  {
+    "domain": "infrastructure",
+    "script": "08_infrastructure_etl.pig",
+    "status": "SUCCESS",
+    "duration_seconds": 89.76,
+    "exit_code": 0,
+    "job_ids": [
+      "job_1794633145439_0044",
+      "job_1794633145439_0045",
+      "job_1794633145439_0046",
+      "job_1794633145439_0047"
+    ],
+    "bronze_input_rows": 1010,
+    "silver_output_rows": 1010,
+    "quarantine_output_rows": 0,
+    "total_accounted_rows": 1010,
+    "silent_deletion_count": 0,
+    "gold_aggregation_counts": {
+      "pig_infrastructure_analytics": 5,
+      "pig_infrastructure_by_agency": 7
+    },
+    "log_file": "E:\\PROJECTS\\BDT\\docs\\phase_4\\logs\\08_infrastructure_pig.log",
+    "timestamp": "2026-11-14T14:19:48.433773"
+  },
+  {
+    "domain": "research_projects",
+    "script": "09_research_projects_etl.pig",
+    "status": "SUCCESS",
+    "duration_seconds": 84.67,
+    "exit_code": 0,
+    "job_ids": [
+      "job_1794633145439_0048",
+      "job_1794633145439_0049",
+      "job_1794633145439_0050",
+      "job_1794633145439_0051"
+    ],
+    "bronze_input_rows": 160,
+    "silver_output_rows": 160,
+    "quarantine_output_rows": 0,
+    "total_accounted_rows": 160,
+    "silent_deletion_count": 0,
+    "gold_aggregation_counts": {
+      "pig_research_projects_analytics": 5,
+      "pig_research_by_tier": 4
+    },
+    "log_file": "E:\\PROJECTS\\BDT\\docs\\phase_4\\logs\\09_research_projects_pig.log",
+    "timestamp": "2026-11-14T14:21:20.709457"
+  }
+]

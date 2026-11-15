@@ -1,0 +1,10 @@
+component_id,component_name,component_category,typical_unit,subsystem,criticality_tier,typical_lead_time_days,target_satellite_class
+CMP-001,High-Efficiency Multi-Junction Solar Panels,Power Systems,Units,Electrical Power Subsystem (EPS),Tier-1 Flight Critical,270,SmallSat / MEO / GEO
+CMP-002,Radiation-Hardened Rad-750 Single Board Computers,Avionics,Units,Command & Data Handling (C&DH),Tier-1 Flight Critical,360,All Spacecraft
+CMP-003,Hall-Effect Ion Propulsion Thrusters,Propulsion,Units,Electric Propulsion System,Tier-1 Flight Critical,300,MEO / GEO / Deep Space
+CMP-004,Optical Inter-Satellite Laser Link Transceivers,Communications,Units,Communications Subsystem (COMMS),Tier-2 High,210,LEO Mega-Constellation / MEO
+CMP-005,High-Precision Star Trackers & Optical Navigation,Navigation,Units,Attitude Determination & Control (ADCS),Tier-1 Flight Critical,180,All Spacecraft
+CMP-006,Ultra-Low Jitter Momentum & Reaction Wheels,Attitude Control,Units,Attitude Determination & Control (ADCS),Tier-2 High,150,SmallSat / Heavy Bus
+CMP-007,Cryogenic Titanium Propellant Tanks,Propulsion,Units,Chemical Propulsion Subsystem,Tier-2 High,240,Heavy Bus / Upper Stages
+CMP-008,C-Band / X-Band Synthetic Aperture Radar (SAR) Antennas,Payload Instruments,Units,Payload Science Instruments,Tier-1 Flight Critical,390,Earth Observation / Planetary
+

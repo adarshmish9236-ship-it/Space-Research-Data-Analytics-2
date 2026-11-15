@@ -1,0 +1,141 @@
+{
+  "dataset_name": "satellite_manufacturing_requirements",
+  "row_count": 600,
+  "column_count": 11,
+  "memory_usage_kb": 107.11,
+  "columns": {
+    "order_id": {
+      "dtype": "str",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "unique_count": 600,
+      "top_5_values": {
+        "ORD-MFG-2018-1000": 1,
+        "ORD-MFG-2019-1001": 1,
+        "ORD-MFG-2020-1002": 1,
+        "ORD-MFG-2021-1003": 1,
+        "ORD-MFG-2022-1004": 1
+      }
+    },
+    "agency_id": {
+      "dtype": "str",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "unique_count": 7,
+      "top_5_values": {
+        "AGY-006": 98,
+        "AGY-003": 98,
+        "AGY-002": 90,
+        "AGY-005": 83,
+        "AGY-004": 79
+      }
+    },
+    "agency_client": {
+      "dtype": "str",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "unique_count": 7,
+      "top_5_values": {
+        "State Space Corporation Roscosmos": 98,
+        "Indian Space Research Organisation": 98,
+        "European Space Agency": 90,
+        "China National Space Administration": 83,
+        "Japan Aerospace Exploration Agency": 79
+      }
+    },
+    "satellite_class": {
+      "dtype": "str",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "unique_count": 4,
+      "top_5_values": {
+        "Heavy Geosynchronous Bus (>2000kg)": 159,
+        "SmallSat (<500kg)": 155,
+        "Medium Satellite (500-2000kg)": 147,
+        "CubeSat (1U-12U)": 139
+      }
+    },
+    "units_ordered": {
+      "dtype": "int64",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "unique_count": 24,
+      "min": 1.0,
+      "max": 24.0,
+      "mean": 12.475,
+      "std": 6.861,
+      "median": 12.0,
+      "skewness": 0.046
+    },
+    "delivery_year": {
+      "dtype": "int64",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "unique_count": 8,
+      "min": 2021.0,
+      "max": 2028.0,
+      "mean": 2024.468,
+      "std": 2.315,
+      "median": 2024.0,
+      "skewness": 0.007
+    },
+    "cleanroom_hours_required": {
+      "dtype": "int64",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "unique_count": 577,
+      "min": 430.0,
+      "max": 7478.0,
+      "mean": 3976.768,
+      "std": 2071.207,
+      "median": 3894.5,
+      "skewness": -0.01
+    },
+    "vibration_testing_pass": {
+      "dtype": "bool",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "unique_count": 2,
+      "min": 0.0,
+      "max": 1.0,
+      "mean": 0.72,
+      "std": 0.449,
+      "median": 1.0,
+      "skewness": -0.982
+    },
+    "contract_value_million_usd": {
+      "dtype": "float64",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "unique_count": 598,
+      "min": 6.75,
+      "max": 318.5,
+      "mean": 160.62,
+      "std": 89.27,
+      "median": 155.115,
+      "skewness": 0.037
+    },
+    "data_origin": {
+      "dtype": "str",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "unique_count": 1,
+      "top_5_values": {
+        "synthetic": 600
+      }
+    },
+    "country": {
+      "dtype": "str",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "unique_count": 6,
+      "top_5_values": {
+        "United States": 152,
+        "Russia": 98,
+        "India": 98,
+        "Europe": 90,
+        "China": 83
+      }
+    }
+  }
+}

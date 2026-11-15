@@ -1,0 +1,120 @@
+f.year,r.resource_category,consumption_events,total_quantity_consumed,unit_of_measure,total_cost_million_usd,avg_cost_per_event_k_usd
+2026,Spacecraft Materials,70,14688.3,Metric Tons,697.16,9959.41
+2026,Storable Propellant,70,14665.4,Metric Tons,276.21,3945.83
+2026,Bandwidth & Communications,70,14659.4,Tbps,192.27,2746.67
+2026,Cryogenic Fuel,70,14707.3,Metric Tons,38.42,548.82
+2026,Liquid Fuel,70,19895.1,Metric Tons,25.18,359.66
+2026,Propellant & Oxidizer,70,19917.2,Metric Tons,16.76,239.46
+2026,Power & Energy,70,14672.0,Kilowatts,14.48,206.82
+2025,Spacecraft Materials,84,16832.1,Metric Tons,802.74,9556.45
+2025,Storable Propellant,84,16896.2,Metric Tons,321.33,3825.37
+2025,Bandwidth & Communications,84,16909.0,Tbps,219.9,2617.91
+2025,Cryogenic Fuel,84,16868.4,Metric Tons,44.78,533.04
+2025,Liquid Fuel,84,23161.5,Metric Tons,29.27,348.5
+2025,Propellant & Oxidizer,84,23199.0,Metric Tons,19.54,232.62
+2025,Power & Energy,84,16808.5,Kilowatts,16.77,199.63
+2024,Spacecraft Materials,84,15952.3,Metric Tons,752.61,8959.59
+2024,Storable Propellant,84,15920.8,Metric Tons,301.06,3584.02
+2024,Bandwidth & Communications,84,15949.2,Tbps,209.72,2496.63
+2024,Cryogenic Fuel,84,15945.3,Metric Tons,41.05,488.7
+2024,Liquid Fuel,84,22223.1,Metric Tons,27.91,332.27
+2024,Propellant & Oxidizer,84,22220.4,Metric Tons,18.81,223.87
+2024,Power & Energy,84,15989.2,Kilowatts,15.61,185.83
+2023,Spacecraft Materials,84,14998.7,Metric Tons,703.57,8375.83
+2023,Storable Propellant,84,14964.2,Metric Tons,280.84,3343.39
+2023,Bandwidth & Communications,84,14958.3,Tbps,194.65,2317.22
+2023,Cryogenic Fuel,84,14989.9,Metric Tons,38.84,462.38
+2023,Liquid Fuel,84,21277.5,Metric Tons,26.77,318.66
+2023,Propellant & Oxidizer,84,21293.9,Metric Tons,17.83,212.29
+2023,Power & Energy,84,14979.7,Kilowatts,14.73,175.41
+2022,Spacecraft Materials,84,14069.1,Metric Tons,665.87,7926.96
+2022,Storable Propellant,84,14049.3,Metric Tons,264.26,3145.91
+2022,Bandwidth & Communications,84,14011.2,Tbps,183.99,2190.33
+2022,Cryogenic Fuel,84,14023.2,Metric Tons,37.16,442.37
+2022,Liquid Fuel,84,20346.4,Metric Tons,25.76,306.71
+2022,Propellant & Oxidizer,84,20345.1,Metric Tons,17.08,203.28
+2022,Power & Energy,84,14038.1,Kilowatts,14.13,168.21
+2021,Spacecraft Materials,84,13189.6,Metric Tons,623.16,7418.63
+2021,Storable Propellant,84,13131.0,Metric Tons,246.5,2934.47
+2021,Bandwidth & Communications,84,13106.4,Tbps,171.17,2037.78
+2021,Cryogenic Fuel,84,13052.0,Metric Tons,33.87,403.21
+2021,Liquid Fuel,84,19427.4,Metric Tons,24.11,287.03
+2021,Propellant & Oxidizer,84,19397.8,Metric Tons,16.24,193.35
+2021,Power & Energy,84,13139.8,Kilowatts,13.23,157.46
+2020,Spacecraft Materials,84,12198.6,Metric Tons,572.16,6811.42
+2020,Storable Propellant,84,12174.5,Metric Tons,230.1,2739.29
+2020,Bandwidth & Communications,84,12195.1,Tbps,160.04,1905.25
+2020,Cryogenic Fuel,84,12142.9,Metric Tons,31.88,379.53
+2020,Liquid Fuel,84,18529.0,Metric Tons,23.39,278.49
+2020,Propellant & Oxidizer,84,18452.8,Metric Tons,15.47,184.2
+2020,Power & Energy,84,12148.9,Kilowatts,12.2,145.25
+2019,Spacecraft Materials,84,11304.3,Metric Tons,533.73,6353.94
+2019,Storable Propellant,84,11265.2,Metric Tons,214.45,2552.94
+2019,Bandwidth & Communications,84,11225.3,Tbps,146.35,1742.21
+2019,Cryogenic Fuel,84,11243.4,Metric Tons,29.18,347.43
+2019,Liquid Fuel,84,17531.7,Metric Tons,22.11,263.24
+2019,Propellant & Oxidizer,84,17549.6,Metric Tons,14.71,175.06
+2019,Power & Energy,84,11272.5,Kilowatts,11.39,135.57
+2018,Spacecraft Materials,84,10282.5,Metric Tons,486.87,5796.12
+2018,Storable Propellant,84,10314.6,Metric Tons,192.14,2287.37
+2018,Bandwidth & Communications,84,10345.2,Tbps,136.69,1627.25
+2018,Cryogenic Fuel,84,10322.0,Metric Tons,27.03,321.84
+2018,Liquid Fuel,84,16575.9,Metric Tons,20.86,248.3
+2018,Propellant & Oxidizer,84,16582.1,Metric Tons,14.09,167.76
+2018,Power & Energy,84,10313.5,Kilowatts,10.1,120.29
+2017,Spacecraft Materials,84,9399.2,Metric Tons,441.32,5253.75
+2017,Storable Propellant,84,9354.5,Metric Tons,175.93,2094.4
+2017,Bandwidth & Communications,84,9368.3,Tbps,122.86,1462.66
+2017,Cryogenic Fuel,84,9396.2,Metric Tons,24.83,295.59
+2017,Liquid Fuel,84,15754.1,Metric Tons,20.01,238.19
+2017,Propellant & Oxidizer,84,15763.1,Metric Tons,13.08,155.67
+2017,Power & Energy,84,9374.7,Kilowatts,9.41,111.97
+2016,Spacecraft Materials,84,8481.7,Metric Tons,403.94,4808.86
+2016,Storable Propellant,84,8534.7,Metric Tons,160.81,1914.43
+2016,Bandwidth & Communications,84,8541.6,Tbps,114.38,1361.61
+2016,Cryogenic Fuel,84,8469.6,Metric Tons,22.5,267.82
+2016,Liquid Fuel,84,14831.4,Metric Tons,18.66,222.1
+2016,Propellant & Oxidizer,84,14826.6,Metric Tons,12.7,151.19
+2016,Power & Energy,84,8478.5,Kilowatts,8.45,100.63
+2015,Spacecraft Materials,84,7606.2,Metric Tons,355.24,4229.03
+2015,Storable Propellant,84,7600.5,Metric Tons,147.95,1761.31
+2015,Bandwidth & Communications,84,7576.2,Tbps,100.52,1196.7
+2015,Cryogenic Fuel,84,7593.2,Metric Tons,19.77,235.33
+2015,Liquid Fuel,84,13936.3,Metric Tons,17.74,211.23
+2015,Propellant & Oxidizer,84,13873.1,Metric Tons,11.74,139.78
+2015,Power & Energy,84,7581.8,Kilowatts,7.6,90.42
+2014,Spacecraft Materials,84,6673.6,Metric Tons,311.87,3712.72
+2014,Storable Propellant,84,6699.6,Metric Tons,126.45,1505.31
+2014,Bandwidth & Communications,84,6685.7,Tbps,86.79,1033.25
+2014,Cryogenic Fuel,84,6716.5,Metric Tons,17.82,212.12
+2014,Liquid Fuel,84,13006.9,Metric Tons,16.26,193.54
+2014,Propellant & Oxidizer,84,13040.1,Metric Tons,10.98,130.67
+2014,Power & Energy,84,6733.9,Kilowatts,6.74,80.19
+2013,Spacecraft Materials,84,5824.3,Metric Tons,275.28,3277.16
+2013,Storable Propellant,84,5830.6,Metric Tons,108.23,1288.39
+2013,Bandwidth & Communications,84,5846.5,Tbps,77.46,922.14
+2013,Cryogenic Fuel,84,5835.9,Metric Tons,15.42,183.59
+2013,Liquid Fuel,84,12149.7,Metric Tons,15.09,179.67
+2013,Propellant & Oxidizer,84,12181.5,Metric Tons,10.22,121.62
+2013,Power & Energy,84,5848.7,Kilowatts,5.83,69.4
+2012,Spacecraft Materials,84,4970.1,Metric Tons,232.74,2770.66
+2012,Storable Propellant,84,4973.4,Metric Tons,93.13,1108.64
+2012,Bandwidth & Communications,84,4987.9,Tbps,64.64,769.53
+2012,Liquid Fuel,84,11193.3,Metric Tons,13.87,165.11
+2012,Cryogenic Fuel,84,4958.0,Metric Tons,13.0,154.77
+2012,Propellant & Oxidizer,84,11297.3,Metric Tons,9.49,113.0
+2012,Power & Energy,84,4994.5,Kilowatts,4.97,59.14
+2011,Spacecraft Materials,84,4142.9,Metric Tons,197.11,2346.55
+2011,Storable Propellant,84,4140.3,Metric Tons,79.11,941.76
+2011,Bandwidth & Communications,84,4165.2,Tbps,54.94,654.04
+2011,Liquid Fuel,84,10498.1,Metric Tons,13.21,157.23
+2011,Cryogenic Fuel,84,4182.5,Metric Tons,11.01,131.03
+2011,Propellant & Oxidizer,84,10434.8,Metric Tons,8.69,103.45
+2011,Power & Energy,84,4149.8,Kilowatts,4.11,48.97
+2010,Spacecraft Materials,84,3347.8,Metric Tons,158.74,1889.73
+2010,Storable Propellant,84,3412.4,Metric Tons,64.23,764.69
+2010,Bandwidth & Communications,84,3361.1,Tbps,43.83,521.78
+2010,Liquid Fuel,84,9647.6,Metric Tons,12.14,144.48
+2010,Cryogenic Fuel,84,3325.7,Metric Tons,8.75,104.21
+2010,Propellant & Oxidizer,84,9662.7,Metric Tons,8.22,97.87
+2010,Power & Energy,84,3339.4,Kilowatts,3.34,39.71

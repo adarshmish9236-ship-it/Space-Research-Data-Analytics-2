@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="configuration.xsl"?>
+<configuration>
+    <!-- Block Size: Standard 128 MB Columnar Block Size -->
+    <property>
+        <name>dfs.blocksize</name>
+        <value>134217728</value>
+        <description>128 MB block size optimized for Big Data Parquet and MapReduce splits.</description>
+    </property>
+
+    <!-- Replication Factor: Set to 1 for Single-DataNode Development -->
+    <property>
+        <name>dfs.replication</name>
+        <value>1</value>
+        <description>
+            Set to 1 for single-DataNode local development cluster to prevent UNDER-REPLICATED block warnings.
+            Production multi-node enterprise deployments must configure dfs.replication=3 across independent rack domains.
+        </description>
+    </property>
+
+    <!-- NameNode and DataNode Local Storage Directories -->
+    <property>
+        <name>dfs.namenode.name.dir</name>
+        <value>file:///hadoop/dfs/name</value>
+    </property>
+    <property>
+        <name>dfs.datanode.data.dir</name>
+        <value>file:///hadoop/dfs/data</value>
+    </property>
+
+    <!-- WebHDFS REST API Access Enabled for Client Ingestion -->
+    <property>
+        <name>dfs.webhdfs.enabled</name>
+        <value>true</value>
+        <description>Enables WebHDFS HTTP REST API on port 9870 for automated pipeline ingestion.</description>
+    </property>
+
+    <!-- Permissions and Security for Research Analytics Development -->
+    <property>
+        <name>dfs.permissions.enabled</name>
+        <value>false</value>
+        <description>Disabled in development sandbox to allow multi-user containerized access.</description>
+    </property>
+</configuration>
+

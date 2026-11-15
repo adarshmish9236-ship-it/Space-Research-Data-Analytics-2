@@ -1,0 +1,601 @@
+date,year,month,satellite_category,manufacturing_quantity,component_requirement,production_cost_million_usd,manufacturing_capacity,projected_shortage,agency,country,data_source,is_synthetic
+2022-06-01,2022,6,CubeSat (1U-12U),9,72 Subsystem Kits,117.69,19,0,ISRO,India,Orbitalytics Aerospace Manufacturing Monitor,True
+2022-04-01,2022,4,SmallSat (<500kg),11,165 Subsystem Kits,36.23,24,0,Roscosmos,Russia,Orbitalytics Aerospace Manufacturing Monitor,True
+2018-02-01,2018,2,CubeSat (1U-12U),1,12 Subsystem Kits,9.27,38,0,ESA,Europe,Orbitalytics Aerospace Manufacturing Monitor,True
+2022-11-01,2022,11,SmallSat (<500kg),11,154 Subsystem Kits,119.58,13,0,CNSA,China,Orbitalytics Aerospace Manufacturing Monitor,True
+2021-06-01,2021,6,Heavy Geostationary Platform (>2000kg),7,91 Subsystem Kits,74.72,20,0,CNSA,China,Orbitalytics Aerospace Manufacturing Monitor,True
+2025-07-01,2025,7,Heavy Geostationary Platform (>2000kg),8,120 Subsystem Kits,72.2,27,0,ISRO,India,Orbitalytics Aerospace Manufacturing Monitor,True
+2025-07-01,2025,7,Medium Bus (500-2000kg),27,432 Subsystem Kits,341.51,44,0,Roscosmos,Russia,Orbitalytics Aerospace Manufacturing Monitor,True
+2023-04-01,2023,4,Heavy Geostationary Platform (>2000kg),30,120 Subsystem Kits,475.4,27,3,Commercial (SpaceX / Private),United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2025-01-01,2025,1,SmallSat (<500kg),1,7 Subsystem Kits,23.71,35,0,CNSA,China,Orbitalytics Aerospace Manufacturing Monitor,True
+2020-08-01,2020,8,Heavy Geostationary Platform (>2000kg),4,60 Subsystem Kits,144.67,17,0,ESA,Europe,Orbitalytics Aerospace Manufacturing Monitor,True
+2020-07-01,2020,7,Heavy Geostationary Platform (>2000kg),31,310 Subsystem Kits,153.28,22,9,ISRO,India,Orbitalytics Aerospace Manufacturing Monitor,True
+2023-10-01,2023,10,SmallSat (<500kg),19,209 Subsystem Kits,498.41,46,0,ESA,Europe,Orbitalytics Aerospace Manufacturing Monitor,True
+2021-09-01,2021,9,Heavy Geostationary Platform (>2000kg),30,450 Subsystem Kits,848.49,21,9,Roscosmos,Russia,Orbitalytics Aerospace Manufacturing Monitor,True
+2019-05-01,2019,5,SmallSat (<500kg),10,60 Subsystem Kits,178.42,48,0,ISRO,India,Orbitalytics Aerospace Manufacturing Monitor,True
+2026-04-01,2026,4,SmallSat (<500kg),11,77 Subsystem Kits,104.35,15,0,ESA,Europe,Orbitalytics Aerospace Manufacturing Monitor,True
+2020-04-01,2020,4,Medium Bus (500-2000kg),12,120 Subsystem Kits,173.92,11,1,CNSA,China,Orbitalytics Aerospace Manufacturing Monitor,True
+2022-01-01,2022,1,Heavy Geostationary Platform (>2000kg),2,16 Subsystem Kits,67.3,16,0,ESA,Europe,Orbitalytics Aerospace Manufacturing Monitor,True
+2022-06-01,2022,6,CubeSat (1U-12U),11,143 Subsystem Kits,388.49,21,0,ISRO,India,Orbitalytics Aerospace Manufacturing Monitor,True
+2024-08-01,2024,8,Medium Bus (500-2000kg),24,336 Subsystem Kits,635.4,43,0,ESA,Europe,Orbitalytics Aerospace Manufacturing Monitor,True
+2023-01-01,2023,1,SmallSat (<500kg),15,225 Subsystem Kits,186.36,20,0,Commercial (SpaceX / Private),United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2025-05-01,2025,5,SmallSat (<500kg),13,117 Subsystem Kits,84.62,22,0,CNSA,China,Orbitalytics Aerospace Manufacturing Monitor,True
+2026-08-01,2026,8,SmallSat (<500kg),14,126 Subsystem Kits,287.71,47,0,CNSA,China,Orbitalytics Aerospace Manufacturing Monitor,True
+2023-04-01,2023,4,CubeSat (1U-12U),2,28 Subsystem Kits,59.13,47,0,Commercial (SpaceX / Private),United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2026-08-01,2026,8,Medium Bus (500-2000kg),22,88 Subsystem Kits,337.26,32,0,Roscosmos,Russia,Orbitalytics Aerospace Manufacturing Monitor,True
+2025-03-01,2025,3,SmallSat (<500kg),23,92 Subsystem Kits,241.21,22,1,CNSA,China,Orbitalytics Aerospace Manufacturing Monitor,True
+2026-07-01,2026,7,Heavy Geostationary Platform (>2000kg),1,12 Subsystem Kits,33.53,14,0,NASA,United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2024-11-01,2024,11,Medium Bus (500-2000kg),20,300 Subsystem Kits,374.03,39,0,JAXA,Japan,Orbitalytics Aerospace Manufacturing Monitor,True
+2019-05-01,2019,5,Medium Bus (500-2000kg),11,154 Subsystem Kits,241.38,33,0,Roscosmos,Russia,Orbitalytics Aerospace Manufacturing Monitor,True
+2026-11-01,2026,11,Medium Bus (500-2000kg),3,18 Subsystem Kits,89.62,46,0,JAXA,Japan,Orbitalytics Aerospace Manufacturing Monitor,True
+2018-12-01,2018,12,SmallSat (<500kg),30,420 Subsystem Kits,258.94,18,12,Roscosmos,Russia,Orbitalytics Aerospace Manufacturing Monitor,True
+2019-02-01,2019,2,Medium Bus (500-2000kg),17,272 Subsystem Kits,492.71,13,4,Roscosmos,Russia,Orbitalytics Aerospace Manufacturing Monitor,True
+2024-03-01,2024,3,Medium Bus (500-2000kg),23,138 Subsystem Kits,590.96,14,9,Commercial (SpaceX / Private),United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2024-11-01,2024,11,Heavy Geostationary Platform (>2000kg),29,232 Subsystem Kits,594.87,46,0,JAXA,Japan,Orbitalytics Aerospace Manufacturing Monitor,True
+2022-08-01,2022,8,Medium Bus (500-2000kg),26,260 Subsystem Kits,97.68,22,4,NASA,United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2022-06-01,2022,6,Medium Bus (500-2000kg),11,44 Subsystem Kits,324.17,19,0,Commercial (SpaceX / Private),United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2021-03-01,2021,3,Medium Bus (500-2000kg),18,90 Subsystem Kits,670.14,50,0,JAXA,Japan,Orbitalytics Aerospace Manufacturing Monitor,True
+2018-12-01,2018,12,SmallSat (<500kg),20,220 Subsystem Kits,522.68,23,0,ISRO,India,Orbitalytics Aerospace Manufacturing Monitor,True
+2022-04-01,2022,4,Medium Bus (500-2000kg),10,130 Subsystem Kits,307.18,12,0,NASA,United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2026-04-01,2026,4,Medium Bus (500-2000kg),27,351 Subsystem Kits,691.05,11,16,NASA,United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2019-12-01,2019,12,Medium Bus (500-2000kg),16,144 Subsystem Kits,600.93,20,0,Roscosmos,Russia,Orbitalytics Aerospace Manufacturing Monitor,True
+2025-05-01,2025,5,Heavy Geostationary Platform (>2000kg),18,72 Subsystem Kits,324.9,39,0,ESA,Europe,Orbitalytics Aerospace Manufacturing Monitor,True
+2022-05-01,2022,5,Heavy Geostationary Platform (>2000kg),25,350 Subsystem Kits,207.45,36,0,JAXA,Japan,Orbitalytics Aerospace Manufacturing Monitor,True
+2025-11-01,2025,11,SmallSat (<500kg),3,36 Subsystem Kits,86.0,39,0,Commercial (SpaceX / Private),United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2018-02-01,2018,2,CubeSat (1U-12U),5,60 Subsystem Kits,36.5,28,0,NASA,United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2024-10-01,2024,10,CubeSat (1U-12U),24,120 Subsystem Kits,605.42,18,6,Commercial (SpaceX / Private),United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2018-01-01,2018,1,Heavy Geostationary Platform (>2000kg),20,100 Subsystem Kits,248.42,47,0,NASA,United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2025-03-01,2025,3,CubeSat (1U-12U),4,60 Subsystem Kits,109.21,14,0,Commercial (SpaceX / Private),United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2018-05-01,2018,5,Medium Bus (500-2000kg),12,48 Subsystem Kits,272.16,23,0,Commercial (SpaceX / Private),United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2018-05-01,2018,5,Heavy Geostationary Platform (>2000kg),19,76 Subsystem Kits,105.24,14,5,Roscosmos,Russia,Orbitalytics Aerospace Manufacturing Monitor,True
+2021-02-01,2021,2,CubeSat (1U-12U),18,162 Subsystem Kits,63.67,32,0,JAXA,Japan,Orbitalytics Aerospace Manufacturing Monitor,True
+2019-06-01,2019,6,CubeSat (1U-12U),14,154 Subsystem Kits,396.79,42,0,Commercial (SpaceX / Private),United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2024-07-01,2024,7,Medium Bus (500-2000kg),3,33 Subsystem Kits,9.14,37,0,CNSA,China,Orbitalytics Aerospace Manufacturing Monitor,True
+2022-02-01,2022,2,Medium Bus (500-2000kg),8,72 Subsystem Kits,95.23,24,0,Commercial (SpaceX / Private),United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2018-10-01,2018,10,Medium Bus (500-2000kg),26,390 Subsystem Kits,389.14,27,0,NASA,United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2018-11-01,2018,11,Heavy Geostationary Platform (>2000kg),31,496 Subsystem Kits,249.27,31,0,ESA,Europe,Orbitalytics Aerospace Manufacturing Monitor,True
+2019-06-01,2019,6,Heavy Geostationary Platform (>2000kg),8,120 Subsystem Kits,54.69,15,0,ESA,Europe,Orbitalytics Aerospace Manufacturing Monitor,True
+2019-05-01,2019,5,SmallSat (<500kg),31,403 Subsystem Kits,306.19,33,0,JAXA,Japan,Orbitalytics Aerospace Manufacturing Monitor,True
+2018-07-01,2018,7,Medium Bus (500-2000kg),8,72 Subsystem Kits,49.83,36,0,ESA,Europe,Orbitalytics Aerospace Manufacturing Monitor,True
+2020-06-01,2020,6,Medium Bus (500-2000kg),32,480 Subsystem Kits,475.06,17,15,NASA,United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2025-02-01,2025,2,Heavy Geostationary Platform (>2000kg),13,143 Subsystem Kits,118.75,10,3,NASA,United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2026-11-01,2026,11,Medium Bus (500-2000kg),3,45 Subsystem Kits,112.77,30,0,ESA,Europe,Orbitalytics Aerospace Manufacturing Monitor,True
+2018-09-01,2018,9,SmallSat (<500kg),20,300 Subsystem Kits,417.47,12,8,Roscosmos,Russia,Orbitalytics Aerospace Manufacturing Monitor,True
+2023-04-01,2023,4,Heavy Geostationary Platform (>2000kg),9,36 Subsystem Kits,282.11,36,0,CNSA,China,Orbitalytics Aerospace Manufacturing Monitor,True
+2019-10-01,2019,10,CubeSat (1U-12U),16,256 Subsystem Kits,598.4,27,0,NASA,United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2020-12-01,2020,12,CubeSat (1U-12U),8,120 Subsystem Kits,264.65,38,0,NASA,United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2026-09-01,2026,9,SmallSat (<500kg),12,180 Subsystem Kits,220.62,29,0,NASA,United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2020-06-01,2020,6,Medium Bus (500-2000kg),17,136 Subsystem Kits,202.24,22,0,NASA,United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2020-07-01,2020,7,Medium Bus (500-2000kg),3,33 Subsystem Kits,52.91,21,0,Roscosmos,Russia,Orbitalytics Aerospace Manufacturing Monitor,True
+2024-05-01,2024,5,Heavy Geostationary Platform (>2000kg),26,104 Subsystem Kits,571.45,15,11,ESA,Europe,Orbitalytics Aerospace Manufacturing Monitor,True
+2020-12-01,2020,12,CubeSat (1U-12U),11,88 Subsystem Kits,370.35,19,0,ISRO,India,Orbitalytics Aerospace Manufacturing Monitor,True
+2025-08-01,2025,8,CubeSat (1U-12U),28,196 Subsystem Kits,564.7,43,0,ESA,Europe,Orbitalytics Aerospace Manufacturing Monitor,True
+2025-09-01,2025,9,Heavy Geostationary Platform (>2000kg),30,120 Subsystem Kits,145.98,41,0,Roscosmos,Russia,Orbitalytics Aerospace Manufacturing Monitor,True
+2018-09-01,2018,9,SmallSat (<500kg),17,238 Subsystem Kits,410.44,24,0,CNSA,China,Orbitalytics Aerospace Manufacturing Monitor,True
+2021-12-01,2021,12,CubeSat (1U-12U),15,165 Subsystem Kits,443.25,32,0,ISRO,India,Orbitalytics Aerospace Manufacturing Monitor,True
+2026-03-01,2026,3,SmallSat (<500kg),4,40 Subsystem Kits,105.4,37,0,CNSA,China,Orbitalytics Aerospace Manufacturing Monitor,True
+2018-02-01,2018,2,Heavy Geostationary Platform (>2000kg),11,143 Subsystem Kits,201.75,19,0,NASA,United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2020-07-01,2020,7,Medium Bus (500-2000kg),8,32 Subsystem Kits,203.01,35,0,Commercial (SpaceX / Private),United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2019-02-01,2019,2,Heavy Geostationary Platform (>2000kg),28,336 Subsystem Kits,915.75,11,17,Roscosmos,Russia,Orbitalytics Aerospace Manufacturing Monitor,True
+2018-12-01,2018,12,CubeSat (1U-12U),16,160 Subsystem Kits,362.62,40,0,ISRO,India,Orbitalytics Aerospace Manufacturing Monitor,True
+2018-09-01,2018,9,SmallSat (<500kg),27,189 Subsystem Kits,467.6,23,4,JAXA,Japan,Orbitalytics Aerospace Manufacturing Monitor,True
+2024-07-01,2024,7,Medium Bus (500-2000kg),3,30 Subsystem Kits,82.29,41,0,Commercial (SpaceX / Private),United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2018-09-01,2018,9,Medium Bus (500-2000kg),23,207 Subsystem Kits,584.63,12,11,NASA,United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2026-04-01,2026,4,CubeSat (1U-12U),4,52 Subsystem Kits,16.11,50,0,Commercial (SpaceX / Private),United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2026-01-01,2026,1,Medium Bus (500-2000kg),4,40 Subsystem Kits,59.91,33,0,ESA,Europe,Orbitalytics Aerospace Manufacturing Monitor,True
+2022-02-01,2022,2,Medium Bus (500-2000kg),5,35 Subsystem Kits,162.35,26,0,ISRO,India,Orbitalytics Aerospace Manufacturing Monitor,True
+2018-06-01,2018,6,CubeSat (1U-12U),26,338 Subsystem Kits,76.86,21,5,JAXA,Japan,Orbitalytics Aerospace Manufacturing Monitor,True
+2024-02-01,2024,2,CubeSat (1U-12U),29,348 Subsystem Kits,670.91,50,0,Roscosmos,Russia,Orbitalytics Aerospace Manufacturing Monitor,True
+2024-08-01,2024,8,Medium Bus (500-2000kg),14,56 Subsystem Kits,294.37,49,0,NASA,United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2025-08-01,2025,8,SmallSat (<500kg),6,30 Subsystem Kits,74.44,15,0,ESA,Europe,Orbitalytics Aerospace Manufacturing Monitor,True
+2025-06-01,2025,6,Heavy Geostationary Platform (>2000kg),28,224 Subsystem Kits,439.12,12,16,Commercial (SpaceX / Private),United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2021-12-01,2021,12,Heavy Geostationary Platform (>2000kg),22,242 Subsystem Kits,737.98,31,0,ESA,Europe,Orbitalytics Aerospace Manufacturing Monitor,True
+2023-01-01,2023,1,SmallSat (<500kg),12,144 Subsystem Kits,335.1,25,0,ISRO,India,Orbitalytics Aerospace Manufacturing Monitor,True
+2018-04-01,2018,4,CubeSat (1U-12U),13,156 Subsystem Kits,228.41,28,0,JAXA,Japan,Orbitalytics Aerospace Manufacturing Monitor,True
+2024-08-01,2024,8,Heavy Geostationary Platform (>2000kg),24,384 Subsystem Kits,870.69,23,1,JAXA,Japan,Orbitalytics Aerospace Manufacturing Monitor,True
+2023-04-01,2023,4,Medium Bus (500-2000kg),5,40 Subsystem Kits,58.42,41,0,Commercial (SpaceX / Private),United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2018-09-01,2018,9,SmallSat (<500kg),32,352 Subsystem Kits,198.89,13,19,ESA,Europe,Orbitalytics Aerospace Manufacturing Monitor,True
+2021-08-01,2021,8,CubeSat (1U-12U),2,10 Subsystem Kits,43.32,10,0,CNSA,China,Orbitalytics Aerospace Manufacturing Monitor,True
+2018-09-01,2018,9,SmallSat (<500kg),10,80 Subsystem Kits,79.04,25,0,NASA,United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2018-10-01,2018,10,Heavy Geostationary Platform (>2000kg),1,15 Subsystem Kits,18.97,41,0,NASA,United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2024-07-01,2024,7,Medium Bus (500-2000kg),8,88 Subsystem Kits,43.96,11,0,CNSA,China,Orbitalytics Aerospace Manufacturing Monitor,True
+2022-10-01,2022,10,Medium Bus (500-2000kg),20,320 Subsystem Kits,84.06,24,0,JAXA,Japan,Orbitalytics Aerospace Manufacturing Monitor,True
+2019-07-01,2019,7,Medium Bus (500-2000kg),26,156 Subsystem Kits,949.8,19,7,CNSA,China,Orbitalytics Aerospace Manufacturing Monitor,True
+2025-03-01,2025,3,SmallSat (<500kg),30,270 Subsystem Kits,534.58,11,19,Roscosmos,Russia,Orbitalytics Aerospace Manufacturing Monitor,True
+2024-01-01,2024,1,CubeSat (1U-12U),11,132 Subsystem Kits,318.68,21,0,ISRO,India,Orbitalytics Aerospace Manufacturing Monitor,True
+2023-12-01,2023,12,Medium Bus (500-2000kg),27,135 Subsystem Kits,384.85,19,8,Roscosmos,Russia,Orbitalytics Aerospace Manufacturing Monitor,True
+2026-09-01,2026,9,Medium Bus (500-2000kg),25,325 Subsystem Kits,779.87,26,0,Roscosmos,Russia,Orbitalytics Aerospace Manufacturing Monitor,True
+2025-05-01,2025,5,SmallSat (<500kg),13,65 Subsystem Kits,195.08,48,0,CNSA,China,Orbitalytics Aerospace Manufacturing Monitor,True
+2021-09-01,2021,9,CubeSat (1U-12U),12,120 Subsystem Kits,155.26,38,0,CNSA,China,Orbitalytics Aerospace Manufacturing Monitor,True
+2022-04-01,2022,4,Medium Bus (500-2000kg),20,280 Subsystem Kits,569.66,24,0,NASA,United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2024-11-01,2024,11,Heavy Geostationary Platform (>2000kg),15,60 Subsystem Kits,381.47,49,0,Roscosmos,Russia,Orbitalytics Aerospace Manufacturing Monitor,True
+2023-04-01,2023,4,Medium Bus (500-2000kg),29,377 Subsystem Kits,873.36,39,0,CNSA,China,Orbitalytics Aerospace Manufacturing Monitor,True
+2021-02-01,2021,2,Heavy Geostationary Platform (>2000kg),26,364 Subsystem Kits,552.92,23,3,ISRO,India,Orbitalytics Aerospace Manufacturing Monitor,True
+2018-03-01,2018,3,SmallSat (<500kg),2,12 Subsystem Kits,25.27,47,0,ISRO,India,Orbitalytics Aerospace Manufacturing Monitor,True
+2020-04-01,2020,4,Heavy Geostationary Platform (>2000kg),22,198 Subsystem Kits,285.71,15,7,Roscosmos,Russia,Orbitalytics Aerospace Manufacturing Monitor,True
+2024-08-01,2024,8,SmallSat (<500kg),8,96 Subsystem Kits,134.52,10,0,NASA,United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2019-01-01,2019,1,Heavy Geostationary Platform (>2000kg),3,27 Subsystem Kits,47.77,37,0,CNSA,China,Orbitalytics Aerospace Manufacturing Monitor,True
+2022-03-01,2022,3,Heavy Geostationary Platform (>2000kg),11,99 Subsystem Kits,314.54,36,0,CNSA,China,Orbitalytics Aerospace Manufacturing Monitor,True
+2026-06-01,2026,6,SmallSat (<500kg),14,56 Subsystem Kits,159.52,50,0,CNSA,China,Orbitalytics Aerospace Manufacturing Monitor,True
+2023-01-01,2023,1,Medium Bus (500-2000kg),19,228 Subsystem Kits,512.51,46,0,Roscosmos,Russia,Orbitalytics Aerospace Manufacturing Monitor,True
+2022-07-01,2022,7,SmallSat (<500kg),13,169 Subsystem Kits,484.81,34,0,JAXA,Japan,Orbitalytics Aerospace Manufacturing Monitor,True
+2022-05-01,2022,5,CubeSat (1U-12U),8,32 Subsystem Kits,192.43,35,0,Commercial (SpaceX / Private),United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2021-03-01,2021,3,Heavy Geostationary Platform (>2000kg),22,110 Subsystem Kits,591.81,24,0,ESA,Europe,Orbitalytics Aerospace Manufacturing Monitor,True
+2025-01-01,2025,1,SmallSat (<500kg),2,32 Subsystem Kits,38.11,48,0,ISRO,India,Orbitalytics Aerospace Manufacturing Monitor,True
+2026-12-01,2026,12,CubeSat (1U-12U),19,76 Subsystem Kits,382.18,37,0,NASA,United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2026-12-01,2026,12,Medium Bus (500-2000kg),4,28 Subsystem Kits,118.65,24,0,NASA,United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2020-10-01,2020,10,Medium Bus (500-2000kg),5,70 Subsystem Kits,106.19,48,0,ISRO,India,Orbitalytics Aerospace Manufacturing Monitor,True
+2022-02-01,2022,2,Medium Bus (500-2000kg),23,368 Subsystem Kits,472.24,22,1,Roscosmos,Russia,Orbitalytics Aerospace Manufacturing Monitor,True
+2025-12-01,2025,12,CubeSat (1U-12U),20,80 Subsystem Kits,268.37,32,0,JAXA,Japan,Orbitalytics Aerospace Manufacturing Monitor,True
+2026-03-01,2026,3,Medium Bus (500-2000kg),15,195 Subsystem Kits,61.9,22,0,JAXA,Japan,Orbitalytics Aerospace Manufacturing Monitor,True
+2025-09-01,2025,9,CubeSat (1U-12U),4,36 Subsystem Kits,70.75,38,0,ISRO,India,Orbitalytics Aerospace Manufacturing Monitor,True
+2023-04-01,2023,4,CubeSat (1U-12U),3,33 Subsystem Kits,111.0,30,0,ISRO,India,Orbitalytics Aerospace Manufacturing Monitor,True
+2021-07-01,2021,7,Heavy Geostationary Platform (>2000kg),4,28 Subsystem Kits,131.93,23,0,Commercial (SpaceX / Private),United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2020-05-01,2020,5,CubeSat (1U-12U),18,162 Subsystem Kits,346.46,15,3,JAXA,Japan,Orbitalytics Aerospace Manufacturing Monitor,True
+2021-03-01,2021,3,CubeSat (1U-12U),28,280 Subsystem Kits,682.12,37,0,Commercial (SpaceX / Private),United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2026-12-01,2026,12,CubeSat (1U-12U),18,252 Subsystem Kits,144.85,26,0,Roscosmos,Russia,Orbitalytics Aerospace Manufacturing Monitor,True
+2026-06-01,2026,6,Heavy Geostationary Platform (>2000kg),20,120 Subsystem Kits,103.39,43,0,ESA,Europe,Orbitalytics Aerospace Manufacturing Monitor,True
+2025-08-01,2025,8,Heavy Geostationary Platform (>2000kg),24,120 Subsystem Kits,232.93,34,0,Roscosmos,Russia,Orbitalytics Aerospace Manufacturing Monitor,True
+2019-08-01,2019,8,Heavy Geostationary Platform (>2000kg),2,26 Subsystem Kits,52.55,15,0,ISRO,India,Orbitalytics Aerospace Manufacturing Monitor,True
+2018-01-01,2018,1,Medium Bus (500-2000kg),2,12 Subsystem Kits,63.59,47,0,JAXA,Japan,Orbitalytics Aerospace Manufacturing Monitor,True
+2023-10-01,2023,10,Heavy Geostationary Platform (>2000kg),13,78 Subsystem Kits,334.68,37,0,ISRO,India,Orbitalytics Aerospace Manufacturing Monitor,True
+2025-08-01,2025,8,SmallSat (<500kg),31,124 Subsystem Kits,498.36,26,5,JAXA,Japan,Orbitalytics Aerospace Manufacturing Monitor,True
+2025-02-01,2025,2,SmallSat (<500kg),20,140 Subsystem Kits,251.02,17,3,ESA,Europe,Orbitalytics Aerospace Manufacturing Monitor,True
+2020-09-01,2020,9,Medium Bus (500-2000kg),1,10 Subsystem Kits,25.49,20,0,JAXA,Japan,Orbitalytics Aerospace Manufacturing Monitor,True
+2023-03-01,2023,3,Medium Bus (500-2000kg),28,308 Subsystem Kits,636.65,34,0,Commercial (SpaceX / Private),United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2025-06-01,2025,6,Heavy Geostationary Platform (>2000kg),12,168 Subsystem Kits,354.46,31,0,ISRO,India,Orbitalytics Aerospace Manufacturing Monitor,True
+2021-05-01,2021,5,Medium Bus (500-2000kg),1,16 Subsystem Kits,23.24,42,0,Commercial (SpaceX / Private),United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2023-10-01,2023,10,SmallSat (<500kg),29,290 Subsystem Kits,441.09,25,4,CNSA,China,Orbitalytics Aerospace Manufacturing Monitor,True
+2020-11-01,2020,11,Medium Bus (500-2000kg),11,88 Subsystem Kits,46.67,47,0,Roscosmos,Russia,Orbitalytics Aerospace Manufacturing Monitor,True
+2022-05-01,2022,5,CubeSat (1U-12U),22,198 Subsystem Kits,441.5,35,0,JAXA,Japan,Orbitalytics Aerospace Manufacturing Monitor,True
+2019-09-01,2019,9,SmallSat (<500kg),1,10 Subsystem Kits,28.36,39,0,CNSA,China,Orbitalytics Aerospace Manufacturing Monitor,True
+2018-05-01,2018,5,SmallSat (<500kg),29,348 Subsystem Kits,955.43,42,0,Commercial (SpaceX / Private),United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2019-06-01,2019,6,SmallSat (<500kg),29,203 Subsystem Kits,864.5,43,0,ISRO,India,Orbitalytics Aerospace Manufacturing Monitor,True
+2018-03-01,2018,3,Medium Bus (500-2000kg),15,225 Subsystem Kits,475.73,49,0,ISRO,India,Orbitalytics Aerospace Manufacturing Monitor,True
+2026-06-01,2026,6,Heavy Geostationary Platform (>2000kg),16,256 Subsystem Kits,216.5,21,0,Roscosmos,Russia,Orbitalytics Aerospace Manufacturing Monitor,True
+2022-09-01,2022,9,CubeSat (1U-12U),10,150 Subsystem Kits,296.45,29,0,ISRO,India,Orbitalytics Aerospace Manufacturing Monitor,True
+2026-12-01,2026,12,Heavy Geostationary Platform (>2000kg),3,24 Subsystem Kits,55.57,22,0,JAXA,Japan,Orbitalytics Aerospace Manufacturing Monitor,True
+2020-05-01,2020,5,SmallSat (<500kg),32,160 Subsystem Kits,578.93,39,0,Roscosmos,Russia,Orbitalytics Aerospace Manufacturing Monitor,True
+2026-08-01,2026,8,Medium Bus (500-2000kg),29,145 Subsystem Kits,271.74,44,0,NASA,United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2024-03-01,2024,3,Heavy Geostationary Platform (>2000kg),8,56 Subsystem Kits,38.45,41,0,ISRO,India,Orbitalytics Aerospace Manufacturing Monitor,True
+2021-12-01,2021,12,Heavy Geostationary Platform (>2000kg),6,42 Subsystem Kits,127.37,41,0,JAXA,Japan,Orbitalytics Aerospace Manufacturing Monitor,True
+2021-02-01,2021,2,Medium Bus (500-2000kg),2,20 Subsystem Kits,45.41,17,0,NASA,United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2024-03-01,2024,3,Heavy Geostationary Platform (>2000kg),8,104 Subsystem Kits,108.24,35,0,JAXA,Japan,Orbitalytics Aerospace Manufacturing Monitor,True
+2024-03-01,2024,3,Heavy Geostationary Platform (>2000kg),31,372 Subsystem Kits,1107.25,14,17,Roscosmos,Russia,Orbitalytics Aerospace Manufacturing Monitor,True
+2025-10-01,2025,10,SmallSat (<500kg),20,120 Subsystem Kits,741.3,50,0,ESA,Europe,Orbitalytics Aerospace Manufacturing Monitor,True
+2024-11-01,2024,11,Medium Bus (500-2000kg),32,320 Subsystem Kits,1187.76,45,0,ESA,Europe,Orbitalytics Aerospace Manufacturing Monitor,True
+2019-07-01,2019,7,CubeSat (1U-12U),30,420 Subsystem Kits,971.84,15,15,JAXA,Japan,Orbitalytics Aerospace Manufacturing Monitor,True
+2020-06-01,2020,6,Medium Bus (500-2000kg),30,450 Subsystem Kits,560.75,33,0,ISRO,India,Orbitalytics Aerospace Manufacturing Monitor,True
+2020-10-01,2020,10,SmallSat (<500kg),21,336 Subsystem Kits,427.3,11,10,ESA,Europe,Orbitalytics Aerospace Manufacturing Monitor,True
+2019-04-01,2019,4,SmallSat (<500kg),19,152 Subsystem Kits,571.8,25,0,CNSA,China,Orbitalytics Aerospace Manufacturing Monitor,True
+2022-08-01,2022,8,Medium Bus (500-2000kg),9,45 Subsystem Kits,288.42,16,0,ISRO,India,Orbitalytics Aerospace Manufacturing Monitor,True
+2020-02-01,2020,2,Medium Bus (500-2000kg),12,108 Subsystem Kits,267.44,46,0,ISRO,India,Orbitalytics Aerospace Manufacturing Monitor,True
+2018-08-01,2018,8,Heavy Geostationary Platform (>2000kg),6,66 Subsystem Kits,190.26,37,0,NASA,United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2019-04-01,2019,4,Heavy Geostationary Platform (>2000kg),13,104 Subsystem Kits,77.35,35,0,JAXA,Japan,Orbitalytics Aerospace Manufacturing Monitor,True
+2021-07-01,2021,7,SmallSat (<500kg),13,117 Subsystem Kits,443.1,20,0,ISRO,India,Orbitalytics Aerospace Manufacturing Monitor,True
+2023-04-01,2023,4,CubeSat (1U-12U),15,225 Subsystem Kits,166.94,21,0,ISRO,India,Orbitalytics Aerospace Manufacturing Monitor,True
+2020-06-01,2020,6,CubeSat (1U-12U),7,77 Subsystem Kits,253.06,35,0,NASA,United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2023-10-01,2023,10,CubeSat (1U-12U),19,209 Subsystem Kits,562.12,38,0,ISRO,India,Orbitalytics Aerospace Manufacturing Monitor,True
+2025-01-01,2025,1,SmallSat (<500kg),7,98 Subsystem Kits,107.05,44,0,NASA,United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2026-04-01,2026,4,SmallSat (<500kg),24,192 Subsystem Kits,218.99,14,10,Roscosmos,Russia,Orbitalytics Aerospace Manufacturing Monitor,True
+2022-06-01,2022,6,SmallSat (<500kg),22,352 Subsystem Kits,358.3,22,0,Commercial (SpaceX / Private),United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2024-09-01,2024,9,Heavy Geostationary Platform (>2000kg),15,210 Subsystem Kits,268.38,36,0,JAXA,Japan,Orbitalytics Aerospace Manufacturing Monitor,True
+2022-10-01,2022,10,Medium Bus (500-2000kg),20,80 Subsystem Kits,410.51,17,3,Commercial (SpaceX / Private),United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2020-07-01,2020,7,Heavy Geostationary Platform (>2000kg),13,169 Subsystem Kits,429.13,22,0,Roscosmos,Russia,Orbitalytics Aerospace Manufacturing Monitor,True
+2018-05-01,2018,5,CubeSat (1U-12U),25,200 Subsystem Kits,187.29,47,0,ESA,Europe,Orbitalytics Aerospace Manufacturing Monitor,True
+2019-10-01,2019,10,SmallSat (<500kg),5,55 Subsystem Kits,159.74,27,0,ESA,Europe,Orbitalytics Aerospace Manufacturing Monitor,True
+2018-07-01,2018,7,SmallSat (<500kg),22,264 Subsystem Kits,525.2,40,0,ISRO,India,Orbitalytics Aerospace Manufacturing Monitor,True
+2026-08-01,2026,8,CubeSat (1U-12U),14,70 Subsystem Kits,101.79,17,0,ESA,Europe,Orbitalytics Aerospace Manufacturing Monitor,True
+2026-03-01,2026,3,CubeSat (1U-12U),14,168 Subsystem Kits,394.48,49,0,ESA,Europe,Orbitalytics Aerospace Manufacturing Monitor,True
+2023-01-01,2023,1,CubeSat (1U-12U),7,91 Subsystem Kits,211.58,33,0,ESA,Europe,Orbitalytics Aerospace Manufacturing Monitor,True
+2024-02-01,2024,2,Medium Bus (500-2000kg),32,480 Subsystem Kits,573.68,13,19,ISRO,India,Orbitalytics Aerospace Manufacturing Monitor,True
+2021-01-01,2021,1,Heavy Geostationary Platform (>2000kg),3,12 Subsystem Kits,40.55,11,0,Roscosmos,Russia,Orbitalytics Aerospace Manufacturing Monitor,True
+2024-09-01,2024,9,Medium Bus (500-2000kg),18,90 Subsystem Kits,55.83,22,0,Commercial (SpaceX / Private),United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2021-07-01,2021,7,Medium Bus (500-2000kg),14,154 Subsystem Kits,35.48,32,0,Commercial (SpaceX / Private),United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2019-12-01,2019,12,SmallSat (<500kg),12,108 Subsystem Kits,405.89,17,0,ISRO,India,Orbitalytics Aerospace Manufacturing Monitor,True
+2019-11-01,2019,11,Medium Bus (500-2000kg),9,117 Subsystem Kits,173.94,16,0,ISRO,India,Orbitalytics Aerospace Manufacturing Monitor,True
+2021-07-01,2021,7,CubeSat (1U-12U),5,70 Subsystem Kits,64.47,41,0,JAXA,Japan,Orbitalytics Aerospace Manufacturing Monitor,True
+2018-06-01,2018,6,Medium Bus (500-2000kg),9,108 Subsystem Kits,335.06,29,0,JAXA,Japan,Orbitalytics Aerospace Manufacturing Monitor,True
+2018-10-01,2018,10,SmallSat (<500kg),26,260 Subsystem Kits,978.84,14,12,Roscosmos,Russia,Orbitalytics Aerospace Manufacturing Monitor,True
+2019-06-01,2019,6,CubeSat (1U-12U),7,105 Subsystem Kits,239.62,23,0,Commercial (SpaceX / Private),United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2022-04-01,2022,4,CubeSat (1U-12U),25,350 Subsystem Kits,602.51,33,0,JAXA,Japan,Orbitalytics Aerospace Manufacturing Monitor,True
+2025-04-01,2025,4,SmallSat (<500kg),18,234 Subsystem Kits,125.58,10,8,Commercial (SpaceX / Private),United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2023-04-01,2023,4,CubeSat (1U-12U),8,128 Subsystem Kits,115.07,50,0,JAXA,Japan,Orbitalytics Aerospace Manufacturing Monitor,True
+2020-06-01,2020,6,Medium Bus (500-2000kg),15,120 Subsystem Kits,551.49,21,0,NASA,United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2025-01-01,2025,1,CubeSat (1U-12U),20,240 Subsystem Kits,237.96,27,0,Roscosmos,Russia,Orbitalytics Aerospace Manufacturing Monitor,True
+2023-02-01,2023,2,Medium Bus (500-2000kg),21,315 Subsystem Kits,561.79,46,0,Roscosmos,Russia,Orbitalytics Aerospace Manufacturing Monitor,True
+2018-06-01,2018,6,SmallSat (<500kg),19,209 Subsystem Kits,649.33,50,0,ESA,Europe,Orbitalytics Aerospace Manufacturing Monitor,True
+2019-11-01,2019,11,Medium Bus (500-2000kg),7,49 Subsystem Kits,158.09,33,0,Commercial (SpaceX / Private),United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2021-09-01,2021,9,CubeSat (1U-12U),1,5 Subsystem Kits,25.36,47,0,CNSA,China,Orbitalytics Aerospace Manufacturing Monitor,True
+2025-08-01,2025,8,Heavy Geostationary Platform (>2000kg),26,364 Subsystem Kits,699.31,49,0,Roscosmos,Russia,Orbitalytics Aerospace Manufacturing Monitor,True
+2026-06-01,2026,6,SmallSat (<500kg),5,60 Subsystem Kits,132.57,34,0,ISRO,India,Orbitalytics Aerospace Manufacturing Monitor,True
+2021-10-01,2021,10,CubeSat (1U-12U),17,68 Subsystem Kits,199.67,47,0,Roscosmos,Russia,Orbitalytics Aerospace Manufacturing Monitor,True
+2026-11-01,2026,11,SmallSat (<500kg),21,336 Subsystem Kits,294.38,42,0,NASA,United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2025-01-01,2025,1,CubeSat (1U-12U),13,91 Subsystem Kits,131.42,40,0,ESA,Europe,Orbitalytics Aerospace Manufacturing Monitor,True
+2018-06-01,2018,6,CubeSat (1U-12U),10,100 Subsystem Kits,368.34,45,0,Commercial (SpaceX / Private),United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2021-12-01,2021,12,Medium Bus (500-2000kg),23,276 Subsystem Kits,107.76,26,0,CNSA,China,Orbitalytics Aerospace Manufacturing Monitor,True
+2022-01-01,2022,1,CubeSat (1U-12U),13,195 Subsystem Kits,366.08,32,0,JAXA,Japan,Orbitalytics Aerospace Manufacturing Monitor,True
+2018-06-01,2018,6,CubeSat (1U-12U),18,216 Subsystem Kits,81.61,14,4,Roscosmos,Russia,Orbitalytics Aerospace Manufacturing Monitor,True
+2019-08-01,2019,8,SmallSat (<500kg),25,100 Subsystem Kits,842.29,10,15,NASA,United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2019-12-01,2019,12,Medium Bus (500-2000kg),20,280 Subsystem Kits,653.73,18,2,ISRO,India,Orbitalytics Aerospace Manufacturing Monitor,True
+2018-12-01,2018,12,Medium Bus (500-2000kg),7,42 Subsystem Kits,162.29,30,0,ESA,Europe,Orbitalytics Aerospace Manufacturing Monitor,True
+2024-03-01,2024,3,Medium Bus (500-2000kg),16,160 Subsystem Kits,223.57,33,0,ISRO,India,Orbitalytics Aerospace Manufacturing Monitor,True
+2019-03-01,2019,3,Medium Bus (500-2000kg),18,216 Subsystem Kits,468.76,46,0,NASA,United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2018-10-01,2018,10,CubeSat (1U-12U),5,25 Subsystem Kits,46.36,18,0,JAXA,Japan,Orbitalytics Aerospace Manufacturing Monitor,True
+2019-08-01,2019,8,SmallSat (<500kg),17,85 Subsystem Kits,529.11,17,0,ISRO,India,Orbitalytics Aerospace Manufacturing Monitor,True
+2020-05-01,2020,5,Medium Bus (500-2000kg),15,195 Subsystem Kits,436.95,12,3,NASA,United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2024-02-01,2024,2,Medium Bus (500-2000kg),9,144 Subsystem Kits,64.58,34,0,JAXA,Japan,Orbitalytics Aerospace Manufacturing Monitor,True
+2018-01-01,2018,1,Medium Bus (500-2000kg),6,90 Subsystem Kits,31.4,20,0,JAXA,Japan,Orbitalytics Aerospace Manufacturing Monitor,True
+2019-07-01,2019,7,SmallSat (<500kg),2,18 Subsystem Kits,37.29,34,0,ESA,Europe,Orbitalytics Aerospace Manufacturing Monitor,True
+2021-03-01,2021,3,Heavy Geostationary Platform (>2000kg),30,300 Subsystem Kits,310.79,22,8,ISRO,India,Orbitalytics Aerospace Manufacturing Monitor,True
+2022-04-01,2022,4,Medium Bus (500-2000kg),7,42 Subsystem Kits,93.86,35,0,CNSA,China,Orbitalytics Aerospace Manufacturing Monitor,True
+2022-11-01,2022,11,CubeSat (1U-12U),32,288 Subsystem Kits,764.72,13,19,ESA,Europe,Orbitalytics Aerospace Manufacturing Monitor,True
+2023-01-01,2023,1,CubeSat (1U-12U),22,132 Subsystem Kits,535.13,27,0,ESA,Europe,Orbitalytics Aerospace Manufacturing Monitor,True
+2026-04-01,2026,4,CubeSat (1U-12U),28,308 Subsystem Kits,464.87,31,0,CNSA,China,Orbitalytics Aerospace Manufacturing Monitor,True
+2018-12-01,2018,12,SmallSat (<500kg),6,66 Subsystem Kits,121.91,21,0,JAXA,Japan,Orbitalytics Aerospace Manufacturing Monitor,True
+2023-10-01,2023,10,CubeSat (1U-12U),4,60 Subsystem Kits,21.3,32,0,ISRO,India,Orbitalytics Aerospace Manufacturing Monitor,True
+2023-06-01,2023,6,CubeSat (1U-12U),24,312 Subsystem Kits,137.6,29,0,JAXA,Japan,Orbitalytics Aerospace Manufacturing Monitor,True
+2024-05-01,2024,5,Medium Bus (500-2000kg),11,66 Subsystem Kits,123.88,30,0,ISRO,India,Orbitalytics Aerospace Manufacturing Monitor,True
+2021-03-01,2021,3,CubeSat (1U-12U),31,248 Subsystem Kits,684.64,19,12,ESA,Europe,Orbitalytics Aerospace Manufacturing Monitor,True
+2026-01-01,2026,1,Heavy Geostationary Platform (>2000kg),11,66 Subsystem Kits,286.46,11,0,Commercial (SpaceX / Private),United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2020-07-01,2020,7,CubeSat (1U-12U),30,420 Subsystem Kits,409.79,16,14,CNSA,China,Orbitalytics Aerospace Manufacturing Monitor,True
+2020-01-01,2020,1,SmallSat (<500kg),17,187 Subsystem Kits,231.01,31,0,Roscosmos,Russia,Orbitalytics Aerospace Manufacturing Monitor,True
+2019-05-01,2019,5,CubeSat (1U-12U),16,96 Subsystem Kits,246.13,34,0,CNSA,China,Orbitalytics Aerospace Manufacturing Monitor,True
+2018-04-01,2018,4,Medium Bus (500-2000kg),15,120 Subsystem Kits,69.7,18,0,Roscosmos,Russia,Orbitalytics Aerospace Manufacturing Monitor,True
+2018-01-01,2018,1,CubeSat (1U-12U),15,75 Subsystem Kits,99.04,23,0,Commercial (SpaceX / Private),United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2022-03-01,2022,3,Heavy Geostationary Platform (>2000kg),20,220 Subsystem Kits,109.39,25,0,ISRO,India,Orbitalytics Aerospace Manufacturing Monitor,True
+2023-06-01,2023,6,Heavy Geostationary Platform (>2000kg),2,12 Subsystem Kits,52.13,49,0,Roscosmos,Russia,Orbitalytics Aerospace Manufacturing Monitor,True
+2025-01-01,2025,1,SmallSat (<500kg),31,310 Subsystem Kits,1114.64,18,13,Roscosmos,Russia,Orbitalytics Aerospace Manufacturing Monitor,True
+2024-10-01,2024,10,Medium Bus (500-2000kg),30,390 Subsystem Kits,1070.81,40,0,NASA,United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2023-07-01,2023,7,Heavy Geostationary Platform (>2000kg),12,168 Subsystem Kits,316.21,37,0,CNSA,China,Orbitalytics Aerospace Manufacturing Monitor,True
+2019-04-01,2019,4,Medium Bus (500-2000kg),5,75 Subsystem Kits,74.21,38,0,Commercial (SpaceX / Private),United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2025-03-01,2025,3,Medium Bus (500-2000kg),25,175 Subsystem Kits,684.27,35,0,JAXA,Japan,Orbitalytics Aerospace Manufacturing Monitor,True
+2018-08-01,2018,8,Heavy Geostationary Platform (>2000kg),2,26 Subsystem Kits,13.04,16,0,ESA,Europe,Orbitalytics Aerospace Manufacturing Monitor,True
+2023-01-01,2023,1,Medium Bus (500-2000kg),32,448 Subsystem Kits,827.67,32,0,Commercial (SpaceX / Private),United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2019-02-01,2019,2,SmallSat (<500kg),3,48 Subsystem Kits,22.84,40,0,ESA,Europe,Orbitalytics Aerospace Manufacturing Monitor,True
+2020-12-01,2020,12,Medium Bus (500-2000kg),10,150 Subsystem Kits,156.12,46,0,NASA,United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2021-09-01,2021,9,SmallSat (<500kg),9,63 Subsystem Kits,49.89,29,0,ESA,Europe,Orbitalytics Aerospace Manufacturing Monitor,True
+2019-07-01,2019,7,CubeSat (1U-12U),27,378 Subsystem Kits,1011.47,49,0,ESA,Europe,Orbitalytics Aerospace Manufacturing Monitor,True
+2024-10-01,2024,10,Medium Bus (500-2000kg),20,100 Subsystem Kits,395.46,41,0,JAXA,Japan,Orbitalytics Aerospace Manufacturing Monitor,True
+2019-02-01,2019,2,Medium Bus (500-2000kg),5,55 Subsystem Kits,78.19,44,0,NASA,United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2021-08-01,2021,8,SmallSat (<500kg),4,48 Subsystem Kits,26.68,33,0,ESA,Europe,Orbitalytics Aerospace Manufacturing Monitor,True
+2024-05-01,2024,5,CubeSat (1U-12U),12,72 Subsystem Kits,85.48,35,0,JAXA,Japan,Orbitalytics Aerospace Manufacturing Monitor,True
+2026-09-01,2026,9,Medium Bus (500-2000kg),22,330 Subsystem Kits,618.34,28,0,Roscosmos,Russia,Orbitalytics Aerospace Manufacturing Monitor,True
+2019-05-01,2019,5,SmallSat (<500kg),29,319 Subsystem Kits,547.81,45,0,JAXA,Japan,Orbitalytics Aerospace Manufacturing Monitor,True
+2023-11-01,2023,11,CubeSat (1U-12U),2,10 Subsystem Kits,54.25,50,0,ISRO,India,Orbitalytics Aerospace Manufacturing Monitor,True
+2022-05-01,2022,5,Heavy Geostationary Platform (>2000kg),17,255 Subsystem Kits,72.12,19,0,NASA,United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2020-05-01,2020,5,Medium Bus (500-2000kg),17,187 Subsystem Kits,227.68,24,0,JAXA,Japan,Orbitalytics Aerospace Manufacturing Monitor,True
+2024-07-01,2024,7,SmallSat (<500kg),26,208 Subsystem Kits,948.2,28,0,CNSA,China,Orbitalytics Aerospace Manufacturing Monitor,True
+2019-02-01,2019,2,Heavy Geostationary Platform (>2000kg),30,300 Subsystem Kits,648.57,14,16,CNSA,China,Orbitalytics Aerospace Manufacturing Monitor,True
+2025-11-01,2025,11,SmallSat (<500kg),32,352 Subsystem Kits,330.22,38,0,NASA,United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2026-12-01,2026,12,Heavy Geostationary Platform (>2000kg),29,319 Subsystem Kits,372.79,18,11,ISRO,India,Orbitalytics Aerospace Manufacturing Monitor,True
+2026-09-01,2026,9,SmallSat (<500kg),7,77 Subsystem Kits,43.48,36,0,ESA,Europe,Orbitalytics Aerospace Manufacturing Monitor,True
+2021-06-01,2021,6,Medium Bus (500-2000kg),8,72 Subsystem Kits,98.75,50,0,ISRO,India,Orbitalytics Aerospace Manufacturing Monitor,True
+2018-12-01,2018,12,Heavy Geostationary Platform (>2000kg),30,330 Subsystem Kits,565.2,13,17,ISRO,India,Orbitalytics Aerospace Manufacturing Monitor,True
+2023-06-01,2023,6,CubeSat (1U-12U),20,80 Subsystem Kits,737.78,11,9,JAXA,Japan,Orbitalytics Aerospace Manufacturing Monitor,True
+2019-05-01,2019,5,Heavy Geostationary Platform (>2000kg),13,78 Subsystem Kits,80.65,40,0,NASA,United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2020-10-01,2020,10,SmallSat (<500kg),7,70 Subsystem Kits,173.15,32,0,ISRO,India,Orbitalytics Aerospace Manufacturing Monitor,True
+2018-06-01,2018,6,SmallSat (<500kg),17,102 Subsystem Kits,263.4,50,0,JAXA,Japan,Orbitalytics Aerospace Manufacturing Monitor,True
+2025-05-01,2025,5,CubeSat (1U-12U),32,320 Subsystem Kits,800.97,32,0,ISRO,India,Orbitalytics Aerospace Manufacturing Monitor,True
+2022-03-01,2022,3,SmallSat (<500kg),26,182 Subsystem Kits,765.83,27,0,ISRO,India,Orbitalytics Aerospace Manufacturing Monitor,True
+2026-12-01,2026,12,Medium Bus (500-2000kg),10,40 Subsystem Kits,73.01,19,0,JAXA,Japan,Orbitalytics Aerospace Manufacturing Monitor,True
+2022-02-01,2022,2,SmallSat (<500kg),4,52 Subsystem Kits,10.5,28,0,ESA,Europe,Orbitalytics Aerospace Manufacturing Monitor,True
+2020-07-01,2020,7,CubeSat (1U-12U),30,420 Subsystem Kits,437.58,13,17,JAXA,Japan,Orbitalytics Aerospace Manufacturing Monitor,True
+2024-01-01,2024,1,Medium Bus (500-2000kg),30,210 Subsystem Kits,738.4,38,0,NASA,United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2018-01-01,2018,1,SmallSat (<500kg),24,120 Subsystem Kits,548.69,20,4,JAXA,Japan,Orbitalytics Aerospace Manufacturing Monitor,True
+2021-03-01,2021,3,Medium Bus (500-2000kg),25,250 Subsystem Kits,115.05,10,15,Roscosmos,Russia,Orbitalytics Aerospace Manufacturing Monitor,True
+2024-10-01,2024,10,Medium Bus (500-2000kg),3,15 Subsystem Kits,48.85,50,0,Roscosmos,Russia,Orbitalytics Aerospace Manufacturing Monitor,True
+2022-11-01,2022,11,Medium Bus (500-2000kg),17,170 Subsystem Kits,254.47,23,0,Roscosmos,Russia,Orbitalytics Aerospace Manufacturing Monitor,True
+2019-12-01,2019,12,Medium Bus (500-2000kg),5,80 Subsystem Kits,17.34,12,0,ISRO,India,Orbitalytics Aerospace Manufacturing Monitor,True
+2026-10-01,2026,10,SmallSat (<500kg),3,45 Subsystem Kits,47.47,35,0,Roscosmos,Russia,Orbitalytics Aerospace Manufacturing Monitor,True
+2024-03-01,2024,3,Medium Bus (500-2000kg),4,20 Subsystem Kits,44.78,21,0,NASA,United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2025-06-01,2025,6,Medium Bus (500-2000kg),8,88 Subsystem Kits,55.39,34,0,Commercial (SpaceX / Private),United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2018-06-01,2018,6,SmallSat (<500kg),27,189 Subsystem Kits,568.81,32,0,CNSA,China,Orbitalytics Aerospace Manufacturing Monitor,True
+2022-03-01,2022,3,Medium Bus (500-2000kg),14,56 Subsystem Kits,124.21,41,0,NASA,United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2018-08-01,2018,8,SmallSat (<500kg),6,36 Subsystem Kits,112.43,20,0,ISRO,India,Orbitalytics Aerospace Manufacturing Monitor,True
+2023-09-01,2023,9,Heavy Geostationary Platform (>2000kg),17,187 Subsystem Kits,384.33,35,0,CNSA,China,Orbitalytics Aerospace Manufacturing Monitor,True
+2018-02-01,2018,2,SmallSat (<500kg),26,390 Subsystem Kits,513.71,35,0,ISRO,India,Orbitalytics Aerospace Manufacturing Monitor,True
+2021-09-01,2021,9,Heavy Geostationary Platform (>2000kg),29,116 Subsystem Kits,857.99,43,0,Roscosmos,Russia,Orbitalytics Aerospace Manufacturing Monitor,True
+2021-01-01,2021,1,CubeSat (1U-12U),5,70 Subsystem Kits,128.39,21,0,NASA,United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2026-04-01,2026,4,SmallSat (<500kg),14,84 Subsystem Kits,215.96,20,0,CNSA,China,Orbitalytics Aerospace Manufacturing Monitor,True
+2023-01-01,2023,1,Heavy Geostationary Platform (>2000kg),32,512 Subsystem Kits,386.45,43,0,ESA,Europe,Orbitalytics Aerospace Manufacturing Monitor,True
+2020-05-01,2020,5,Heavy Geostationary Platform (>2000kg),16,160 Subsystem Kits,198.28,49,0,NASA,United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2018-05-01,2018,5,Medium Bus (500-2000kg),27,270 Subsystem Kits,876.7,20,7,CNSA,China,Orbitalytics Aerospace Manufacturing Monitor,True
+2023-11-01,2023,11,Heavy Geostationary Platform (>2000kg),24,312 Subsystem Kits,324.97,39,0,NASA,United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2018-03-01,2018,3,SmallSat (<500kg),31,434 Subsystem Kits,210.4,29,2,ESA,Europe,Orbitalytics Aerospace Manufacturing Monitor,True
+2018-05-01,2018,5,CubeSat (1U-12U),25,125 Subsystem Kits,482.8,34,0,JAXA,Japan,Orbitalytics Aerospace Manufacturing Monitor,True
+2023-05-01,2023,5,SmallSat (<500kg),28,420 Subsystem Kits,361.99,47,0,NASA,United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2025-08-01,2025,8,Medium Bus (500-2000kg),13,169 Subsystem Kits,432.56,20,0,NASA,United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2018-06-01,2018,6,Heavy Geostationary Platform (>2000kg),30,300 Subsystem Kits,86.3,30,0,Roscosmos,Russia,Orbitalytics Aerospace Manufacturing Monitor,True
+2025-03-01,2025,3,SmallSat (<500kg),16,160 Subsystem Kits,596.85,27,0,Commercial (SpaceX / Private),United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2024-01-01,2024,1,Medium Bus (500-2000kg),21,105 Subsystem Kits,271.76,32,0,Roscosmos,Russia,Orbitalytics Aerospace Manufacturing Monitor,True
+2023-07-01,2023,7,CubeSat (1U-12U),26,156 Subsystem Kits,740.68,21,5,NASA,United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2019-02-01,2019,2,Heavy Geostationary Platform (>2000kg),32,384 Subsystem Kits,167.4,41,0,Roscosmos,Russia,Orbitalytics Aerospace Manufacturing Monitor,True
+2023-10-01,2023,10,CubeSat (1U-12U),12,72 Subsystem Kits,333.07,39,0,ISRO,India,Orbitalytics Aerospace Manufacturing Monitor,True
+2022-03-01,2022,3,CubeSat (1U-12U),26,338 Subsystem Kits,769.03,18,8,Commercial (SpaceX / Private),United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2026-05-01,2026,5,Medium Bus (500-2000kg),16,144 Subsystem Kits,80.15,38,0,ESA,Europe,Orbitalytics Aerospace Manufacturing Monitor,True
+2019-08-01,2019,8,Heavy Geostationary Platform (>2000kg),25,150 Subsystem Kits,422.13,41,0,Commercial (SpaceX / Private),United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2026-09-01,2026,9,Medium Bus (500-2000kg),24,240 Subsystem Kits,892.29,25,0,ESA,Europe,Orbitalytics Aerospace Manufacturing Monitor,True
+2026-04-01,2026,4,CubeSat (1U-12U),32,128 Subsystem Kits,346.85,28,4,JAXA,Japan,Orbitalytics Aerospace Manufacturing Monitor,True
+2025-09-01,2025,9,SmallSat (<500kg),13,65 Subsystem Kits,133.17,50,0,CNSA,China,Orbitalytics Aerospace Manufacturing Monitor,True
+2024-09-01,2024,9,SmallSat (<500kg),25,100 Subsystem Kits,422.66,43,0,ISRO,India,Orbitalytics Aerospace Manufacturing Monitor,True
+2023-07-01,2023,7,CubeSat (1U-12U),31,124 Subsystem Kits,447.16,13,18,CNSA,China,Orbitalytics Aerospace Manufacturing Monitor,True
+2025-06-01,2025,6,SmallSat (<500kg),10,150 Subsystem Kits,29.8,22,0,NASA,United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2025-01-01,2025,1,CubeSat (1U-12U),18,72 Subsystem Kits,440.41,45,0,JAXA,Japan,Orbitalytics Aerospace Manufacturing Monitor,True
+2019-05-01,2019,5,SmallSat (<500kg),29,203 Subsystem Kits,218.7,17,12,ESA,Europe,Orbitalytics Aerospace Manufacturing Monitor,True
+2025-03-01,2025,3,Heavy Geostationary Platform (>2000kg),19,133 Subsystem Kits,383.95,46,0,Commercial (SpaceX / Private),United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2024-12-01,2024,12,SmallSat (<500kg),10,80 Subsystem Kits,274.7,49,0,CNSA,China,Orbitalytics Aerospace Manufacturing Monitor,True
+2020-08-01,2020,8,Medium Bus (500-2000kg),17,221 Subsystem Kits,539.32,18,0,Commercial (SpaceX / Private),United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2026-04-01,2026,4,SmallSat (<500kg),26,104 Subsystem Kits,195.43,29,0,ESA,Europe,Orbitalytics Aerospace Manufacturing Monitor,True
+2026-02-01,2026,2,Heavy Geostationary Platform (>2000kg),12,108 Subsystem Kits,363.12,49,0,Roscosmos,Russia,Orbitalytics Aerospace Manufacturing Monitor,True
+2019-11-01,2019,11,CubeSat (1U-12U),27,432 Subsystem Kits,547.88,47,0,CNSA,China,Orbitalytics Aerospace Manufacturing Monitor,True
+2022-01-01,2022,1,CubeSat (1U-12U),4,40 Subsystem Kits,98.75,24,0,CNSA,China,Orbitalytics Aerospace Manufacturing Monitor,True
+2020-05-01,2020,5,SmallSat (<500kg),29,174 Subsystem Kits,873.15,31,0,Roscosmos,Russia,Orbitalytics Aerospace Manufacturing Monitor,True
+2022-03-01,2022,3,Heavy Geostationary Platform (>2000kg),24,384 Subsystem Kits,392.03,24,0,ESA,Europe,Orbitalytics Aerospace Manufacturing Monitor,True
+2020-03-01,2020,3,Heavy Geostationary Platform (>2000kg),12,108 Subsystem Kits,73.41,30,0,ESA,Europe,Orbitalytics Aerospace Manufacturing Monitor,True
+2018-02-01,2018,2,SmallSat (<500kg),21,147 Subsystem Kits,345.0,47,0,ESA,Europe,Orbitalytics Aerospace Manufacturing Monitor,True
+2022-06-01,2022,6,SmallSat (<500kg),29,261 Subsystem Kits,171.95,35,0,Commercial (SpaceX / Private),United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2018-09-01,2018,9,CubeSat (1U-12U),28,364 Subsystem Kits,466.59,28,0,Commercial (SpaceX / Private),United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2021-04-01,2021,4,Medium Bus (500-2000kg),7,105 Subsystem Kits,161.89,37,0,Commercial (SpaceX / Private),United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2023-03-01,2023,3,Medium Bus (500-2000kg),30,300 Subsystem Kits,758.1,35,0,NASA,United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2019-11-01,2019,11,Medium Bus (500-2000kg),31,217 Subsystem Kits,180.4,15,16,Roscosmos,Russia,Orbitalytics Aerospace Manufacturing Monitor,True
+2020-04-01,2020,4,CubeSat (1U-12U),30,390 Subsystem Kits,859.71,17,13,ESA,Europe,Orbitalytics Aerospace Manufacturing Monitor,True
+2024-06-01,2024,6,CubeSat (1U-12U),17,272 Subsystem Kits,601.6,13,4,Roscosmos,Russia,Orbitalytics Aerospace Manufacturing Monitor,True
+2026-06-01,2026,6,SmallSat (<500kg),28,280 Subsystem Kits,1060.91,14,14,JAXA,Japan,Orbitalytics Aerospace Manufacturing Monitor,True
+2023-10-01,2023,10,Heavy Geostationary Platform (>2000kg),24,120 Subsystem Kits,587.1,47,0,JAXA,Japan,Orbitalytics Aerospace Manufacturing Monitor,True
+2025-07-01,2025,7,Heavy Geostationary Platform (>2000kg),27,162 Subsystem Kits,126.39,21,6,CNSA,China,Orbitalytics Aerospace Manufacturing Monitor,True
+2022-10-01,2022,10,Heavy Geostationary Platform (>2000kg),18,252 Subsystem Kits,498.2,32,0,ESA,Europe,Orbitalytics Aerospace Manufacturing Monitor,True
+2025-11-01,2025,11,Medium Bus (500-2000kg),16,112 Subsystem Kits,42.57,27,0,NASA,United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2022-10-01,2022,10,Medium Bus (500-2000kg),10,60 Subsystem Kits,61.77,36,0,Roscosmos,Russia,Orbitalytics Aerospace Manufacturing Monitor,True
+2025-08-01,2025,8,SmallSat (<500kg),8,120 Subsystem Kits,153.3,27,0,JAXA,Japan,Orbitalytics Aerospace Manufacturing Monitor,True
+2020-02-01,2020,2,SmallSat (<500kg),12,72 Subsystem Kits,395.44,29,0,ISRO,India,Orbitalytics Aerospace Manufacturing Monitor,True
+2021-09-01,2021,9,CubeSat (1U-12U),31,124 Subsystem Kits,179.46,46,0,Roscosmos,Russia,Orbitalytics Aerospace Manufacturing Monitor,True
+2021-02-01,2021,2,Medium Bus (500-2000kg),29,116 Subsystem Kits,539.59,16,13,ESA,Europe,Orbitalytics Aerospace Manufacturing Monitor,True
+2026-04-01,2026,4,SmallSat (<500kg),24,96 Subsystem Kits,680.89,30,0,Roscosmos,Russia,Orbitalytics Aerospace Manufacturing Monitor,True
+2020-08-01,2020,8,SmallSat (<500kg),16,144 Subsystem Kits,97.44,29,0,CNSA,China,Orbitalytics Aerospace Manufacturing Monitor,True
+2021-06-01,2021,6,Medium Bus (500-2000kg),6,84 Subsystem Kits,153.49,22,0,ESA,Europe,Orbitalytics Aerospace Manufacturing Monitor,True
+2019-12-01,2019,12,Medium Bus (500-2000kg),15,195 Subsystem Kits,271.53,14,1,Roscosmos,Russia,Orbitalytics Aerospace Manufacturing Monitor,True
+2021-04-01,2021,4,CubeSat (1U-12U),25,275 Subsystem Kits,736.73,26,0,Roscosmos,Russia,Orbitalytics Aerospace Manufacturing Monitor,True
+2022-04-01,2022,4,CubeSat (1U-12U),23,322 Subsystem Kits,256.0,50,0,Roscosmos,Russia,Orbitalytics Aerospace Manufacturing Monitor,True
+2022-02-01,2022,2,SmallSat (<500kg),21,252 Subsystem Kits,413.89,36,0,CNSA,China,Orbitalytics Aerospace Manufacturing Monitor,True
+2018-07-01,2018,7,SmallSat (<500kg),10,130 Subsystem Kits,352.68,18,0,CNSA,China,Orbitalytics Aerospace Manufacturing Monitor,True
+2026-12-01,2026,12,Medium Bus (500-2000kg),22,176 Subsystem Kits,87.45,42,0,Roscosmos,Russia,Orbitalytics Aerospace Manufacturing Monitor,True
+2026-07-01,2026,7,Heavy Geostationary Platform (>2000kg),8,128 Subsystem Kits,182.7,16,0,ISRO,India,Orbitalytics Aerospace Manufacturing Monitor,True
+2020-06-01,2020,6,CubeSat (1U-12U),28,364 Subsystem Kits,1005.78,48,0,CNSA,China,Orbitalytics Aerospace Manufacturing Monitor,True
+2023-04-01,2023,4,CubeSat (1U-12U),20,100 Subsystem Kits,568.05,31,0,ESA,Europe,Orbitalytics Aerospace Manufacturing Monitor,True
+2019-04-01,2019,4,SmallSat (<500kg),28,280 Subsystem Kits,481.79,28,0,ESA,Europe,Orbitalytics Aerospace Manufacturing Monitor,True
+2024-01-01,2024,1,Heavy Geostationary Platform (>2000kg),7,49 Subsystem Kits,96.7,25,0,NASA,United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2021-07-01,2021,7,CubeSat (1U-12U),31,341 Subsystem Kits,594.32,18,13,JAXA,Japan,Orbitalytics Aerospace Manufacturing Monitor,True
+2018-07-01,2018,7,Medium Bus (500-2000kg),31,217 Subsystem Kits,743.83,33,0,Roscosmos,Russia,Orbitalytics Aerospace Manufacturing Monitor,True
+2019-08-01,2019,8,CubeSat (1U-12U),12,96 Subsystem Kits,366.3,48,0,Commercial (SpaceX / Private),United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2025-03-01,2025,3,CubeSat (1U-12U),25,275 Subsystem Kits,938.71,37,0,Commercial (SpaceX / Private),United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2019-09-01,2019,9,CubeSat (1U-12U),18,126 Subsystem Kits,319.79,49,0,ESA,Europe,Orbitalytics Aerospace Manufacturing Monitor,True
+2025-09-01,2025,9,CubeSat (1U-12U),25,275 Subsystem Kits,883.98,50,0,NASA,United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2025-05-01,2025,5,Heavy Geostationary Platform (>2000kg),17,221 Subsystem Kits,51.11,17,0,ISRO,India,Orbitalytics Aerospace Manufacturing Monitor,True
+2023-04-01,2023,4,SmallSat (<500kg),24,216 Subsystem Kits,807.22,38,0,Commercial (SpaceX / Private),United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2024-02-01,2024,2,CubeSat (1U-12U),17,255 Subsystem Kits,304.69,28,0,ISRO,India,Orbitalytics Aerospace Manufacturing Monitor,True
+2021-10-01,2021,10,Medium Bus (500-2000kg),4,40 Subsystem Kits,133.97,18,0,ESA,Europe,Orbitalytics Aerospace Manufacturing Monitor,True
+2023-08-01,2023,8,Medium Bus (500-2000kg),19,266 Subsystem Kits,329.55,47,0,JAXA,Japan,Orbitalytics Aerospace Manufacturing Monitor,True
+2022-03-01,2022,3,Medium Bus (500-2000kg),6,78 Subsystem Kits,90.78,13,0,NASA,United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2024-11-01,2024,11,Heavy Geostationary Platform (>2000kg),13,156 Subsystem Kits,369.97,23,0,ISRO,India,Orbitalytics Aerospace Manufacturing Monitor,True
+2026-09-01,2026,9,Medium Bus (500-2000kg),11,77 Subsystem Kits,100.15,17,0,ISRO,India,Orbitalytics Aerospace Manufacturing Monitor,True
+2026-04-01,2026,4,Heavy Geostationary Platform (>2000kg),32,224 Subsystem Kits,1095.63,29,3,ESA,Europe,Orbitalytics Aerospace Manufacturing Monitor,True
+2025-08-01,2025,8,Medium Bus (500-2000kg),7,63 Subsystem Kits,119.21,42,0,ISRO,India,Orbitalytics Aerospace Manufacturing Monitor,True
+2020-06-01,2020,6,Heavy Geostationary Platform (>2000kg),10,70 Subsystem Kits,277.98,27,0,CNSA,China,Orbitalytics Aerospace Manufacturing Monitor,True
+2024-07-01,2024,7,Heavy Geostationary Platform (>2000kg),13,65 Subsystem Kits,114.02,41,0,JAXA,Japan,Orbitalytics Aerospace Manufacturing Monitor,True
+2024-06-01,2024,6,Heavy Geostationary Platform (>2000kg),8,72 Subsystem Kits,264.58,50,0,NASA,United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2021-10-01,2021,10,Medium Bus (500-2000kg),23,368 Subsystem Kits,277.42,33,0,CNSA,China,Orbitalytics Aerospace Manufacturing Monitor,True
+2026-11-01,2026,11,Heavy Geostationary Platform (>2000kg),22,264 Subsystem Kits,155.33,26,0,NASA,United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2025-12-01,2025,12,SmallSat (<500kg),4,36 Subsystem Kits,31.37,31,0,JAXA,Japan,Orbitalytics Aerospace Manufacturing Monitor,True
+2025-10-01,2025,10,Medium Bus (500-2000kg),8,64 Subsystem Kits,78.04,49,0,Roscosmos,Russia,Orbitalytics Aerospace Manufacturing Monitor,True
+2019-05-01,2019,5,CubeSat (1U-12U),20,180 Subsystem Kits,162.81,14,6,ESA,Europe,Orbitalytics Aerospace Manufacturing Monitor,True
+2024-08-01,2024,8,Medium Bus (500-2000kg),3,24 Subsystem Kits,97.24,19,0,ISRO,India,Orbitalytics Aerospace Manufacturing Monitor,True
+2022-01-01,2022,1,Medium Bus (500-2000kg),32,192 Subsystem Kits,431.29,33,0,ESA,Europe,Orbitalytics Aerospace Manufacturing Monitor,True
+2018-04-01,2018,4,Heavy Geostationary Platform (>2000kg),30,300 Subsystem Kits,467.11,39,0,Roscosmos,Russia,Orbitalytics Aerospace Manufacturing Monitor,True
+2025-11-01,2025,11,SmallSat (<500kg),4,64 Subsystem Kits,135.18,46,0,JAXA,Japan,Orbitalytics Aerospace Manufacturing Monitor,True
+2019-11-01,2019,11,Heavy Geostationary Platform (>2000kg),21,84 Subsystem Kits,533.17,47,0,CNSA,China,Orbitalytics Aerospace Manufacturing Monitor,True
+2022-01-01,2022,1,Medium Bus (500-2000kg),7,56 Subsystem Kits,138.68,24,0,JAXA,Japan,Orbitalytics Aerospace Manufacturing Monitor,True
+2023-12-01,2023,12,Heavy Geostationary Platform (>2000kg),7,105 Subsystem Kits,27.88,17,0,Commercial (SpaceX / Private),United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2018-09-01,2018,9,CubeSat (1U-12U),32,192 Subsystem Kits,253.74,19,13,Roscosmos,Russia,Orbitalytics Aerospace Manufacturing Monitor,True
+2019-12-01,2019,12,SmallSat (<500kg),21,84 Subsystem Kits,209.51,11,10,NASA,United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2019-12-01,2019,12,Medium Bus (500-2000kg),3,24 Subsystem Kits,17.48,38,0,ESA,Europe,Orbitalytics Aerospace Manufacturing Monitor,True
+2018-12-01,2018,12,Heavy Geostationary Platform (>2000kg),12,108 Subsystem Kits,178.01,33,0,Roscosmos,Russia,Orbitalytics Aerospace Manufacturing Monitor,True
+2026-04-01,2026,4,SmallSat (<500kg),31,248 Subsystem Kits,841.49,11,20,ESA,Europe,Orbitalytics Aerospace Manufacturing Monitor,True
+2025-12-01,2025,12,Heavy Geostationary Platform (>2000kg),23,230 Subsystem Kits,686.2,30,0,CNSA,China,Orbitalytics Aerospace Manufacturing Monitor,True
+2020-07-01,2020,7,Medium Bus (500-2000kg),19,133 Subsystem Kits,203.91,23,0,CNSA,China,Orbitalytics Aerospace Manufacturing Monitor,True
+2023-02-01,2023,2,Medium Bus (500-2000kg),27,189 Subsystem Kits,614.55,12,15,Commercial (SpaceX / Private),United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2018-09-01,2018,9,Medium Bus (500-2000kg),13,91 Subsystem Kits,96.13,15,0,Roscosmos,Russia,Orbitalytics Aerospace Manufacturing Monitor,True
+2018-07-01,2018,7,CubeSat (1U-12U),28,392 Subsystem Kits,727.85,26,2,NASA,United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2021-06-01,2021,6,Medium Bus (500-2000kg),3,21 Subsystem Kits,75.53,46,0,Commercial (SpaceX / Private),United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2025-11-01,2025,11,Medium Bus (500-2000kg),8,56 Subsystem Kits,157.46,50,0,Commercial (SpaceX / Private),United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2018-12-01,2018,12,Medium Bus (500-2000kg),15,75 Subsystem Kits,481.74,39,0,ESA,Europe,Orbitalytics Aerospace Manufacturing Monitor,True
+2026-03-01,2026,3,SmallSat (<500kg),7,98 Subsystem Kits,40.37,34,0,CNSA,China,Orbitalytics Aerospace Manufacturing Monitor,True
+2020-04-01,2020,4,Heavy Geostationary Platform (>2000kg),13,143 Subsystem Kits,63.43,34,0,NASA,United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2018-09-01,2018,9,CubeSat (1U-12U),6,36 Subsystem Kits,185.92,13,0,Roscosmos,Russia,Orbitalytics Aerospace Manufacturing Monitor,True
+2024-10-01,2024,10,SmallSat (<500kg),16,256 Subsystem Kits,426.2,10,6,Commercial (SpaceX / Private),United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2025-10-01,2025,10,SmallSat (<500kg),23,368 Subsystem Kits,778.27,25,0,Roscosmos,Russia,Orbitalytics Aerospace Manufacturing Monitor,True
+2022-11-01,2022,11,Heavy Geostationary Platform (>2000kg),20,260 Subsystem Kits,95.32,14,6,ISRO,India,Orbitalytics Aerospace Manufacturing Monitor,True
+2022-08-01,2022,8,SmallSat (<500kg),23,230 Subsystem Kits,624.12,43,0,Roscosmos,Russia,Orbitalytics Aerospace Manufacturing Monitor,True
+2022-01-01,2022,1,Heavy Geostationary Platform (>2000kg),11,132 Subsystem Kits,286.62,24,0,ESA,Europe,Orbitalytics Aerospace Manufacturing Monitor,True
+2018-04-01,2018,4,Medium Bus (500-2000kg),10,90 Subsystem Kits,49.96,50,0,Roscosmos,Russia,Orbitalytics Aerospace Manufacturing Monitor,True
+2023-01-01,2023,1,CubeSat (1U-12U),17,238 Subsystem Kits,408.95,48,0,CNSA,China,Orbitalytics Aerospace Manufacturing Monitor,True
+2025-03-01,2025,3,SmallSat (<500kg),24,312 Subsystem Kits,504.06,34,0,NASA,United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2019-01-01,2019,1,Medium Bus (500-2000kg),16,112 Subsystem Kits,257.51,40,0,ESA,Europe,Orbitalytics Aerospace Manufacturing Monitor,True
+2025-07-01,2025,7,SmallSat (<500kg),12,84 Subsystem Kits,443.3,30,0,ESA,Europe,Orbitalytics Aerospace Manufacturing Monitor,True
+2020-12-01,2020,12,Medium Bus (500-2000kg),4,40 Subsystem Kits,52.59,34,0,Commercial (SpaceX / Private),United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2026-06-01,2026,6,SmallSat (<500kg),16,240 Subsystem Kits,351.17,31,0,CNSA,China,Orbitalytics Aerospace Manufacturing Monitor,True
+2018-11-01,2018,11,CubeSat (1U-12U),5,75 Subsystem Kits,176.3,50,0,ESA,Europe,Orbitalytics Aerospace Manufacturing Monitor,True
+2022-05-01,2022,5,Medium Bus (500-2000kg),20,220 Subsystem Kits,440.9,29,0,Roscosmos,Russia,Orbitalytics Aerospace Manufacturing Monitor,True
+2025-05-01,2025,5,SmallSat (<500kg),1,16 Subsystem Kits,4.52,16,0,CNSA,China,Orbitalytics Aerospace Manufacturing Monitor,True
+2021-11-01,2021,11,Heavy Geostationary Platform (>2000kg),1,15 Subsystem Kits,7.28,16,0,Roscosmos,Russia,Orbitalytics Aerospace Manufacturing Monitor,True
+2023-10-01,2023,10,Heavy Geostationary Platform (>2000kg),30,270 Subsystem Kits,727.09,18,12,Roscosmos,Russia,Orbitalytics Aerospace Manufacturing Monitor,True
+2019-01-01,2019,1,Medium Bus (500-2000kg),16,96 Subsystem Kits,585.94,23,0,Commercial (SpaceX / Private),United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2018-04-01,2018,4,Medium Bus (500-2000kg),7,84 Subsystem Kits,176.52,18,0,NASA,United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2020-10-01,2020,10,CubeSat (1U-12U),4,36 Subsystem Kits,74.45,48,0,Commercial (SpaceX / Private),United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2023-02-01,2023,2,Heavy Geostationary Platform (>2000kg),21,231 Subsystem Kits,168.62,23,0,Commercial (SpaceX / Private),United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2024-11-01,2024,11,CubeSat (1U-12U),32,480 Subsystem Kits,925.95,23,9,NASA,United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2023-02-01,2023,2,SmallSat (<500kg),11,110 Subsystem Kits,209.85,37,0,NASA,United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2020-08-01,2020,8,SmallSat (<500kg),8,40 Subsystem Kits,101.13,20,0,Commercial (SpaceX / Private),United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2022-06-01,2022,6,SmallSat (<500kg),14,168 Subsystem Kits,321.82,32,0,Commercial (SpaceX / Private),United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2023-07-01,2023,7,Medium Bus (500-2000kg),26,156 Subsystem Kits,212.33,47,0,ESA,Europe,Orbitalytics Aerospace Manufacturing Monitor,True
+2022-05-01,2022,5,Medium Bus (500-2000kg),3,33 Subsystem Kits,15.5,29,0,CNSA,China,Orbitalytics Aerospace Manufacturing Monitor,True
+2024-04-01,2024,4,SmallSat (<500kg),29,435 Subsystem Kits,850.07,45,0,ISRO,India,Orbitalytics Aerospace Manufacturing Monitor,True
+2024-05-01,2024,5,SmallSat (<500kg),23,276 Subsystem Kits,685.92,32,0,Commercial (SpaceX / Private),United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2024-07-01,2024,7,Medium Bus (500-2000kg),32,448 Subsystem Kits,742.92,30,2,JAXA,Japan,Orbitalytics Aerospace Manufacturing Monitor,True
+2023-02-01,2023,2,Heavy Geostationary Platform (>2000kg),1,4 Subsystem Kits,22.41,33,0,JAXA,Japan,Orbitalytics Aerospace Manufacturing Monitor,True
+2022-06-01,2022,6,Heavy Geostationary Platform (>2000kg),27,351 Subsystem Kits,131.36,33,0,JAXA,Japan,Orbitalytics Aerospace Manufacturing Monitor,True
+2020-06-01,2020,6,CubeSat (1U-12U),21,84 Subsystem Kits,360.26,39,0,Roscosmos,Russia,Orbitalytics Aerospace Manufacturing Monitor,True
+2022-07-01,2022,7,SmallSat (<500kg),28,364 Subsystem Kits,1021.68,41,0,ISRO,India,Orbitalytics Aerospace Manufacturing Monitor,True
+2022-12-01,2022,12,CubeSat (1U-12U),4,60 Subsystem Kits,66.43,10,0,ISRO,India,Orbitalytics Aerospace Manufacturing Monitor,True
+2026-12-01,2026,12,Heavy Geostationary Platform (>2000kg),15,180 Subsystem Kits,454.03,21,0,Roscosmos,Russia,Orbitalytics Aerospace Manufacturing Monitor,True
+2019-07-01,2019,7,CubeSat (1U-12U),19,171 Subsystem Kits,143.43,39,0,ISRO,India,Orbitalytics Aerospace Manufacturing Monitor,True
+2020-03-01,2020,3,SmallSat (<500kg),2,12 Subsystem Kits,28.76,17,0,NASA,United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2020-10-01,2020,10,SmallSat (<500kg),1,8 Subsystem Kits,31.5,28,0,Commercial (SpaceX / Private),United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2025-07-01,2025,7,Heavy Geostationary Platform (>2000kg),9,72 Subsystem Kits,100.29,16,0,Roscosmos,Russia,Orbitalytics Aerospace Manufacturing Monitor,True
+2025-11-01,2025,11,Heavy Geostationary Platform (>2000kg),17,102 Subsystem Kits,97.79,16,1,CNSA,China,Orbitalytics Aerospace Manufacturing Monitor,True
+2023-09-01,2023,9,Medium Bus (500-2000kg),18,162 Subsystem Kits,427.31,44,0,Roscosmos,Russia,Orbitalytics Aerospace Manufacturing Monitor,True
+2026-11-01,2026,11,SmallSat (<500kg),22,308 Subsystem Kits,284.06,48,0,ESA,Europe,Orbitalytics Aerospace Manufacturing Monitor,True
+2023-04-01,2023,4,CubeSat (1U-12U),28,420 Subsystem Kits,1008.32,48,0,Commercial (SpaceX / Private),United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2026-12-01,2026,12,SmallSat (<500kg),9,45 Subsystem Kits,173.78,30,0,ISRO,India,Orbitalytics Aerospace Manufacturing Monitor,True
+2019-09-01,2019,9,CubeSat (1U-12U),3,48 Subsystem Kits,17.07,29,0,ESA,Europe,Orbitalytics Aerospace Manufacturing Monitor,True
+2019-02-01,2019,2,Heavy Geostationary Platform (>2000kg),16,160 Subsystem Kits,85.19,48,0,CNSA,China,Orbitalytics Aerospace Manufacturing Monitor,True
+2018-10-01,2018,10,SmallSat (<500kg),28,112 Subsystem Kits,609.53,16,12,ESA,Europe,Orbitalytics Aerospace Manufacturing Monitor,True
+2023-10-01,2023,10,CubeSat (1U-12U),19,95 Subsystem Kits,554.67,50,0,ISRO,India,Orbitalytics Aerospace Manufacturing Monitor,True
+2018-01-01,2018,1,Heavy Geostationary Platform (>2000kg),18,234 Subsystem Kits,586.17,33,0,CNSA,China,Orbitalytics Aerospace Manufacturing Monitor,True
+2022-11-01,2022,11,Medium Bus (500-2000kg),14,182 Subsystem Kits,528.06,32,0,JAXA,Japan,Orbitalytics Aerospace Manufacturing Monitor,True
+2019-01-01,2019,1,Medium Bus (500-2000kg),11,44 Subsystem Kits,307.13,20,0,Roscosmos,Russia,Orbitalytics Aerospace Manufacturing Monitor,True
+2026-03-01,2026,3,Medium Bus (500-2000kg),6,54 Subsystem Kits,131.16,36,0,Roscosmos,Russia,Orbitalytics Aerospace Manufacturing Monitor,True
+2026-08-01,2026,8,CubeSat (1U-12U),30,120 Subsystem Kits,260.38,31,0,ISRO,India,Orbitalytics Aerospace Manufacturing Monitor,True
+2019-06-01,2019,6,Medium Bus (500-2000kg),20,260 Subsystem Kits,754.78,17,3,Roscosmos,Russia,Orbitalytics Aerospace Manufacturing Monitor,True
+2023-08-01,2023,8,SmallSat (<500kg),30,330 Subsystem Kits,883.47,10,20,NASA,United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2024-02-01,2024,2,Heavy Geostationary Platform (>2000kg),2,26 Subsystem Kits,69.48,37,0,Commercial (SpaceX / Private),United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2023-02-01,2023,2,CubeSat (1U-12U),14,112 Subsystem Kits,120.4,44,0,ISRO,India,Orbitalytics Aerospace Manufacturing Monitor,True
+2023-06-01,2023,6,SmallSat (<500kg),25,300 Subsystem Kits,584.32,33,0,Commercial (SpaceX / Private),United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2018-12-01,2018,12,Heavy Geostationary Platform (>2000kg),30,180 Subsystem Kits,510.83,49,0,ESA,Europe,Orbitalytics Aerospace Manufacturing Monitor,True
+2023-07-01,2023,7,Heavy Geostationary Platform (>2000kg),8,104 Subsystem Kits,179.99,26,0,ESA,Europe,Orbitalytics Aerospace Manufacturing Monitor,True
+2026-11-01,2026,11,Heavy Geostationary Platform (>2000kg),2,10 Subsystem Kits,17.65,37,0,NASA,United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2021-06-01,2021,6,CubeSat (1U-12U),11,44 Subsystem Kits,345.47,18,0,NASA,United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2024-10-01,2024,10,Medium Bus (500-2000kg),24,168 Subsystem Kits,153.45,40,0,CNSA,China,Orbitalytics Aerospace Manufacturing Monitor,True
+2021-09-01,2021,9,Medium Bus (500-2000kg),17,238 Subsystem Kits,251.36,50,0,Roscosmos,Russia,Orbitalytics Aerospace Manufacturing Monitor,True
+2025-06-01,2025,6,SmallSat (<500kg),14,210 Subsystem Kits,316.84,42,0,JAXA,Japan,Orbitalytics Aerospace Manufacturing Monitor,True
+2021-12-01,2021,12,Medium Bus (500-2000kg),6,90 Subsystem Kits,130.15,40,0,Roscosmos,Russia,Orbitalytics Aerospace Manufacturing Monitor,True
+2019-09-01,2019,9,Heavy Geostationary Platform (>2000kg),1,16 Subsystem Kits,20.81,50,0,CNSA,China,Orbitalytics Aerospace Manufacturing Monitor,True
+2021-04-01,2021,4,CubeSat (1U-12U),8,72 Subsystem Kits,246.17,49,0,Roscosmos,Russia,Orbitalytics Aerospace Manufacturing Monitor,True
+2021-02-01,2021,2,SmallSat (<500kg),14,112 Subsystem Kits,167.18,20,0,Roscosmos,Russia,Orbitalytics Aerospace Manufacturing Monitor,True
+2025-02-01,2025,2,Heavy Geostationary Platform (>2000kg),1,11 Subsystem Kits,7.63,42,0,NASA,United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2021-12-01,2021,12,Heavy Geostationary Platform (>2000kg),16,224 Subsystem Kits,329.62,49,0,Commercial (SpaceX / Private),United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2020-03-01,2020,3,CubeSat (1U-12U),13,78 Subsystem Kits,372.33,42,0,NASA,United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2022-09-01,2022,9,CubeSat (1U-12U),20,180 Subsystem Kits,258.56,25,0,ESA,Europe,Orbitalytics Aerospace Manufacturing Monitor,True
+2024-05-01,2024,5,Heavy Geostationary Platform (>2000kg),7,35 Subsystem Kits,163.15,40,0,NASA,United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2020-11-01,2020,11,CubeSat (1U-12U),19,247 Subsystem Kits,634.56,49,0,Commercial (SpaceX / Private),United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2026-05-01,2026,5,CubeSat (1U-12U),12,192 Subsystem Kits,99.89,27,0,NASA,United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2019-09-01,2019,9,Heavy Geostationary Platform (>2000kg),3,42 Subsystem Kits,92.78,24,0,NASA,United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2025-08-01,2025,8,CubeSat (1U-12U),16,128 Subsystem Kits,423.95,23,0,Commercial (SpaceX / Private),United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2023-12-01,2023,12,SmallSat (<500kg),4,24 Subsystem Kits,104.79,46,0,NASA,United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2021-04-01,2021,4,CubeSat (1U-12U),32,384 Subsystem Kits,359.38,32,0,ISRO,India,Orbitalytics Aerospace Manufacturing Monitor,True
+2026-03-01,2026,3,SmallSat (<500kg),27,135 Subsystem Kits,796.02,13,14,NASA,United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2025-10-01,2025,10,Medium Bus (500-2000kg),10,80 Subsystem Kits,173.55,33,0,Roscosmos,Russia,Orbitalytics Aerospace Manufacturing Monitor,True
+2019-07-01,2019,7,SmallSat (<500kg),6,84 Subsystem Kits,218.0,10,0,JAXA,Japan,Orbitalytics Aerospace Manufacturing Monitor,True
+2018-09-01,2018,9,Heavy Geostationary Platform (>2000kg),11,66 Subsystem Kits,80.96,16,0,NASA,United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2024-07-01,2024,7,CubeSat (1U-12U),30,420 Subsystem Kits,377.97,50,0,ISRO,India,Orbitalytics Aerospace Manufacturing Monitor,True
+2020-10-01,2020,10,SmallSat (<500kg),25,375 Subsystem Kits,175.98,25,0,ISRO,India,Orbitalytics Aerospace Manufacturing Monitor,True
+2019-04-01,2019,4,CubeSat (1U-12U),7,70 Subsystem Kits,84.81,48,0,ISRO,India,Orbitalytics Aerospace Manufacturing Monitor,True
+2020-10-01,2020,10,Medium Bus (500-2000kg),2,16 Subsystem Kits,10.87,43,0,CNSA,China,Orbitalytics Aerospace Manufacturing Monitor,True
+2022-11-01,2022,11,Medium Bus (500-2000kg),23,184 Subsystem Kits,801.7,47,0,CNSA,China,Orbitalytics Aerospace Manufacturing Monitor,True
+2023-05-01,2023,5,Heavy Geostationary Platform (>2000kg),10,140 Subsystem Kits,190.5,19,0,Roscosmos,Russia,Orbitalytics Aerospace Manufacturing Monitor,True
+2025-05-01,2025,5,CubeSat (1U-12U),19,114 Subsystem Kits,578.25,29,0,Commercial (SpaceX / Private),United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2023-07-01,2023,7,CubeSat (1U-12U),29,377 Subsystem Kits,310.25,26,3,Roscosmos,Russia,Orbitalytics Aerospace Manufacturing Monitor,True
+2023-02-01,2023,2,Medium Bus (500-2000kg),25,200 Subsystem Kits,837.28,29,0,NASA,United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2025-05-01,2025,5,Heavy Geostationary Platform (>2000kg),24,360 Subsystem Kits,500.32,28,0,ISRO,India,Orbitalytics Aerospace Manufacturing Monitor,True
+2020-12-01,2020,12,SmallSat (<500kg),21,252 Subsystem Kits,714.04,42,0,ISRO,India,Orbitalytics Aerospace Manufacturing Monitor,True
+2024-06-01,2024,6,Heavy Geostationary Platform (>2000kg),20,260 Subsystem Kits,663.86,45,0,Roscosmos,Russia,Orbitalytics Aerospace Manufacturing Monitor,True
+2021-02-01,2021,2,CubeSat (1U-12U),17,136 Subsystem Kits,329.56,45,0,ESA,Europe,Orbitalytics Aerospace Manufacturing Monitor,True
+2019-04-01,2019,4,CubeSat (1U-12U),16,208 Subsystem Kits,481.26,48,0,ESA,Europe,Orbitalytics Aerospace Manufacturing Monitor,True
+2026-04-01,2026,4,Medium Bus (500-2000kg),17,187 Subsystem Kits,413.8,41,0,JAXA,Japan,Orbitalytics Aerospace Manufacturing Monitor,True
+2019-06-01,2019,6,SmallSat (<500kg),29,174 Subsystem Kits,331.27,19,10,JAXA,Japan,Orbitalytics Aerospace Manufacturing Monitor,True
+2023-01-01,2023,1,CubeSat (1U-12U),11,154 Subsystem Kits,307.32,43,0,ISRO,India,Orbitalytics Aerospace Manufacturing Monitor,True
+2020-05-01,2020,5,Medium Bus (500-2000kg),7,49 Subsystem Kits,135.49,21,0,ESA,Europe,Orbitalytics Aerospace Manufacturing Monitor,True
+2018-08-01,2018,8,Heavy Geostationary Platform (>2000kg),10,130 Subsystem Kits,130.62,14,0,Commercial (SpaceX / Private),United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2025-01-01,2025,1,Medium Bus (500-2000kg),14,140 Subsystem Kits,503.65,13,1,JAXA,Japan,Orbitalytics Aerospace Manufacturing Monitor,True
+2026-11-01,2026,11,SmallSat (<500kg),16,176 Subsystem Kits,396.14,41,0,ESA,Europe,Orbitalytics Aerospace Manufacturing Monitor,True
+2020-02-01,2020,2,SmallSat (<500kg),24,216 Subsystem Kits,905.38,43,0,ESA,Europe,Orbitalytics Aerospace Manufacturing Monitor,True
+2023-06-01,2023,6,SmallSat (<500kg),30,480 Subsystem Kits,801.74,44,0,CNSA,China,Orbitalytics Aerospace Manufacturing Monitor,True
+2021-03-01,2021,3,SmallSat (<500kg),27,351 Subsystem Kits,975.68,43,0,Commercial (SpaceX / Private),United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2018-09-01,2018,9,Medium Bus (500-2000kg),7,91 Subsystem Kits,147.54,42,0,ISRO,India,Orbitalytics Aerospace Manufacturing Monitor,True
+2019-10-01,2019,10,CubeSat (1U-12U),8,96 Subsystem Kits,196.18,21,0,Roscosmos,Russia,Orbitalytics Aerospace Manufacturing Monitor,True
+2022-03-01,2022,3,Heavy Geostationary Platform (>2000kg),16,160 Subsystem Kits,483.06,10,6,NASA,United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2023-06-01,2023,6,SmallSat (<500kg),13,91 Subsystem Kits,119.3,29,0,ISRO,India,Orbitalytics Aerospace Manufacturing Monitor,True
+2019-10-01,2019,10,Medium Bus (500-2000kg),30,120 Subsystem Kits,548.72,50,0,ESA,Europe,Orbitalytics Aerospace Manufacturing Monitor,True
+2020-05-01,2020,5,CubeSat (1U-12U),14,196 Subsystem Kits,108.71,22,0,ISRO,India,Orbitalytics Aerospace Manufacturing Monitor,True
+2019-11-01,2019,11,CubeSat (1U-12U),2,14 Subsystem Kits,57.57,39,0,Commercial (SpaceX / Private),United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2021-03-01,2021,3,Heavy Geostationary Platform (>2000kg),13,52 Subsystem Kits,167.9,24,0,NASA,United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2022-05-01,2022,5,Heavy Geostationary Platform (>2000kg),11,143 Subsystem Kits,214.99,25,0,Roscosmos,Russia,Orbitalytics Aerospace Manufacturing Monitor,True
+2019-03-01,2019,3,CubeSat (1U-12U),32,288 Subsystem Kits,174.93,20,12,Roscosmos,Russia,Orbitalytics Aerospace Manufacturing Monitor,True
+2018-03-01,2018,3,Heavy Geostationary Platform (>2000kg),5,65 Subsystem Kits,66.33,17,0,JAXA,Japan,Orbitalytics Aerospace Manufacturing Monitor,True
+2020-05-01,2020,5,SmallSat (<500kg),31,279 Subsystem Kits,397.61,49,0,CNSA,China,Orbitalytics Aerospace Manufacturing Monitor,True
+2024-10-01,2024,10,CubeSat (1U-12U),29,261 Subsystem Kits,672.6,14,15,ESA,Europe,Orbitalytics Aerospace Manufacturing Monitor,True
+2019-10-01,2019,10,SmallSat (<500kg),6,78 Subsystem Kits,113.73,42,0,ESA,Europe,Orbitalytics Aerospace Manufacturing Monitor,True
+2024-06-01,2024,6,CubeSat (1U-12U),28,140 Subsystem Kits,919.34,13,15,ISRO,India,Orbitalytics Aerospace Manufacturing Monitor,True
+2023-05-01,2023,5,CubeSat (1U-12U),4,64 Subsystem Kits,52.14,11,0,CNSA,China,Orbitalytics Aerospace Manufacturing Monitor,True
+2024-01-01,2024,1,Heavy Geostationary Platform (>2000kg),29,203 Subsystem Kits,193.09,18,11,ESA,Europe,Orbitalytics Aerospace Manufacturing Monitor,True
+2023-08-01,2023,8,Heavy Geostationary Platform (>2000kg),9,36 Subsystem Kits,140.04,11,0,NASA,United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2024-09-01,2024,9,SmallSat (<500kg),25,175 Subsystem Kits,372.07,29,0,NASA,United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2026-05-01,2026,5,Heavy Geostationary Platform (>2000kg),16,224 Subsystem Kits,527.12,38,0,CNSA,China,Orbitalytics Aerospace Manufacturing Monitor,True
+2023-09-01,2023,9,CubeSat (1U-12U),18,126 Subsystem Kits,92.63,34,0,Commercial (SpaceX / Private),United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2019-03-01,2019,3,CubeSat (1U-12U),12,144 Subsystem Kits,282.3,14,0,Commercial (SpaceX / Private),United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2021-08-01,2021,8,SmallSat (<500kg),27,135 Subsystem Kits,999.28,31,0,ESA,Europe,Orbitalytics Aerospace Manufacturing Monitor,True
+2021-12-01,2021,12,SmallSat (<500kg),3,30 Subsystem Kits,16.71,19,0,NASA,United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2018-06-01,2018,6,SmallSat (<500kg),29,406 Subsystem Kits,110.65,39,0,ESA,Europe,Orbitalytics Aerospace Manufacturing Monitor,True
+2020-03-01,2020,3,SmallSat (<500kg),23,184 Subsystem Kits,527.61,30,0,ISRO,India,Orbitalytics Aerospace Manufacturing Monitor,True
+2022-08-01,2022,8,Heavy Geostationary Platform (>2000kg),22,220 Subsystem Kits,348.7,14,8,Commercial (SpaceX / Private),United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2023-06-01,2023,6,CubeSat (1U-12U),20,140 Subsystem Kits,688.56,13,7,CNSA,China,Orbitalytics Aerospace Manufacturing Monitor,True
+2023-12-01,2023,12,Medium Bus (500-2000kg),15,90 Subsystem Kits,530.29,28,0,JAXA,Japan,Orbitalytics Aerospace Manufacturing Monitor,True
+2020-05-01,2020,5,SmallSat (<500kg),29,290 Subsystem Kits,522.38,38,0,Commercial (SpaceX / Private),United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2024-12-01,2024,12,SmallSat (<500kg),11,121 Subsystem Kits,215.66,14,0,Roscosmos,Russia,Orbitalytics Aerospace Manufacturing Monitor,True
+2022-06-01,2022,6,Heavy Geostationary Platform (>2000kg),1,6 Subsystem Kits,37.82,31,0,ISRO,India,Orbitalytics Aerospace Manufacturing Monitor,True
+2020-12-01,2020,12,SmallSat (<500kg),19,304 Subsystem Kits,76.66,48,0,Commercial (SpaceX / Private),United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2023-05-01,2023,5,Medium Bus (500-2000kg),10,40 Subsystem Kits,239.52,44,0,JAXA,Japan,Orbitalytics Aerospace Manufacturing Monitor,True
+2025-02-01,2025,2,Medium Bus (500-2000kg),15,60 Subsystem Kits,366.26,35,0,JAXA,Japan,Orbitalytics Aerospace Manufacturing Monitor,True
+2026-10-01,2026,10,SmallSat (<500kg),19,95 Subsystem Kits,375.18,24,0,Roscosmos,Russia,Orbitalytics Aerospace Manufacturing Monitor,True
+2019-06-01,2019,6,Heavy Geostationary Platform (>2000kg),3,21 Subsystem Kits,47.98,31,0,NASA,United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2019-02-01,2019,2,Medium Bus (500-2000kg),12,180 Subsystem Kits,358.97,50,0,CNSA,China,Orbitalytics Aerospace Manufacturing Monitor,True
+2020-05-01,2020,5,Medium Bus (500-2000kg),18,72 Subsystem Kits,48.09,32,0,Roscosmos,Russia,Orbitalytics Aerospace Manufacturing Monitor,True
+2025-10-01,2025,10,Medium Bus (500-2000kg),14,210 Subsystem Kits,519.94,13,1,Roscosmos,Russia,Orbitalytics Aerospace Manufacturing Monitor,True
+2026-09-01,2026,9,Heavy Geostationary Platform (>2000kg),2,30 Subsystem Kits,22.11,43,0,CNSA,China,Orbitalytics Aerospace Manufacturing Monitor,True
+2026-11-01,2026,11,Medium Bus (500-2000kg),23,230 Subsystem Kits,831.03,24,0,Roscosmos,Russia,Orbitalytics Aerospace Manufacturing Monitor,True
+2026-08-01,2026,8,Medium Bus (500-2000kg),17,187 Subsystem Kits,267.64,49,0,ISRO,India,Orbitalytics Aerospace Manufacturing Monitor,True
+2020-06-01,2020,6,Heavy Geostationary Platform (>2000kg),17,238 Subsystem Kits,485.26,20,0,CNSA,China,Orbitalytics Aerospace Manufacturing Monitor,True
+2021-07-01,2021,7,CubeSat (1U-12U),20,180 Subsystem Kits,426.44,40,0,CNSA,China,Orbitalytics Aerospace Manufacturing Monitor,True
+2026-06-01,2026,6,Medium Bus (500-2000kg),32,384 Subsystem Kits,150.13,38,0,JAXA,Japan,Orbitalytics Aerospace Manufacturing Monitor,True
+2020-06-01,2020,6,Heavy Geostationary Platform (>2000kg),31,155 Subsystem Kits,333.44,42,0,Commercial (SpaceX / Private),United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2025-09-01,2025,9,CubeSat (1U-12U),26,208 Subsystem Kits,687.71,48,0,ISRO,India,Orbitalytics Aerospace Manufacturing Monitor,True
+2021-11-01,2021,11,CubeSat (1U-12U),7,112 Subsystem Kits,242.54,20,0,ISRO,India,Orbitalytics Aerospace Manufacturing Monitor,True
+2019-11-01,2019,11,Heavy Geostationary Platform (>2000kg),31,403 Subsystem Kits,863.14,46,0,ISRO,India,Orbitalytics Aerospace Manufacturing Monitor,True
+2023-03-01,2023,3,SmallSat (<500kg),30,120 Subsystem Kits,305.43,16,14,CNSA,China,Orbitalytics Aerospace Manufacturing Monitor,True
+2024-04-01,2024,4,SmallSat (<500kg),24,264 Subsystem Kits,331.08,45,0,NASA,United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2023-04-01,2023,4,Heavy Geostationary Platform (>2000kg),4,52 Subsystem Kits,125.68,12,0,ISRO,India,Orbitalytics Aerospace Manufacturing Monitor,True
+2019-04-01,2019,4,SmallSat (<500kg),25,125 Subsystem Kits,669.55,11,14,Roscosmos,Russia,Orbitalytics Aerospace Manufacturing Monitor,True
+2022-02-01,2022,2,Medium Bus (500-2000kg),27,162 Subsystem Kits,663.47,40,0,ISRO,India,Orbitalytics Aerospace Manufacturing Monitor,True
+2018-04-01,2018,4,Medium Bus (500-2000kg),5,60 Subsystem Kits,88.36,30,0,Roscosmos,Russia,Orbitalytics Aerospace Manufacturing Monitor,True
+2020-12-01,2020,12,Heavy Geostationary Platform (>2000kg),15,195 Subsystem Kits,426.23,43,0,NASA,United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2019-08-01,2019,8,CubeSat (1U-12U),5,20 Subsystem Kits,26.28,22,0,ISRO,India,Orbitalytics Aerospace Manufacturing Monitor,True
+2018-10-01,2018,10,SmallSat (<500kg),32,256 Subsystem Kits,602.45,43,0,Commercial (SpaceX / Private),United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2026-08-01,2026,8,Heavy Geostationary Platform (>2000kg),4,44 Subsystem Kits,77.61,24,0,JAXA,Japan,Orbitalytics Aerospace Manufacturing Monitor,True
+2020-08-01,2020,8,CubeSat (1U-12U),27,297 Subsystem Kits,398.22,20,7,ESA,Europe,Orbitalytics Aerospace Manufacturing Monitor,True
+2019-01-01,2019,1,Heavy Geostationary Platform (>2000kg),4,56 Subsystem Kits,12.3,35,0,ISRO,India,Orbitalytics Aerospace Manufacturing Monitor,True
+2022-01-01,2022,1,Heavy Geostationary Platform (>2000kg),31,124 Subsystem Kits,79.28,39,0,CNSA,China,Orbitalytics Aerospace Manufacturing Monitor,True
+2023-11-01,2023,11,SmallSat (<500kg),9,90 Subsystem Kits,238.35,35,0,NASA,United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2024-02-01,2024,2,CubeSat (1U-12U),1,16 Subsystem Kits,2.61,31,0,Roscosmos,Russia,Orbitalytics Aerospace Manufacturing Monitor,True
+2018-08-01,2018,8,Heavy Geostationary Platform (>2000kg),3,15 Subsystem Kits,14.14,11,0,ESA,Europe,Orbitalytics Aerospace Manufacturing Monitor,True
+2020-12-01,2020,12,SmallSat (<500kg),9,108 Subsystem Kits,59.79,35,0,NASA,United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2023-02-01,2023,2,SmallSat (<500kg),3,15 Subsystem Kits,97.48,12,0,Commercial (SpaceX / Private),United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2024-10-01,2024,10,CubeSat (1U-12U),5,75 Subsystem Kits,47.28,27,0,Commercial (SpaceX / Private),United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2024-08-01,2024,8,CubeSat (1U-12U),1,11 Subsystem Kits,17.99,43,0,CNSA,China,Orbitalytics Aerospace Manufacturing Monitor,True
+2019-05-01,2019,5,CubeSat (1U-12U),3,15 Subsystem Kits,72.88,15,0,Commercial (SpaceX / Private),United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2020-09-01,2020,9,Heavy Geostationary Platform (>2000kg),15,135 Subsystem Kits,117.28,19,0,Commercial (SpaceX / Private),United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2020-10-01,2020,10,Heavy Geostationary Platform (>2000kg),17,238 Subsystem Kits,607.92,42,0,NASA,United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2025-03-01,2025,3,CubeSat (1U-12U),28,112 Subsystem Kits,177.9,41,0,JAXA,Japan,Orbitalytics Aerospace Manufacturing Monitor,True
+2022-05-01,2022,5,SmallSat (<500kg),21,210 Subsystem Kits,638.98,48,0,Commercial (SpaceX / Private),United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2020-12-01,2020,12,Medium Bus (500-2000kg),3,45 Subsystem Kits,36.83,20,0,ISRO,India,Orbitalytics Aerospace Manufacturing Monitor,True
+2022-11-01,2022,11,SmallSat (<500kg),21,315 Subsystem Kits,443.79,31,0,NASA,United States,Orbitalytics Aerospace Manufacturing Monitor,True
+2018-03-01,2018,3,Medium Bus (500-2000kg),22,308 Subsystem Kits,284.93,26,0,JAXA,Japan,Orbitalytics Aerospace Manufacturing Monitor,True

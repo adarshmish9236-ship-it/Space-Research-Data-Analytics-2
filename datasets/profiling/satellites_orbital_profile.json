@@ -1,0 +1,192 @@
+{
+  "dataset_name": "satellites_orbital",
+  "row_count": 2400,
+  "column_count": 15,
+  "memory_usage_kb": 583.64,
+  "columns": {
+    "satellite_id": {
+      "dtype": "str",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "unique_count": 2400,
+      "top_5_values": {
+        "SAT-2012-2000": 1,
+        "SAT-2013-2001": 1,
+        "SAT-2014-2002": 1,
+        "SAT-2015-2003": 1,
+        "SAT-2016-2004": 1
+      }
+    },
+    "satellite_name": {
+      "dtype": "str",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "unique_count": 2400,
+      "top_5_values": {
+        "AstroSat-100": 1,
+        "AstroSat-101": 1,
+        "AstroSat-102": 1,
+        "AstroSat-103": 1,
+        "AstroSat-104": 1
+      }
+    },
+    "operator_agency_id": {
+      "dtype": "str",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "unique_count": 7,
+      "top_5_values": {
+        "AGY-007": 365,
+        "AGY-003": 360,
+        "AGY-005": 357,
+        "AGY-004": 354,
+        "AGY-001": 345
+      }
+    },
+    "operator_agency_name": {
+      "dtype": "str",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "unique_count": 7,
+      "top_5_values": {
+        "Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab)": 365,
+        "Indian Space Research Organisation": 360,
+        "China National Space Administration": 357,
+        "Japan Aerospace Exploration Agency": 354,
+        "National Aeronautics and Space Administration": 345
+      }
+    },
+    "associated_mission_id": {
+      "dtype": "str",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "unique_count": 1198,
+      "top_5_values": {
+        "MSN-2014-2347": 7,
+        "MSN-2016-1873": 7,
+        "MSN-2013-1496": 7,
+        "MSN-2013-1190": 7,
+        "MSN-2011-1171": 6
+      }
+    },
+    "orbit_type": {
+      "dtype": "str",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "unique_count": 6,
+      "top_5_values": {
+        "LEO (Low Earth Orbit)": 408,
+        "SSO (Sun-Synchronous)": 408,
+        "MEO (Medium Earth Orbit)": 405,
+        "GEO (Geostationary)": 399,
+        "Deep Space / Lunar": 392
+      }
+    },
+    "altitude_km": {
+      "dtype": "float64",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "unique_count": 1190,
+      "min": 425.5,
+      "max": 119770.1,
+      "mean": 39494.926,
+      "std": 33686.722,
+      "median": 35786.0,
+      "skewness": 0.791
+    },
+    "inclination_deg": {
+      "dtype": "float64",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "unique_count": 2121,
+      "min": 0.12,
+      "max": 98.59,
+      "mean": 49.437,
+      "std": 28.958,
+      "median": 50.56,
+      "skewness": -0.033
+    },
+    "launch_year": {
+      "dtype": "int64",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "unique_count": 17,
+      "min": 2010.0,
+      "max": 2026.0,
+      "mean": 2017.86,
+      "std": 4.9,
+      "median": 2018.0,
+      "skewness": 0.024
+    },
+    "expected_lifetime_years": {
+      "dtype": "int64",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "unique_count": 16,
+      "min": 3.0,
+      "max": 18.0,
+      "mean": 10.539,
+      "std": 4.656,
+      "median": 11.0,
+      "skewness": -0.003
+    },
+    "dry_mass_kg": {
+      "dtype": "float64",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "unique_count": 2361,
+      "min": 54.1,
+      "max": 6499.8,
+      "mean": 3348.31,
+      "std": 1867.768,
+      "median": 3321.8500000000004,
+      "skewness": -0.031
+    },
+    "power_consumption_w": {
+      "dtype": "float64",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "unique_count": 2384,
+      "min": 200.8,
+      "max": 14988.0,
+      "mean": 7504.507,
+      "std": 4289.656,
+      "median": 7441.95,
+      "skewness": 0.012
+    },
+    "telemetry_band": {
+      "dtype": "str",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "unique_count": 5,
+      "top_5_values": {
+        "Ka-band": 503,
+        "Ku-band": 499,
+        "X-band": 485,
+        "Optical Laser": 466,
+        "S-band": 447
+      }
+    },
+    "operational_status": {
+      "dtype": "str",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "unique_count": 4,
+      "top_5_values": {
+        "Active": 1688,
+        "Decommissioned": 380,
+        "Decayed": 207,
+        "Standby": 125
+      }
+    },
+    "data_origin": {
+      "dtype": "str",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "unique_count": 1,
+      "top_5_values": {
+        "synthetic": 2400
+      }
+    }
+  }
+}

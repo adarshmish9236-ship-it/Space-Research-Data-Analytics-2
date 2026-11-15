@@ -1,0 +1,151 @@
+project_code,project_title,lead_agency,target_commencement_year,estimated_investment_billion_usd,priority_tier,readiness_level_TRL
+PRJ-2024-100,NextGen Exoplanet Spectroscopy Phase 1,"Private / Commercial (SpaceX, etc.)",2031,5.57,Exploratory,6
+PRJ-2025-101,NextGen Quantum Satellite Network Phase 2,ISRO (India),2028,7.2,Scientific Discovery,3
+PRJ-2026-102,NextGen Quantum Satellite Network Phase 3,ESA (Europe),2025,12.02,Critical Strategic,7
+PRJ-2027-103,NextGen Artemis Phase 4,JAXA (Japan),2028,16.62,High Priority,6
+PRJ-2028-104,NextGen Artemis Phase 1,ESA (Europe),2032,17.57,Critical Strategic,8
+PRJ-2024-105,NextGen Mars Sample Return Phase 2,JAXA (Japan),2032,15.6,High Priority,6
+PRJ-2025-106,NextGen Artemis Phase 3,JAXA (Japan),2028,8.17,High Priority,5
+PRJ-2026-107,NextGen Mars Sample Return Phase 4,"Private / Commercial (SpaceX, etc.)",2034,12.5,Exploratory,8
+PRJ-2027-108,NextGen Exoplanet Spectroscopy Phase 1,"Private / Commercial (SpaceX, etc.)",2032,3.94,High Priority,8
+PRJ-2028-109,NextGen Mars Sample Return Phase 2,ESA (Europe),2033,3.23,Scientific Discovery,6
+PRJ-2024-110,NextGen Lunar Gateway Phase 3,CNSA (China),2027,3.4,High Priority,7
+PRJ-2025-111,NextGen Lunar Gateway Phase 4,ESA (Europe),2033,13.45,Critical Strategic,4
+PRJ-2026-112,NextGen Quantum Satellite Network Phase 1,ISRO (India),2027,13.47,High Priority,5
+PRJ-2027-113,NextGen Quantum Satellite Network Phase 2,NASA (USA),2031,3.02,Critical Strategic,7
+PRJ-2028-114,NextGen Mars Sample Return Phase 3,"Private / Commercial (SpaceX, etc.)",2025,16.28,Critical Strategic,5
+PRJ-2024-115,NextGen Mars Sample Return Phase 4,NASA (USA),2027,6.04,High Priority,4
+PRJ-2025-116,NextGen Quantum Satellite Network Phase 1,ESA (Europe),2029,15.08,Exploratory,6
+PRJ-2026-117,NextGen Artemis Phase 2,CNSA (China),2035,15.32,High Priority,7
+PRJ-2027-118,NextGen Lunar Gateway Phase 3,"Private / Commercial (SpaceX, etc.)",2035,6.71,Scientific Discovery,6
+PRJ-2028-119,NextGen Lunar Gateway Phase 4,Roscosmos (Russia),2034,12.92,High Priority,8
+PRJ-2024-120,NextGen Exoplanet Spectroscopy Phase 1,ISRO (India),2026,6.78,High Priority,5
+PRJ-2025-121,NextGen Quantum Satellite Network Phase 2,"Private / Commercial (SpaceX, etc.)",2028,4.15,Exploratory,7
+PRJ-2026-122,NextGen Quantum Satellite Network Phase 3,ISRO (India),2034,1.84,Critical Strategic,5
+PRJ-2027-123,NextGen Lunar Gateway Phase 4,"Private / Commercial (SpaceX, etc.)",2025,10.89,Scientific Discovery,5
+PRJ-2028-124,NextGen Quantum Satellite Network Phase 1,JAXA (Japan),2030,10.72,Critical Strategic,7
+PRJ-2024-125,NextGen Lunar Gateway Phase 2,ISRO (India),2032,2.74,High Priority,8
+PRJ-2025-126,NextGen Lunar Gateway Phase 3,NASA (USA),2025,9.13,Exploratory,3
+PRJ-2026-127,NextGen Quantum Satellite Network Phase 4,JAXA (Japan),2034,15.12,Scientific Discovery,6
+PRJ-2027-128,NextGen Exoplanet Spectroscopy Phase 1,ISRO (India),2032,13.42,Scientific Discovery,4
+PRJ-2028-129,NextGen Quantum Satellite Network Phase 2,NASA (USA),2029,10.31,Scientific Discovery,8
+PRJ-2024-130,NextGen Exoplanet Spectroscopy Phase 3,"Private / Commercial (SpaceX, etc.)",2030,1.15,Exploratory,7
+PRJ-2025-131,NextGen Lunar Gateway Phase 4,Roscosmos (Russia),2027,8.69,Critical Strategic,8
+PRJ-2026-132,NextGen Lunar Gateway Phase 1,ISRO (India),2027,12.66,Scientific Discovery,8
+PRJ-2027-133,NextGen Mars Sample Return Phase 2,Roscosmos (Russia),2026,14.81,Critical Strategic,5
+PRJ-2028-134,NextGen Mars Sample Return Phase 3,Roscosmos (Russia),2031,3.62,Scientific Discovery,3
+PRJ-2024-135,NextGen Lunar Gateway Phase 4,JAXA (Japan),2035,7.79,Exploratory,8
+PRJ-2025-136,NextGen Quantum Satellite Network Phase 1,NASA (USA),2035,17.3,Scientific Discovery,3
+PRJ-2026-137,NextGen Mars Sample Return Phase 2,CNSA (China),2031,5.87,Critical Strategic,4
+PRJ-2027-138,NextGen Lunar Gateway Phase 3,JAXA (Japan),2029,3.49,Scientific Discovery,5
+PRJ-2028-139,NextGen Lunar Gateway Phase 4,Roscosmos (Russia),2027,0.82,Scientific Discovery,5
+PRJ-2024-140,NextGen Lunar Gateway Phase 1,ESA (Europe),2031,11.87,Scientific Discovery,4
+PRJ-2025-141,NextGen Mars Sample Return Phase 2,"Private / Commercial (SpaceX, etc.)",2025,12.99,High Priority,6
+PRJ-2026-142,NextGen Artemis Phase 3,ISRO (India),2027,16.5,Scientific Discovery,4
+PRJ-2027-143,NextGen Artemis Phase 4,NASA (USA),2034,1.58,Exploratory,7
+PRJ-2028-144,NextGen Lunar Gateway Phase 1,Roscosmos (Russia),2025,11.61,Scientific Discovery,4
+PRJ-2024-145,NextGen Artemis Phase 2,Roscosmos (Russia),2027,3.36,Scientific Discovery,4
+PRJ-2025-146,NextGen Exoplanet Spectroscopy Phase 3,ISRO (India),2034,8.44,Exploratory,7
+PRJ-2026-147,NextGen Exoplanet Spectroscopy Phase 4,NASA (USA),2031,8.33,Exploratory,5
+PRJ-2027-148,NextGen Mars Sample Return Phase 1,ESA (Europe),2033,7.89,High Priority,3
+PRJ-2028-149,NextGen Exoplanet Spectroscopy Phase 2,Roscosmos (Russia),2025,8.73,Critical Strategic,8
+PRJ-2024-150,NextGen Artemis Phase 3,Roscosmos (Russia),2026,13.67,Critical Strategic,4
+PRJ-2025-151,NextGen Mars Sample Return Phase 4,"Private / Commercial (SpaceX, etc.)",2029,9.88,Critical Strategic,5
+PRJ-2026-152,NextGen Exoplanet Spectroscopy Phase 1,CNSA (China),2035,5.78,High Priority,3
+PRJ-2027-153,NextGen Artemis Phase 2,Roscosmos (Russia),2033,9.13,Critical Strategic,3
+PRJ-2028-154,NextGen Mars Sample Return Phase 3,ISRO (India),2034,1.66,Critical Strategic,8
+PRJ-2024-155,NextGen Artemis Phase 4,JAXA (Japan),2027,13.05,Critical Strategic,8
+PRJ-2025-156,NextGen Mars Sample Return Phase 1,CNSA (China),2027,18.49,Scientific Discovery,7
+PRJ-2026-157,NextGen Quantum Satellite Network Phase 2,ESA (Europe),2025,13.3,Exploratory,5
+PRJ-2027-158,NextGen Artemis Phase 3,ISRO (India),2026,2.75,Critical Strategic,6
+PRJ-2028-159,NextGen Artemis Phase 4,Roscosmos (Russia),2029,12.8,High Priority,3
+PRJ-2024-160,NextGen Artemis Phase 1,"Private / Commercial (SpaceX, etc.)",2030,7.11,Critical Strategic,4
+PRJ-2025-161,NextGen Artemis Phase 2,ISRO (India),2033,9.7,Scientific Discovery,3
+PRJ-2026-162,NextGen Exoplanet Spectroscopy Phase 3,JAXA (Japan),2025,14.35,Exploratory,5
+PRJ-2027-163,NextGen Artemis Phase 4,ISRO (India),2026,5.19,High Priority,5
+PRJ-2028-164,NextGen Artemis Phase 1,ISRO (India),2031,0.78,Scientific Discovery,3
+PRJ-2024-165,NextGen Mars Sample Return Phase 2,Roscosmos (Russia),2027,17.26,Exploratory,3
+PRJ-2025-166,NextGen Lunar Gateway Phase 3,NASA (USA),2030,14.49,Exploratory,3
+PRJ-2026-167,NextGen Artemis Phase 4,ISRO (India),2026,2.53,Exploratory,4
+PRJ-2027-168,NextGen Exoplanet Spectroscopy Phase 1,"Private / Commercial (SpaceX, etc.)",2026,5.03,Scientific Discovery,7
+PRJ-2028-169,NextGen Lunar Gateway Phase 2,ISRO (India),2026,1.05,Critical Strategic,8
+PRJ-2024-170,NextGen Exoplanet Spectroscopy Phase 3,ISRO (India),2025,11.84,Exploratory,4
+PRJ-2025-171,NextGen Mars Sample Return Phase 4,ISRO (India),2028,2.6,Critical Strategic,6
+PRJ-2026-172,NextGen Lunar Gateway Phase 1,JAXA (Japan),2026,3.78,Critical Strategic,6
+PRJ-2027-173,NextGen Lunar Gateway Phase 2,ISRO (India),2025,10.28,Scientific Discovery,5
+PRJ-2028-174,NextGen Lunar Gateway Phase 3,ISRO (India),2025,10.33,Exploratory,8
+PRJ-2024-175,NextGen Artemis Phase 4,Roscosmos (Russia),2034,8.16,High Priority,5
+PRJ-2025-176,NextGen Lunar Gateway Phase 1,"Private / Commercial (SpaceX, etc.)",2028,7.78,Critical Strategic,8
+PRJ-2026-177,NextGen Artemis Phase 2,CNSA (China),2035,11.5,High Priority,3
+PRJ-2027-178,NextGen Quantum Satellite Network Phase 3,NASA (USA),2029,14.38,Critical Strategic,7
+PRJ-2028-179,NextGen Quantum Satellite Network Phase 4,Roscosmos (Russia),2033,2.47,Exploratory,8
+PRJ-2024-180,NextGen Artemis Phase 1,"Private / Commercial (SpaceX, etc.)",2034,2.86,High Priority,7
+PRJ-2025-181,NextGen Quantum Satellite Network Phase 2,JAXA (Japan),2029,13.67,Scientific Discovery,8
+PRJ-2026-182,NextGen Quantum Satellite Network Phase 3,"Private / Commercial (SpaceX, etc.)",2029,11.67,Scientific Discovery,5
+PRJ-2027-183,NextGen Lunar Gateway Phase 4,ISRO (India),2030,15.26,High Priority,6
+PRJ-2028-184,NextGen Exoplanet Spectroscopy Phase 1,ISRO (India),2035,3.54,High Priority,7
+PRJ-2024-185,NextGen Exoplanet Spectroscopy Phase 2,Roscosmos (Russia),2034,15.86,Exploratory,5
+PRJ-2025-186,NextGen Quantum Satellite Network Phase 3,NASA (USA),2026,1.08,Critical Strategic,4
+PRJ-2026-187,NextGen Quantum Satellite Network Phase 4,Roscosmos (Russia),2027,13.05,Exploratory,4
+PRJ-2027-188,NextGen Mars Sample Return Phase 1,ESA (Europe),2025,13.72,Exploratory,6
+PRJ-2028-189,NextGen Exoplanet Spectroscopy Phase 2,CNSA (China),2033,4.63,Exploratory,6
+PRJ-2024-190,NextGen Exoplanet Spectroscopy Phase 3,CNSA (China),2026,0.61,Critical Strategic,7
+PRJ-2025-191,NextGen Lunar Gateway Phase 4,ISRO (India),2025,9.51,High Priority,8
+PRJ-2026-192,NextGen Mars Sample Return Phase 1,NASA (USA),2028,3.86,Critical Strategic,5
+PRJ-2027-193,NextGen Exoplanet Spectroscopy Phase 2,CNSA (China),2027,1.39,High Priority,8
+PRJ-2028-194,NextGen Lunar Gateway Phase 3,"Private / Commercial (SpaceX, etc.)",2031,7.37,Exploratory,8
+PRJ-2024-195,NextGen Lunar Gateway Phase 4,NASA (USA),2026,8.48,High Priority,7
+PRJ-2025-196,NextGen Mars Sample Return Phase 1,Roscosmos (Russia),2026,12.69,Exploratory,8
+PRJ-2026-197,NextGen Exoplanet Spectroscopy Phase 2,NASA (USA),2035,10.58,Exploratory,7
+PRJ-2027-198,NextGen Exoplanet Spectroscopy Phase 3,"Private / Commercial (SpaceX, etc.)",2026,18.09,Critical Strategic,7
+PRJ-2028-199,NextGen Mars Sample Return Phase 4,NASA (USA),2035,4.73,Critical Strategic,8
+PRJ-2024-200,NextGen Quantum Satellite Network Phase 1,ESA (Europe),2035,12.26,Exploratory,6
+PRJ-2025-201,NextGen Exoplanet Spectroscopy Phase 2,ESA (Europe),2031,0.77,Exploratory,4
+PRJ-2026-202,NextGen Lunar Gateway Phase 3,ESA (Europe),2034,11.18,Scientific Discovery,3
+PRJ-2027-203,NextGen Exoplanet Spectroscopy Phase 4,JAXA (Japan),2031,12.03,Exploratory,6
+PRJ-2028-204,NextGen Artemis Phase 1,"Private / Commercial (SpaceX, etc.)",2030,6.81,Critical Strategic,8
+PRJ-2024-205,NextGen Artemis Phase 2,ISRO (India),2025,12.69,Critical Strategic,7
+PRJ-2025-206,NextGen Lunar Gateway Phase 3,NASA (USA),2031,11.73,High Priority,5
+PRJ-2026-207,NextGen Artemis Phase 4,Roscosmos (Russia),2034,14.19,Critical Strategic,5
+PRJ-2027-208,NextGen Mars Sample Return Phase 1,JAXA (Japan),2029,6.04,Critical Strategic,7
+PRJ-2028-209,NextGen Quantum Satellite Network Phase 2,Roscosmos (Russia),2029,14.42,High Priority,5
+PRJ-2024-210,NextGen Lunar Gateway Phase 3,JAXA (Japan),2026,7.5,Scientific Discovery,3
+PRJ-2025-211,NextGen Lunar Gateway Phase 4,CNSA (China),2035,14.0,Critical Strategic,6
+PRJ-2026-212,NextGen Exoplanet Spectroscopy Phase 1,NASA (USA),2034,2.53,Critical Strategic,8
+PRJ-2027-213,NextGen Mars Sample Return Phase 2,CNSA (China),2033,4.21,Exploratory,7
+PRJ-2028-214,NextGen Mars Sample Return Phase 3,CNSA (China),2025,4.69,Critical Strategic,6
+PRJ-2024-215,NextGen Exoplanet Spectroscopy Phase 4,ISRO (India),2034,15.49,Critical Strategic,3
+PRJ-2025-216,NextGen Exoplanet Spectroscopy Phase 1,JAXA (Japan),2032,6.42,Critical Strategic,8
+PRJ-2026-217,NextGen Artemis Phase 2,ISRO (India),2028,15.35,Scientific Discovery,8
+PRJ-2027-218,NextGen Lunar Gateway Phase 3,Roscosmos (Russia),2026,6.42,Exploratory,5
+PRJ-2028-219,NextGen Lunar Gateway Phase 4,ESA (Europe),2034,6.23,High Priority,7
+PRJ-2024-220,NextGen Exoplanet Spectroscopy Phase 1,NASA (USA),2028,17.54,Critical Strategic,4
+PRJ-2025-221,NextGen Exoplanet Spectroscopy Phase 2,JAXA (Japan),2029,10.45,Exploratory,5
+PRJ-2026-222,NextGen Exoplanet Spectroscopy Phase 3,JAXA (Japan),2030,15.85,Scientific Discovery,3
+PRJ-2027-223,NextGen Mars Sample Return Phase 4,ESA (Europe),2029,12.37,Exploratory,5
+PRJ-2028-224,NextGen Lunar Gateway Phase 1,CNSA (China),2027,9.39,Critical Strategic,4
+PRJ-2024-225,NextGen Artemis Phase 2,JAXA (Japan),2033,1.21,Critical Strategic,4
+PRJ-2025-226,NextGen Exoplanet Spectroscopy Phase 3,CNSA (China),2026,15.9,Critical Strategic,3
+PRJ-2026-227,NextGen Lunar Gateway Phase 4,Roscosmos (Russia),2027,14.92,Critical Strategic,7
+PRJ-2027-228,NextGen Lunar Gateway Phase 1,"Private / Commercial (SpaceX, etc.)",2028,5.05,Critical Strategic,6
+PRJ-2028-229,NextGen Artemis Phase 2,CNSA (China),2035,11.52,Exploratory,5
+PRJ-2024-230,NextGen Exoplanet Spectroscopy Phase 3,Roscosmos (Russia),2033,10.08,Scientific Discovery,3
+PRJ-2025-231,NextGen Exoplanet Spectroscopy Phase 4,JAXA (Japan),2026,10.58,Exploratory,6
+PRJ-2026-232,NextGen Mars Sample Return Phase 1,ISRO (India),2029,16.61,Critical Strategic,5
+PRJ-2027-233,NextGen Lunar Gateway Phase 2,"Private / Commercial (SpaceX, etc.)",2034,5.63,Exploratory,8
+PRJ-2028-234,NextGen Artemis Phase 3,JAXA (Japan),2035,2.96,High Priority,6
+PRJ-2024-235,NextGen Exoplanet Spectroscopy Phase 4,ESA (Europe),2031,2.29,Scientific Discovery,5
+PRJ-2025-236,NextGen Artemis Phase 1,ESA (Europe),2031,0.75,High Priority,7
+PRJ-2026-237,NextGen Mars Sample Return Phase 2,"Private / Commercial (SpaceX, etc.)",2031,6.84,Scientific Discovery,7
+PRJ-2027-238,NextGen Lunar Gateway Phase 3,NASA (USA),2033,11.04,Exploratory,7
+PRJ-2028-239,NextGen Quantum Satellite Network Phase 4,"Private / Commercial (SpaceX, etc.)",2031,16.75,High Priority,4
+PRJ-2024-240,NextGen Quantum Satellite Network Phase 1,JAXA (Japan),2029,6.78,Critical Strategic,7
+PRJ-2025-241,NextGen Artemis Phase 2,ESA (Europe),2028,10.19,Exploratory,6
+PRJ-2026-242,NextGen Artemis Phase 3,"Private / Commercial (SpaceX, etc.)",2035,5.9,Scientific Discovery,4
+PRJ-2027-243,NextGen Lunar Gateway Phase 4,Roscosmos (Russia),2035,14.31,High Priority,6
+PRJ-2028-244,NextGen Artemis Phase 1,CNSA (China),2025,9.67,Exploratory,5
+PRJ-2024-245,NextGen Lunar Gateway Phase 2,"Private / Commercial (SpaceX, etc.)",2032,11.31,Exploratory,6
+PRJ-2025-246,NextGen Lunar Gateway Phase 3,NASA (USA),2033,13.35,Scientific Discovery,4
+PRJ-2026-247,NextGen Quantum Satellite Network Phase 4,NASA (USA),2025,3.27,High Priority,8
+PRJ-2027-248,NextGen Exoplanet Spectroscopy Phase 1,CNSA (China),2030,3.24,High Priority,5
+PRJ-2028-249,NextGen Exoplanet Spectroscopy Phase 2,Roscosmos (Russia),2035,1.82,Critical Strategic,4

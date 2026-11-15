@@ -1,0 +1,188 @@
+{
+  "dataset_name": "resource_consumption",
+  "row_count": 9898,
+  "column_count": 15,
+  "memory_usage_kb": 2754.94,
+  "columns": {
+    "consumption_id": {
+      "dtype": "str",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "unique_count": 9898,
+      "top_5_values": {
+        "CNS-2010-00001": 1,
+        "CNS-2010-00002": 1,
+        "CNS-2010-00003": 1,
+        "CNS-2010-00004": 1,
+        "CNS-2010-00005": 1
+      }
+    },
+    "date": {
+      "dtype": "str",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "unique_count": 202,
+      "min_date": "2010-01-01",
+      "max_date": "2026-10-01",
+      "span_days": 6117
+    },
+    "year": {
+      "dtype": "int64",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "unique_count": 17,
+      "min": 2010.0,
+      "max": 2026.0,
+      "mean": 2017.921,
+      "std": 4.858,
+      "median": 2018.0,
+      "skewness": 0.005
+    },
+    "month": {
+      "dtype": "int64",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "unique_count": 12,
+      "min": 1.0,
+      "max": 12.0,
+      "mean": 6.45,
+      "std": 3.433,
+      "median": 6.0,
+      "skewness": 0.012
+    },
+    "quarter": {
+      "dtype": "str",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "unique_count": 4,
+      "top_5_values": {
+        "Q1": 2499,
+        "Q2": 2499,
+        "Q3": 2499,
+        "Q4": 2401
+      }
+    },
+    "resource_id": {
+      "dtype": "str",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "unique_count": 7,
+      "top_5_values": {
+        "RES-001": 1414,
+        "RES-002": 1414,
+        "RES-003": 1414,
+        "RES-004": 1414,
+        "RES-005": 1414
+      }
+    },
+    "resource_name": {
+      "dtype": "str",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "unique_count": 7,
+      "top_5_values": {
+        "Cryogenic Liquid Oxygen (LOX)": 1414,
+        "RP-1 Highly Refined Kerosene": 1414,
+        "Liquid Hydrogen (LH2)": 1414,
+        "Hypergolic Monomethyl Hydrazine (MMH)": 1414,
+        "Radiation Shielding Tantalum & Tungsten Alloys": 1414
+      }
+    },
+    "resource_category": {
+      "dtype": "str",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "unique_count": 7,
+      "top_5_values": {
+        "Propellant & Oxidizer": 1414,
+        "Liquid Fuel": 1414,
+        "Cryogenic Fuel": 1414,
+        "Storable Propellant": 1414,
+        "Spacecraft Materials": 1414
+      }
+    },
+    "agency_id": {
+      "dtype": "str",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "unique_count": 7,
+      "top_5_values": {
+        "AGY-001": 1414,
+        "AGY-002": 1414,
+        "AGY-003": 1414,
+        "AGY-004": 1414,
+        "AGY-005": 1414
+      }
+    },
+    "agency_name": {
+      "dtype": "str",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "unique_count": 7,
+      "top_5_values": {
+        "National Aeronautics and Space Administration": 1414,
+        "European Space Agency": 1414,
+        "Indian Space Research Organisation": 1414,
+        "Japan Aerospace Exploration Agency": 1414,
+        "China National Space Administration": 1414
+      }
+    },
+    "mission_id": {
+      "dtype": "str",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "unique_count": 1498,
+      "top_5_values": {
+        "MSN-2015-1719": 17,
+        "MSN-2015-2399": 15,
+        "MSN-2017-2044": 15,
+        "MSN-2026-1135": 14,
+        "MSN-2014-1123": 14
+      }
+    },
+    "quantity_consumed": {
+      "dtype": "float64",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "unique_count": 7970,
+      "min": 25.15,
+      "max": 300.58,
+      "mean": 144.417,
+      "std": 62.925,
+      "median": 144.09,
+      "skewness": 0.173
+    },
+    "unit_of_measure": {
+      "dtype": "str",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "unique_count": 3,
+      "top_5_values": {
+        "Metric Tons": 7070,
+        "Tbps": 1414,
+        "Kilowatts": 1414
+      }
+    },
+    "procurement_cost_k_usd": {
+      "dtype": "float64",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "unique_count": 9446,
+      "min": 26.44,
+      "max": 11758.33,
+      "mean": 1514.787,
+      "std": 2206.32,
+      "median": 354.745,
+      "skewness": 2.145
+    },
+    "data_origin": {
+      "dtype": "str",
+      "null_count": 0,
+      "null_pct": 0.0,
+      "unique_count": 1,
+      "top_5_values": {
+        "synthetic": 9898
+      }
+    }
+  }
+}

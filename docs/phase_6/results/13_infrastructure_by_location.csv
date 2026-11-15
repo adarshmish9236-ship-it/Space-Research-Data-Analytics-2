@@ -1,0 +1,8 @@
+l.launch_site,l.country,l.operator_type,total_launches_hosted,successful_launches,site_success_rate_pct,total_payload_shipped_metric_tons,total_site_economic_activity_m_usd
+Kourou ELA-4,Europe,International Launch Center,185,167,90.27,2323.35,20484.47
+Kennedy Space Center LC-39A,United States,International Launch Center,180,162,90.0,2244.52,20369.53
+Cape Canaveral SLC-40,United States,Commercial / Civil Spaceport,175,165,94.29,2457.66,19273.1
+Baikonur Cosmodrome,Russia,Government Launch Range,173,166,95.95,2338.03,18331.73
+Tanegashima Space Center,Japan,International Launch Center,172,162,94.19,2131.82,18967.67
+Satish Dhawan SHAR,India,International Launch Center,171,159,92.98,2250.14,19495.96
+Jiuquan SLS,China,Government Launch Range,144,136,94.44,1772.39,16089.89

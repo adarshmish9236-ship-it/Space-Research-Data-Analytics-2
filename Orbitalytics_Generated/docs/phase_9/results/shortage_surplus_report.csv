@@ -1,0 +1,61 @@
+domain,item_name,period,forecast_demand,procurement_order_units,internal_manufacturing_units,ending_inventory_units,shortage_units,fill_rate_pct,scenario
+equipment_demand,Cryogenic Tanks,2026Q4,525.4,47.0,124.0,0.0,299.4,43.01,baseline
+equipment_demand,Cryogenic Tanks,2027Q1,559.2,0.0,124.0,0.0,435.2,22.17,baseline
+equipment_demand,Cryogenic Tanks,2027Q2,564.3,1.0,124.0,0.0,439.3,22.15,baseline
+equipment_demand,Cryogenic Tanks,2027Q3,535.7,0.0,124.0,0.0,411.7,23.15,baseline
+equipment_demand,High-Efficiency Solar Arrays,2026Q4,535.8,0.0,125.0,0.0,355.8,33.59,baseline
+equipment_demand,High-Efficiency Solar Arrays,2027Q1,562.4,0.0,125.0,0.0,437.4,22.23,baseline
+equipment_demand,High-Efficiency Solar Arrays,2027Q2,566.4,0.0,125.0,0.0,441.4,22.07,baseline
+equipment_demand,High-Efficiency Solar Arrays,2027Q3,538.8,0.0,125.0,0.0,413.8,23.2,baseline
+equipment_demand,Ion Propulsion Engines,2026Q4,533.4,0.0,125.0,0.0,353.4,33.75,baseline
+equipment_demand,Ion Propulsion Engines,2027Q1,557.9,0.0,125.0,0.0,432.9,22.41,baseline
+equipment_demand,Ion Propulsion Engines,2027Q2,571.2,0.0,125.0,0.0,446.2,21.88,baseline
+equipment_demand,Ion Propulsion Engines,2027Q3,546.6,0.0,125.0,0.0,421.6,22.87,baseline
+equipment_demand,Optical Inter-Satellite Links,2026Q4,580.0,361.0,152.0,0.0,-0.0,100.0,baseline
+equipment_demand,Optical Inter-Satellite Links,2027Q1,613.7,341.0,152.0,0.0,120.7,80.33,baseline
+equipment_demand,Optical Inter-Satellite Links,2027Q2,620.8,335.0,152.0,0.0,133.8,78.45,baseline
+equipment_demand,Optical Inter-Satellite Links,2027Q3,611.6,359.0,152.0,0.0,100.6,83.55,baseline
+equipment_demand,Radiation-Hardened Rad-750 CPUs,2026Q4,592.6,372.0,152.0,0.0,0.6,99.9,baseline
+equipment_demand,Radiation-Hardened Rad-750 CPUs,2027Q1,615.0,461.0,152.0,0.0,2.0,99.67,baseline
+equipment_demand,Radiation-Hardened Rad-750 CPUs,2027Q2,621.1,466.0,152.0,0.0,3.1,99.5,baseline
+equipment_demand,Radiation-Hardened Rad-750 CPUs,2027Q3,595.7,443.0,152.0,-0.0,0.7,99.88,baseline
+equipment_demand,Reaction Wheels,2026Q4,529.9,19.0,124.0,0.0,331.9,37.37,baseline
+equipment_demand,Reaction Wheels,2027Q1,552.2,0.0,124.0,0.0,428.2,22.46,baseline
+equipment_demand,Reaction Wheels,2027Q2,561.6,0.0,124.0,0.0,437.6,22.08,baseline
+equipment_demand,Reaction Wheels,2027Q3,548.3,0.0,124.0,0.0,424.3,22.62,baseline
+equipment_demand,SAR Radar Antennas,2026Q4,588.2,1.0,151.0,0.0,369.2,37.23,baseline
+equipment_demand,SAR Radar Antennas,2027Q1,619.4,0.0,151.0,0.0,468.4,24.38,baseline
+equipment_demand,SAR Radar Antennas,2027Q2,608.7,0.0,151.0,0.0,457.7,24.81,baseline
+equipment_demand,SAR Radar Antennas,2027Q3,610.7,0.0,151.0,0.0,459.7,24.73,baseline
+equipment_demand,Star Trackers,2026Q4,520.6,1.0,124.0,0.0,340.6,34.58,baseline
+equipment_demand,Star Trackers,2027Q1,555.2,0.0,124.0,0.0,431.2,22.33,baseline
+equipment_demand,Star Trackers,2027Q2,558.3,0.0,124.0,0.0,434.3,22.21,baseline
+equipment_demand,Star Trackers,2027Q3,540.9,0.0,124.0,0.0,416.9,22.92,baseline
+resource_consumption,Cryogenic Liquid Oxygen (LOX),2026Q4,1217.5,696.5,320.6,0.0,0.0,100.0,baseline
+resource_consumption,Cryogenic Liquid Oxygen (LOX),2027Q1,1225.1,904.5,320.6,0.0,0.0,100.0,baseline
+resource_consumption,Cryogenic Liquid Oxygen (LOX),2027Q2,1201.9,881.3,320.6,0.0,0.0,100.0,baseline
+resource_consumption,Cryogenic Liquid Oxygen (LOX),2027Q3,1203.8,883.2,320.6,0.0,0.0,100.0,baseline
+resource_consumption,Deep Space Telemetry (Tbps),2026Q4,915.9,587.7,202.0,0.0,0.0,100.0,baseline
+resource_consumption,Deep Space Telemetry (Tbps),2027Q1,917.7,715.7,202.0,0.0,0.0,100.0,baseline
+resource_consumption,Deep Space Telemetry (Tbps),2027Q2,886.7,684.7,202.0,0.0,0.0,100.0,baseline
+resource_consumption,Deep Space Telemetry (Tbps),2027Q3,896.2,694.2,202.0,0.0,0.0,100.0,baseline
+resource_consumption,Hypergolic Hydrazine,2026Q4,925.3,597.9,201.5,0.0,0.0,100.0,baseline
+resource_consumption,Hypergolic Hydrazine,2027Q1,935.5,734.0,201.5,0.0,0.0,100.0,baseline
+resource_consumption,Hypergolic Hydrazine,2027Q2,882.0,680.5,201.5,0.0,0.0,100.0,baseline
+resource_consumption,Hypergolic Hydrazine,2027Q3,927.9,726.4,201.5,0.0,0.0,100.0,baseline
+resource_consumption,Liquid Hydrogen (LH2),2026Q4,920.0,592.6,201.5,0.0,0.0,100.0,baseline
+resource_consumption,Liquid Hydrogen (LH2),2027Q1,914.4,712.9,201.5,0.0,0.0,100.0,baseline
+resource_consumption,Liquid Hydrogen (LH2),2027Q2,888.8,687.3,201.5,0.0,0.0,100.0,baseline
+resource_consumption,Liquid Hydrogen (LH2),2027Q3,914.4,712.9,201.5,0.0,0.0,100.0,baseline
+resource_consumption,RP-1 Rocket Fuel,2026Q4,1211.0,690.5,320.3,0.0,0.0,100.0,baseline
+resource_consumption,RP-1 Rocket Fuel,2027Q1,1222.2,901.9,320.3,0.0,0.0,100.0,baseline
+resource_consumption,RP-1 Rocket Fuel,2027Q2,1197.0,876.7,320.3,0.0,0.0,100.0,baseline
+resource_consumption,RP-1 Rocket Fuel,2027Q3,1209.0,888.7,320.3,0.0,0.0,100.0,baseline
+resource_consumption,Radiation Shielding Alloys,2026Q4,928.8,601.5,201.4,0.0,0.0,100.0,baseline
+resource_consumption,Radiation Shielding Alloys,2027Q1,934.4,733.0,201.4,0.0,0.0,100.0,baseline
+resource_consumption,Radiation Shielding Alloys,2027Q2,896.9,695.5,201.4,0.0,0.0,100.0,baseline
+resource_consumption,Radiation Shielding Alloys,2027Q3,929.9,728.5,201.4,0.0,0.0,100.0,baseline
+resource_consumption,Solar Power Generation (kW),2026Q4,935.0,608.0,201.2,0.0,0.0,100.0,baseline
+resource_consumption,Solar Power Generation (kW),2027Q1,928.0,726.8,201.2,0.0,0.0,100.0,baseline
+resource_consumption,Solar Power Generation (kW),2027Q2,887.7,686.5,201.2,0.0,0.0,100.0,baseline
+resource_consumption,Solar Power Generation (kW),2027Q3,917.4,716.2,201.2,0.0,0.0,100.0,baseline

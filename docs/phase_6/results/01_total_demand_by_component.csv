@@ -1,0 +1,9 @@
+c.component_key,c.component_name,c.component_category,c.standard_lead_time_days,total_orders,total_units_demanded,total_units_manufactured,total_units_procured,fulfillment_rate_pct,total_demand_value_m_usd,actual_avg_lead_time_days
+CMP-008,C-Band / X-Band Synthetic Aperture Radar (SAR) Antennas,Payload Instruments,411,1414,77548.0,73388.0,77327.0,194.35,39566.71,410.9
+CMP-002,Radiation-Hardened Rad-750 Single Board Computers,Avionics,376,1414,77563.0,73250.0,77514.0,194.38,38571.79,376.1
+CMP-001,High-Efficiency Multi-Junction Solar Panels,Power Systems,284,1414,77601.0,74307.0,78057.0,196.34,38554.44,283.7
+CMP-004,Optical Inter-Satellite Laser Link Transceivers,Communications,219,1414,67659.0,64172.0,68036.0,195.4,34584.37,219.2
+CMP-005,High-Precision Star Trackers & Optical Navigation,Navigation,188,1414,67563.0,63993.0,67508.0,194.63,33924.5,188.2
+CMP-003,Hall-Effect Ion Propulsion Thrusters,Propulsion,314,1414,67796.0,64345.0,67890.0,195.05,33740.49,314.4
+CMP-006,Ultra-Low Jitter Momentum & Reaction Wheels,Attitude Control,157,1414,67510.0,63966.0,67762.0,195.12,33624.5,157.4
+CMP-007,Cryogenic Titanium Propellant Tanks,Propulsion,251,1414,67668.0,64139.0,67601.0,194.69,33465.35,251.4

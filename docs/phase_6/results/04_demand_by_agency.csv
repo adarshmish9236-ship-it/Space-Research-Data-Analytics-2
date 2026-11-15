@@ -1,0 +1,8 @@
+agency_key,agency_name,country,total_procurement_events,total_units_demanded,total_spend_m_usd,global_market_share_pct,agency_rank
+AGY-001,National Aeronautics and Space Administration,International,1616,81736.0,41581.47,14.54,1
+AGY-004,Japan Aerospace Exploration Agency,Japan,1616,81716.0,41032.01,14.35,2
+AGY-003,Indian Space Research Organisation,International,1616,81388.0,40914.38,14.3,3
+AGY-002,European Space Agency,Europe,1616,81453.0,40810.71,14.27,4
+AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,1616,81611.0,40757.53,14.25,5
+AGY-006,State Space Corporation Roscosmos,Russia,1616,81396.0,40587.82,14.19,6
+AGY-005,China National Space Administration,China,1616,81608.0,40348.24,14.11,7

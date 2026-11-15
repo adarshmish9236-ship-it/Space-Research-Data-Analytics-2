@@ -1,0 +1,1094 @@
+{
+  "registry_version": "1.0.0",
+  "last_updated": "2026-11-14T21:31:55.546276",
+  "models": {
+    "eq_aggregate_all_components_SARIMA(1,1,1)x(1,1,0)[4]": {
+      "model_id": "eq_aggregate_all_components_SARIMA(1,1,1)x(1,1,0)[4]",
+      "target_domain": "equipment_demand",
+      "target_name": "All",
+      "model_family": "SARIMA(1,1,1)x(1,1,0)[4]",
+      "model_name": "SARIMA(1,1,1)x(1,1,0)[4]",
+      "version": "1.0.0",
+      "status": "ACTIVE",
+      "registered_at": "2026-11-14T21:23:29.348897",
+      "hyperparameters": {
+        "horizon": 4,
+        "frequency": "quarterly"
+      },
+      "evaluation_metrics": {
+        "mae": 139.61,
+        "rmse": 605.54,
+        "wape_pct": 3.89,
+        "mape_pct": 9.07,
+        "bias_pct": 3.31,
+        "r2": 0.0087,
+        "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+        "eval_observations": 24
+      },
+      "feature_importances": {},
+      "artifact_path": null,
+      "drift_monitoring": {
+        "input_drift_method": "Kolmogorov-Smirnov (KS-test alpha=0.05)",
+        "concept_drift_method": "Cumulative Tracking Signal (threshold=+/-4.0 MAD)",
+        "status": "HEALTHY",
+        "last_drift_check": "2026-11-14T21:23:29.348905"
+      }
+    },
+    "eq_cryogenic_tanks_SARIMA(1,1,1)x(1,1,0)[4]": {
+      "model_id": "eq_cryogenic_tanks_SARIMA(1,1,1)x(1,1,0)[4]",
+      "target_domain": "equipment_demand",
+      "target_name": "Cryogenic Tanks",
+      "model_family": "SARIMA(1,1,1)x(1,1,0)[4]",
+      "model_name": "SARIMA(1,1,1)x(1,1,0)[4]",
+      "version": "1.0.0",
+      "status": "ACTIVE",
+      "registered_at": "2026-11-14T21:23:33.953222",
+      "hyperparameters": {
+        "horizon": 4,
+        "frequency": "quarterly"
+      },
+      "evaluation_metrics": {
+        "mae": 21.34,
+        "rmse": 72.91,
+        "wape_pct": 5.0,
+        "mape_pct": 10.27,
+        "bias_pct": 2.99,
+        "r2": 0.041,
+        "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+        "eval_observations": 24
+      },
+      "feature_importances": {},
+      "artifact_path": null,
+      "drift_monitoring": {
+        "input_drift_method": "Kolmogorov-Smirnov (KS-test alpha=0.05)",
+        "concept_drift_method": "Cumulative Tracking Signal (threshold=+/-4.0 MAD)",
+        "status": "HEALTHY",
+        "last_drift_check": "2026-11-14T21:23:33.953230"
+      }
+    },
+    "eq_high-efficiency_solar_arrays_SARIMA(1,1,1)x(1,1,0)[4]": {
+      "model_id": "eq_high-efficiency_solar_arrays_SARIMA(1,1,1)x(1,1,0)[4]",
+      "target_domain": "equipment_demand",
+      "target_name": "High-Efficiency Solar Arrays",
+      "model_family": "SARIMA(1,1,1)x(1,1,0)[4]",
+      "model_name": "SARIMA(1,1,1)x(1,1,0)[4]",
+      "version": "1.0.0",
+      "status": "ACTIVE",
+      "registered_at": "2026-11-14T21:23:38.666880",
+      "hyperparameters": {
+        "horizon": 4,
+        "frequency": "quarterly"
+      },
+      "evaluation_metrics": {
+        "mae": 21.53,
+        "rmse": 74.54,
+        "wape_pct": 5.02,
+        "mape_pct": 10.24,
+        "bias_pct": 3.45,
+        "r2": -0.0223,
+        "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+        "eval_observations": 24
+      },
+      "feature_importances": {},
+      "artifact_path": null,
+      "drift_monitoring": {
+        "input_drift_method": "Kolmogorov-Smirnov (KS-test alpha=0.05)",
+        "concept_drift_method": "Cumulative Tracking Signal (threshold=+/-4.0 MAD)",
+        "status": "HEALTHY",
+        "last_drift_check": "2026-11-14T21:23:38.666890"
+      }
+    },
+    "eq_ion_propulsion_engines_SARIMA(1,1,1)x(1,1,0)[4]": {
+      "model_id": "eq_ion_propulsion_engines_SARIMA(1,1,1)x(1,1,0)[4]",
+      "target_domain": "equipment_demand",
+      "target_name": "Ion Propulsion Engines",
+      "model_family": "SARIMA(1,1,1)x(1,1,0)[4]",
+      "model_name": "SARIMA(1,1,1)x(1,1,0)[4]",
+      "version": "1.0.0",
+      "status": "ACTIVE",
+      "registered_at": "2026-11-14T21:23:43.227131",
+      "hyperparameters": {
+        "horizon": 4,
+        "frequency": "quarterly"
+      },
+      "evaluation_metrics": {
+        "mae": 22.11,
+        "rmse": 75.79,
+        "wape_pct": 5.18,
+        "mape_pct": 10.65,
+        "bias_pct": 3.37,
+        "r2": -0.0422,
+        "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+        "eval_observations": 24
+      },
+      "feature_importances": {},
+      "artifact_path": null,
+      "drift_monitoring": {
+        "input_drift_method": "Kolmogorov-Smirnov (KS-test alpha=0.05)",
+        "concept_drift_method": "Cumulative Tracking Signal (threshold=+/-4.0 MAD)",
+        "status": "HEALTHY",
+        "last_drift_check": "2026-11-14T21:23:43.227141"
+      }
+    },
+    "eq_optical_inter-satellite_links_SARIMA(1,1,1)x(1,1,0)[4]": {
+      "model_id": "eq_optical_inter-satellite_links_SARIMA(1,1,1)x(1,1,0)[4]",
+      "target_domain": "equipment_demand",
+      "target_name": "Optical Inter-Satellite Links",
+      "model_family": "SARIMA(1,1,1)x(1,1,0)[4]",
+      "model_name": "SARIMA(1,1,1)x(1,1,0)[4]",
+      "version": "1.0.0",
+      "status": "ACTIVE",
+      "registered_at": "2026-11-14T21:23:47.975877",
+      "hyperparameters": {
+        "horizon": 4,
+        "frequency": "quarterly"
+      },
+      "evaluation_metrics": {
+        "mae": 19.69,
+        "rmse": 78.8,
+        "wape_pct": 4.05,
+        "mape_pct": 9.08,
+        "bias_pct": 3.1,
+        "r2": 0.015,
+        "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+        "eval_observations": 24
+      },
+      "feature_importances": {},
+      "artifact_path": null,
+      "drift_monitoring": {
+        "input_drift_method": "Kolmogorov-Smirnov (KS-test alpha=0.05)",
+        "concept_drift_method": "Cumulative Tracking Signal (threshold=+/-4.0 MAD)",
+        "status": "HEALTHY",
+        "last_drift_check": "2026-11-14T21:23:47.975883"
+      }
+    },
+    "eq_radiation-hardened_rad-750_cpus_SARIMA(1,1,1)x(1,1,0)[4]": {
+      "model_id": "eq_radiation-hardened_rad-750_cpus_SARIMA(1,1,1)x(1,1,0)[4]",
+      "target_domain": "equipment_demand",
+      "target_name": "Radiation-Hardened Rad-750 CPUs",
+      "model_family": "SARIMA(1,1,1)x(1,1,0)[4]",
+      "model_name": "SARIMA(1,1,1)x(1,1,0)[4]",
+      "version": "1.0.0",
+      "status": "ACTIVE",
+      "registered_at": "2026-11-14T21:23:52.926271",
+      "hyperparameters": {
+        "horizon": 4,
+        "frequency": "quarterly"
+      },
+      "evaluation_metrics": {
+        "mae": 21.4,
+        "rmse": 81.2,
+        "wape_pct": 4.39,
+        "mape_pct": 9.49,
+        "bias_pct": 3.11,
+        "r2": -0.0447,
+        "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+        "eval_observations": 24
+      },
+      "feature_importances": {},
+      "artifact_path": null,
+      "drift_monitoring": {
+        "input_drift_method": "Kolmogorov-Smirnov (KS-test alpha=0.05)",
+        "concept_drift_method": "Cumulative Tracking Signal (threshold=+/-4.0 MAD)",
+        "status": "HEALTHY",
+        "last_drift_check": "2026-11-14T21:23:52.926277"
+      }
+    },
+    "eq_reaction_wheels_SARIMA(1,1,1)x(1,1,0)[4]": {
+      "model_id": "eq_reaction_wheels_SARIMA(1,1,1)x(1,1,0)[4]",
+      "target_domain": "equipment_demand",
+      "target_name": "Reaction Wheels",
+      "model_family": "SARIMA(1,1,1)x(1,1,0)[4]",
+      "model_name": "SARIMA(1,1,1)x(1,1,0)[4]",
+      "version": "1.0.0",
+      "status": "ACTIVE",
+      "registered_at": "2026-11-14T21:23:57.552849",
+      "hyperparameters": {
+        "horizon": 4,
+        "frequency": "quarterly"
+      },
+      "evaluation_metrics": {
+        "mae": 19.96,
+        "rmse": 72.8,
+        "wape_pct": 4.68,
+        "mape_pct": 9.93,
+        "bias_pct": 3.31,
+        "r2": 0.0527,
+        "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+        "eval_observations": 24
+      },
+      "feature_importances": {},
+      "artifact_path": null,
+      "drift_monitoring": {
+        "input_drift_method": "Kolmogorov-Smirnov (KS-test alpha=0.05)",
+        "concept_drift_method": "Cumulative Tracking Signal (threshold=+/-4.0 MAD)",
+        "status": "HEALTHY",
+        "last_drift_check": "2026-11-14T21:23:57.552859"
+      }
+    },
+    "eq_sar_radar_antennas_SARIMA(1,1,1)x(1,1,0)[4]": {
+      "model_id": "eq_sar_radar_antennas_SARIMA(1,1,1)x(1,1,0)[4]",
+      "target_domain": "equipment_demand",
+      "target_name": "SAR Radar Antennas",
+      "model_family": "SARIMA(1,1,1)x(1,1,0)[4]",
+      "model_name": "SARIMA(1,1,1)x(1,1,0)[4]",
+      "version": "1.0.0",
+      "status": "ACTIVE",
+      "registered_at": "2026-11-14T21:24:02.640252",
+      "hyperparameters": {
+        "horizon": 4,
+        "frequency": "quarterly"
+      },
+      "evaluation_metrics": {
+        "mae": 21.68,
+        "rmse": 79.53,
+        "wape_pct": 4.47,
+        "mape_pct": 9.46,
+        "bias_pct": 3.09,
+        "r2": -0.0041,
+        "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+        "eval_observations": 24
+      },
+      "feature_importances": {},
+      "artifact_path": null,
+      "drift_monitoring": {
+        "input_drift_method": "Kolmogorov-Smirnov (KS-test alpha=0.05)",
+        "concept_drift_method": "Cumulative Tracking Signal (threshold=+/-4.0 MAD)",
+        "status": "HEALTHY",
+        "last_drift_check": "2026-11-14T21:24:02.640260"
+      }
+    },
+    "eq_star_trackers_SARIMA(1,1,1)x(1,1,0)[4]": {
+      "model_id": "eq_star_trackers_SARIMA(1,1,1)x(1,1,0)[4]",
+      "target_domain": "equipment_demand",
+      "target_name": "Star Trackers",
+      "model_family": "SARIMA(1,1,1)x(1,1,0)[4]",
+      "model_name": "SARIMA(1,1,1)x(1,1,0)[4]",
+      "version": "1.0.0",
+      "status": "ACTIVE",
+      "registered_at": "2026-11-14T21:24:07.342178",
+      "hyperparameters": {
+        "horizon": 4,
+        "frequency": "quarterly"
+      },
+      "evaluation_metrics": {
+        "mae": 20.5,
+        "rmse": 70.85,
+        "wape_pct": 4.82,
+        "mape_pct": 9.79,
+        "bias_pct": 3.16,
+        "r2": 0.0934,
+        "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+        "eval_observations": 24
+      },
+      "feature_importances": {},
+      "artifact_path": null,
+      "drift_monitoring": {
+        "input_drift_method": "Kolmogorov-Smirnov (KS-test alpha=0.05)",
+        "concept_drift_method": "Cumulative Tracking Signal (threshold=+/-4.0 MAD)",
+        "status": "HEALTHY",
+        "last_drift_check": "2026-11-14T21:24:07.342190"
+      }
+    },
+    "rc_aggregate_all_resources_SARIMA(1,1,1)x(1,1,0)[4]": {
+      "model_id": "rc_aggregate_all_resources_SARIMA(1,1,1)x(1,1,0)[4]",
+      "target_domain": "resource_consumption",
+      "target_name": "All",
+      "model_family": "SARIMA(1,1,1)x(1,1,0)[4]",
+      "model_name": "SARIMA(1,1,1)x(1,1,0)[4]",
+      "version": "1.0.0",
+      "status": "ACTIVE",
+      "registered_at": "2026-11-14T21:24:12.108607",
+      "hyperparameters": {
+        "horizon": 4,
+        "frequency": "quarterly"
+      },
+      "evaluation_metrics": {
+        "mae": 219.04,
+        "rmse": 965.97,
+        "wape_pct": 3.82,
+        "mape_pct": 8.86,
+        "bias_pct": 3.4,
+        "r2": -0.1666,
+        "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+        "eval_observations": 24
+      },
+      "feature_importances": {},
+      "artifact_path": null,
+      "drift_monitoring": {
+        "input_drift_method": "Kolmogorov-Smirnov (KS-test alpha=0.05)",
+        "concept_drift_method": "Cumulative Tracking Signal (threshold=+/-4.0 MAD)",
+        "status": "HEALTHY",
+        "last_drift_check": "2026-11-14T21:24:12.108614"
+      }
+    },
+    "rc_cryogenic_liquid_oxygen_lox_SARIMA(1,1,1)x(1,1,0)[4]": {
+      "model_id": "rc_cryogenic_liquid_oxygen_lox_SARIMA(1,1,1)x(1,1,0)[4]",
+      "target_domain": "resource_consumption",
+      "target_name": "Cryogenic Liquid Oxygen (LOX)",
+      "model_family": "SARIMA(1,1,1)x(1,1,0)[4]",
+      "model_name": "SARIMA(1,1,1)x(1,1,0)[4]",
+      "version": "1.0.0",
+      "status": "ACTIVE",
+      "registered_at": "2026-11-14T21:24:16.350676",
+      "hyperparameters": {
+        "horizon": 4,
+        "frequency": "quarterly"
+      },
+      "evaluation_metrics": {
+        "mae": 44.39,
+        "rmse": 167.57,
+        "wape_pct": 4.31,
+        "mape_pct": 9.43,
+        "bias_pct": 3.4,
+        "r2": -0.216,
+        "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+        "eval_observations": 24
+      },
+      "feature_importances": {},
+      "artifact_path": null,
+      "drift_monitoring": {
+        "input_drift_method": "Kolmogorov-Smirnov (KS-test alpha=0.05)",
+        "concept_drift_method": "Cumulative Tracking Signal (threshold=+/-4.0 MAD)",
+        "status": "HEALTHY",
+        "last_drift_check": "2026-11-14T21:24:16.350683"
+      }
+    },
+    "rc_deep_space_telemetry_tbps_SARIMA(1,1,1)x(1,1,0)[4]": {
+      "model_id": "rc_deep_space_telemetry_tbps_SARIMA(1,1,1)x(1,1,0)[4]",
+      "target_domain": "resource_consumption",
+      "target_name": "Deep Space Telemetry (Tbps)",
+      "model_family": "SARIMA(1,1,1)x(1,1,0)[4]",
+      "model_name": "SARIMA(1,1,1)x(1,1,0)[4]",
+      "version": "1.0.0",
+      "status": "ACTIVE",
+      "registered_at": "2026-11-14T21:24:20.994380",
+      "hyperparameters": {
+        "horizon": 4,
+        "frequency": "quarterly"
+      },
+      "evaluation_metrics": {
+        "mae": 31.35,
+        "rmse": 124.06,
+        "wape_pct": 4.27,
+        "mape_pct": 9.18,
+        "bias_pct": 3.42,
+        "r2": -0.1271,
+        "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+        "eval_observations": 24
+      },
+      "feature_importances": {},
+      "artifact_path": null,
+      "drift_monitoring": {
+        "input_drift_method": "Kolmogorov-Smirnov (KS-test alpha=0.05)",
+        "concept_drift_method": "Cumulative Tracking Signal (threshold=+/-4.0 MAD)",
+        "status": "HEALTHY",
+        "last_drift_check": "2026-11-14T21:24:20.994389"
+      }
+    },
+    "rc_hypergolic_hydrazine_SARIMA(1,1,1)x(1,1,0)[4]": {
+      "model_id": "rc_hypergolic_hydrazine_SARIMA(1,1,1)x(1,1,0)[4]",
+      "target_domain": "resource_consumption",
+      "target_name": "Hypergolic Hydrazine",
+      "model_family": "SARIMA(1,1,1)x(1,1,0)[4]",
+      "model_name": "SARIMA(1,1,1)x(1,1,0)[4]",
+      "version": "1.0.0",
+      "status": "ACTIVE",
+      "registered_at": "2026-11-14T21:24:25.408571",
+      "hyperparameters": {
+        "horizon": 4,
+        "frequency": "quarterly"
+      },
+      "evaluation_metrics": {
+        "mae": 38.46,
+        "rmse": 129.41,
+        "wape_pct": 5.23,
+        "mape_pct": 10.49,
+        "bias_pct": 3.53,
+        "r2": -0.1615,
+        "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+        "eval_observations": 24
+      },
+      "feature_importances": {},
+      "artifact_path": null,
+      "drift_monitoring": {
+        "input_drift_method": "Kolmogorov-Smirnov (KS-test alpha=0.05)",
+        "concept_drift_method": "Cumulative Tracking Signal (threshold=+/-4.0 MAD)",
+        "status": "HEALTHY",
+        "last_drift_check": "2026-11-14T21:24:25.408577"
+      }
+    },
+    "rc_liquid_hydrogen_lh2_SARIMA(1,1,1)x(1,1,0)[4]": {
+      "model_id": "rc_liquid_hydrogen_lh2_SARIMA(1,1,1)x(1,1,0)[4]",
+      "target_domain": "resource_consumption",
+      "target_name": "Liquid Hydrogen (LH2)",
+      "model_family": "SARIMA(1,1,1)x(1,1,0)[4]",
+      "model_name": "SARIMA(1,1,1)x(1,1,0)[4]",
+      "version": "1.0.0",
+      "status": "ACTIVE",
+      "registered_at": "2026-11-14T21:24:29.968835",
+      "hyperparameters": {
+        "horizon": 4,
+        "frequency": "quarterly"
+      },
+      "evaluation_metrics": {
+        "mae": 33.88,
+        "rmse": 125.73,
+        "wape_pct": 4.61,
+        "mape_pct": 9.41,
+        "bias_pct": 3.0,
+        "r2": -0.1346,
+        "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+        "eval_observations": 24
+      },
+      "feature_importances": {},
+      "artifact_path": null,
+      "drift_monitoring": {
+        "input_drift_method": "Kolmogorov-Smirnov (KS-test alpha=0.05)",
+        "concept_drift_method": "Cumulative Tracking Signal (threshold=+/-4.0 MAD)",
+        "status": "HEALTHY",
+        "last_drift_check": "2026-11-14T21:24:29.968847"
+      }
+    },
+    "rc_rp-1_rocket_fuel_SARIMA(1,1,1)x(1,1,0)[4]": {
+      "model_id": "rc_rp-1_rocket_fuel_SARIMA(1,1,1)x(1,1,0)[4]",
+      "target_domain": "resource_consumption",
+      "target_name": "RP-1 Rocket Fuel",
+      "model_family": "SARIMA(1,1,1)x(1,1,0)[4]",
+      "model_name": "SARIMA(1,1,1)x(1,1,0)[4]",
+      "version": "1.0.0",
+      "status": "ACTIVE",
+      "registered_at": "2026-11-14T21:24:34.187537",
+      "hyperparameters": {
+        "horizon": 4,
+        "frequency": "quarterly"
+      },
+      "evaluation_metrics": {
+        "mae": 42.91,
+        "rmse": 165.03,
+        "wape_pct": 4.17,
+        "mape_pct": 9.21,
+        "bias_pct": 3.04,
+        "r2": -0.1944,
+        "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+        "eval_observations": 24
+      },
+      "feature_importances": {},
+      "artifact_path": null,
+      "drift_monitoring": {
+        "input_drift_method": "Kolmogorov-Smirnov (KS-test alpha=0.05)",
+        "concept_drift_method": "Cumulative Tracking Signal (threshold=+/-4.0 MAD)",
+        "status": "HEALTHY",
+        "last_drift_check": "2026-11-14T21:24:34.187544"
+      }
+    },
+    "rc_radiation_shielding_alloys_SARIMA(1,1,1)x(1,1,0)[4]": {
+      "model_id": "rc_radiation_shielding_alloys_SARIMA(1,1,1)x(1,1,0)[4]",
+      "target_domain": "resource_consumption",
+      "target_name": "Radiation Shielding Alloys",
+      "model_family": "SARIMA(1,1,1)x(1,1,0)[4]",
+      "model_name": "SARIMA(1,1,1)x(1,1,0)[4]",
+      "version": "1.0.0",
+      "status": "ACTIVE",
+      "registered_at": "2026-11-14T21:24:38.890679",
+      "hyperparameters": {
+        "horizon": 4,
+        "frequency": "quarterly"
+      },
+      "evaluation_metrics": {
+        "mae": 34.48,
+        "rmse": 127.61,
+        "wape_pct": 4.7,
+        "mape_pct": 9.72,
+        "bias_pct": 3.15,
+        "r2": -0.1038,
+        "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+        "eval_observations": 24
+      },
+      "feature_importances": {},
+      "artifact_path": null,
+      "drift_monitoring": {
+        "input_drift_method": "Kolmogorov-Smirnov (KS-test alpha=0.05)",
+        "concept_drift_method": "Cumulative Tracking Signal (threshold=+/-4.0 MAD)",
+        "status": "HEALTHY",
+        "last_drift_check": "2026-11-14T21:24:38.890686"
+      }
+    },
+    "rc_solar_power_generation_kw_SARIMA(1,1,1)x(1,1,0)[4]": {
+      "model_id": "rc_solar_power_generation_kw_SARIMA(1,1,1)x(1,1,0)[4]",
+      "target_domain": "resource_consumption",
+      "target_name": "Solar Power Generation (kW)",
+      "model_family": "SARIMA(1,1,1)x(1,1,0)[4]",
+      "model_name": "SARIMA(1,1,1)x(1,1,0)[4]",
+      "version": "1.0.0",
+      "status": "ACTIVE",
+      "registered_at": "2026-11-14T21:24:43.372247",
+      "hyperparameters": {
+        "horizon": 4,
+        "frequency": "quarterly"
+      },
+      "evaluation_metrics": {
+        "mae": 38.03,
+        "rmse": 127.44,
+        "wape_pct": 5.19,
+        "mape_pct": 10.21,
+        "bias_pct": 3.09,
+        "r2": -0.123,
+        "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+        "eval_observations": 24
+      },
+      "feature_importances": {},
+      "artifact_path": null,
+      "drift_monitoring": {
+        "input_drift_method": "Kolmogorov-Smirnov (KS-test alpha=0.05)",
+        "concept_drift_method": "Cumulative Tracking Signal (threshold=+/-4.0 MAD)",
+        "status": "HEALTHY",
+        "last_drift_check": "2026-11-14T21:24:43.372253"
+      }
+    },
+    "eq_aggregate_all_components_SARIMA(1,1,1)x(1,0,0)[4]": {
+      "model_id": "eq_aggregate_all_components_SARIMA(1,1,1)x(1,0,0)[4]",
+      "target_domain": "equipment_demand",
+      "target_name": "All",
+      "model_family": "SARIMA(1,1,1)x(1,0,0)[4]",
+      "model_name": "SARIMA(1,1,1)x(1,0,0)[4]",
+      "version": "1.0.0",
+      "status": "ACTIVE",
+      "registered_at": "2026-11-14T21:30:17.474946",
+      "hyperparameters": {
+        "horizon": 4,
+        "frequency": "quarterly"
+      },
+      "evaluation_metrics": {
+        "mae": 16.8,
+        "rmse": 20.22,
+        "wape_pct": 0.45,
+        "mape_pct": 0.47,
+        "bias_pct": 0.15,
+        "r2": 0.9977,
+        "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+        "eval_observations": 24
+      },
+      "feature_importances": {},
+      "artifact_path": null,
+      "drift_monitoring": {
+        "input_drift_method": "Kolmogorov-Smirnov (KS-test alpha=0.05)",
+        "concept_drift_method": "Cumulative Tracking Signal (threshold=+/-4.0 MAD)",
+        "status": "HEALTHY",
+        "last_drift_check": "2026-11-14T21:30:17.474953"
+      }
+    },
+    "eq_cryogenic_tanks_SARIMA(1,1,1)x(1,0,0)[4]": {
+      "model_id": "eq_cryogenic_tanks_SARIMA(1,1,1)x(1,0,0)[4]",
+      "target_domain": "equipment_demand",
+      "target_name": "Cryogenic Tanks",
+      "model_family": "SARIMA(1,1,1)x(1,0,0)[4]",
+      "model_name": "SARIMA(1,1,1)x(1,0,0)[4]",
+      "version": "1.0.0",
+      "status": "ACTIVE",
+      "registered_at": "2026-11-14T21:30:23.409039",
+      "hyperparameters": {
+        "horizon": 4,
+        "frequency": "quarterly"
+      },
+      "evaluation_metrics": {
+        "mae": 6.43,
+        "rmse": 8.15,
+        "wape_pct": 1.46,
+        "mape_pct": 1.5,
+        "bias_pct": 0.3,
+        "r2": 0.976,
+        "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+        "eval_observations": 24
+      },
+      "feature_importances": {},
+      "artifact_path": null,
+      "drift_monitoring": {
+        "input_drift_method": "Kolmogorov-Smirnov (KS-test alpha=0.05)",
+        "concept_drift_method": "Cumulative Tracking Signal (threshold=+/-4.0 MAD)",
+        "status": "HEALTHY",
+        "last_drift_check": "2026-11-14T21:30:23.409047"
+      }
+    },
+    "eq_high-efficiency_solar_arrays_SARIMA(1,1,1)x(1,0,0)[4]": {
+      "model_id": "eq_high-efficiency_solar_arrays_SARIMA(1,1,1)x(1,0,0)[4]",
+      "target_domain": "equipment_demand",
+      "target_name": "High-Efficiency Solar Arrays",
+      "model_family": "SARIMA(1,1,1)x(1,0,0)[4]",
+      "model_name": "SARIMA(1,1,1)x(1,0,0)[4]",
+      "version": "1.0.0",
+      "status": "ACTIVE",
+      "registered_at": "2026-11-14T21:30:29.505557",
+      "hyperparameters": {
+        "horizon": 4,
+        "frequency": "quarterly"
+      },
+      "evaluation_metrics": {
+        "mae": 7.21,
+        "rmse": 9.27,
+        "wape_pct": 1.63,
+        "mape_pct": 1.65,
+        "bias_pct": 0.26,
+        "r2": 0.9683,
+        "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+        "eval_observations": 24
+      },
+      "feature_importances": {},
+      "artifact_path": null,
+      "drift_monitoring": {
+        "input_drift_method": "Kolmogorov-Smirnov (KS-test alpha=0.05)",
+        "concept_drift_method": "Cumulative Tracking Signal (threshold=+/-4.0 MAD)",
+        "status": "HEALTHY",
+        "last_drift_check": "2026-11-14T21:30:29.505563"
+      }
+    },
+    "eq_ion_propulsion_engines_SARIMA(1,1,1)x(1,0,0)[4]": {
+      "model_id": "eq_ion_propulsion_engines_SARIMA(1,1,1)x(1,0,0)[4]",
+      "target_domain": "equipment_demand",
+      "target_name": "Ion Propulsion Engines",
+      "model_family": "SARIMA(1,1,1)x(1,0,0)[4]",
+      "model_name": "SARIMA(1,1,1)x(1,0,0)[4]",
+      "version": "1.0.0",
+      "status": "ACTIVE",
+      "registered_at": "2026-11-14T21:30:35.558433",
+      "hyperparameters": {
+        "horizon": 4,
+        "frequency": "quarterly"
+      },
+      "evaluation_metrics": {
+        "mae": 7.87,
+        "rmse": 11.74,
+        "wape_pct": 1.79,
+        "mape_pct": 1.81,
+        "bias_pct": -0.24,
+        "r2": 0.9501,
+        "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+        "eval_observations": 24
+      },
+      "feature_importances": {},
+      "artifact_path": null,
+      "drift_monitoring": {
+        "input_drift_method": "Kolmogorov-Smirnov (KS-test alpha=0.05)",
+        "concept_drift_method": "Cumulative Tracking Signal (threshold=+/-4.0 MAD)",
+        "status": "HEALTHY",
+        "last_drift_check": "2026-11-14T21:30:35.558439"
+      }
+    },
+    "eq_optical_inter-satellite_links_SARIMA(1,1,1)x(1,0,0)[4]": {
+      "model_id": "eq_optical_inter-satellite_links_SARIMA(1,1,1)x(1,0,0)[4]",
+      "target_domain": "equipment_demand",
+      "target_name": "Optical Inter-Satellite Links",
+      "model_family": "SARIMA(1,1,1)x(1,0,0)[4]",
+      "model_name": "SARIMA(1,1,1)x(1,0,0)[4]",
+      "version": "1.0.0",
+      "status": "ACTIVE",
+      "registered_at": "2026-11-14T21:30:41.932167",
+      "hyperparameters": {
+        "horizon": 4,
+        "frequency": "quarterly"
+      },
+      "evaluation_metrics": {
+        "mae": 4.4,
+        "rmse": 5.92,
+        "wape_pct": 0.88,
+        "mape_pct": 0.88,
+        "bias_pct": 0.25,
+        "r2": 0.9868,
+        "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+        "eval_observations": 24
+      },
+      "feature_importances": {},
+      "artifact_path": null,
+      "drift_monitoring": {
+        "input_drift_method": "Kolmogorov-Smirnov (KS-test alpha=0.05)",
+        "concept_drift_method": "Cumulative Tracking Signal (threshold=+/-4.0 MAD)",
+        "status": "HEALTHY",
+        "last_drift_check": "2026-11-14T21:30:41.932175"
+      }
+    },
+    "eq_radiation-hardened_rad-750_cpus_SARIMA(1,1,1)x(1,0,0)[4]": {
+      "model_id": "eq_radiation-hardened_rad-750_cpus_SARIMA(1,1,1)x(1,0,0)[4]",
+      "target_domain": "equipment_demand",
+      "target_name": "Radiation-Hardened Rad-750 CPUs",
+      "model_family": "SARIMA(1,1,1)x(1,0,0)[4]",
+      "model_name": "SARIMA(1,1,1)x(1,0,0)[4]",
+      "version": "1.0.0",
+      "status": "ACTIVE",
+      "registered_at": "2026-11-14T21:30:47.991939",
+      "hyperparameters": {
+        "horizon": 4,
+        "frequency": "quarterly"
+      },
+      "evaluation_metrics": {
+        "mae": 5.11,
+        "rmse": 6.37,
+        "wape_pct": 1.02,
+        "mape_pct": 1.02,
+        "bias_pct": 0.08,
+        "r2": 0.985,
+        "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+        "eval_observations": 24
+      },
+      "feature_importances": {},
+      "artifact_path": null,
+      "drift_monitoring": {
+        "input_drift_method": "Kolmogorov-Smirnov (KS-test alpha=0.05)",
+        "concept_drift_method": "Cumulative Tracking Signal (threshold=+/-4.0 MAD)",
+        "status": "HEALTHY",
+        "last_drift_check": "2026-11-14T21:30:47.991945"
+      }
+    },
+    "eq_reaction_wheels_SARIMA(1,1,1)x(1,0,0)[4]": {
+      "model_id": "eq_reaction_wheels_SARIMA(1,1,1)x(1,0,0)[4]",
+      "target_domain": "equipment_demand",
+      "target_name": "Reaction Wheels",
+      "model_family": "SARIMA(1,1,1)x(1,0,0)[4]",
+      "model_name": "SARIMA(1,1,1)x(1,0,0)[4]",
+      "version": "1.0.0",
+      "status": "ACTIVE",
+      "registered_at": "2026-11-14T21:30:54.238978",
+      "hyperparameters": {
+        "horizon": 4,
+        "frequency": "quarterly"
+      },
+      "evaluation_metrics": {
+        "mae": 5.76,
+        "rmse": 6.74,
+        "wape_pct": 1.31,
+        "mape_pct": 1.29,
+        "bias_pct": 0.17,
+        "r2": 0.984,
+        "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+        "eval_observations": 24
+      },
+      "feature_importances": {},
+      "artifact_path": null,
+      "drift_monitoring": {
+        "input_drift_method": "Kolmogorov-Smirnov (KS-test alpha=0.05)",
+        "concept_drift_method": "Cumulative Tracking Signal (threshold=+/-4.0 MAD)",
+        "status": "HEALTHY",
+        "last_drift_check": "2026-11-14T21:30:54.238985"
+      }
+    },
+    "eq_sar_radar_antennas_SARIMA(1,1,1)x(1,0,0)[4]": {
+      "model_id": "eq_sar_radar_antennas_SARIMA(1,1,1)x(1,0,0)[4]",
+      "target_domain": "equipment_demand",
+      "target_name": "SAR Radar Antennas",
+      "model_family": "SARIMA(1,1,1)x(1,0,0)[4]",
+      "model_name": "SARIMA(1,1,1)x(1,0,0)[4]",
+      "version": "1.0.0",
+      "status": "ACTIVE",
+      "registered_at": "2026-11-14T21:31:00.595601",
+      "hyperparameters": {
+        "horizon": 4,
+        "frequency": "quarterly"
+      },
+      "evaluation_metrics": {
+        "mae": 8.16,
+        "rmse": 9.49,
+        "wape_pct": 1.63,
+        "mape_pct": 1.67,
+        "bias_pct": 0.04,
+        "r2": 0.9668,
+        "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+        "eval_observations": 24
+      },
+      "feature_importances": {},
+      "artifact_path": null,
+      "drift_monitoring": {
+        "input_drift_method": "Kolmogorov-Smirnov (KS-test alpha=0.05)",
+        "concept_drift_method": "Cumulative Tracking Signal (threshold=+/-4.0 MAD)",
+        "status": "HEALTHY",
+        "last_drift_check": "2026-11-14T21:31:00.595615"
+      }
+    },
+    "eq_star_trackers_SARIMA(1,1,1)x(1,0,0)[4]": {
+      "model_id": "eq_star_trackers_SARIMA(1,1,1)x(1,0,0)[4]",
+      "target_domain": "equipment_demand",
+      "target_name": "Star Trackers",
+      "model_family": "SARIMA(1,1,1)x(1,0,0)[4]",
+      "model_name": "SARIMA(1,1,1)x(1,0,0)[4]",
+      "version": "1.0.0",
+      "status": "ACTIVE",
+      "registered_at": "2026-11-14T21:31:07.858643",
+      "hyperparameters": {
+        "horizon": 4,
+        "frequency": "quarterly"
+      },
+      "evaluation_metrics": {
+        "mae": 6.97,
+        "rmse": 8.72,
+        "wape_pct": 1.59,
+        "mape_pct": 1.66,
+        "bias_pct": -0.01,
+        "r2": 0.9734,
+        "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+        "eval_observations": 24
+      },
+      "feature_importances": {},
+      "artifact_path": null,
+      "drift_monitoring": {
+        "input_drift_method": "Kolmogorov-Smirnov (KS-test alpha=0.05)",
+        "concept_drift_method": "Cumulative Tracking Signal (threshold=+/-4.0 MAD)",
+        "status": "HEALTHY",
+        "last_drift_check": "2026-11-14T21:31:07.858650"
+      }
+    },
+    "rc_aggregate_all_resources_SARIMA(1,1,1)x(1,0,0)[4]": {
+      "model_id": "rc_aggregate_all_resources_SARIMA(1,1,1)x(1,0,0)[4]",
+      "target_domain": "resource_consumption",
+      "target_name": "All",
+      "model_family": "SARIMA(1,1,1)x(1,0,0)[4]",
+      "model_name": "SARIMA(1,1,1)x(1,0,0)[4]",
+      "version": "1.0.0",
+      "status": "ACTIVE",
+      "registered_at": "2026-11-14T21:31:14.108875",
+      "hyperparameters": {
+        "horizon": 4,
+        "frequency": "quarterly"
+      },
+      "evaluation_metrics": {
+        "mae": 29.81,
+        "rmse": 34.78,
+        "wape_pct": 0.5,
+        "mape_pct": 0.5,
+        "bias_pct": 0.17,
+        "r2": 0.9963,
+        "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+        "eval_observations": 24
+      },
+      "feature_importances": {},
+      "artifact_path": null,
+      "drift_monitoring": {
+        "input_drift_method": "Kolmogorov-Smirnov (KS-test alpha=0.05)",
+        "concept_drift_method": "Cumulative Tracking Signal (threshold=+/-4.0 MAD)",
+        "status": "HEALTHY",
+        "last_drift_check": "2026-11-14T21:31:14.108881"
+      }
+    },
+    "rc_cryogenic_liquid_oxygen_lox_SARIMA(1,1,1)x(1,0,0)[4]": {
+      "model_id": "rc_cryogenic_liquid_oxygen_lox_SARIMA(1,1,1)x(1,0,0)[4]",
+      "target_domain": "resource_consumption",
+      "target_name": "Cryogenic Liquid Oxygen (LOX)",
+      "model_family": "SARIMA(1,1,1)x(1,0,0)[4]",
+      "model_name": "SARIMA(1,1,1)x(1,0,0)[4]",
+      "version": "1.0.0",
+      "status": "ACTIVE",
+      "registered_at": "2026-11-14T21:31:19.896999",
+      "hyperparameters": {
+        "horizon": 4,
+        "frequency": "quarterly"
+      },
+      "evaluation_metrics": {
+        "mae": 11.83,
+        "rmse": 14.93,
+        "wape_pct": 1.11,
+        "mape_pct": 1.11,
+        "bias_pct": 0.39,
+        "r2": 0.9659,
+        "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+        "eval_observations": 24
+      },
+      "feature_importances": {},
+      "artifact_path": null,
+      "drift_monitoring": {
+        "input_drift_method": "Kolmogorov-Smirnov (KS-test alpha=0.05)",
+        "concept_drift_method": "Cumulative Tracking Signal (threshold=+/-4.0 MAD)",
+        "status": "HEALTHY",
+        "last_drift_check": "2026-11-14T21:31:19.897005"
+      }
+    },
+    "rc_deep_space_telemetry_tbps_SARIMA(1,1,1)x(1,0,0)[4]": {
+      "model_id": "rc_deep_space_telemetry_tbps_SARIMA(1,1,1)x(1,0,0)[4]",
+      "target_domain": "resource_consumption",
+      "target_name": "Deep Space Telemetry (Tbps)",
+      "model_family": "SARIMA(1,1,1)x(1,0,0)[4]",
+      "model_name": "SARIMA(1,1,1)x(1,0,0)[4]",
+      "version": "1.0.0",
+      "status": "ACTIVE",
+      "registered_at": "2026-11-14T21:31:25.820032",
+      "hyperparameters": {
+        "horizon": 4,
+        "frequency": "quarterly"
+      },
+      "evaluation_metrics": {
+        "mae": 8.99,
+        "rmse": 10.65,
+        "wape_pct": 1.19,
+        "mape_pct": 1.2,
+        "bias_pct": 0.07,
+        "r2": 0.9813,
+        "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+        "eval_observations": 24
+      },
+      "feature_importances": {},
+      "artifact_path": null,
+      "drift_monitoring": {
+        "input_drift_method": "Kolmogorov-Smirnov (KS-test alpha=0.05)",
+        "concept_drift_method": "Cumulative Tracking Signal (threshold=+/-4.0 MAD)",
+        "status": "HEALTHY",
+        "last_drift_check": "2026-11-14T21:31:25.820041"
+      }
+    },
+    "rc_hypergolic_hydrazine_SARIMA(1,1,1)x(1,0,0)[4]": {
+      "model_id": "rc_hypergolic_hydrazine_SARIMA(1,1,1)x(1,0,0)[4]",
+      "target_domain": "resource_consumption",
+      "target_name": "Hypergolic Hydrazine",
+      "model_family": "SARIMA(1,1,1)x(1,0,0)[4]",
+      "model_name": "SARIMA(1,1,1)x(1,0,0)[4]",
+      "version": "1.0.0",
+      "status": "ACTIVE",
+      "registered_at": "2026-11-14T21:31:31.578056",
+      "hyperparameters": {
+        "horizon": 4,
+        "frequency": "quarterly"
+      },
+      "evaluation_metrics": {
+        "mae": 15.24,
+        "rmse": 18.76,
+        "wape_pct": 2.01,
+        "mape_pct": 2.09,
+        "bias_pct": 0.18,
+        "r2": 0.947,
+        "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+        "eval_observations": 24
+      },
+      "feature_importances": {},
+      "artifact_path": null,
+      "drift_monitoring": {
+        "input_drift_method": "Kolmogorov-Smirnov (KS-test alpha=0.05)",
+        "concept_drift_method": "Cumulative Tracking Signal (threshold=+/-4.0 MAD)",
+        "status": "HEALTHY",
+        "last_drift_check": "2026-11-14T21:31:31.578062"
+      }
+    },
+    "rc_liquid_hydrogen_lh2_SARIMA(1,1,1)x(1,0,0)[4]": {
+      "model_id": "rc_liquid_hydrogen_lh2_SARIMA(1,1,1)x(1,0,0)[4]",
+      "target_domain": "resource_consumption",
+      "target_name": "Liquid Hydrogen (LH2)",
+      "model_family": "SARIMA(1,1,1)x(1,0,0)[4]",
+      "model_name": "SARIMA(1,1,1)x(1,0,0)[4]",
+      "version": "1.0.0",
+      "status": "ACTIVE",
+      "registered_at": "2026-11-14T21:31:37.666660",
+      "hyperparameters": {
+        "horizon": 4,
+        "frequency": "quarterly"
+      },
+      "evaluation_metrics": {
+        "mae": 10.28,
+        "rmse": 12.07,
+        "wape_pct": 1.36,
+        "mape_pct": 1.38,
+        "bias_pct": -0.0,
+        "r2": 0.978,
+        "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+        "eval_observations": 24
+      },
+      "feature_importances": {},
+      "artifact_path": null,
+      "drift_monitoring": {
+        "input_drift_method": "Kolmogorov-Smirnov (KS-test alpha=0.05)",
+        "concept_drift_method": "Cumulative Tracking Signal (threshold=+/-4.0 MAD)",
+        "status": "HEALTHY",
+        "last_drift_check": "2026-11-14T21:31:37.666670"
+      }
+    },
+    "rc_rp-1_rocket_fuel_SARIMA(1,1,1)x(1,0,0)[4]": {
+      "model_id": "rc_rp-1_rocket_fuel_SARIMA(1,1,1)x(1,0,0)[4]",
+      "target_domain": "resource_consumption",
+      "target_name": "RP-1 Rocket Fuel",
+      "model_family": "SARIMA(1,1,1)x(1,0,0)[4]",
+      "model_name": "SARIMA(1,1,1)x(1,0,0)[4]",
+      "version": "1.0.0",
+      "status": "ACTIVE",
+      "registered_at": "2026-11-14T21:31:43.713543",
+      "hyperparameters": {
+        "horizon": 4,
+        "frequency": "quarterly"
+      },
+      "evaluation_metrics": {
+        "mae": 10.36,
+        "rmse": 12.4,
+        "wape_pct": 0.98,
+        "mape_pct": 1.0,
+        "bias_pct": -0.15,
+        "r2": 0.9756,
+        "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+        "eval_observations": 24
+      },
+      "feature_importances": {},
+      "artifact_path": null,
+      "drift_monitoring": {
+        "input_drift_method": "Kolmogorov-Smirnov (KS-test alpha=0.05)",
+        "concept_drift_method": "Cumulative Tracking Signal (threshold=+/-4.0 MAD)",
+        "status": "HEALTHY",
+        "last_drift_check": "2026-11-14T21:31:43.713549"
+      }
+    },
+    "rc_radiation_shielding_alloys_SARIMA(1,1,1)x(1,0,0)[4]": {
+      "model_id": "rc_radiation_shielding_alloys_SARIMA(1,1,1)x(1,0,0)[4]",
+      "target_domain": "resource_consumption",
+      "target_name": "Radiation Shielding Alloys",
+      "model_family": "SARIMA(1,1,1)x(1,0,0)[4]",
+      "model_name": "SARIMA(1,1,1)x(1,0,0)[4]",
+      "version": "1.0.0",
+      "status": "ACTIVE",
+      "registered_at": "2026-11-14T21:31:49.696245",
+      "hyperparameters": {
+        "horizon": 4,
+        "frequency": "quarterly"
+      },
+      "evaluation_metrics": {
+        "mae": 10.25,
+        "rmse": 12.26,
+        "wape_pct": 1.35,
+        "mape_pct": 1.4,
+        "bias_pct": -0.19,
+        "r2": 0.9796,
+        "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+        "eval_observations": 24
+      },
+      "feature_importances": {},
+      "artifact_path": null,
+      "drift_monitoring": {
+        "input_drift_method": "Kolmogorov-Smirnov (KS-test alpha=0.05)",
+        "concept_drift_method": "Cumulative Tracking Signal (threshold=+/-4.0 MAD)",
+        "status": "HEALTHY",
+        "last_drift_check": "2026-11-14T21:31:49.696250"
+      }
+    },
+    "rc_solar_power_generation_kw_SARIMA(1,1,1)x(1,0,0)[4]": {
+      "model_id": "rc_solar_power_generation_kw_SARIMA(1,1,1)x(1,0,0)[4]",
+      "target_domain": "resource_consumption",
+      "target_name": "Solar Power Generation (kW)",
+      "model_family": "SARIMA(1,1,1)x(1,0,0)[4]",
+      "model_name": "SARIMA(1,1,1)x(1,0,0)[4]",
+      "version": "1.0.0",
+      "status": "ACTIVE",
+      "registered_at": "2026-11-14T21:31:55.546266",
+      "hyperparameters": {
+        "horizon": 4,
+        "frequency": "quarterly"
+      },
+      "evaluation_metrics": {
+        "mae": 14.85,
+        "rmse": 18.29,
+        "wape_pct": 1.96,
+        "mape_pct": 2.11,
+        "bias_pct": -0.2,
+        "r2": 0.9537,
+        "bias_assessment": "BALANCED (Within +/-5% Variance Tolerance)",
+        "eval_observations": 24
+      },
+      "feature_importances": {},
+      "artifact_path": null,
+      "drift_monitoring": {
+        "input_drift_method": "Kolmogorov-Smirnov (KS-test alpha=0.05)",
+        "concept_drift_method": "Cumulative Tracking Signal (threshold=+/-4.0 MAD)",
+        "status": "HEALTHY",
+        "last_drift_check": "2026-11-14T21:31:55.546272"
+      }
+    }
+  }
+}

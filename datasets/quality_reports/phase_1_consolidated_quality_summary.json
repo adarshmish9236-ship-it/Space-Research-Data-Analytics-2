@@ -1,0 +1,121 @@
+{
+  "pipeline": "Orbitalytics Phase 1 Validation",
+  "datasets_validated": 9,
+  "dataset_metrics": [
+    {
+      "dataset_name": "space_missions",
+      "input_records": 1500,
+      "accepted_records": 1500,
+      "rejected_records": 0,
+      "rejection_rate_pct": 0.0,
+      "completeness_score": 100.0,
+      "uniqueness_score": 100.0,
+      "validity_score": 100.0,
+      "overall_quality_score": 100.0,
+      "rejection_summary": {}
+    },
+    {
+      "dataset_name": "satellites_orbital",
+      "input_records": 2400,
+      "accepted_records": 2400,
+      "rejected_records": 0,
+      "rejection_rate_pct": 0.0,
+      "completeness_score": 100.0,
+      "uniqueness_score": 100.0,
+      "validity_score": 100.0,
+      "overall_quality_score": 100.0,
+      "rejection_summary": {}
+    },
+    {
+      "dataset_name": "launch_activities",
+      "input_records": 1200,
+      "accepted_records": 1200,
+      "rejected_records": 0,
+      "rejection_rate_pct": 0.0,
+      "completeness_score": 100.0,
+      "uniqueness_score": 100.0,
+      "validity_score": 100.0,
+      "overall_quality_score": 100.0,
+      "rejection_summary": {}
+    },
+    {
+      "dataset_name": "equipment_component_demand",
+      "input_records": 11312,
+      "accepted_records": 11312,
+      "rejected_records": 0,
+      "rejection_rate_pct": 0.0,
+      "completeness_score": 100.0,
+      "uniqueness_score": 100.0,
+      "validity_score": 100.0,
+      "overall_quality_score": 100.0,
+      "rejection_summary": {}
+    },
+    {
+      "dataset_name": "agency_research_expenditures",
+      "input_records": 1414,
+      "accepted_records": 1414,
+      "rejected_records": 0,
+      "rejection_rate_pct": 0.0,
+      "completeness_score": 100.0,
+      "uniqueness_score": 100.0,
+      "validity_score": 100.0,
+      "overall_quality_score": 100.0,
+      "rejection_summary": {}
+    },
+    {
+      "dataset_name": "resource_consumption",
+      "input_records": 9898,
+      "accepted_records": 9898,
+      "rejected_records": 0,
+      "rejection_rate_pct": 0.0,
+      "completeness_score": 100.0,
+      "uniqueness_score": 100.0,
+      "validity_score": 100.0,
+      "overall_quality_score": 100.0,
+      "rejection_summary": {}
+    },
+    {
+      "dataset_name": "satellite_manufacturing_requirements",
+      "input_records": 600,
+      "accepted_records": 600,
+      "rejected_records": 0,
+      "rejection_rate_pct": 0.0,
+      "completeness_score": 100.0,
+      "uniqueness_score": 100.0,
+      "validity_score": 100.0,
+      "overall_quality_score": 100.0,
+      "rejection_summary": {}
+    },
+    {
+      "dataset_name": "space_infrastructure_requirements",
+      "input_records": 1010,
+      "accepted_records": 1010,
+      "rejected_records": 0,
+      "rejection_rate_pct": 0.0,
+      "completeness_score": 100.0,
+      "uniqueness_score": 100.0,
+      "validity_score": 100.0,
+      "overall_quality_score": 100.0,
+      "rejection_summary": {}
+    },
+    {
+      "dataset_name": "research_investment_future_projects",
+      "input_records": 160,
+      "accepted_records": 160,
+      "rejected_records": 0,
+      "rejection_rate_pct": 0.0,
+      "completeness_score": 100.0,
+      "uniqueness_score": 100.0,
+      "validity_score": 100.0,
+      "overall_quality_score": 100.0,
+      "rejection_summary": {}
+    }
+  ],
+  "referential_integrity": {
+    "status": "PASSED",
+    "total_relationship_rules_checked": 8,
+    "issues_count": 0,
+    "issues": [],
+    "referential_integrity_pct": 100.0
+  }
+}

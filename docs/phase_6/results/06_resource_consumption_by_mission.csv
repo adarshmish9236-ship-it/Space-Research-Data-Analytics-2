@@ -1,0 +1,21 @@
+m.mission_key,m.mission_name,m.mission_type,mission_status,consumable_lines,total_consumables_mass,total_consumable_cost_m_usd,m.duration_days
+MSN-2021-1504,Deep Discovery 505,Deep Space Astrophysics,Operational,14,2053.9,38.83,2982.0
+MSN-2015-1634,Earth Discovery 635,Earth Observation,Successful,10,1681.0,37.71,337.0
+MSN-2024-2017,Satellite Discovery 1018,Satellite Communications,Operational,12,1700.3,37.58,357.0
+MSN-2022-2219,Human Discovery 1220,Human Spaceflight,Successful,10,1384.4,34.3,918.0
+MSN-2012-2107,Deep Discovery 1108,Deep Space Astrophysics,In-Flight,13,2012.0,33.83,2051.0
+MSN-2013-1785,Planetary Discovery 786,Planetary Exploration,Completed,10,1478.4,33.75,1580.0
+MSN-2021-2167,Technology Discovery 1168,Technology Demonstration,Operational,13,1889.5,33.53,3058.0
+MSN-2026-1407,Satellite Discovery 408,Satellite Communications,Successful,9,1421.2,33.25,3178.0
+MSN-2014-1786,Space Discovery 787,Space Weather & Heliophysics,Operational,14,1937.1,32.97,2377.0
+MSN-2024-2034,Planetary Discovery 1035,Planetary Exploration,Successful,8,1203.6,32.85,1079.0
+MSN-2017-1245,Planetary Discovery 246,Planetary Exploration,Partial Failure,10,1680.2,32.45,2755.0
+MSN-2026-1492,Space Discovery 493,Space Weather & Heliophysics,Successful,11,1555.5,32.08,1875.0
+MSN-2026-1186,Human Discovery 187,Human Spaceflight,Completed,11,1915.5,32.03,2711.0
+MSN-2021-1606,Space Discovery 607,Space Weather & Heliophysics,Successful,13,1927.7,31.55,1598.0
+MSN-2010-1765,Human Discovery 766,Human Spaceflight,Operational,8,971.1,30.13,2669.0
+MSN-2025-1967,Earth Discovery 968,Earth Observation,Successful,9,1491.4,29.99,2712.0
+MSN-2010-1646,Deep Discovery 647,Deep Space Astrophysics,Operational,10,1393.6,29.78,983.0
+MSN-2010-1017,Satellite Discovery 18,Satellite Communications,Operational,8,890.4,29.76,2237.0
+MSN-2025-1746,Planetary Discovery 747,Planetary Exploration,Successful,8,1086.7,29.64,2205.0
+MSN-2025-2222,Satellite Discovery 1223,Satellite Communications,Successful,8,778.9,29.52,1942.0

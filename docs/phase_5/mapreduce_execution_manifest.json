@@ -1,0 +1,191 @@
+[
+  {
+    "job_id": "01",
+    "name": "01_equipment_demand",
+    "description": "Equipment Demand by Component with Combiner Optimization",
+    "status": "SUCCESS",
+    "exit_code": 0,
+    "duration_seconds": 21.12,
+    "yarn_application_id": "application_1794633145439_0061",
+    "mapreduce_job_id": "job_1794633145439_0061",
+    "counters": {
+      "map_input_records": 11312,
+      "map_output_records": 11312,
+      "combine_input_records": 11312,
+      "combine_output_records": 16,
+      "reduce_input_groups": 8,
+      "reduce_output_records": 8
+    },
+    "output_hdfs_path": "/orbitalytics/gold/mr_equipment_demand_by_component",
+    "output_record_count": 8,
+    "sample_records": [
+      "Radiation-Hardened Rad-750 Single Board Computers\t77563.0\t73250.0\t77514.0\t54.85\t376.1\t38571.79\t194.38\t1414",
+      "C-Band / X-Band Synthetic Aperture Radar (SAR) Antennas\t77548.0\t73388.0\t77327.0\t54.84\t410.9\t39566.71\t194.35\t1414",
+      "Cryogenic Titanium Propellant Tanks\t67668.0\t64139.0\t67601.0\t47.86\t251.4\t33465.35\t194.69\t1414"
+    ],
+    "log_file": "E:\\PROJECTS\\BDT\\docs\\phase_5\\logs\\01_equipment_demand.log",
+    "timestamp": "2026-11-14T14:40:02.430852"
+  },
+  {
+    "job_id": "02",
+    "name": "02_resource_consumption",
+    "description": "Resource Consumption by Year and Resource",
+    "status": "SUCCESS",
+    "exit_code": 0,
+    "duration_seconds": 21.15,
+    "yarn_application_id": "application_1794633145439_0062",
+    "mapreduce_job_id": "job_1794633145439_0062",
+    "counters": {
+      "map_input_records": 9898,
+      "map_output_records": 9898,
+      "combine_input_records": 0,
+      "combine_output_records": 0,
+      "reduce_input_groups": 119,
+      "reduce_output_records": 119
+    },
+    "output_hdfs_path": "/orbitalytics/gold/mr_resource_consumption_by_year",
+    "output_record_count": 119,
+    "sample_records": [
+      "2010\tRP-1 Highly Refined Kerosene\t9647.58\t12136.32\t12.1363\t114.85\t84",
+      "2010\tRadiation Shielding Tantalum & Tungsten Alloys\t3347.76\t158737.47\t158.7375\t39.85\t84",
+      "2011\tCryogenic Liquid Oxygen (LOX)\t10434.75\t8689.45\t8.6895\t124.22\t84"
+    ],
+    "log_file": "E:\\PROJECTS\\BDT\\docs\\phase_5\\logs\\02_resource_consumption.log",
+    "timestamp": "2026-11-14T14:40:27.518802"
+  },
+  {
+    "job_id": "03",
+    "name": "03_missions",
+    "description": "Space Missions Intelligence by Space Agency",
+    "status": "SUCCESS",
+    "exit_code": 0,
+    "duration_seconds": 22.37,
+    "yarn_application_id": "application_1794633145439_0063",
+    "mapreduce_job_id": "job_1794633145439_0063",
+    "counters": {
+      "map_input_records": 1500,
+      "map_output_records": 1500,
+      "combine_input_records": 0,
+      "combine_output_records": 0,
+      "reduce_input_groups": 7,
+      "reduce_output_records": 7
+    },
+    "output_hdfs_path": "/orbitalytics/gold/mr_missions_by_agency",
+    "output_record_count": 7,
+    "sample_records": [
+      "China National Space Administration\t211\t171\t81.04\t350676.86\t1661.98\t2040017.6\t9668.3\t78\t1906.7",
+      "Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab)\t209\t172\t82.30\t319344.40\t1527.96\t1904433.5\t9112.1\t57\t1752.8",
+      "Japan Aerospace Exploration Agency\t202\t168\t83.17\t325057.36\t1609.19\t1877468.9\t9294.4\t64\t1873.5"
+    ],
+    "log_file": "E:\\PROJECTS\\BDT\\docs\\phase_5\\logs\\03_missions.log",
+    "timestamp": "2026-11-14T14:40:53.717469"
+  },
+  {
+    "job_id": "04",
+    "name": "04_satellites",
+    "description": "Satellite Deployment Analytics by Orbit Type",
+    "status": "SUCCESS",
+    "exit_code": 0,
+    "duration_seconds": 20.87,
+    "yarn_application_id": "application_1794633145439_0064",
+    "mapreduce_job_id": "job_1794633145439_0064",
+    "counters": {
+      "map_input_records": 2400,
+      "map_output_records": 2400,
+      "combine_input_records": 0,
+      "combine_output_records": 0,
+      "reduce_input_groups": 6,
+      "reduce_output_records": 6
+    },
+    "output_hdfs_path": "/orbitalytics/gold/mr_satellites_by_orbit_type",
+    "output_record_count": 6,
+    "sample_records": [
+      "Deep Space / Lunar\t392\t62607.3\t49.09\t10.4\t1243858.7\t3173.1\t7462.1\t2925.13",
+      "GEO (Geostationary)\t399\t35786.0\t50.80\t10.4\t1347524.7\t3377.3\t7128.2\t2844.17",
+      "LEO (Low Earth Orbit)\t408\t550.0\t49.12\t10.8\t1354944.0\t3320.9\t7475.4\t3049.95"
+    ],
+    "log_file": "E:\\PROJECTS\\BDT\\docs\\phase_5\\logs\\04_satellites.log",
+    "timestamp": "2026-11-14T14:41:17.509417"
+  },
+  {
+    "job_id": "05",
+    "name": "05_launches",
+    "description": "Launch Activities by Year with Associative Combiner",
+    "status": "SUCCESS",
+    "exit_code": 0,
+    "duration_seconds": 20.43,
+    "yarn_application_id": "application_1794633145439_0065",
+    "mapreduce_job_id": "job_1794633145439_0065",
+    "counters": {
+      "map_input_records": 1200,
+      "map_output_records": 1200,
+      "combine_input_records": 1200,
+      "combine_output_records": 18,
+      "reduce_input_groups": 17,
+      "reduce_output_records": 17
+    },
+    "output_hdfs_path": "/orbitalytics/gold/mr_launches_by_year",
+    "output_record_count": 17,
+    "sample_records": [
+      "2010\t64\t60\t93.75\t45\t70.31\t6386.48\t99.79\t788176.1\t12315.3",
+      "2012\t77\t72\t93.51\t50\t64.94\t8443.62\t109.66\t899598.5\t11683.1",
+      "2014\t62\t55\t88.71\t46\t74.19\t6470.91\t104.37\t806079.5\t13001.3"
+    ],
+    "log_file": "E:\\PROJECTS\\BDT\\docs\\phase_5\\logs\\05_launches.log",
+    "timestamp": "2026-11-14T14:41:41.316474"
+  },
+  {
+    "job_id": "06",
+    "name": "06_manufacturing",
+    "description": "Manufacturing Quantity by Component Subsystem",
+    "status": "SUCCESS",
+    "exit_code": 0,
+    "duration_seconds": 20.8,
+    "yarn_application_id": "application_1794633145439_0066",
+    "mapreduce_job_id": "job_1794633145439_0066",
+    "counters": {
+      "map_input_records": 11312,
+      "map_output_records": 11312,
+      "combine_input_records": 0,
+      "combine_output_records": 0,
+      "reduce_input_groups": 8,
+      "reduce_output_records": 8
+    },
+    "output_hdfs_path": "/orbitalytics/gold/mr_manufacturing_by_component",
+    "output_record_count": 8,
+    "sample_records": [
+      "Radiation-Hardened Rad-750 Single Board Computers\t73250.0\t51.80\t706853.90\t706.8539\t1414",
+      "C-Band / X-Band Synthetic Aperture Radar (SAR) Antennas\t73388.0\t51.90\t714997.60\t714.9976\t1414",
+      "Cryogenic Titanium Propellant Tanks\t64139.0\t45.36\t698491.00\t698.4910\t1414"
+    ],
+    "log_file": "E:\\PROJECTS\\BDT\\docs\\phase_5\\logs\\06_manufacturing.log",
+    "timestamp": "2026-11-14T14:42:05.428404"
+  },
+  {
+    "job_id": "07",
+    "name": "07_research_investment",
+    "description": "Research & Infrastructure Investment by Agency and Year",
+    "status": "SUCCESS",
+    "exit_code": 0,
+    "duration_seconds": 21.04,
+    "yarn_application_id": "application_1794633145439_0067",
+    "mapreduce_job_id": "job_1794633145439_0067",
+    "counters": {
+      "map_input_records": 1414,
+      "map_output_records": 1414,
+      "combine_input_records": 0,
+      "combine_output_records": 0,
+      "reduce_input_groups": 119,
+      "reduce_output_records": 119
+    },
+    "output_hdfs_path": "/orbitalytics/gold/mr_research_investment_by_agency_year",
+    "output_record_count": 119,
+    "sample_records": [
+      "China National Space Administration\t2011\t1151.66\t671.79\t575.83\t2399.28\t48.00\t12",
+      "China National Space Administration\t2013\t1326.30\t773.66\t663.15\t2763.11\t48.00\t12",
+      "China National Space Administration\t2015\t1453.91\t848.09\t726.94\t3028.94\t48.00\t12"
+    ],
+    "log_file": "E:\\PROJECTS\\BDT\\docs\\phase_5\\logs\\07_research_investment.log",
+    "timestamp": "2026-11-14T14:42:30.250234"
+  }
+]

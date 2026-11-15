@@ -1,0 +1,8 @@
+a.agency_key,a.agency_name,a.country,total_missions,successful_missions,success_rate_pct,total_budget_m_usd,avg_mission_budget_m_usd,total_payload_mass_kg,total_crew_members
+AGY-003,Indian Space Research Organisation,International,232,190,81.9,379622.22,1636.3,2049501.1,75
+AGY-006,State Space Corporation Roscosmos,Russia,226,190,84.07,364536.43,1612.99,2175730.9,94
+AGY-001,National Aeronautics and Space Administration,International,220,190,86.36,356149.73,1618.86,2074682.3,88
+AGY-005,China National Space Administration,China,211,171,81.04,350676.86,1661.98,2040017.6,78
+AGY-007,Commercial Space Operators (SpaceX / Blue Origin / Rocket Lab),United States,209,172,82.3,319344.4,1527.96,1904433.5,57
+AGY-004,Japan Aerospace Exploration Agency,Japan,202,168,83.17,325057.36,1609.19,1877468.9,64
+AGY-002,European Space Agency,Europe,200,153,76.5,340756.61,1703.78,1773745.2,65
