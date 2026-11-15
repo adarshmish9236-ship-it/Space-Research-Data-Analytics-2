@@ -13,6 +13,7 @@ from app.api.v1.forecasting import router as forecasting_router
 from app.api.v1.optimization import router as optimization_router
 from app.api.v1.benchmarks import router as benchmarks_router
 from app.api.v1.reports import router as reports_router
+from app.api.v1.orbital import router as orbital_router
 
 api_v1_router = APIRouter()
 
@@ -24,3 +25,4 @@ api_v1_router.include_router(forecasting_router)
 api_v1_router.include_router(optimization_router)
 api_v1_router.include_router(benchmarks_router)
 api_v1_router.include_router(reports_router)
+api_v1_router.include_router(orbital_router)
