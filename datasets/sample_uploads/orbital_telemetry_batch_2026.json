@@ -1,0 +1,44 @@
+[
+  {
+    "norad_id": 99101,
+    "satellite_name": "ORBITALYTICS-PATHFINDER-1",
+    "orbit_class": "LEO",
+    "perigee_km": 510.5,
+    "apogee_km": 535.2,
+    "inclination_deg": 53.05,
+    "period_minutes": 95.1,
+    "launch_mass_kg": 260.0,
+    "operator": "Orbitalytics Consortium",
+    "status": "ACTIVE",
+    "operational_status": "Nominal Telemetry",
+    "frequency_band": "Ka-Band Optical Inter-Satellite"
+  },
+  {
+    "norad_id": 99102,
+    "satellite_name": "ORBITALYTICS-PATHFINDER-2",
+    "orbit_class": "SSO",
+    "perigee_km": 695.0,
+    "apogee_km": 705.0,
+    "inclination_deg": 98.2,
+    "period_minutes": 98.7,
+    "launch_mass_kg": 480.0,
+    "operator": "Orbitalytics Consortium",
+    "status": "ACTIVE",
+    "operational_status": "Earth Hyperspectral Sensor",
+    "frequency_band": "X-Band Downlink"
+  },
+  {
+    "norad_id": 99103,
+    "satellite_name": "ORBITALYTICS-GEO-RELAY-1",
+    "orbit_class": "GEO",
+    "perigee_km": 35780.0,
+    "apogee_km": 35792.0,
+    "inclination_deg": 0.05,
+    "period_minutes": 1436.1,
+    "launch_mass_kg": 3250.0,
+    "operator": "Orbitalytics Consortium",
+    "status": "ACTIVE",
+    "operational_status": "Deep Space Laser Relay",
+    "frequency_band": "Optical Laser ISL"
+  }
+]

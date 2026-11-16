@@ -168,9 +168,22 @@ class HiveService:
         ]
 
         self.query_alias_map = {
-            "agency_missions": "07_mission_counts_by_agency",
-            "equipment_demand_trend": "02_annual_demand_trend",
+            # UI Selector aliases (1 to 12)
+            "annual_missions_by_agency": "07_mission_counts_by_agency",
+            "launch_success_rates": "09_launch_activity_trends",
+            "satellite_deployment_trends": "08_satellite_deployment_by_orbit",
             "orbit_distribution": "08_satellite_deployment_by_orbit",
+            "equipment_demand_trend": "02_annual_demand_trend",
+            "resource_utilization_by_mission": "06_resource_consumption_by_mission",
+            "research_expenditure_by_agency": "11_research_expenditure_by_agency",
+            "infrastructure_expenditure_trends": "13_infrastructure_by_location",
+            "future_investments": "12_investment_by_year",
+            "demand_aggregation_for_forecasting": "01_total_demand_by_component",
+            "equipment_supply_demand_gap": "10_manufacturing_requirements_by_component",
+            "high_risk_resource_shortages": "05_resource_consumption_by_year",
+
+            # Legacy & direct aliases
+            "agency_missions": "07_mission_counts_by_agency",
             "launch_vehicles": "09_launch_activity_trends",
             "01": "01_total_demand_by_component",
             "02": "02_annual_demand_trend",

@@ -197,7 +197,8 @@ async def upload_dataset_file(
     if not file.filename:
         raise HTTPException(status_code=400, detail="No file provided")
 
-    filename = file.filename
+    filename = file.filename or "upload.bin"
+    content = await file.read()
     ext = Path(filename).suffix.lower()
     if ext not in [".csv", ".json", ".parquet"]:
         raise HTTPException(
@@ -205,7 +206,6 @@ async def upload_dataset_file(
             detail=f"Unsupported file format '{ext}'. Supported formats: .csv, .json, .parquet"
         )
 
-    content = await file.read()
     file_size = len(content)
     target_path = LANDING_ZONE / filename
     target_path.write_bytes(content)

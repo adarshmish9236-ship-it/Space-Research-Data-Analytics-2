@@ -64,7 +64,8 @@ const mockVec3 = (x,y,z) => ({
   normalize: function(){ return this; },
   multiplyScalar: function(){ return this; },
   lerp: function(){ return this; },
-  lerpVectors: function(){ return this; }
+  lerpVectors: function(){ return this; },
+  distanceTo: function(v){ return v ? Math.hypot(this.x-(v.x||0), this.y-(v.y||0), this.z-(v.z||0)) : 1; }
 });
 const mockMat = (opts) => ({
   uniforms: (opts&&opts.uniforms) ? opts.uniforms : {
@@ -73,7 +74,7 @@ const mockMat = (opts) => ({
   }
 });
 const mockMesh = (mat) => ({
-  position: mockVec3(), rotation:{y:0}, scale:{setScalar:()=>{}},
+  position: mockVec3(), rotation:{x:0, y:0, z:0}, scale:{setScalar:()=>{}},
   visible:true, lookAt:()=>{}, userData:{}, material: mat||mockMat()
 });
 global.THREE = {
@@ -97,6 +98,7 @@ global.THREE = {
   SphereGeometry: function(){ return {}; },
   BoxGeometry: function(){ return {}; },
   PlaneGeometry: function(){ return {}; },
+  CylinderGeometry: function(){ return {}; },
   BufferGeometry: function(){ return { setAttribute:()=>{}, setFromPoints:()=>({}) }; },
   BufferAttribute: function(){ return {}; },
   Points: function(){ return { visible:true }; },
@@ -104,6 +106,7 @@ global.THREE = {
   LineBasicMaterial: function(){ return {}; },
   LineLoop: function(){ return { visible:true }; },
   Line: function(){ return { visible:true }; },
+  LineSegments: function(){ return { visible:true }; },
   Mesh: function(geo,mat){ return mockMesh(mat); },
   MeshStandardMaterial: function(){ return {}; },
   MeshLambertMaterial: function(){ return {}; },
