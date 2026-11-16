@@ -5826,12 +5826,13 @@ MSN-2026-9005,Copernicus Sentinel-10 Ocean Altimetry,ESA (Europe),Earth Observat
         dayColor.rgb *= cloudShadow;
 
         // 5. Ocean Specular Blinn-Phong Glint & Water Fresnel
+        // Soft, photorealistic ocean reflectance without stark white blown-out glare
         float specMask = texture2D(specularMap, vUv).r;
         vec3 halfDir = normalize(sunDir + viewDir);
         float NdotH = max(dot(perturbedNorm, halfDir), 0.0);
-        float specHighlight = pow(NdotH, 52.0) * specMask * dayFactor;
-        float waterFresnel = pow(1.0 - max(dot(norm, viewDir), 0.0), 4.0) * specMask * 0.35;
-        vec3 oceanGlint = vec3(0.96, 0.98, 1.0) * (specHighlight * 1.9 + waterFresnel * max(NdotL, 0.0));
+        float specHighlight = pow(NdotH, 128.0) * specMask * dayFactor;
+        float waterFresnel = pow(1.0 - max(dot(norm, viewDir), 0.0), 5.0) * specMask * 0.12;
+        vec3 oceanGlint = vec3(0.55, 0.75, 0.95) * (specHighlight * 0.28 + waterFresnel * max(NdotL, 0.0) * 0.25);
 
         // 6. Rayleigh Aerial Atmospheric Veil across the day surface
         float surfaceRim = 1.0 - max(dot(norm, viewDir), 0.0);
